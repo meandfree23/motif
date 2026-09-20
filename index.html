@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MOTIF — Media Art Journal</title>
+<meta name="description" content="An independent journal of contemporary media art."/>
+<link rel="stylesheet" href="./style.css"/>
+</head>
+<body>
+<div class="site-frame">
+  <header class="journal-header">
+    <button class="wordmark" type="button" aria-label="MOTIF 최신 호" id="logoBtn">MOTIF</button>
+    <nav aria-label="주요 메뉴">
+      <button type="button" class="active" id="navLatest">Latest</button>
+      <button type="button" id="navFocus">Focus</button>
+      <button type="button" id="navArchive">Archive</button>
+    </nav>
+    <form class="journal-search" role="search" id="searchForm">
+      <input aria-label="검색어" placeholder="Search" id="searchInput"/>
+      <button type="submit" aria-label="검색">↗</button>
+    </form>
+  </header>
+  <main id="mainContent"></main>
+  <footer>
+    <span>MOTIF</span>
+    <span>Seoul · <span id="yearSpan"></span></span>
+  </footer>
+</div>
+<script src="./app.js"></script>
+</body>
+</html>
