@@ -13,7 +13,7 @@
           "url": "https://www.marcobarotti.com/Coral-Sonic-Resilience",
           "host": "marcobarotti.com",
           "description": "몰디브 페리두 섬 앞바다에 세라믹과 탄산칼슘으로 3D 프린트한 산호 모양 조형물을 가라앉히고, 내장된 스피커로 건강한 산호초의 실제 녹음된 소리를 계속 흘려보낸다. 팀 러몬트의 음향 생태학 연구에서 착안한 이 장치는 태양광 부표로만 전력을 얻으며, 소리를 미끼 삼아 죽어가는 군락에 물고기와 유생을 다시 불러들이려 한다.",
-          "image": null
+          "image": "https://freight.cargo.site/w/1200/i/a325bf7e13c729962004ee985ebbd83a021c4fd774bfd307e02ebfd8928cbec6/DSC04371.jpg"
         },
         {
           "title": "베라 게르트너 — 라이브 프롬 플라스티스피어",
@@ -23,7 +23,7 @@
           "url": "https://www.cityofmediaarts.de/en/kuenstler/vera-gaertner/",
           "host": "cityofmediaarts.de",
           "description": "칼스루에를 관통하는 알브 강의 미세플라스틱을 주사전자현미경으로 촬영해 대형 이미지로 확대했다. 박물관 쇼윈도와 어도 옆에 걸린 이 이미지들은 눈에 보이지 않던 오염 입자를 실제 크기 감각으로 되돌려놓으며, 강이라는 익숙한 풍경 아래 다른 스케일이 있음을 드러낸다.",
-          "image": null
+          "image": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Live-from-Plastisphere_01-300x300.jpg"
         },
         {
           "title": "앙투안 베르탱 — 555 헤르츠",
@@ -33,7 +33,7 @@
           "url": "https://www.cityofmediaarts.de/en/kuenstler/antoine-bertin/",
           "host": "cityofmediaarts.de",
           "description": "전 세계 삼림 벌채 통계를 분당 박자수로 환산해 여러 대의 메트로놈이 두드리고 빛을 내도록 만든 설치다. 슐로스가르텐 정원에 놓인 이 장치는 숫자로만 존재하던 손실을, 시간이 흐르며 몸으로 감지할 수 있는 리듬과 빛의 신호로 바꾼다.",
-          "image": null
+          "image": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/555Hz_03-300x300.jpg"
         },
         {
           "title": "루실 슈뵈러메르츠 — 메테오 플럭스",
@@ -43,7 +43,7 @@
           "url": "https://www.cityofmediaarts.de/en/kuenstler/lucile-schwoerer-merz/",
           "host": "cityofmediaarts.de",
           "description": "실시간 기상 데이터를 40년 평균값과 비교해 그 편차를 소리와 빛으로 들려주는 인터랙티브 사운드 설치다. 날씨와 관람객의 움직임에 따라 형태가 계속 바뀌기 때문에, 기후라는 추상적 변화가 매 순간 다른 청각적 사건으로 번역된다.",
-          "image": null
+          "image": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Meteoflux_01-300x300.jpg"
         }
       ]
     },
@@ -2081,5 +2081,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-20T22:02:01.154Z"
+  "generatedAt": "2026-09-21T02:54:31.194Z"
 }
