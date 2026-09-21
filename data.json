@@ -61,20 +61,22 @@
           "originalTitle": "Ars Electronica Festival 2026 — Sybil",
           "creator": "Ars Electronica",
           "publishedAt": "2026.09",
-          "url": "https://ars.electronica.art/negotiatinghumanity/en/",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3",
           "host": "ars.electronica.art",
           "description": "관객이 모래에 막대기로 남긴 흔적을 카메라가 로봇의 toolpath로 변환하고, UR10e 로봇팔이 씨앗이 담긴 그물에 물을 분사한다. 며칠이 지나 그 물의 경로를 따라 실제 식물이 발아하며, 작품의 진짜 스크린은 화면이 아니라 시간이 된다.",
-          "image": null
+          "image": "images/2026-09-20-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_sybil-concept_image.jpg"
         },
         {
           "title": "Ars Electronica — 얽힌 풍경",
           "originalTitle": "Ars Electronica Festival 2026 — Entangled Landscape",
           "creator": "Ars Electronica",
           "publishedAt": "2026.09",
-          "url": "https://ars.electronica.art/negotiatinghumanity/en/",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/entangled-landscape-3a938ddb450c81e7b64bd6fb784dd948",
           "host": "ars.electronica.art",
           "description": "벨기에 사우스웨스트플랑드르의 실제 토양 데이터를 받아 균근균과 식물 뿌리 사이의 상호작용을 계산 시스템으로 옮긴 작업이다. 관객은 혼합현실을 통해 평소 지각할 수 없는 지하 생태 관계를 경험한다.",
-          "image": null
+          "image": "images/2026-09-20-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/09/unbenannt_-_09._september_2026_um_14.11.31_286329.jpeg"
         },
         {
           "title": "Ars Electronica Futurelab — 신택트",
@@ -84,7 +86,8 @@
           "url": "https://ars.electronica.art/futurelab/en/syntact/",
           "host": "ars.electronica.art",
           "description": "식물·로봇·인간을 하나의 협업 구조에 놓고 접촉을 공통 커뮤니케이션 방식으로 탐구한 작업이다. 인간과 기계 사이의 오래된 인터랙션 구조가, 인간·식물·기계가 나란히 있는 구조로 바뀐다.",
-          "image": null
+          "image": "images/2026-09-20-03.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/07/syntact_c_susanne-kiesenhofer_04-1491x1000.jpg"
         }
       ]
     },
@@ -101,7 +104,8 @@
           "url": "https://www.giff.ch/en/film/mirror-to-the-soul/",
           "host": "giff.ch",
           "description": "관람객이 자기 안의 여러 페르소나를 통과하도록 설계된 다감각 물리적 경험이다. 정교한 기술적 지원과 효과는 경험을 지배하지 않고 은은하게 보조하는 데 그쳐, 기술보다 자아의 여러 얼굴 자체가 중심에 남는다.",
-          "image": null
+          "image": "images/2026-09-19-01.jpg",
+          "imageFallback": "https://www.giff.ch/wp-content/uploads/2026/06/reseaux_2026_1920.webp"
         }
       ]
     },
@@ -135,7 +139,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/noise-of-war-39938ddb450c81fc8930d09b0a2ec08e",
           "host": "ars.electronica.art",
           "description": "두 차례 세계대전 당시 탄약으로 녹여진 납·주석 파이프를 대신한 아연 파이프 오르간의 음색을 들려주는 참여형 사운드 설치다. 관객이 다가서면 전자기장이 공기 흐름을 바꾸며 거친 소음이 여린 배음으로 바뀌고, 사라진 금속의 역사가 다시 공기 중에 새겨진다.",
-          "image": null
+          "image": "images/2026-09-17-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_noise_of_war_heike_kaltenbrunner_2.jpg"
         }
       ]
     },
@@ -152,7 +157,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/samsara-of-blossom-resonance-39d38ddb450c8148aa6de01eede743e2",
           "host": "ars.electronica.art",
           "description": "한국 전통무용에 뿌리를 둔 몸짓과 미디어아트를 결합한 첫 협업작이다. 무용수의 호흡·리듬·움직임이 만드는, 눈에 잘 보이지 않던 미학을 실시간 영상 반응으로 드러낸다.",
-          "image": null
+          "image": "images/2026-09-16-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_jajack-movemet_samsara-of-blossom-2_b.jpg"
         },
         {
           "title": "서보람 — 스마트 스킨 팜",
@@ -162,7 +168,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/smart-skin-farm-38b38ddb450c8123adb9e450242d00bf",
           "host": "ars.electronica.art",
           "description": "가상의 피부 상점이자 사변적 생산 시설로, 개인 데이터를 발효차·미생물·바이오레더로 변환한다. 생체 정보와 비인간 생명체를 연결해, 데이터와 몸 모두가 자본주의 체계 안에서 자원으로 취급되는 방식을 보여준다.",
-          "image": null
+          "image": "images/2026-09-16-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_smart-skin-farm-2-a-courtesy-of-zer01ne.jpg"
         }
       ]
     },
@@ -189,7 +196,8 @@
           "url": "https://sarahrothberg.com/FOREVER-MEETINGS",
           "host": "sarahrothberg.com",
           "description": "오프라인으로 구동되는 AI 아바타 두 개가 서로 대립하는 페르소나를 부여받아 끝없이 대화하는 설치작이다. 프롬프트가 계속 갱신되며 대화는 결코 결론에 도달하지 않고, 로컬에 저장된 모델이 학습 당시의 언어 습관을 타임캡슐처럼 반복 재생한다.",
-          "image": null
+          "image": "images/2026-09-15-02.jpg",
+          "imageFallback": "https://freight.cargo.site/w/1200/i/fd49d656521e6b06208abcae79bc8ff174a90a83f401b651d647047868f6f620/FOREVER-MEETINGS_Bitforms-Gallery_23649-2_5000px_300dpi.jpg"
         }
       ]
     },
@@ -1477,7 +1485,8 @@
           "url": "https://village-numerique.mutek.org/en/circuit/jeux-de-lumiere-par-marie-leblanc-flanagan-et-societe-des-arts-technologiques",
           "host": "village-numerique.mutek.org",
           "description": "거리의 관객을 모션 캡처해 여러 개의 모터 구동 광선으로 번역한다. 몸을 기울이고 움직일 때마다 공공 공간의 빛 구조가 함께 변하는 월드 프리미어 설치.",
-          "image": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/JEUX-DE-LUMIERE-MARIE-LE-BLANC-FLAGNAN-SAT/_1200x630_crop_center-center_82_none/14149/Jeux-de-lumieres_credit-Societe-des-arts-technologiques.jpg?mtime=1783709579"
+          "image": "images/2026-08-30-02.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/JEUX-DE-LUMIERE-MARIE-LE-BLANC-FLAGNAGAN-SAT/_1200x630_crop_center-center_82_none/14149/Jeux-de-lumieres_credit-Societe-des-arts-technologiques.jpg?mtime=1783709579"
         },
         {
           "title": "Alice Jarry 외 — 포실레이션",
@@ -1509,7 +1518,8 @@
           "url": "https://village-numerique.mutek.org/en/circuit/solstice-par-ottomata",
           "host": "village-numerique.mutek.org",
           "description": "관객의 움직임과 춤이 LED 소용돌이의 밝기와 흐름을 깨운다. 불과 태양의 색채가 개인의 제스처에서 집단적 에너지로 축적되는 인터랙티브 설치.",
-          "image": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/SOLSTICE/_1440x9999_fit_center-center_99_none/SOLSTICE-by-Ottomata_-Luz-Montero.jpg"
+          "image": "images/2026-08-30-05.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/2026/_1200x630_crop_center-center_82_none/VN_1920X1080.png?mtime=1783966382"
         },
         {
           "title": "Myriam Bleau — 언폴드",
@@ -1924,7 +1934,8 @@
           "url": "https://abduzeedo.com/acropora-sensory-dive-art-and-exhibition-design",
           "host": "abduzeedo.com",
           "description": "북마크 사이트 과거 자료 · 2024",
-          "image": null
+          "image": "images/2026-08-24-01.jpg",
+          "imageFallback": "https://cms.abduzeedo.com/sites/default/files/originals/hero_acropora_1.jpg"
         },
         {
           "title": "processing… Art and Advanced Technologies at Serpentine",
@@ -1989,7 +2000,8 @@
           "url": "https://www.lapa.ninja/video/post/robertborghesi/",
           "host": "lapa.ninja",
           "description": "Hey there. I'm Robert and I'm a creative developer. I've been in the industry since 2018 and I work in the intersection between generative art and creative coding with some sparkles of web3 on top. I've been working with top notch clients in the likes of Gucci, Google, Adidas, Longines, Valentino, LG, Sap, MaxMara, Metamask, Blitz and creative agencies as Immersive Garden, OddCommon, Demodern, Outpost, Wildlife, DotD",
-          "image": "https://cdn.lapa.ninja/assets/videos-poster/robertborghesi-thumb.webp"
+          "image": null,
+          "imageFallback": "https://cdn.lapa.ninja/assets/videos-poster/robertborghesi-thumb.webp"
         },
         {
           "title": "럭셔리 향수 AI 커머셜 | 원활한 영화적 경험",
@@ -2127,7 +2139,8 @@
           "url": "https://www.fuseworks.it/artworks",
           "host": "fuseworks.it",
           "description": "역사적 식물 삽화를 머신러닝으로 학습해 새로운 식물 이미지를 생성한 프로젝트.",
-          "image": "https://cdn.fuseworks.it/cdn-cgi/image/h=630,q=80/https://admin.fuseworks.it/uploads/Luna_Verona_3.jpg"
+          "image": null,
+          "imageFallback": "https://cdn.fuseworks.it/cdn-cgi/image/h=630,q=80/https://admin.fuseworks.it/uploads/Luna_Verona_3.jpg"
         },
         {
           "title": "화이트 캔버스",
@@ -2148,7 +2161,8 @@
           "url": "https://www.illuminarium.com/",
           "host": "illuminarium.com",
           "description": "벽과 바닥의 대형 프로젝션·공간 음향·감각 효과로 구성한 몰입형 사파리 경험.",
-          "image": null
+          "image": "images/2026-08-23-11.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/63509b507fd4515d9fa6570e/664df440bfb380701b0a1365_662fe3ebb2c1cf690b8c4633_Illuminarium-Experiences-Outside-Venue-scaled.avif"
         },
         {
           "title": "보레알 헤일로",
@@ -2158,7 +2172,8 @@
           "url": "https://vincentleroy.com/",
           "host": "vincentleroy.com",
           "description": "느리게 움직이는 대형 링과 반사광이 건축 공간의 시간 감각을 바꾸는 키네틱 작업.",
-          "image": null
+          "image": "images/2026-08-23-12.jpg",
+          "imageFallback": "https://freight.cargo.site/w/1844/q/94/i/64b573ae9078f3351f871a5166ae3927ebac072b98f85c78d7dbf05f994f2f14/2vincent-leroy-300dpi-2.jpg"
         },
         {
           "title": "MUTEK 2026의 비주얼 월드는 어떻게 만들어졌나",
@@ -2201,7 +2216,8 @@
           "url": "https://www.creativeapplications.net/member-submissions/a-drop-of-light-structured-light-laboratory-sll/",
           "host": "creativeapplications.net",
           "description": "TouchDesigner와 홀로그램 광학 장치, 음성 주파수를 연결해 원격 공간 사이의 반응형 설치를 구축한 제작 사례.",
-          "image": null
+          "image": "images/2026-08-23-16.jpg",
+          "imageFallback": "https://www.creativeapplications.net/wp-content/uploads/2023/12/A-Drop-of-Light.jpg"
         },
         {
           "title": "Lisa Mizuno & MISOLA: 사운드에 반응하는 즉흥 비주얼",
@@ -2250,5 +2266,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-21T03:08:03.001Z"
+  "generatedAt": "2026-09-21T03:18:29.059Z"
 }
