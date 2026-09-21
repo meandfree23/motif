@@ -10,6 +10,7 @@
   const logoBtn = document.getElementById('logoBtn');
 
   let DATA = { issues: [] };
+  function safePush(url) { try { history.pushState({}, '', url); } catch (e) { /* e.g. data:/file: origins */ } }
   let currentView = 'latest';
   let currentDate = null;
 
@@ -105,6 +106,12 @@
           <p>${escapeHtml(label)}</p>
           <h1 title="${escapeHtml(issue.title)}">${escapeHtml(issue.title)}</h1>
         </header>
+        ${issue.focus && focusItem(issue) ? `
+          <a href="#" class="focus-banner" data-open-focus="${escapeHtml(issue.date)}">
+            <span>Focus</span>
+            <strong>${escapeHtml(issue.focus.headline || focusItem(issue).title)}</strong>
+            <em>${escapeHtml(focusItem(issue).title)} · 심층 읽기 →</em>
+          </a>` : ''}
         ${items.length ? `
           ${renderLeadStory(items[0])}
           <div class="story-grid">
@@ -112,6 +119,13 @@
           </div>
         ` : '<div class="empty-state"><p>표시할 항목이 없습니다.</p></div>'}
       </section>`;
+    const fb = main.querySelector('[data-open-focus]');
+    if (fb) fb.addEventListener('click', (e) => {
+      e.preventDefault();
+      currentView = 'focus'; currentDate = issue.date;
+      safePush(location.pathname + '?view=focus&date=' + issue.date);
+      render(); window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
   }
 
   function renderArchiveView() {
@@ -139,29 +153,94 @@
     });
   }
 
+  // ---- Focus: one in-depth reading per issue (issue.focus = { itemIndex, headline, sections[], keywords[], sources[] })
+  function focusItem(issue) {
+    if (!issue || !issue.focus) return null;
+    const it = (issue.items || [])[issue.focus.itemIndex];
+    return it || null;
+  }
+
   function renderFocusView() {
-    // Focus view: show each issue's lead item as a "focus" pick, newest first
-    const issues = DATA.issues;
+    const issues = DATA.issues.filter(i => focusItem(i));
     main.innerHTML = `
-      <section class="archive-view">
-        <header class="page-title"><p>MOTIF</p><h1>Focus</h1></header>
-        <div class="archive-list">
-          ${issues.filter(i => i.items && i.items[0]).map((issue, i) => `
+      <section class="focus-archive focus-index">
+        <header>
+          <p>Focus</p>
+          <h2>매일의 리서치 가운데 한 작업을 골라 깊게 읽는다. 왜 지금 이 작업인지, 매체가 어떻게 작동하는지, 어떤 계보 위에 있는지, 그리고 연출자가 가져갈 수 있는 것은 무엇인지.</h2>
+        </header>
+        ${issues.length ? `<div class="focus-archive-list">
+          ${issues.map((issue, i) => { const it = focusItem(issue); return `
             <button type="button" data-date="${escapeHtml(issue.date)}">
               <span>${String(i + 1).padStart(2, '0')}</span>
-              <strong>${escapeHtml(fmtDate(issue.date, true))}</strong>
-              <em>${escapeHtml(issue.items[0].title)}</em>
-            </button>`).join('')}
-        </div>
+              <time>${escapeHtml(fmtDate(issue.date, true))}</time>
+              <div class="focus-archive-image">${it.image ? `<img src="${escapeHtml(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<i>${escapeHtml(it.host || '')}</i>'"/>` : `<i>${escapeHtml(it.host || '')}</i>`}</div>
+              <div class="focus-archive-copy">
+                <strong>${escapeHtml(it.title)}</strong>
+                <em>${escapeHtml(issue.focus.headline || '')}</em>
+              </div>
+              <small>${escapeHtml(it.creator || '')}</small>
+              <b>→</b>
+            </button>`; }).join('')}
+        </div>` : '<div class="empty-state"><p>아직 작성된 Focus가 없습니다.</p></div>'}
       </section>`;
-    main.querySelectorAll('.archive-list button').forEach(btn => {
+    main.querySelectorAll('.focus-archive-list button').forEach(btn => {
       btn.addEventListener('click', () => {
-        currentView = 'latest';
+        currentView = 'focus';
         currentDate = btn.getAttribute('data-date');
-        setActiveNav();
-        renderIssueView(currentDate);
+        safePush(location.pathname + '?view=focus&date=' + currentDate);
+        render();
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
+    });
+  }
+
+  function renderFocusArticle(date) {
+    const issue = findIssue(date);
+    const it = focusItem(issue);
+    if (!it) { renderFocusView(); return; }
+    const f = issue.focus;
+    main.innerHTML = `
+      <section class="issue-view focus-article">
+        <header class="page-title">
+          <p>Focus · ${escapeHtml(fmtDate(issue.date, true))}</p>
+          <h1 title="${escapeHtml(f.headline || it.title)}">${escapeHtml(f.headline || it.title)}</h1>
+        </header>
+        <article class="lead-story">
+          <a class="lead-image" href="${escapeHtml(it.url)}" target="_blank" rel="noreferrer" aria-label="${escapeHtml(it.title)} 원문 보기">
+            ${imageOrFallback(it, true)}
+          </a>
+          <div class="lead-copy">
+            <p class="source-name">${escapeHtml(it.host || '')}</p>
+            <h2><a href="${escapeHtml(it.url)}" target="_blank" rel="noreferrer">${escapeHtml(it.title)}</a></h2>
+            ${it.originalTitle ? `<p class="original-title">${escapeHtml(it.originalTitle)}</p>` : ''}
+            ${renderStoryMeta(it)}
+            ${it.description ? `<p class="story-description">${escapeHtml(it.description)}</p>` : ''}
+            ${(f.keywords && f.keywords.length) ? `<p class="focus-keywords">${f.keywords.map(k => `<span>${escapeHtml(k)}</span>`).join('')}</p>` : ''}
+            <a class="read-link" href="${escapeHtml(it.url)}" target="_blank" rel="noreferrer">View original</a>
+          </div>
+        </article>
+        <div class="focus-sections">
+          ${(f.sections || []).map((s, i) => `
+            <section class="focus-section">
+              <p class="focus-section-index">${String(i + 1).padStart(2, '0')}</p>
+              <h3>${escapeHtml(s.heading)}</h3>
+              <p>${escapeHtml(s.body)}</p>
+            </section>`).join('')}
+        </div>
+        <footer class="feature-source">
+          <div>
+            <p>Sources</p>
+            ${(f.sources || []).map(s => `<p><a href="${escapeHtml(s.url)}" target="_blank" rel="noreferrer">${escapeHtml(s.label || s.url)}</a></p>`).join('')}
+          </div>
+          <p><a href="#" data-open-issue="${escapeHtml(issue.date)}">이 날의 전체 리서치 보기 →</a></p>
+        </footer>
+      </section>`;
+    const back = main.querySelector('[data-open-issue]');
+    if (back) back.addEventListener('click', (e) => {
+      e.preventDefault();
+      currentView = 'latest'; currentDate = issue.date;
+      safePush(location.pathname + '?date=' + issue.date);
+      render(); window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   }
 
@@ -174,30 +253,33 @@
   function render() {
     setActiveNav();
     if (currentView === 'archive') renderArchiveView();
-    else if (currentView === 'focus') renderFocusView();
+    else if (currentView === 'focus') { if (currentDate) renderFocusArticle(currentDate); else renderFocusView(); }
     else renderIssueView(currentDate, currentDate ? null : 'Latest');
   }
 
   navLatest.addEventListener('click', () => {
     currentView = 'latest';
     currentDate = null;
-    history.pushState({}, '', location.pathname);
+    safePush(location.pathname);
     render();
   });
   navFocus.addEventListener('click', () => {
     currentView = 'focus';
-    history.pushState({}, '', location.pathname + '?view=focus');
+    currentDate = null;
+    safePush(location.pathname + '?view=focus');
     render();
   });
+  window.addEventListener('popstate', () => { initFromUrl(); render(); });
   navArchive.addEventListener('click', () => {
     currentView = 'archive';
-    history.pushState({}, '', location.pathname + '?view=archive');
+    currentDate = null;
+    safePush(location.pathname + '?view=archive');
     render();
   });
   logoBtn.addEventListener('click', () => {
     currentView = 'latest';
     currentDate = null;
-    history.pushState({}, '', location.pathname);
+    safePush(location.pathname);
     render();
   });
 
