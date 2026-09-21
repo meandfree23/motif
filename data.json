@@ -13,7 +13,8 @@
           "url": "https://www.marcobarotti.com/Coral-Sonic-Resilience",
           "host": "marcobarotti.com",
           "description": "몰디브 페리두 섬 앞바다에 세라믹과 탄산칼슘으로 3D 프린트한 산호 모양 조형물을 가라앉히고, 내장된 스피커로 건강한 산호초의 실제 녹음된 소리를 계속 흘려보낸다. 팀 러몬트의 음향 생태학 연구에서 착안한 이 장치는 태양광 부표로만 전력을 얻으며, 소리를 미끼 삼아 죽어가는 군락에 물고기와 유생을 다시 불러들이려 한다.",
-          "image": "https://freight.cargo.site/w/1200/i/a325bf7e13c729962004ee985ebbd83a021c4fd774bfd307e02ebfd8928cbec6/DSC04371.jpg"
+          "image": "images/2026-09-21-01.jpg",
+          "imageFallback": "https://freight.cargo.site/w/1200/i/a325bf7e13c729962004ee985ebbd83a021c4fd774bfd307e02ebfd8928cbec6/DSC04371.jpg"
         },
         {
           "title": "베라 게르트너 — 라이브 프롬 플라스티스피어",
@@ -23,7 +24,8 @@
           "url": "https://www.cityofmediaarts.de/en/kuenstler/vera-gaertner/",
           "host": "cityofmediaarts.de",
           "description": "칼스루에를 관통하는 알브 강의 미세플라스틱을 주사전자현미경으로 촬영해 대형 이미지로 확대했다. 박물관 쇼윈도와 어도 옆에 걸린 이 이미지들은 눈에 보이지 않던 오염 입자를 실제 크기 감각으로 되돌려놓으며, 강이라는 익숙한 풍경 아래 다른 스케일이 있음을 드러낸다.",
-          "image": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Live-from-Plastisphere_01-300x300.jpg"
+          "image": "images/2026-09-21-02.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Live-from-Plastisphere_01-300x300.jpg"
         },
         {
           "title": "앙투안 베르탱 — 555 헤르츠",
@@ -33,7 +35,8 @@
           "url": "https://www.cityofmediaarts.de/en/kuenstler/antoine-bertin/",
           "host": "cityofmediaarts.de",
           "description": "전 세계 삼림 벌채 통계를 분당 박자수로 환산해 여러 대의 메트로놈이 두드리고 빛을 내도록 만든 설치다. 슐로스가르텐 정원에 놓인 이 장치는 숫자로만 존재하던 손실을, 시간이 흐르며 몸으로 감지할 수 있는 리듬과 빛의 신호로 바꾼다.",
-          "image": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/555Hz_03-300x300.jpg"
+          "image": "images/2026-09-21-03.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/555Hz_03-300x300.jpg"
         },
         {
           "title": "루실 슈뵈러메르츠 — 메테오 플럭스",
@@ -43,7 +46,8 @@
           "url": "https://www.cityofmediaarts.de/en/kuenstler/lucile-schwoerer-merz/",
           "host": "cityofmediaarts.de",
           "description": "실시간 기상 데이터를 40년 평균값과 비교해 그 편차를 소리와 빛으로 들려주는 인터랙티브 사운드 설치다. 날씨와 관람객의 움직임에 따라 형태가 계속 바뀌기 때문에, 기후라는 추상적 변화가 매 순간 다른 청각적 사건으로 번역된다.",
-          "image": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Meteoflux_01-300x300.jpg"
+          "image": "images/2026-09-21-04.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Meteoflux_01-300x300.jpg"
         }
       ]
     },
@@ -202,7 +206,8 @@
           "url": "https://vimeo.com/1192311978",
           "host": "vimeo.com",
           "description": "1988년부터 2026년까지의 작업과 설치 기록을 15개 프로젝션, 10개 화면, 60개 소형 모니터와 20개 음원으로 다시 배열한 몰입형 설치다. 관객은 완성작의 연대기 대신 서로 다른 데이터와 물질이 동시에 열려 있는 스튜디오형 아카이브를 걷는다.",
-          "image": "https://vumbnail.com/1192311978.jpg"
+          "image": "images/2026-09-14-01.jpg",
+          "imageFallback": "https://vumbnail.com/1192311978.jpg"
         },
         {
           "title": "웨 화 — 무제 2026",
@@ -212,7 +217,8 @@
           "url": "https://vimeo.com/1176625152",
           "host": "vimeo.com",
           "description": "대중교통 영상을 기억의 재료로 삼는 단일 채널 생성 설치다. 관객이 버튼을 누를 때마다 새로운 클립이 만들어지고, 이전 이미지 위에 겹쳐진 뒤 서서히 지워지며 선택·반복·망각의 흔적을 화면에 축적한다.",
-          "image": "https://vumbnail.com/1176625152.jpg"
+          "image": "images/2026-09-14-02.jpg",
+          "imageFallback": "https://vumbnail.com/1176625152.jpg"
         },
         {
           "title": "시릴 그펠러 — 씨 유",
@@ -222,7 +228,8 @@
           "url": "https://vimeo.com/1161737761",
           "host": "vimeo.com",
           "description": "스위스 빌의 공공 공간에서 실시간 라이다가 행인의 위치를 읽고, 프로시저럴 눈동자가 그 움직임을 따라간다. 자전거와 보행자처럼 예측하기 어려운 거리의 흐름이 작품의 시선과 속도를 계속 바꾼다.",
-          "image": "https://vumbnail.com/1161737761.jpg"
+          "image": "images/2026-09-14-03.jpg",
+          "imageFallback": "https://vumbnail.com/1161737761.jpg"
         },
         {
           "title": "다니엘 마르틴스·에마 페헤이라 — 프로스테틱 피드백",
@@ -232,7 +239,8 @@
           "url": "https://vimeo.com/1186501516",
           "host": "vimeo.com",
           "description": "관객의 몸과 전시 공간이 실시간 영상·음향 증폭을 통해 서로를 연속적으로 변화시키는 인터랙티브 설치다. 사람이 없을 때도 생성 상태를 유지하고, 참여자가 들어오면 공간의 출력이 다시 신체 감각의 입력으로 돌아온다.",
-          "image": "https://vumbnail.com/1186501516.jpg"
+          "image": "images/2026-09-14-04.jpg",
+          "imageFallback": "https://vumbnail.com/1186501516.jpg"
         },
         {
           "title": "웨이란 야오 — 울트라어라운드",
@@ -242,7 +250,8 @@
           "url": "https://vimeo.com/1218664676",
           "host": "vimeo.com",
           "description": "리야드의 표면과 이동, 대기 조건이 남기는 흔적을 현장 사진, 실리콘 캐스트, 채집 표본과 생성 영상으로 연결한 가상의 도시 병리학 연구소다. 아홉 개 관찰 단위가 접촉·이동·확산의 관계로 다시 배열된다.",
-          "image": "https://vumbnail.com/1218664676.jpg"
+          "image": "images/2026-09-14-05.jpg",
+          "imageFallback": "https://vumbnail.com/1218664676.jpg"
         },
         {
           "title": "코리 프랜시스 파크스 외 — 스크러폴로지",
@@ -252,7 +261,8 @@
           "url": "https://vimeo.com/1160522342",
           "host": "vimeo.com",
           "description": "1982년부터 덧칠된 빈의 합법 그래피티 벽을 물리적으로 벗겨 촬영한 뒤, 그 색층을 스톱모션 투사로 되살린다. 힐데스하임의 실제 그래피티 벽 맞은편 지하차도에서 과거 작가들의 부분적 흔적이 다시 움직인다.",
-          "image": "https://vumbnail.com/1160522342.jpg"
+          "image": "images/2026-09-14-06.jpg",
+          "imageFallback": "https://vumbnail.com/1160522342.jpg"
         },
         {
           "title": "디스트릭트 — 헬로 피시",
@@ -262,7 +272,8 @@
           "url": "https://vimeo.com/1223266600",
           "host": "vimeo.com",
           "description": "서울 코엑스 K-POP 스퀘어의 대형 미디어 파사드에 195개국 60여 언어의 인사를 몸에 새긴 수만 마리 물고기가 하나의 흐름을 만든다. 낮의 환영 장면과 밤의 음악 연동 라이트 쇼가 같은 도시 화면의 두 상태로 전환된다.",
-          "image": "https://vumbnail.com/1223266600.jpg"
+          "image": "images/2026-09-14-07.jpg",
+          "imageFallback": "https://vumbnail.com/1223266600.jpg"
         }
       ]
     },
@@ -279,7 +290,8 @@
           "url": "https://transmediale.de/en/2026/artwork/deera-world",
           "host": "transmediale.de",
           "description": "동아프리카 스와힐리 해안에서 존중과 욕망, 저항을 동시에 숨겨 온 느슨한 의복 디라를 자동판매기형 조각으로 다시 배치한다. 압축 포장된 옷이 기계에서 실제로 배출되며 직물의 계절적 이동과 비공식 교환망을 상업 유통의 형식 안에서 비튼다.",
-          "image": "https://data.transmediale.de/assets/_1200xAUTO_crop_center-center_none/tm26_KathleenBomani_Deera_World_Interactive_Installation_silentgreen_Photoby_MirkaPflueger00002.jpg"
+          "image": "images/2026-09-13-01.jpg",
+          "imageFallback": "https://data.transmediale.de/assets/_1200xAUTO_crop_center-center_none/tm26_KathleenBomani_Deera_World_Interactive_Installation_silentgreen_Photoby_MirkaPflueger00002.jpg"
         },
         {
           "title": "니콜 륄리에 — 리허설 룸",
@@ -289,7 +301,8 @@
           "url": "https://scheringstiftung.de/en/projektraum/nicole-lhuillier-rehearsal-room/",
           "host": "scheringstiftung.de",
           "description": "디지털 생성음, 사람의 목소리, 현장 녹음과 진동 장치를 결합해 전시장을 수면 실험실이자 집단 꿈 연습실로 만든다. 방문자의 심박과 뇌 활동이 안정된 주파수에 동조하도록 설계된 음향장이 휴식과 상상 사이의 문턱을 공간으로 구성한다.",
-          "image": "https://www.art-in-berlin.de/upl/gr/300lhuillier26041.jpg"
+          "image": "images/2026-09-13-02.jpg",
+          "imageFallback": "https://www.art-in-berlin.de/upl/gr/300lhuillier26041.jpg"
         },
         {
           "title": "디멘션 플러스 — 무빙 플러스: 프롬프트로서의 세계",
@@ -299,7 +312,8 @@
           "url": "https://tokyo.mutek.org/en/artists/dimension-plus",
           "host": "tokyo.mutek.org",
           "description": "소설가 뤄이쥔의 낭독, 레인트리 1969의 콜라주, 퍼포머의 움직임과 빛을 실시간 AI 시각 시스템에 함께 입력한다. 말과 몸에서 들어온 서로 다른 신호가 동적 이미지로 계속 재조합되며 하나의 세계가 단일 프롬프트가 아니라 여러 매체의 교차로에서 생기는 과정을 보여준다.",
-          "image": "https://uc.udn.com.tw/photo/2025/11/06/realtime/33589156.jpeg"
+          "image": "images/2026-09-13-03.jpg",
+          "imageFallback": "https://uc.udn.com.tw/photo/2025/11/06/realtime/33589156.jpeg"
         },
         {
           "title": "블룸 스튜디오 — 트리 오브 라이프",
@@ -309,7 +323,8 @@
           "url": "https://hirshhorn.si.edu/event/sound-scene-2026-distant-mirror/2026-05-03/",
           "host": "hirshhorn.si.edu",
           "description": "소리와 빛을 내장한 약 3미터 높이의 나무형 조각이 주변 사람들의 위치와 이동을 감지해 집단의 움직임을 오디오비주얼 환경으로 번역한다. 화면이나 착용 장치 없이 여러 참가자가 서로의 거리와 동선을 통해 하나의 반응형 생태를 함께 만든다.",
-          "image": "https://i.vimeocdn.com/video/2193881720-bac897076c1090de90f2fe8946e055bbedb16e03c4f1d06b15783e1006523685-d_2400?region=us"
+          "image": "images/2026-09-13-04.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2193881720-bac897076c1090de90f2fe8946e055bbedb16e03c4f1d06b15783e1006523685-d_2400?region=us"
         },
         {
           "title": "클라우디아 하트 — 엠파이어 페일러",
@@ -319,7 +334,8 @@
           "url": "https://claudiahart.com/Museum-Boijmans-Van-Beuningen",
           "host": "claudiahart.com",
           "description": "실패한 암호화폐와 사라진 기업 로고, 정치적 붕괴의 표식을 알고리즘 벽면·카펫·투사 영상으로 엮어 미술관 건축 전체를 발광하는 인터페이스처럼 만든다. 디지털 이미지는 화면을 벗어나 걷고 머무는 물질 환경으로 확장된다.",
-          "image": "https://i.vimeocdn.com/video/2133104425-7f1ef56c0afd99b3a3bca68594f1b328a2088d9dc9a1b765032306d299d8ae89-d_2400?region=us"
+          "image": "images/2026-09-13-05.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2133104425-7f1ef56c0afd99b3a3bca68594f1b328a2088d9dc9a1b765032306d299d8ae89-d_2400?region=us"
         },
         {
           "title": "외즈잔 에르테크 — 어쿠스틱 호라이즌",
@@ -329,7 +345,8 @@
           "url": "https://vimeo.com/1149748691",
           "host": "vimeo.com",
           "description": "금속 혼을 손으로 회전시키면 전자 나침반과 아두이노가 방향을 읽고, 템펠호퍼 펠트·시장·숲·바람길에서 모은 소리 조각을 스피커와 베이스 셰이커로 다시 배치한다. 관객은 조각을 돌리며 도시 기반시설과 생태의 서로 다른 거리를 청각적으로 스캔한다.",
-          "image": "https://vumbnail.com/1149748691.jpg"
+          "image": "images/2026-09-13-06.jpg",
+          "imageFallback": "https://vumbnail.com/1149748691.jpg"
         },
         {
           "title": "파트리시아 J. 헤이스 — 마사지 체어스 러브 시리즈",
@@ -339,7 +356,8 @@
           "url": "https://www.patriciajreis.com/portfolio/items/massage-chairs-2024/",
           "host": "patriciajreis.com",
           "description": "개조한 마사지 의자에 도자기 접촉 센서, 진동, 점멸광과 바이노럴 사운드를 결합한다. 참여자가 금빛 선을 만지면 몸을 통과하는 진동·빛·음향의 순서가 바뀌고, 눈을 감은 채 외부 통제에서 내부 감각으로 주의를 옮기게 된다.",
-          "image": "https://vumbnail.com/1164307344.jpg"
+          "image": "images/2026-09-13-07.jpg",
+          "imageFallback": "https://vumbnail.com/1164307344.jpg"
         }
       ]
     },
@@ -356,7 +374,8 @@
           "url": "https://www.serpentinegalleries.org/whats-on/i-didnt-realise-you-thought-like-that/",
           "host": "serpentinegalleries.org",
           "description": "소셜 피드처럼 흐르는 화면에서 방문을 요청하는 인물과 주장에 문을 열지 결정하면, 선택의 연쇄가 서로 다른 관점과 결말을 만든다. 워크숍과 커뮤니티 대화를 새 캐릭터로 더해 계속 자라는 온라인 게임이자 살아 있는 아카이브다.",
-          "image": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/05/19dfeddf-2379-49a2-beb0-52b7c4ed91b4.png"
+          "image": "images/2026-09-12-01.jpg",
+          "imageFallback": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/05/19dfeddf-2379-49a2-beb0-52b7c4ed91b4.png"
         },
         {
           "title": "볼복스 랩스 — 아스트랄 트윈",
@@ -366,7 +385,8 @@
           "url": "https://production-portal.sonar.es/en/activity/volvox-labs",
           "host": "sonar.es",
           "description": "대형 수직 LED 화면 앞에서 두 로봇 팔이 정밀한 기계 운동과 유기적 변이를 오가며 움직이고, 액체에 퍼지는 잉크 같은 시각 장면을 그린다. 코드·스크린·기계가 하나의 안무 체계로 이어지는 로보틱 오디오비주얼 설치다.",
-          "image": "https://cdn.volvoxlabs.com/wp-content/uploads/2026/05/30050055/sonar-1.webp"
+          "image": "images/2026-09-12-02.jpg",
+          "imageFallback": "https://cdn.volvoxlabs.com/wp-content/uploads/2026/05/30050055/sonar-1.webp"
         },
         {
           "title": "쉬페르브 — 프롬제로",
@@ -376,7 +396,8 @@
           "url": "https://production-admin-portal.sonar.es/es/actividad/superbe",
           "host": "sonar.es",
           "description": "관객이 마이크에 남긴 단어나 소리를 열두 조각으로 나누고, 서로 다른 속도의 진자가 각 조각을 반복해 의미 있는 문장을 음악적 혼돈으로 흩뜨린다. 버튼으로 소리를 분리·정지·루프한 뒤 약 3분 30초가 지나면 말이 다시 이해 가능한 형태로 돌아온다.",
-          "image": "https://ars.electronica.art/export/files/2025/12/pluriversal-futures-new_29.jpg"
+          "image": "images/2026-09-12-03.jpg",
+          "imageFallback": "https://ars.electronica.art/export/files/2025/12/pluriversal-futures-new_29.jpg"
         },
         {
           "title": "벤 벵글러·토마스 가이슬 — 클랑/리히트 슈트롬",
@@ -386,7 +407,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/light-sound-installation-klang-licht-strom-38238ddb450c805ea363dc10366d58f8/",
           "host": "ars.electronica.art",
           "description": "룸 301의 장소 조건에 맞춰 소리와 빛의 오브제를 관객 주위에 배치하고, 실시간 음향 처리에서 얻은 데이터를 맞춤형 소프트웨어가 공간 조명의 재료로 바꾼다. 고정된 타임라인 대신 두 연주자가 현장에서 소리와 빛을 함께 변화시키는 설치다.",
-          "image": "https://klanglichtstrom.de/artists.jpg"
+          "image": "images/2026-09-12-04.jpg",
+          "imageFallback": "https://klanglichtstrom.de/artists.jpg"
         },
         {
           "title": "다이토 마나베·일레븐플레이 — 플러스 원 플러스 원 플러스 원 플러스",
@@ -396,7 +418,8 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000015.000028234.html",
           "host": "prtimes.jp",
           "description": "시간과 구조를 주제로 댄서의 몸, 영상과 빛이 정확히 맞물렸다가 다시 어긋나는 과정을 반복한다. 모션 캡처와 홀로그램 투사를 통해 현실의 움직임과 계산된 잔상이 한 무대에서 서로 다른 시간층을 만든다.",
-          "image": "https://prcdn.freetls.fastly.net/release_image/28234/15/28234-15-b68be85ded136d156f4130512aac8e1f-3900x2594.jpg?auto=webp&bg-color=fff&fit=bounds&format=jpeg&height=1350&quality=85%2C65&width=1950"
+          "image": "images/2026-09-12-05.jpg",
+          "imageFallback": "https://prcdn.freetls.fastly.net/release_image/28234/15/28234-15-b68be85ded136d156f4130512aac8e1f-3900x2594.jpg?auto=webp&bg-color=fff&fit=bounds&format=jpeg&height=1350&quality=85%2C65&width=1950"
         },
         {
           "title": "맥스 쿠퍼 — 필링 이즈 스트럭처 공간 음향 설치",
@@ -406,7 +429,8 @@
           "url": "https://maxcooper.net/feeling-is-structure-a-spatial-audio-installation",
           "host": "maxcooper.net",
           "description": "물리적·생물학적 구조와 감정의 관계를 탐구한 앨범을 일반 공연장에서 떼어내 20분 길이의 공간 음향 환경으로 다시 구성한다. 런던의 옛 수력 발전소에 맞춘 12.1 L-ISA 시스템과 20Hz까지 내려가는 저역이 음악의 미세 구조를 몸으로 읽게 한다.",
-          "image": "https://maxcooper.net/lib/media/175.jpg"
+          "image": "images/2026-09-12-06.jpg",
+          "imageFallback": "https://maxcooper.net/lib/media/175.jpg"
         },
         {
           "title": "로넨 탄춤 — 휴먼 애트머스피어스",
@@ -416,7 +440,8 @@
           "url": "https://vimeo.com/1185248438",
           "host": "vimeo.com",
           "description": "다보스의 실시간 날씨 데이터를 멈추지 않는 생성 풍경으로 바꾸고, 관객이 들어오면 움직임과 머무름에 따라 구름의 밀도·빛·운동이 변한다. 관객이 나가면 환경은 원래 상태로 돌아가며 존재가 시스템에 남긴 일시적 흔적을 보여준다.",
-          "image": "https://i.vimeocdn.com/video/2148618531-dd6afa8edc92ff8a9d03f709451d4026cc8314a391f0298baf4f18dddc446346-d_2400?region=us"
+          "image": "images/2026-09-12-07.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2148618531-dd6afa8edc92ff8a9d03f709451d4026cc8314a391f0298baf4f18dddc446346-d_2400?region=us"
         }
       ]
     },
@@ -433,7 +458,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/negotiated-realities-37c38ddb450c81e1a7b4cd9821be771f/",
           "host": "ars.electronica.art",
           "description": "도시 인프라, 뇌파, AI 대리 대화와 기계 미학을 다섯 설치로 엮어 인간의 위치가 기술·지각·사회 시스템 안에서 계속 다시 쓰이는 과정을 보여준다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_shanghaitech.jpg"
+          "image": "images/2026-09-11-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_shanghaitech.jpg"
         },
         {
           "title": "하이케 칼텐브루너 — 전쟁의 소음",
@@ -443,7 +469,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/noise-of-war-39938ddb450c81fc8930d09b0a2ec08e/",
           "host": "ars.electronica.art",
           "description": "전쟁 중 납과 주석 파이프가 탄약으로 녹아 사라진 뒤 남은 아연 오르간 파이프를 사용한다. 관객이 다가가면 거친 잡음은 배음과 맥놀이로 변한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_noise_of_war_heike_kaltenbrunner_2.jpg"
+          "image": "images/2026-09-11-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_noise_of_war_heike_kaltenbrunner_2.jpg"
         },
         {
           "title": "아그네스 마이어-브란디스 — 나무 이주 사무소",
@@ -453,7 +480,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/office-for-tree-migration-otm-39138ddb450c81f7a684d4e6111a0e12/",
           "host": "ars.electronica.art",
           "description": "나무가 북쪽·고지대·이탄지로 이동하는 과정을 장기간 추적하고, 생태 모니터링과 맞춤형 도구로 기후변화의 느린 움직임을 몰입형 작업으로 번역한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_officefortreemigration_assisted_migration_trialaagnes_meyer-brandis.jpg"
+          "image": "images/2026-09-11-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_officefortreemigration_assisted_migration_trialaagnes_meyer-brandis.jpg"
         },
         {
           "title": "마키 우에다·CCBT — 후각 생태계",
@@ -463,7 +491,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/olfactory-biome-38f38ddb450c81aca236f0e4ef957bae/",
           "host": "ars.electronica.art",
           "description": "야간 숲에서 나방이나 박쥐의 역할을 맡은 관객이 유인·회피 냄새를 따라 움직인다. 이동에 따라 소리 풍경도 바뀐다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_olfactory-biome-an-olfacto-politics-project_3ajumpei-saito.jpg"
+          "image": "images/2026-09-11-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_olfactory-biome-an-olfacto-politics-project_3ajumpei-saito.jpg"
         },
         {
           "title": "헤바 Y. 아민 — 가라앉은 바다 작전",
@@ -473,7 +502,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/operation-sunken-sea-39638ddb450c812d8050dcf97f828d90/",
           "host": "ars.electronica.art",
           "description": "지중해를 배수하려 했던 아틀란트로파 계획의 지도와 선전 언어를 차용해 기술 낙관주의 뒤의 정치·생태적 폭력을 아프로아랍 관점에서 읽는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_0r_operationsunkensea2.jpg"
+          "image": "images/2026-09-11-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_0r_operationsunkensea2.jpg"
         },
         {
           "title": "플레이풀 — 오퍼레이터",
@@ -483,7 +513,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/operator-39d38ddb450c813695e2ccebb9cca6ef/",
           "host": "ars.electronica.art",
           "description": "하나의 마스터 폰이 100대의 스마트폰과 100개의 X 계정을 제어한다. 관객의 생각은 동시 게시를 거쳐 인위적인 영향력으로 증폭된다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_01.jpg"
+          "image": "images/2026-09-11-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_01.jpg"
         },
         {
           "title": "XCEPT — 영속하는 기록",
@@ -493,7 +524,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/perpetual-records-38f38ddb450c81f7850ff2844e7bccd6/",
           "host": "ars.electronica.art",
           "description": "관객 얼굴 데이터를 성스러운 기하학과 결정형 프랙털로 바꾸어 Deep Space 8K에 펼치고 개인의 표정을 집단 기억의 은유로 확장한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_perpetualrecords_1-a-xcept.jpg"
+          "image": "images/2026-09-11-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_perpetualrecords_1-a-xcept.jpg"
         }
       ]
     },
@@ -510,7 +542,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/joseph-gets-dressed-39f38ddb450c81488ec9eb68e9702ef8/",
           "host": "ars.electronica.art",
           "description": "중력으로 움직이는 거대한 장치가 조셉을 깨우고 씻기고 입힌 뒤 크루아상으로 밀어 넣는 과정을 관객 앞에서 라이브로 구축한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_joseph-gets-dressed-ironing.jpg"
+          "image": "images/2026-09-10-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_joseph-gets-dressed-ironing.jpg"
         },
         {
           "title": "Milan Conić and collaborators — 경계를 넘는 건반",
@@ -520,7 +553,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/keys-beyond-boundaries-3a338ddb450c80dc9c4eefd462906fe7/",
           "host": "ars.electronica.art",
           "description": "전자음과 즉흥 피아노, 춤·영화·시가 한 무대에서 교차하며 어쿠스틱과 디지털 사운드 사이의 새로운 만남을 만든다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_keys-beyond-boundaries-haraldfuchsphotography_000_210.jpg"
+          "image": "images/2026-09-10-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_keys-beyond-boundaries-haraldfuchsphotography_000_210.jpg"
         },
         {
           "title": "Matteo Holyoke Marangoni — 코모레비",
@@ -530,7 +564,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/komorebi-39838ddb450c811abbb7f7dfa824c778/",
           "host": "ars.electronica.art",
           "description": "인공 생명체 무리가 햇빛, 구름과 나무 그림자에 반응해 음악을 만들며 생명을 유기체 밖의 복잡계 속성으로 제안한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_komorebi-01-photo-dieter-vandoren.jpg"
+          "image": "images/2026-09-10-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_komorebi-01-photo-dieter-vandoren.jpg"
         },
         {
           "title": "Sara Tirelli — 어두운 라군",
@@ -540,7 +575,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/laguna-obscura-39038ddb450c808583ede17db20b07cf/",
           "host": "ars.electronica.art",
           "description": "마술 환등과 판타스마고리아에서 출발해 베네치아의 상상 속에서 몰입 경험의 역사적 기원을 되짚는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_laguna_obscura_sara_tirelli.jpg"
+          "image": "images/2026-09-10-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_laguna_obscura_sara_tirelli.jpg"
         },
         {
           "title": "Ars Electronica Futurelab · Natural History Museum Vienna — 잃어버린 전설",
@@ -550,7 +586,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/lost-legends-39538ddb450c80cf95b7ca71aea39e0a/",
           "host": "ars.electronica.art",
           "description": "빈 자연사박물관의 화석과 표본을 정밀 3D 모델로 되살려 과학적 증거와 몰입형 시각화를 하나의 탐험으로 결합한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_lost_legends_magdalena_sick-leitner_7.jpg"
+          "image": "images/2026-09-10-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_lost_legends_magdalena_sick-leitner_7.jpg"
         },
         {
           "title": "Paolo Almario — 마멀레이드",
@@ -560,7 +597,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/marmelade-38c38ddb450c81949c1ecdc95cace360/",
           "host": "ars.electronica.art",
           "description": "정의를 훼손한 권력자들의 잼 라벨 모자이크를 로봇이 천천히 파괴하는 동안 관객이 빵과 마멀레이드를 나누는 참여형 작업이다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_3-marmelade-table-a-paolo-almario.jpg"
+          "image": "images/2026-09-10-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_3-marmelade-table-a-paolo-almario.jpg"
         },
         {
           "title": "Hito Steyerl — 기계 튀르크인",
@@ -570,7 +608,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/mechanical-kurds-39638ddb450c818a9119ebe49538e40f/",
           "host": "ars.electronica.art",
           "description": "다큐멘터리와 허구, 비평적 추측을 겹쳐 ‘자율’ 기술 뒤에 숨은 마이크로워크, 이미지의 지정학과 위임 구조를 드러낸다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_mechanical-kurds-2025-04-10-um-16.16.07.jpg"
+          "image": "images/2026-09-10-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_mechanical-kurds-2025-04-10-um-16.16.07.jpg"
         }
       ]
     },
@@ -587,7 +626,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/hard-times-soft-sounds-39038ddb450c81d190d4c17b9c5597ef/",
           "host": "ars.electronica.art",
           "description": "모터가 움직이는 물 채운 조개껍데기에서 스피커 없이 섬세한 소리를 만들며 미세한 바다의 풍경과 취약한 생태를 듣게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_hard-times-soft-sounds-2025-p1339149.jpg"
+          "image": "images/2026-09-09-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_hard-times-soft-sounds-2025-p1339149.jpg"
         },
         {
           "title": "Pontifical Catholic University of Campinas — 휴먼매핑",
@@ -597,7 +637,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/humanmapping-37b38ddb450c81058d02e2ce0a99acf3/",
           "host": "ars.electronica.art",
           "description": "알고리즘 미학의 원리를 시적 담론으로 조직하며 오늘의 문화에서 인간과 비인간이 맺는 관계를 여러 작업으로 펼친다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_a-fetusacleomar_rocha.jpg"
+          "image": "images/2026-09-09-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_a-fetusacleomar_rocha.jpg"
         },
         {
           "title": "gold extra — 이딜",
@@ -607,7 +648,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/idyll-38a38ddb450c81edbd07c65e9b1942ef/",
           "host": "ars.electronica.art",
           "description": "눈에 관한 개인 기억을 AR 스노글로브에 담아 사라지는 겨울 경험과 전 지구적 기후 변화를 감정적으로 연결한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_idyll-06b-idyll-gold-extra.jpg"
+          "image": "images/2026-09-09-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_idyll-06b-idyll-gold-extra.jpg"
         },
         {
           "title": "Kevin Blackistone — 내면의 광휘",
@@ -617,7 +659,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/inner-radiance-38e38ddb450c8108937ace74543497c8/",
           "host": "ars.electronica.art",
           "description": "라이브 초음파로 무용수의 내부 볼륨을 생성하고 몸 안의 보이지 않는 층을 공연 공간으로 확장한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_inner-radiance_image4.jpg"
+          "image": "images/2026-09-09-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_inner-radiance_image4.jpg"
         },
         {
           "title": "Metally Meadows project team — 메탈리 메도스",
@@ -627,7 +670,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/metally-meadows-39738ddb450c80f2ae0ee1d0be79bdc5/",
           "host": "ars.electronica.art",
           "description": "차갑고 뻣뻣한 금속 초원을 만들어 풀잎 사이를 걷고 만지는 감각의 부재를 물질적으로 체감하게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_metally-meadows-desktop_858_003_metally_meadows_01_o.jpg"
+          "image": "images/2026-09-09-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_metally-meadows-desktop_858_003_metally_meadows_01_o.jpg"
         },
         {
           "title": "Basil Thuillard — 영혼을 비추는 거울",
@@ -637,7 +681,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/mirror-to-the-soul-39638ddb450c81ecbf6dcfe0c08669b2/",
           "host": "ars.electronica.art",
           "description": "여러 감각을 동원한 물리적 공간과 절제된 기술 효과로 관객이 자신의 서로 다른 페르소나를 탐색하게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_mirror-to-the-soul-maze-23.550.jpg"
+          "image": "images/2026-09-09-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_mirror-to-the-soul-maze-23.550.jpg"
         },
         {
           "title": "TU Berlin · MA Design & Computation — 네거티브 스페이스",
@@ -647,7 +692,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/negative-spaces-37b38ddb450c81efbe1cd9236f668184/",
           "host": "ars.electronica.art",
           "description": "이미지, 데이터와 기술이 지식을 만드는 동안 화면과 분류 바깥에 남겨지는 보이지 않는 영역을 탐구한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_negative-spaces-a-linus-ziegler.jpg"
+          "image": "images/2026-09-09-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_negative-spaces-a-linus-ziegler.jpg"
         }
       ]
     },
@@ -664,7 +710,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/fine-tuning-human-sense-2-1-38538ddb450c8153b230e1635b0b9b58/",
           "host": "ars.electronica.art",
           "description": "디지털 도구를 감각을 늘리는 장치가 아니라 지각을 미세 조정하는 ‘이식물’로 놓고 인간과 기술의 공진화를 성찰한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_fine-tuning-human-sense-main-photo1_2026.jpg"
+          "image": "images/2026-09-08-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_fine-tuning-human-sense-main-photo1_2026.jpg"
         },
         {
           "title": "Dunia Sahir — 번역에서 발견된 것",
@@ -674,7 +721,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/found-in-translation-39238ddb450c81778e68f149a18a95f3/",
           "host": "ars.electronica.art",
           "description": "과학적 지식 속 서사와 가상의 퀴어 우주론을 결합해 선형 시간을 넘어 몸과 공간의 모델을 다시 쓴다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_dunia_sahir_universitaet_fuer_angewandte_kunst_wien_wise_25-26_vincent_forstenlechner_cc-by-nc-nd-4.0_bild-6.jpg"
+          "image": "images/2026-09-08-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_dunia_sahir_universitaet_fuer_angewandte_kunst_wien_wise_25-26_vincent_forstenlechner_cc-by-nc-nd-4.0_bild-6.jpg"
         },
         {
           "title": "Anna Tsing — 곰팡이 — 무정부주의적 디자이너",
@@ -684,7 +732,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/fungi-anarchist-designers-3ab38ddb450c81dba8d0e31ad9989da5/",
           "host": "ars.electronica.art",
           "description": "곰팡이를 인간의 통제 밖에서 활동하는 급진적 디자이너로 제시하고 주방, 병원, 생태계에 걸친 보이지 않는 설계를 드러낸다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_fungi-anarchist-designers-a-aad-hoogendoorn_3.jpg"
+          "image": "images/2026-09-08-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_fungi-anarchist-designers-a-aad-hoogendoorn_3.jpg"
         },
         {
           "title": "Mushon Zer-Aviv — 미래의 스크린샷",
@@ -694,7 +743,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/future-screenshots-39338ddb450c810ca82cc22747b9c0c2/",
           "host": "ars.electronica.art",
           "description": "종이 스마트폰 화면에 아직 오지 않은 세계의 채팅·알림·지도를 그리고 관객이 미래의 스크린샷을 공동으로 확장한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_future-screenshots-imagining-futures-exhibition_joods-museum-amsterdam_credit-joep-hijwegen_13-_dsc7704.jpg"
+          "image": "images/2026-09-08-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_future-screenshots-imagining-futures-exhibition_joods-museum-amsterdam_credit-joep-hijwegen_13-_dsc7704.jpg"
         },
         {
           "title": "Marlene Kloud — 묶인 감각",
@@ -704,7 +754,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/gefesselte-sinne-38d38ddb450c818bb3c0c48bf7cca804/",
           "host": "ars.electronica.art",
           "description": "기술 시스템이 인간의 지각을 묶고 재편하는 방식을 사진 연작으로 탐색해 디지털 혁신의 감각적 대가를 묻는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_gefesselte-sinne2-marlene-kloud.jpg"
+          "image": "images/2026-09-08-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_gefesselte-sinne2-marlene-kloud.jpg"
         },
         {
           "title": "FIFTITU% — 글리치·누출·공공 공간의 넘치는 몸",
@@ -714,7 +765,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/glitch-leak-overflowing-bodies-in-public-space-37c38ddb450c81069fefd45d9826cde3/",
           "host": "ars.electronica.art",
           "description": "글리치와 누출을 공공 공간의 결함이 아니라 집단적 상상과 변화를 여는 방법으로 전환하는 참여형 프로젝트다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_119_001_glitch_leak_pink_3000_o.jpg"
+          "image": "images/2026-09-08-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_119_001_glitch_leak_pink_3000_o.jpg"
         },
         {
           "title": "Antimetric Institute — 세계 신뢰도",
@@ -724,7 +776,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/global-level-of-confidence-39838ddb450c81c29085e296ccfc05bb/",
           "host": "ars.electronica.art",
           "description": "얼굴 인식으로 아르헨티나 군사독재기 실종자와 잠재적 유전적 연결을 탐색하며 분리된 가족을 다시 잇는 조사 인터페이스다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_global-level-of-confidence-flo-verhulst-v2-theillusionof-1-1436x1920-1.jpg"
+          "image": "images/2026-09-08-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_global-level-of-confidence-flo-verhulst-v2-theillusionof-1-1436x1920-1.jpg"
         }
       ]
     },
@@ -741,7 +794,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/echoes-of-the-bay-37838ddb450c8102b84ae7316552a6ee/",
           "host": "ars.electronica.art",
           "description": "VR 섬과 배에 실린 도착·소속의 이야기를 통해 만의 지리와 이주자의 기억을 하나의 항해형 아카이브로 엮는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_echoes-of-the-bay-a-prakash-so-perumal-haridas_1.jpg"
+          "image": "images/2026-09-07-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_echoes-of-the-bay-a-prakash-so-perumal-haridas_1.jpg"
         },
         {
           "title": "Demokratie, was geht? — 빛으로 말하는 이야기",
@@ -751,7 +805,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/enlightening-stories-38a38ddb450c813a93e0cf639ecebc97/",
           "host": "ars.electronica.art",
           "description": "숲에 관한 이야기를 빛으로 전달하는 트랜스미디어 설치로 자연의 목소리와 민주적 대화를 공간 안에 겹친다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_enlightening-stories_wmremove-transformed-5.jpg"
+          "image": "images/2026-09-07-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_enlightening-stories_wmremove-transformed-5.jpg"
         },
         {
           "title": "Lorena Solís Bravo — 진흙과 파편 사이",
@@ -761,7 +816,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/entre-barros-y-fragmentos-39738ddb450c812297c1e540d7d02aae/",
           "host": "ars.electronica.art",
           "description": "탈식민적 아카이브와 데이터, AI, 모체 도자기를 연결해 성별과 몸을 분류해 온 지식 체계의 프레임을 흔든다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_entre-barros-y-fragmentos-_lorena-soliis-bravo_1.jpg"
+          "image": "images/2026-09-07-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_entre-barros-y-fragmentos-_lorena-soliis-bravo_1.jpg"
         },
         {
           "title": "Irina Paraschivoiu — 가짜에서 탈출하기",
@@ -771,7 +827,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/escape-fake-38a38ddb450c81f0bda7c9f201789c1e/",
           "host": "ars.electronica.art",
           "description": "실종된 청소년의 메시지를 따라가는 AR 게임으로 온라인 이념과 허위정보가 일상의 판단을 점유하는 과정을 드러낸다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_escape-fake_efk3_3-4_visual.jpg"
+          "image": "images/2026-09-07-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_escape-fake_efk3_3-4_visual.jpg"
         },
         {
           "title": "The School of the Art Institute of Chicago — 모든 신기술은 이전 환경을 폐기하는 서비스 환경이다",
@@ -781,7 +838,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/every-new-technique-is-a-service-environment-that-junks-the-earlier-ones-37a38ddb450c81889fffee840f2e17ec/",
           "host": "ars.electronica.art",
           "description": "새로운 미디어 도구가 권력과 행위성을 어떻게 재배치하는지 장난기 있는 설치들로 시험하며 기술 사용의 규칙을 다시 묻는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_saic_schamborski_cybercindynickiiai3.jpg"
+          "image": "images/2026-09-07-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_saic_schamborski_cybercindynickiiai3.jpg"
         },
         {
           "title": "Margarethe Lasinger — 파우스트 2023 리비지티드",
@@ -791,7 +849,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/faust-2023-revised-38838ddb450c819696cee9062eab9dae/",
           "host": "ars.electronica.art",
           "description": "1933년 막스 라인하르트의 ‘파우스트 도시’를 가상으로 재구성해 사라진 무대와 역사적 기억을 Deep Space 8K에 불러온다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_faust-2023-revised-53764757652_b95c37b900_6k.jpg"
+          "image": "images/2026-09-07-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_faust-2023-revised-53764757652_b95c37b900_6k.jpg"
         },
         {
           "title": "Ludwig Maximilian University of Munich — 피드 미",
@@ -801,7 +860,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/feed-me-37938ddb450c81f1a44fca338fcb14e0/",
           "host": "ars.electronica.art",
           "description": "관객의 입력과 피드백, 선택에 따라 달라지는 인터랙티브 작업들로 디지털 시스템의 결정 구조를 해부한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_ars_image_color_klein.jpg"
+          "image": "images/2026-09-07-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_ars_image_color_klein.jpg"
         }
       ]
     },
@@ -818,7 +878,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/debugging-realities-37638ddb450c815c83a1c38ba0d000f5/",
           "host": "ars.electronica.art",
           "description": "알고리즘과 인터페이스, 데이터 인프라가 몸·정체성·감정·가치 판단을 어떻게 구성하는지 여러 연구 작업으로 추적한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_let-me-hold-you-in-my-algorithms-a-wu-heng.jpg"
+          "image": "images/2026-09-06-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_let-me-hold-you-in-my-algorithms-a-wu-heng.jpg"
         },
         {
           "title": "Andrew Herzog — 디어 헌터",
@@ -828,7 +889,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/deer-hunter-38e38ddb450c815bb5cdc954a78d503b/",
           "host": "ars.electronica.art",
           "description": "가정용 영상과 아카이브, 생성 AI를 엮어 남성성의 기억을 사실과 추측 사이에 놓는 사변적 다큐멘터리다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/header_mobile-1.jpg"
+          "image": "images/2026-09-06-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/header_mobile-1.jpg"
         },
         {
           "title": "ATI collective — 권력을 비우는 웃음 합창단",
@@ -838,7 +900,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/destituent-laughing-choir-38e38ddb450c81aea359dd3a888c0ed5/",
           "host": "ars.electronica.art",
           "description": "누구나 중간에 합류할 수 있는 수평적 합창과 피드백 구조로 지휘자의 권위를 비우고 집단의 리듬을 만든다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_destituent-laughing-choir-p1.jpg"
+          "image": "images/2026-09-06-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_destituent-laughing-choir-p1.jpg"
         },
         {
           "title": "Sungkyunkwan University (SKKU)-Seoul — 의례의 소멸",
@@ -848,7 +911,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/disappearance-of-rituals-37b38ddb450c8147a843cf90cfcc4cc6/",
           "host": "ars.electronica.art",
           "description": "AI와 알고리즘이 습관, 감정과 의미를 바꾸는 과정을 다섯 개 인터랙티브 작업으로 보여 주며 사라지는 의례를 묻는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_manifestation_catalogue.jpg"
+          "image": "images/2026-09-06-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_manifestation_catalogue.jpg"
         },
         {
           "title": "Maki Ueda — 개의 코",
@@ -858,7 +922,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/dogs-nose-38f38ddb450c81778164c1b8b95920c4/",
           "host": "ars.electronica.art",
           "description": "생물 로깅으로 개가 맡는 냄새의 풍경을 기록하고 재현해 인간 중심의 감각 체계를 다른 종의 관점으로 확장한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_dogs-nose_1ajumpei-saito.jpg"
+          "image": "images/2026-09-06-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_dogs-nose_1ajumpei-saito.jpg"
         },
         {
           "title": "Erze Dinarama — 사랑을 위한 드러밍",
@@ -868,7 +933,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/drumming-for-love-38a38ddb450c81e3b68ee3eb94f3cd8c/",
           "host": "ars.electronica.art",
           "description": "수생 곤충의 소통 방식과 가뭄의 정치를 드럼과 퍼포먼스로 연결해 생태 위기를 듣는 새로운 리듬을 만든다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_drummingfor-love1-a-giorgia-mirabile.jpg"
+          "image": "images/2026-09-06-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_drummingfor-love1-a-giorgia-mirabile.jpg"
         },
         {
           "title": "Ulrike Mair — 지구의 보물",
@@ -878,7 +944,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/earth-treasure-38838ddb450c81828fc2e7746ea187bb/",
           "host": "ars.electronica.art",
           "description": "협력적 주사위 게임에서 참가자들이 풍경을 공동으로 건설하며 경쟁 대신 돌봄과 자원 배분의 규칙을 연습한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_earth-treasure-brettspiel_bodenschatzaulrike-mair-4.jpg"
+          "image": "images/2026-09-06-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_earth-treasure-brettspiel_bodenschatzaulrike-mair-4.jpg"
         }
       ]
     },
@@ -895,7 +962,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/are-we-getting-closer-37238ddb450c81d5a6f8e25e97466c15/",
           "host": "ars.electronica.art",
           "description": "불완전한 생성형 디지털 도구로 인간과 비인간 환경을 그려 보며 기술적 완성도보다 관계를 만드는 과정을 전면에 둔다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_umprum-remember-i-was-carbohydrate-a-marek-bulir.jpg"
+          "image": "images/2026-09-05-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_umprum-remember-i-was-carbohydrate-a-marek-bulir.jpg"
         },
         {
           "title": "ASTER+S: Art, Science, Technology, Engineering: Research for + with Society — 아스터스 — 예술과 유전학",
@@ -905,7 +973,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/asters-art-genetics-37a38ddb450c81af8650e32a3f67db9b/",
           "host": "ars.electronica.art",
           "description": "불확실한 유전체 데이터가 임상적 판단과 책임으로 바뀌는 과정을 예술과 유전학의 교차점에서 드러낸다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_asters_gen_panoramica.jpg"
+          "image": "images/2026-09-05-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_asters_gen_panoramica.jpg"
         },
         {
           "title": "Rocio Berenguer — 나쁜 잡초와 추는 춤",
@@ -915,7 +984,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/baddancewiththebadweeds-39838ddb450c81f7acccd7bd52ebd478/",
           "host": "ars.electronica.art",
           "description": "관객의 춤이 몸과 잡초의 관계를 변이시키는 참여형 작업으로 생태 전환을 지식이 아니라 움직임으로 협상한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_house-of-switzerland-the-bad-weeds-28matteo-triola-ph.2938.jpg"
+          "image": "images/2026-09-05-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_house-of-switzerland-the-bad-weeds-28matteo-triola-ph.2938.jpg"
         },
         {
           "title": "Sara Azadkhani — 캔버스",
@@ -925,7 +995,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/canvas-38d38ddb450c81a2b031e5c2db6d7e50/",
           "host": "ars.electronica.art",
           "description": "언어로 온전히 설명하기 어려운 고통을 몸의 흔적과 이미지로 다루며 신체를 살아 있는 아카이브로 제시한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_canvas4-sara-azadkhani.jpg"
+          "image": "images/2026-09-05-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_canvas4-sara-azadkhani.jpg"
         },
         {
           "title": "WRO Art Center — 캐피털 드림",
@@ -935,7 +1006,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/capital-dream-37b38ddb450c819a8fd0dea66075bf3b/",
           "host": "ars.electronica.art",
           "description": "신경망, 천체와 GPT-2, 통제 시스템을 연결한 졸업 프로젝트들이 자본과 계산이 꿈을 만드는 방식을 탐색한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_in-your-skinjagoda-goliaska.jpg"
+          "image": "images/2026-09-05-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_in-your-skinjagoda-goliaska.jpg"
         },
         {
           "title": "Shin Hanagata — 키메리아",
@@ -945,7 +1017,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/chimeria-39438ddb450c81c08484f792653c9a49/",
           "host": "ars.electronica.art",
           "description": "카메라와 HMD로 시점을 발끝까지 옮겨 신체 도식을 흔들고, 내가 몸을 인식하는 좌표가 얼마나 가변적인지 체감하게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_1-chimeria-shunske-shimura.jpg"
+          "image": "images/2026-09-05-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_1-chimeria-shunske-shimura.jpg"
         },
         {
           "title": "MIM collective — 커먼 필즈",
@@ -955,7 +1028,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/common-fields-39d38ddb450c8161a927fa9fe6c0bcce/",
           "host": "ars.electronica.art",
           "description": "참여형 테이블과 낱말 퍼즐의 질문을 여러 사람이 함께 풀며 의미가 고정되는 대신 대화 속에서 협상되도록 만든다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_common-fields-a-mim.jpg"
+          "image": "images/2026-09-05-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_common-fields-a-mim.jpg"
         }
       ]
     },
@@ -972,7 +1046,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/a-quarter-century-of-processing-38f38ddb450c81ac9b50d75577230360/",
           "host": "ars.electronica.art",
           "description": "오픈소스 창작 언어 Processing의 25년을 소프트웨어, 디자인 철학, 교육과 커뮤니티의 역사로 함께 읽는 아카이브형 전시다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_processing-sketches-multiples.jpg"
+          "image": "images/2026-09-04-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_processing-sketches-multiples.jpg"
         },
         {
           "title": "Acts of Becoming — 되어 가는 행위들",
@@ -982,7 +1057,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/acts-of-becoming-37a38ddb450c81ca919ada6ae453385a/",
           "host": "ars.electronica.art",
           "description": "미디어·인터랙션 디자인 학생들이 인간과 비인간의 관계를 여러 프로토타입으로 가시화하며 가능한 미래의 형태를 시험한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_scrollandstrolllucasarakiss.jpg"
+          "image": "images/2026-09-04-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_scrollandstrolllucasarakiss.jpg"
         },
         {
           "title": "Communication Design, School of Culture and Design, University of Applied Sciences Berlin — 괴물의 시대",
@@ -992,7 +1068,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/age-of-monsters-37a38ddb450c81c0ac6cc9384dd61083/",
           "host": "ars.electronica.art",
           "description": "AI와 뉴로테크놀로지, 인간과 기계의 협상을 다섯 개 실험적 설치로 펼쳐 기술이 만든 새로운 존재 조건을 묻는다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_age-of-monsters-1-a-andreas-ingerl.jpg"
+          "image": "images/2026-09-04-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_age-of-monsters-1-a-andreas-ingerl.jpg"
         },
         {
           "title": "Department of Transmedia Art, Xi'an Academy of Fine Arts — 절기의 알고리즘",
@@ -1002,7 +1079,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/algorithm-of-solar-terms-37a38ddb450c812ca3cdf6d19918742e/",
           "host": "ars.electronica.art",
           "description": "알고리즘이 예측하는 시간과 몸이 환경에서 감지하는 절기의 리듬을 맞부딪혀 계산과 지역 지식의 간극을 드러낸다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_algorithm-of-solar-terms-a-dota_xafa.jpg"
+          "image": "images/2026-09-04-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_algorithm-of-solar-terms-a-dota_xafa.jpg"
         },
         {
           "title": "VCUarts Qatar — 대안적 주파수",
@@ -1012,7 +1090,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/alternative-frequencies-37b38ddb450c81499808fbe6b791bd1c/",
           "host": "ars.electronica.art",
           "description": "색을 소리로, 몸짓을 음악으로 옮기는 인터랙션을 통해 감각 사이의 번역과 신호 변환을 직접 체험하게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_polaroid_17.jpg"
+          "image": "images/2026-09-04-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_polaroid_17.jpg"
         },
         {
           "title": "MA Interaction Design, ZHdK — 양서적 인간성",
@@ -1022,7 +1101,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/amphibious-humanity-37b38ddb450c81f09a51dbb6f4ca3a33/",
           "host": "ars.electronica.art",
           "description": "라이브 센서와 바다의 소리로 수중 생태를 공간 안에 번역하며 인간이 물속 환경과 관계 맺는 방식을 다시 설계한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_picture3.jpg"
+          "image": "images/2026-09-04-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_picture3.jpg"
         },
         {
           "title": "National Tsing Hua University — 앤트로세니디온",
@@ -1032,7 +1112,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/anthrocenidion-37238ddb450c81759550f9b4199cfd3e/",
           "host": "ars.electronica.art",
           "description": "기계 고고학자가 유령 데이터와 재를 스캔하는 포스트휴먼 서사로 인간 이후의 기록과 기억을 상상한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_living-strata-ayu-fang-wang_1-28ai-generated-image-by-chatgpt29.jpg"
+          "image": "images/2026-09-04-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_living-strata-ayu-fang-wang_1-28ai-generated-image-by-chatgpt29.jpg"
         }
       ]
     },
@@ -1049,7 +1130,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/counter-cartographies-of-resistance-39138ddb450c81178bf7da8c0f89b83a/",
           "host": "ars.electronica.art",
           "description": "직물과 비디오 매핑, 마푸둥군 언어의 목소리와 키푸의 기록 방식을 겹쳐 식민 지도를 영토·몸·기억이 연결된 치유의 공간으로 다시 구성하는 몰입형 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_extinction-project-voluspajarpa-1.jpg"
+          "image": "images/2026-09-03-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_extinction-project-voluspajarpa-1.jpg"
         },
         {
           "title": "궈정난 — 조립된 얼굴들",
@@ -1059,7 +1141,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/assembled-faces-38138ddb450c81119303f1046691c315/",
           "host": "ars.electronica.art",
           "description": "카메라가 관객의 얼굴을 포착하면 확산 모델이 특징을 변형하고, 그 알고리즘적 분신을 익명의 3D 프린트 얼굴 벽 위에 투사하는 인터랙티브 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_1.jpg"
+          "image": "images/2026-09-03-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_1.jpg"
         },
         {
           "title": "시몬 야노우셰크 외 — 맘라스-1",
@@ -1069,7 +1152,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/mamlas-1-37b38ddb450c814c9e04ca5268db3b95",
           "host": "ars.electronica.art",
           "description": "화면 없이 촉각 조작부와 제한된 배터리 상태만으로 낯선 행성의 광물 표본을 수집하고 탐사 장치를 안정시키게 하는 실험적 게임 콘솔.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_mamlas-1aradka_-cejdikova.jpg"
+          "image": "images/2026-09-03-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_mamlas-1aradka_-cejdikova.jpg"
         },
         {
           "title": "스튜디오 어보브앤빌로 — 얽힌 풍경",
@@ -1079,7 +1163,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/entangled-landscape-3a938ddb450c81e7b64bd6fb784dd948/",
           "host": "ars.electronica.art",
           "description": "벨기에 남서부의 실시간 토양 데이터를 받아 균근과 식물 뿌리의 상호부조를 학습한 에이전트가 혼합현실 속 가상 생태계의 형태와 행동을 계속 바꾸는 계산적 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_entangled-landscape-studioabovebelow_entangledlandscape04.jpg"
+          "image": "images/2026-09-03-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_entangled-landscape-studioabovebelow_entangledlandscape04.jpg"
         },
         {
           "title": "바오양 천 — 에어리",
@@ -1089,7 +1174,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/airy-39c38ddb450c8107b135f97abec9b273/",
           "host": "ars.electronica.art",
           "description": "두 산업용 로봇 팔이 하나의 실크 천을 들어 올리고 놓치는 타이밍에 따라 투사된 숲의 하늘이 맑아지거나 안개와 폭풍으로 바뀌는 로보틱 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_airy-silk-architectural-view-a-baoyang-chen.jpg"
+          "image": "images/2026-09-03-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_airy-silk-architectural-view-a-baoyang-chen.jpg"
         },
         {
           "title": "SCA DIV 랩·BioMed I2 랩 — 뉴럴 니고시에이팅",
@@ -1099,7 +1185,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/neural-negotiating-37c38ddb450c81a18f77f7566c524632",
           "host": "ars.electronica.art",
           "description": "관객이 맛 자극을 경험하는 동안 OpenBCI EEG 캡이 읽은 실시간 뇌 활동이 여러 층의 광섬유 자수 조각을 빛으로 움직이게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_ac5.jpg"
+          "image": "images/2026-09-03-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_ac5.jpg"
         },
         {
           "title": "알리사 마르티노바 — 불협화음의 입체시",
@@ -1109,7 +1196,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/dissonant-stereoscopy-3a438ddb450c8093b831d6c2812fe11a/",
           "host": "ars.electronica.art",
           "description": "양쪽 눈에 서로 경쟁하는 파편적 이미지를 제시해 뇌가 모호한 입력을 기억과 경험으로 하나의 현실처럼 조립하는 순간을 Deep Space 8K에서 체험하게 한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_15_residency_alisa_martynova_2_c_alisa_martynova_1.jpg"
+          "image": "images/2026-09-03-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_15_residency_alisa_martynova_2_c_alisa_martynova_1.jpg"
         }
       ]
     },
@@ -1126,7 +1214,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/wicked-mirror-39838ddb450c81b0931ee838bd5d6102/",
           "host": "ars.electronica.art",
           "description": "관객이 사회적 난제에 대한 의견을 말하면 실시간 얼굴·음성 복제와 언어 모델이 같은 얼굴과 목소리로 정반대 입장을 주장한다. 자신의 디지털 분신과 논쟁하게 만드는 인터랙티브 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_wicked-mirror-generated-image-march-02-2026-1_59pm.jpg"
+          "image": "images/2026-09-02-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_wicked-mirror-generated-image-march-02-2026-1_59pm.jpg"
         },
         {
           "title": "다니엘라 미터베르거 외 — 시빌",
@@ -1136,7 +1225,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/sybil-38938ddb450c816db093e78c21f4f4e3/",
           "host": "ars.electronica.art",
           "description": "관객이 모래에 그린 선을 카메라가 읽고 로봇 팔의 분사 경로로 번역한다. 로봇이 흙과 씨앗이 놓인 그물에 물을 뿌리면 닷새 동안 인간의 흔적이 살아 있는 성장 패턴으로 바뀐다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_sybil-concept_image.jpg"
+          "image": "images/2026-09-02-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_sybil-concept_image.jpg"
         },
         {
           "title": "오픈필즈 — 워터 위스퍼러",
@@ -1146,7 +1236,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/water-whisperer-39e38ddb450c8113ab44ce7765f7d1d1/",
           "host": "ars.electronica.art",
           "description": "공기 주입식 공간에서 도나우강·지하수·폐수·비·안개·눈의 관점을 듣고 그룹이 도시의 물 문제를 토론한다. AI는 대화를 조율하고 마지막에 공동의 미래 엽서를 생성한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_water-whisperer-bubble-prototype.jpg"
+          "image": "images/2026-09-02-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_water-whisperer-bubble-prototype.jpg"
         },
         {
           "title": "BSC 크리에이티브 인텔리전스 랩 — 퀀텀 컴퍼스",
@@ -1156,7 +1247,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/quantum-compass-38138ddb450c8182b1bfffa11ce35911/",
           "host": "ars.electronica.art",
           "description": "서로 반대되는 단어를 파동처럼 동시에 존재하는 글자로 보여주고, 관객의 손짓이 모호한 양자 서체를 익숙한 형태로 수렴시킨다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_quantumcompassbsccreativeintelligencelab3.jpg"
+          "image": "images/2026-09-02-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_quantumcompassbsccreativeintelligencelab3.jpg"
         },
         {
           "title": "리게티 첸트룸 — 사운드 바나나스",
@@ -1166,7 +1258,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/sound-bananas-38038ddb450c81119265da26c0b37b56/",
           "host": "ars.electronica.art",
           "description": "전자 장치가 들어간 바나나 모양의 구조물에 앉고 밀고 균형을 잡으면 여러 관객의 움직임이 함께 음악을 만든다. 화면 없이 몸의 무게와 협응을 소리 인터페이스로 바꾼다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_sound-bananas-the-ear-wants-to-hear-a-quirin-nebas-4.jpg"
+          "image": "images/2026-09-02-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_sound-bananas-the-ear-wants-to-hear-a-quirin-nebas-4.jpg"
         },
         {
           "title": "나탈리 크론베르거 — 누가 움직이는 잭인가?",
@@ -1176,7 +1269,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/who-is-jumping-jack-3a438ddb450c8128b29ced964e56832b/",
           "host": "ars.electronica.art",
           "description": "카메라가 관객의 팔 움직임을 실시간 추적하고 서보 모터가 달린 코르크스크루의 동작으로 변환한다. 사람의 모방처럼 보이던 반응이 반복과 통제의 구조를 드러낸다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_whoisjumpingjack_anathaliekronberger_04.jpg"
+          "image": "images/2026-09-02-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_whoisjumpingjack_anathaliekronberger_04.jpg"
         },
         {
           "title": "IMPAKT — 하지 않는 편을 택하겠습니다",
@@ -1186,7 +1280,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/code-2026-id-prefer-not-to-39d38ddb450c81298726f1f0989d1dd6/",
           "host": "ars.electronica.art",
           "description": "작은 화면의 CAPTCHA를 수행하면서 클릭 노동, 데이터 라벨링, 이미지 주석과 행동 감시를 통과한다. 자동화 뒤에 숨은 인간의 훈련 노동을 클릭 팜의 시각 언어로 노출한다.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_code-2026-3-id-prefer-not-to-a-simon-pillaud.jpg"
+          "image": "images/2026-09-02-07.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_code-2026-3-id-prefer-not-to-a-simon-pillaud.jpg"
         }
       ]
     },
@@ -1203,7 +1298,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/the-lightness-of-submission-38838ddb450c8118a666fd0af73e5e86/",
           "host": "ars.electronica.art",
           "description": "부력으로 떠 있는 로봇들이 주변 팬이 만든 소용돌이 공기의 원 안을 걷는다. 물리적 울타리는 없지만 관객이 흐름을 흔들 때마다 이동 경로와 충돌이 달라지는 인터랙티브 키네틱 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_the-lightness-of-submission-2-a-talbaiyu.jpg"
+          "image": "images/2026-09-01-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_the-lightness-of-submission-2-a-talbaiyu.jpg"
         },
         {
           "title": "자로 가니 외 — 내셔널 갤러리 드리밍",
@@ -1213,7 +1309,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/NationalGalleryDreaming-39e38ddb450c81dba105e4ee1ac2b004/",
           "host": "ars.electronica.art",
           "description": "런던 내셔널 갤러리의 2,400여 작품을 컴퓨터 비전, 컬렉션 메타데이터와 지식 그래프로 연결하고 관객의 목소리에 따라 이미지 관계와 생성 사운드가 달라지는 오디오비주얼 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_national-gallery-dreaming-p8095_017-a5-pr-1.jpg"
+          "image": "images/2026-09-01-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_national-gallery-dreaming-p8095_017-a5-pr-1.jpg"
         },
         {
           "title": "에스토니아 예술아카데미 — 협상되는 자아의 집",
@@ -1223,7 +1320,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/house-of-negotiated-selves-37d38ddb450c818fb3d5fbde83f5a1ff/",
           "host": "ars.electronica.art",
           "description": "관객을 감지한 AI 거울이 처음에는 실제 움직임을 반영하다가 점차 예측하고 왜곡하며 다른 몸으로 대체한다. 기계가 사람을 재현하는 순간 주체성이 어떻게 미끄러지는지 몸으로 경험하게 하는 설치.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_house-of-negotiated-selves-a-bob-bicknell-knight.jpg"
+          "image": "images/2026-09-01-03.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_house-of-negotiated-selves-a-bob-bicknell-knight.jpg"
         },
         {
           "title": "마르코스 케이·미하엘 빌헬름 — 퀀텀 줌: 첫 번째 장",
@@ -1233,7 +1331,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/quantum-zoom-the-first-chapter-39038ddb450c8017aa13f8d29d50a69a/",
           "host": "ars.electronica.art",
           "description": "Deep Space 8K의 입체 3D 공간에서 숲과 세포를 지나 분자·원자·쿼크까지 내려가며, 서로 다른 크기의 정보가 스스로 현실의 구조를 만드는 과정을 걷듯 탐색하는 몰입형 신작.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_quantum_zoom_magdalena_sick-leitner_6.jpg"
+          "image": "images/2026-09-01-04.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_quantum_zoom_magdalena_sick-leitner_6.jpg"
         },
         {
           "title": "스푸트니코! — 무한한 소원의 하늘",
@@ -1243,7 +1342,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/a-sky-of-infinite-wishes-38238ddb450c815fa272d74c73cd62e0/",
           "host": "ars.electronica.art",
           "description": "계속 변화하는 황혼의 파노라마에 생성 AI가 만든 동아시아의 길상 기호가 넘쳐난다. 실제 전통과 알고리즘이 합성한 행운의 경계를 흐리는 Deep Space 8K 월드 프리미어.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_a-sky-of-infinite-wishes_sputniko_04.jpg"
+          "image": "images/2026-09-01-05.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/m_a-sky-of-infinite-wishes_sputniko_04.jpg"
         },
         {
           "title": "프란체스카 브리간디 — 플러터링 컬러스",
@@ -1253,7 +1353,8 @@
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/care-action-arts-of-change-change-of-arts-37b38ddb450c8103ac2ce2ef785984e8/",
           "host": "ars.electronica.art",
           "description": "라이브 음악과 회화, 소리에 반응하는 영상을 한 장면에 겹쳐 자연의 아름다움과 취약성을 빛과 색의 변화로 번역하는 몰입형 오디오비주얼 퍼포먼스.",
-          "image": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_fluttering-colours-c-yana-shpitsberg.jpg"
+          "image": "images/2026-09-01-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_fluttering-colours-c-yana-shpitsberg.jpg"
         },
         {
           "title": "다니엘 하이스·마르크 쉬체 — 에이전트 프로보카퇴르",
@@ -1263,7 +1364,8 @@
           "url": "https://zkm.de/en/daniel-heiss-marc-schutze-agent-provokateur",
           "host": "zkm.de",
           "description": "여러 AI 에이전트가 인터넷, 카메라와 센서의 입력을 읽고 이미지·소리·연출안을 서로 제안하며 끝이 정해지지 않은 장면을 계속 생성한다. 관객의 제안도 시스템이 수용하거나 거절한다.",
-          "image": "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/03/09/111909/SCREEN_5-3.jpg?itok=u4ipHOdJ"
+          "image": "images/2026-09-01-07.jpg",
+          "imageFallback": "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/03/09/111909/SCREEN_5-3.jpg?itok=u4ipHOdJ"
         }
       ]
     },
@@ -1280,7 +1382,8 @@
           "url": "https://ars.electronica.art/futurelab/en/hello-worlds/",
           "host": "ars.electronica.art",
           "description": "‘나·너·우리’라는 세 관점에서 관객의 선택과 움직임을 읽고, 서로 다른 서사와 화면을 실시간으로 돌려주는 2026년 인터랙티브 전시 플랫폼.",
-          "image": "https://ars.electronica.art/futurelab/files/2026/07/helloworlds_keyvisual-1_swappedface1-2000x1000.jpg"
+          "image": "images/2026-08-31-01.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/07/helloworlds_keyvisual-1_swappedface1-2000x1000.jpg"
         },
         {
           "title": "SARAVÁ 외 — 언브레이커블 우크라이나",
@@ -1290,7 +1393,8 @@
           "url": "https://ars.electronica.art/futurelab/en/unbreakable-ukraine/",
           "host": "ars.electronica.art",
           "description": "전쟁으로 훼손될 수 있는 우크라이나 건축 유산의 고해상도 3D 스캔을 Deep Space 8K의 입체적 이동과 서사로 재구성한 문화유산 프로젝트.",
-          "image": "https://ars.electronica.art/futurelab/files/2026/08/a55447054692_a1bb1053a4_6k-2000x1000.jpg"
+          "image": "images/2026-08-31-02.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/08/a55447054692_a1bb1053a4_6k-2000x1000.jpg"
         },
         {
           "title": "매슈 가디너 외 — 신택트",
@@ -1300,7 +1404,8 @@
           "url": "https://ars.electronica.art/futurelab/en/syntact/",
           "host": "ars.electronica.art",
           "description": "살아 있는 식물의 고리와 로봇 촉수를 연결하고 관객의 접촉과 움직임을 빛으로 되돌려, 인간·식물·기계가 함께 반응하는 2026년 프로토타입.",
-          "image": "https://ars.electronica.art/futurelab/files/2026/07/syntact_c_susanne-kiesenhofer_04-1491x1000.jpg"
+          "image": "images/2026-08-31-03.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/07/syntact_c_susanne-kiesenhofer_04-1491x1000.jpg"
         },
         {
           "title": "아르스 일렉트로니카 퓨처랩 외 — 헬로 퓨처스 매니페스토",
@@ -1310,7 +1415,8 @@
           "url": "https://ars.electronica.art/futurelab/en/hello-futures-manifesto/",
           "host": "ars.electronica.art",
           "description": "여러 언어로 나눈 미래에 관한 대화를 기록·요약하고 생성 AI가 포스터로 번역해, 개인의 목소리가 계속 겹쳐지는 공공 선언문을 만드는 참여형 설치.",
-          "image": "https://ars.electronica.art/futurelab/files/2025/06/1000128229-2.jpg"
+          "image": "images/2026-08-31-04.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2025/06/1000128229-2.jpg"
         },
         {
           "title": "프리드리히 바힝거 외 — 버블 토크",
@@ -1320,7 +1426,8 @@
           "url": "https://ars.electronica.art/futurelab/en/bubble-talk/",
           "host": "ars.electronica.art",
           "description": "관람객의 관심사에 따라 미술관 안내를 조정하면서도 일부러 익숙한 취향 바깥의 작품과 질문을 연결하는 개인화 대화형 가이드 프로토타입.",
-          "image": "https://ars.electronica.art/futurelab/files/2026/06/13-bubble-talk_c_cyntha-wieringa-1511x1000.jpg"
+          "image": "images/2026-08-31-05.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/06/13-bubble-talk_c_cyntha-wieringa-1511x1000.jpg"
         },
         {
           "title": "아르스 일렉트로니카 퓨처랩 — 오랑주리 잘츠부르크",
@@ -1330,7 +1437,8 @@
           "url": "https://ars.electronica.art/futurelab/en/orangerie-salzburg-panorama-welterbe/",
           "host": "ars.electronica.art",
           "description": "기가픽셀 사틀러 파노라마와 현재의 360도 풍경을 맞물리고, 돌을 만지는 물리 인터페이스로 시대 사이를 이동하게 만든 잘츠부르크박물관의 디지털 포럼.",
-          "image": "https://ars.electronica.art/futurelab/files/2026/06/dsc7168-edit-1500x1000.jpg"
+          "image": "images/2026-08-31-06.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/06/dsc7168-edit-1500x1000.jpg"
         },
         {
           "title": "아르스 일렉트로니카 퓨처랩 — 최후의 심판 삼면화",
@@ -1340,7 +1448,8 @@
           "url": "https://ars.electronica.art/futurelab/en/the-last-judgment-triptych/",
           "host": "ars.electronica.art",
           "description": "히에로니무스 보스의 삼면화를 기가픽셀 데이터로 정밀 처리해 Deep Space 8K에서 세부와 전체 사이를 이동하며 읽게 하는 몰입형 미술 연구 프로젝트.",
-          "image": "https://ars.electronica.art/futurelab/files/2026/08/deep-space-bosch_magdalena-sick-leitner_8-1503x1000.jpg"
+          "image": "images/2026-08-31-07.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/08/deep-space-bosch_magdalena-sick-leitner_8-1503x1000.jpg"
         }
       ]
     },
@@ -1357,7 +1466,8 @@
           "url": "https://montreal.mutek.org/en/artists/jenn-mong-trevor-van-de-velde",
           "host": "montreal.mutek.org",
           "description": "피아노를 조이스틱, MIDI와 비행 시뮬레이션 인터페이스에 연결해 하나의 지휘석으로 바꾸고, 기계화된 전쟁과 기술적 신체화를 묻는 8월 30일 월드 프리미어 Live A/V.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Jenn-Mong-Trevor-Van-de-Velde_Web.png?mtime=1778277650"
+          "image": "images/2026-08-30-01.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Jenn-Mong-Trevor-Van-de-Velde_Web.png?mtime=1778277650"
         },
         {
           "title": "Marie LeBlanc Flanagan & SAT — 라이트 플레이",
@@ -1377,7 +1487,8 @@
           "url": "https://village-numerique.mutek.org/en/circuit/fossilation",
           "host": "village-numerique.mutek.org",
           "description": "투명 바이오플라스틱 막을 건물의 잔여 흐름과 에너지에 연결하고 폐전자기기의 흔적을 드러내, 디지털 기술이 남기는 물질적 화석을 공간 속에서 변화시키는 연구-창작 설치.",
-          "image": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/FOSSILATION/_1440x9999_fit_center-center_99_none/04062026_NinaGibelinSouchon_00713-2.jpg"
+          "image": "images/2026-08-30-03.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/FOSSILATION/_1440x9999_fit_center-center_99_none/04062026_NinaGibelinSouchon_00713-2.jpg"
         },
         {
           "title": "Brigita Gedgaudas — 이름도 다리도 없이: 흔적",
@@ -1387,7 +1498,8 @@
           "url": "https://village-numerique.mutek.org/en/circuit/be-vardu-be-koju-traces-by-brigita-gedgaudas-co-presente-par-interaccess",
           "host": "village-numerique.mutek.org",
           "description": "퀴어 리투아니아 민속춤 연구를 포토그래메트리와 Kinect로 재구성한다. 관객의 몸이 입장할 때마다 보존된 춤의 흔적과 디지털 안무가 다시 쓰이는 월드 프리미어.",
-          "image": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/BRIGITA-GEGAUDAS-TRACES/_1440x9999_fit_center-center_99_none/SW_25_BeVard_BeKoj_PhotoByDrewBerry-22-1.jpg"
+          "image": "images/2026-08-30-04.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/BRIGITA-GEGAUDAS-TRACES/_1440x9999_fit_center-center_99_none/SW_25_BeVard_BeKoj_PhotoByDrewBerry-22-1.jpg"
         },
         {
           "title": "Ottomata — 솔스티스",
@@ -1407,7 +1519,8 @@
           "url": "https://village-numerique.mutek.org/en/circuit/unfold-par-myriam-bleau",
           "host": "village-numerique.mutek.org",
           "description": "12미터 LED 리본을 뫼비우스 띠처럼 접어 관객의 위치에 따라 하나의 선이 파동과 입자처럼 다르게 보이게 한다. 얽힘과 관점의 불확실성을 빛의 구조로 번역한 설치.",
-          "image": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/UNFOLD-MYRIAM-BLEAU/_1440x9999_fit_center-center_99_none/Myriam_Bleau_Unfold_Jeanne_Dubois_Pacquet_JDP2624.jpg"
+          "image": "images/2026-08-30-06.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/UNFOLD-MYRIAM-BLEAU/_1440x9999_fit_center-center_99_none/Myriam_Bleau_Unfold_Jeanne_Dubois_Pacquet_JDP2624.jpg"
         },
         {
           "title": "Après Minuit — 퍼스펙티브",
@@ -1417,7 +1530,8 @@
           "url": "https://village-numerique.mutek.org/en/circuit/perspectives-by-apres-minuit",
           "host": "village-numerique.mutek.org",
           "description": "원형 프로젝션과 반사 기둥의 아나모포시스, 인간 목소리로 만든 몰입형 사운드스케이프를 결합해 감시, 지각과 자유의지를 서로 다른 시점에서 다시 읽게 하는 북미 초연.",
-          "image": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/PERSPECTIVES-APRES-MINUIT/_1440x9999_fit_center-center_99_none/Perspectives_Bifan_03.jpeg"
+          "image": "images/2026-08-30-07.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/PERSPECTIVES-APRES-MINUIT/_1440x9999_fit_center-center_99_none/Perspectives_Bifan_03.jpeg"
         }
       ]
     },
@@ -1434,7 +1548,8 @@
           "url": "https://montreal.mutek.org/en/artists/pliq",
           "host": "montreal.mutek.org",
           "description": "투사된 눈을 중심으로 소리, 몸짓과 이미지가 서로를 되먹임하는 실시간 시스템. DIY 전자 장치, 센서, 프로그래밍과 머신러닝을 연결해 매혹이 집착으로 바뀌는 순간을 시청각 구조로 만든 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/PLIQ_Hugo_Marais_3.jpg?mtime=1778265037"
+          "image": "images/2026-08-29-01.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/PLIQ_Hugo_Marais_3.jpg?mtime=1778265037"
         },
         {
           "title": "JS Baillat & Mateo Murphy — 디스셈블런스",
@@ -1444,7 +1559,8 @@
           "url": "https://montreal.mutek.org/en/artists/js-baillat-mateo-murphy",
           "host": "montreal.mutek.org",
           "description": "정지와 긴장, 조화와 불협화음을 대비시키며 아날로그 질감과 디지털 형태를 흑백의 사막·모래·암석·추상 기하학으로 확장한 몰입형 Live A/V 작업.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/JSBaillatMateoMurphy_LandscapePortrait.png?mtime=1779217022"
+          "image": "images/2026-08-29-02.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/JSBaillatMateoMurphy_LandscapePortrait.png?mtime=1779217022"
         },
         {
           "title": "Estelle Schorpp & charline dally — 드리머신",
@@ -1454,7 +1570,8 @@
           "url": "https://montreal.mutek.org/en/artists/estelle-schorpp-charline-dally",
           "host": "montreal.mutek.org",
           "description": "신칸센과 홍콩 철도에서 촬영한 DV 아카이브를 아날로그 비디오 피드백, 현장 녹음과 알고리즘으로 변조한 드론 사운드에 접어 넣어 창밖을 오래 바라보는 감각을 재구성한다.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/EstelleSchorppcharlinedally_Web.png?mtime=1778271650"
+          "image": "images/2026-08-29-03.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/EstelleSchorppcharlinedally_Web.png?mtime=1778271650"
         },
         {
           "title": "El Ángel Exterminador & Anastasiia Vorobiova — 브루시스모",
@@ -1464,7 +1581,8 @@
           "url": "https://montreal.mutek.org/en/artists/el-angel-exterminador-anastasiia-vorobiova",
           "host": "montreal.mutek.org",
           "description": "멕시코와 우크라이나의 민속 기억을 바탕으로 감시와 구조적 폭력을 7부작 미스틱 호러로 전환한다. 실시간 영상, 디지털·아날로그 기법, 전자기 코일과 뼈·치아·금속·돌로 만든 악기를 함께 사용한 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/El-Ángel-Exterminador-Anastasiia-Vorobiova-by-Meredith-Jay-A.jpg?mtime=1778599795"
+          "image": "images/2026-08-29-04.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/El-Ángel-Exterminador-Anastasiia-Vorobiova-by-Meredith-Jay-A.jpg?mtime=1778599795"
         },
         {
           "title": "Rival Consoles & David Sydiongco — 기억의 풍경",
@@ -1474,7 +1592,8 @@
           "url": "https://montreal.mutek.org/en/artists/rival-consoles",
           "host": "montreal.mutek.org",
           "description": "버려진 오디오 조각과 신시사이저의 층위를 David Sydiongco의 고대비 생성 비주얼, 불가능한 기하학과 빛의 공간에 연결한 Live A/V 캐나다 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Rival-Consoles-David-Sydiongco.png?mtime=1784667584"
+          "image": "images/2026-08-29-05.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Rival-Consoles-David-Sydiongco.png?mtime=1784667584"
         },
         {
           "title": "Fennesz & Lillevan — 엔드리스 서머 25년",
@@ -1484,7 +1603,8 @@
           "url": "https://montreal.mutek.org/en/artists/fennesz-lillevan",
           "host": "montreal.mutek.org",
           "description": "기타의 빛나는 화성과 디지털 왜곡을 Lillevan의 미디어 고고학적 영상과 결합해 오래된 앨범을 현재의 몰입형 시청각 풍경으로 다시 연주하는 캐나다 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/3461741/20251204_086_cred_VeraMarmelo.jpg?mtime=1776968933"
+          "image": "images/2026-08-29-06.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/3461741/20251204_086_cred_VeraMarmelo.jpg?mtime=1776968933"
         },
         {
           "title": "소프트 시그널 — 침묵의 가장자리를 편집하다",
@@ -1494,7 +1614,8 @@
           "url": "https://zkm.de/en/2026/08/soft-signals",
           "host": "zkm.de",
           "description": "트빌리시의 워크숍에서 모은 지역의 목소리와 기록 조각, 몸짓과 정지 화면을 시각 콜라주로 편집해 퀴어 페미니스트의 가시성과 아카이브의 공백을 다루는 비디오 설치.",
-          "image": "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/07/14/143002/1024-724-max.jpg?itok=lUbrZZ4p"
+          "image": "images/2026-08-29-07.jpg",
+          "imageFallback": "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/07/14/143002/1024-724-max.jpg?itok=lUbrZZ4p"
         }
       ]
     },
@@ -1511,7 +1632,8 @@
           "url": "https://montreal.mutek.org/en/artists/arbor-and-tzu-ni",
           "host": "montreal.mutek.org",
           "description": "픽셀을 빛의 원천이자 의미 단위로 해체하고, 빛·사운드·이미지·공간 사이에 실시간 피드백을 만드는 Live A/V 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Arbor-and-Tzu-Ni_Web.png?mtime=1778259648"
+          "image": "images/2026-08-28-01.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Arbor-and-Tzu-Ni_Web.png?mtime=1778259648"
         },
         {
           "title": "Cheng Daoyuan & Huang Wei — INNERSTAR-01",
@@ -1521,7 +1643,8 @@
           "url": "https://montreal.mutek.org/en/artists/cheng-daoyuan-huang-wei",
           "host": "montreal.mutek.org",
           "description": "성간 물질과 빛의 상호작용을 알고리즘 이미지와 사운드로 구성해 관객을 감싸는 몰입형 돔 Live A/V 작업.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/INNERSTAR2023-1.jpg?mtime=1785508641"
+          "image": "images/2026-08-28-02.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/INNERSTAR2023-1.jpg?mtime=1785508641"
         },
         {
           "title": "BelleyFERRIS — 공연장을 만드는 빛",
@@ -1531,7 +1654,8 @@
           "url": "https://montreal.mutek.org/en/artists/belleyferris",
           "host": "montreal.mutek.org",
           "description": "건축적 정밀함과 감정의 리듬을 결합해 MUTEK 2026 각 공연장의 깊이, 대비와 분위기를 설계하는 조명 시노그래피.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/BelleyFerris_Web.png?mtime=1778261283"
+          "image": "images/2026-08-28-03.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/BelleyFerris_Web.png?mtime=1778261283"
         },
         {
           "title": "con secuencias + Milo Reinhardt — (An)ecumene time",
@@ -1541,7 +1665,8 @@
           "url": "https://montreal.mutek.org/en/artists/con-secuencias-milo-reinhardt",
           "host": "montreal.mutek.org",
           "description": "선콜럼버스 시대 악기, 라틴 리듬과 실시간 전자 프로세싱을 Milo Reinhardt의 비현실적 라이브 비주얼에 연결한 Live A/V 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/DSC05685-1.jpg?mtime=1778793036"
+          "image": "images/2026-08-28-04.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/DSC05685-1.jpg?mtime=1778793036"
         },
         {
           "title": "Imaginarium Creative Studio — Showreel 2026",
@@ -1551,7 +1676,8 @@
           "url": "https://vimeo.com/1180089555",
           "host": "vimeo.com",
           "description": "손그림, 3D 애니메이션과 오리지널 음악을 결합한 프로젝션 매핑·Live A/V·장소 특정형 작업을 제작 영상으로 살핀다.",
-          "image": "https://i.vimeocdn.com/video/2142110372-5c931c4dbd73a7848caecf64dfa6dce5b6435698e5805e29f619b05fce79abe5-d_640?region=us"
+          "image": "images/2026-08-28-05.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2142110372-5c931c4dbd73a7848caecf64dfa6dce5b6435698e5805e29f619b05fce79abe5-d_640?region=us"
         },
         {
           "title": "Abulzooz — Infisal",
@@ -1561,7 +1687,8 @@
           "url": "https://montreal.mutek.org/en/artists/zaid-bustami",
           "host": "montreal.mutek.org",
           "description": "팔레스타인 디아스포라의 기억을 현장 녹음, 인터뷰와 민요 조각으로 분해하고 실시간으로 재조립하는 사운드 퍼포먼스.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Zaid-Bustami_Web.png?mtime=1778258554"
+          "image": "images/2026-08-28-06.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Zaid-Bustami_Web.png?mtime=1778258554"
         }
       ]
     },
@@ -1578,7 +1705,8 @@
           "url": "https://montreal.mutek.org/en/artists/nelly-eve-rajotte",
           "host": "montreal.mutek.org",
           "description": "살아 있는 나무에 연결한 바이오센서와 모듈러 신시사이저, 생성 사운드와 무빙 이미지를 풀돔에 펼쳐 인간이 아닌 생명체의 지각을 체험하게 하는 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/NellyEveRajotte_2026_©JustineLatour_web-084_large_couleur_MUTEK.jpg?mtime=1778268713"
+          "image": "images/2026-08-27-01.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/NellyEveRajotte_2026_©JustineLatour_web-084_large_couleur_MUTEK.jpg?mtime=1778268713"
         },
         {
           "title": "MOORE + SALAS — 움벨트",
@@ -1588,7 +1716,8 @@
           "url": "https://montreal.mutek.org/en/artists/moore-salas",
           "host": "montreal.mutek.org",
           "description": "곤충 생태에서 출발해 실시간 생성 기술과 확장 시네마로 종마다 다른 지각 세계를 풀돔 환경에 구성한 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/MOORESALAS_Web.png?mtime=1778276446"
+          "image": "images/2026-08-27-02.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/MOORESALAS_Web.png?mtime=1778276446"
         },
         {
           "title": "Korea Town Acid & Ajeebsir — 제로 그래비티",
@@ -1598,7 +1727,8 @@
           "url": "https://montreal.mutek.org/en/artists/korea-town-acid-ajeebsir",
           "host": "montreal.mutek.org",
           "description": "머리 위까지 확장되는 공간 음향을 생성 시스템, 유동적 질감과 만화경 같은 실시간 추상 영상에 연결해 중력이 사라진 듯한 감각을 만드는 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/KTAAjee_web.png?mtime=1778610445"
+          "image": "images/2026-08-27-03.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/KTAAjee_web.png?mtime=1778610445"
         },
         {
           "title": "Noémi Büchi — 엑수비",
@@ -1608,7 +1738,8 @@
           "url": "https://montreal.mutek.org/en/artists/noemi-buchi",
           "host": "montreal.mutek.org",
           "description": "무용수 Rebeka Mondovics의 몸을 기억의 아카이브로 삼고 Brigitte Faessler의 아날로그·디지털 영상과 전자음향을 겹쳐 현실과 상상의 경계를 흔드는 Live A/V.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Album_Cover_Exuvie_-_Noe_mi_Bu_chi_Kopie_2026-04-23-210643_nitu.jpg?mtime=1776978403"
+          "image": "images/2026-08-27-04.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Album_Cover_Exuvie_-_Noe_mi_Bu_chi_Kopie_2026-04-23-210643_nitu.jpg?mtime=1776978403"
         },
         {
           "title": "ELECTRONICOS FANTASTICOS! — 버려진 기계의 오케스트라",
@@ -1618,7 +1749,8 @@
           "url": "https://montreal.mutek.org/en/artists/electronicos-fantasticos",
           "host": "montreal.mutek.org",
           "description": "CRT 텔레비전, 선풍기와 바코드 스캐너 같은 폐가전을 전자기 악기로 개조해 기술의 수명과 기억을 공연으로 되돌리는 일본 집단의 Live A/V.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/2_NOVA_LIBERTARIA_fix.jpg?mtime=1776961246"
+          "image": "images/2026-08-27-05.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/2_NOVA_LIBERTARIA_fix.jpg?mtime=1776961246"
         },
         {
           "title": "Zora Jones — 사운드에 반응하는 새 라이브 쇼",
@@ -1628,7 +1760,8 @@
           "url": "https://montreal.mutek.org/en/artists/zora-jones",
           "host": "montreal.mutek.org",
           "description": "새 앨범의 고광택 팝 왜곡과 클럽 사운드를 위해 맞춤 제작한 사운드 리액티브 비주얼 쇼를 처음 공개한다.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Zora_Jones_2025_Press_2.jpg?mtime=1778257300"
+          "image": "images/2026-08-27-06.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Zora_Jones_2025_Press_2.jpg?mtime=1778257300"
         }
       ]
     },
@@ -1645,7 +1778,8 @@
           "url": "https://montreal.mutek.org/en/artists/weidi-zhang-weilu-ge",
           "host": "montreal.mutek.org",
           "description": "중국 고대 우주론과 신화적 형상을 AI로 재해석해 집단 기억에서 태어나는 생성 존재의 여정을 그린 풀돔 영화.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/WeidiWeilu.jpg?mtime=1783985871"
+          "image": "images/2026-08-26-01.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/WeidiWeilu.jpg?mtime=1783985871"
         },
         {
           "title": "mesocosm — 레조넌스",
@@ -1655,7 +1789,8 @@
           "url": "https://montreal.mutek.org/en/artists/mesocosm",
           "host": "montreal.mutek.org",
           "description": "개인적 장소를 3D 스캔한 흔적과 디지털 변형을 결합해 기억이 공간 안에서 보존되고 흐려지고 다시 구성되는 과정을 보여주는 풀돔 영화.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/mesocosm-artists_c_Bruno-Aiello-Destombes_2024.png?mtime=1783973293"
+          "image": "images/2026-08-26-02.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/mesocosm-artists_c_Bruno-Aiello-Destombes_2024.png?mtime=1783973293"
         },
         {
           "title": "Guillaume Coutu Dumont & Line Katcho — 제국들",
@@ -1665,7 +1800,8 @@
           "url": "https://montreal.mutek.org/en/artists/guillaume-coutu-dumont-line-katcho",
           "host": "montreal.mutek.org",
           "description": "권력과 붕괴, 재생의 순환을 추상 이미지로 구성하고 거대한 모놀리스가 모래로 해체되는 장면을 풀돔에 펼친 영화.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Portrait_duo_Photo_Jean_Francois_Briere-1_2026-07-13-193406_jwey.jpg?mtime=1783971246"
+          "image": "images/2026-08-26-03.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Portrait_duo_Photo_Jean_Francois_Briere-1_2026-07-13-193406_jwey.jpg?mtime=1783971246"
         },
         {
           "title": "France Jobin & Markus Heckmann — 양자 빛",
@@ -1675,7 +1811,8 @@
           "url": "https://montreal.mutek.org/en/artists/france-jobin",
           "host": "montreal.mutek.org",
           "description": "반물질의 역설을 모듈러 사운드, TouchDesigner 실시간 영상, 빛과 안개로 번역해 순간적인 에너지 건축을 만드는 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/France-Jobin-Markus-Heckmann.jpeg?mtime=1683822624"
+          "image": "images/2026-08-26-04.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/France-Jobin-Markus-Heckmann.jpeg?mtime=1683822624"
         },
         {
           "title": "Marc-Antoine Barbier & fongkikid — 종의 박물관",
@@ -1685,7 +1822,8 @@
           "url": "https://montreal.mutek.org/en/artists/marc-antoine-barbier",
           "host": "montreal.mutek.org",
           "description": "생태계의 소리 관계를 뜻하는 바이오포니에서 출발해 유기적 사운드 생태계를 실시간으로 만들고, fongkikid의 비디오 매핑과 글리치 색채를 결합한 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/2053-02.jpg?mtime=1778280842"
+          "image": "images/2026-08-26-05.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/2053-02.jpg?mtime=1778280842"
         },
         {
           "title": "Debit — 데사셀레라다스",
@@ -1695,7 +1833,8 @@
           "url": "https://montreal.mutek.org/en/artists/debit",
           "host": "montreal.mutek.org",
           "description": "콜롬비아 거리 춤의 낡은 VHS 아카이브를 라이브 아코디언, 테이프 데크와 모듈러 신시사이저로 느리게 해체하고 다시 조립하는 Live A/V.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/RSPIssueProjectRoom-01945_1.jpg?mtime=1778267034"
+          "image": "images/2026-08-26-06.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/RSPIssueProjectRoom-01945_1.jpg?mtime=1778267034"
         }
       ]
     },
@@ -1712,7 +1851,8 @@
           "url": "https://montreal.mutek.org/en/artists/ida-toninato",
           "host": "montreal.mutek.org",
           "description": "바리톤 색소폰의 호흡, 부드러운 목소리와 전자 리듬을 공연장의 잔향에 맞춰 계속 변형하며 몸·악기·건축의 경계를 흐리는 공간 음향 작업.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/DSC3037-1.jpg?mtime=1778274709"
+          "image": "images/2026-08-25-01.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/DSC3037-1.jpg?mtime=1778274709"
         },
         {
           "title": "Honeydrip — 바이브레이션",
@@ -1722,7 +1862,8 @@
           "url": "https://montreal.mutek.org/en/artists/honeydrip",
           "host": "montreal.mutek.org",
           "description": "접촉 마이크, 센서와 카메라로 몸의 움직임과 내부 공명을 수집해 사운드와 영상이 실시간으로 솟아나는 ‘살아 있는 사운드 설치’를 만든 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/1-DSC05121.jpg?mtime=1776974821"
+          "image": "images/2026-08-25-02.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/1-DSC05121.jpg?mtime=1776974821"
         },
         {
           "title": "Super Galaxy Meow Meow — 리시프로시티",
@@ -1732,7 +1873,8 @@
           "url": "https://montreal.mutek.org/en/artists/super-galaxy-meow-meow",
           "host": "montreal.mutek.org",
           "description": "TouchDesigner가 만든 영상과 레이저 패턴이 소리를 발생시키고, 다시 그 소리가 빛을 변조하는 상호 피드백 회로를 무대에서 실시간 연주한다.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/SuperGalaxyMeowMeow_web.jpg?mtime=1778259365"
+          "image": "images/2026-08-25-03.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/SuperGalaxyMeowMeow_web.jpg?mtime=1778259365"
         },
         {
           "title": "Paul Vivien — 우리의 부재가 만든 조화",
@@ -1742,7 +1884,8 @@
           "url": "https://montreal.mutek.org/en/artists/paul-vivien",
           "host": "montreal.mutek.org",
           "description": "인간 활동 이후의 지구를 과학·기후 데이터, 해킹한 기술과 회전 디오라마로 구성해 관객이 화면과 실제 무대를 동시에 읽게 하는 Live A/V.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Portrait_-_Paul_Vivien_-_credit_Lucie_Weeger-1.jpg?mtime=1778267229"
+          "image": "images/2026-08-25-04.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Portrait_-_Paul_Vivien_-_credit_Lucie_Weeger-1.jpg?mtime=1778267229"
         },
         {
           "title": "Sarah Rossy — 목소리와 투사 이미지의 자전적 공간",
@@ -1752,7 +1895,8 @@
           "url": "https://montreal.mutek.org/en/artists/sarah-rossy",
           "host": "montreal.mutek.org",
           "description": "아랍계 선조의 발성 전통, 즉흥 보컬과 전자음향을 흐르는 신시사이저와 몽환적인 프로젝션에 겹쳐 개인의 기억을 공간적 장면으로 펼친다.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/2025_SarahxLF_digi_8.jpg?mtime=1778260652"
+          "image": "images/2026-08-25-05.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/2025_SarahxLF_digi_8.jpg?mtime=1778260652"
         },
         {
           "title": "Purelink with Mika Oki — 빛으로 번지는 앰비언트",
@@ -1762,7 +1906,8 @@
           "url": "https://montreal.mutek.org/en/artists/purelink",
           "host": "montreal.mutek.org",
           "description": "Purelink의 더빙된 앰비언트와 실험적 리듬이 Mika Oki의 안개 낀 듯한 발광 이미지와 서서히 맞물려 하나의 시청각 장면으로 수렴하는 북미 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Purelink26_PressFinal2.jpg?mtime=1777042199"
+          "image": "images/2026-08-25-06.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Purelink26_PressFinal2.jpg?mtime=1777042199"
         }
       ]
     },
@@ -1789,7 +1934,8 @@
           "url": "https://www.serpentinegalleries.org/about/press/exhibition-processing-art-and-advanced-technologies-at-serpentine/",
           "host": "serpentinegalleries.org",
           "description": "AI, 게임 엔진, 네트워크 문화와 디지털 커미션을 실제 연구 자료와 함께 펼치는 기술 예술 아카이브 전시.",
-          "image": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/processing_visual-press2_sign-off-1200x627.jpg"
+          "image": "images/2026-08-24-02.jpg",
+          "imageFallback": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/processing_visual-press2_sign-off-1200x627.jpg"
         },
         {
           "title": "COLDPLAY — A Film For The Future Immersive 360° Experience",
@@ -1799,7 +1945,8 @@
           "url": "https://vimeo.com/1073051677",
           "host": "vimeo.com",
           "description": "뮤직비디오의 달빛 숲 장면을 런던과 서울의 바닥-천장 360도 프로젝션 공간으로 확장한 제작 사례.",
-          "image": "https://i.vimeocdn.com/video/2002109063-02b13209cc981cb0cd1844c766516451318c2d41d9231af96a336596f584a366-d_640?region=us"
+          "image": "images/2026-08-24-03.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2002109063-02b13209cc981cb0cd1844c766516451318c2d41d9231af96a336596f584a366-d_640?region=us"
         },
         {
           "title": "MUTEK Market 2026 — 19 artists, 14 projects",
@@ -1809,7 +1956,8 @@
           "url": "https://forum.mutek.org/en/market-artists",
           "host": "forum.mutek.org",
           "description": "MUTEK이 선정한 2026 디지털 창작자 19명과 14개 프로젝트. 몰입형 돔, 생체 데이터, 생성형 시스템과 인터랙티브 설치를 한 흐름으로 살핀다.",
-          "image": "https://medias.mutek.org/montreal/2026/_1200x630_crop_center-center_82_none/MUTEK27_FORUM_BANNER_DECLINAISON_V2_1920X1080.png?mtime=1777304713"
+          "image": "images/2026-08-24-04.jpg",
+          "imageFallback": "https://medias.mutek.org/montreal/2026/_1200x630_crop_center-center_82_none/MUTEK27_FORUM_BANNER_DECLINAISON_V2_1920X1080.png?mtime=1777304713"
         },
         {
           "title": "Sammy Lee & M. J. Harding — SONG",
@@ -1819,7 +1967,8 @@
           "url": "https://montreal.mutek.org/en/artists/sammy-lee-m-j-harding",
           "host": "montreal.mutek.org",
           "description": "CGI, 실시간 시뮬레이션, 라이트 설치를 K-pop과 한국적 우주론의 서사로 연결한 시청각 프로젝트.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Sammy-Lee-M.-J.-Harding.png?mtime=1628265326"
+          "image": "images/2026-08-24-05.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Sammy-Lee-M.-J.-Harding.png?mtime=1628265326"
         },
         {
           "title": "Yoshi Sodeoka — immersive video and generative systems",
@@ -1829,7 +1978,8 @@
           "url": "https://tokyo.mutek.org/en/artists/yoshi-sodeoka",
           "host": "tokyo.mutek.org",
           "description": "수학적 구조와 생성형 프로세스를 겹쳐 강도와 고요, 혼돈과 질서 사이를 이동하는 몰입형 비디오 설치.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/static_6e1809fc-30ac-439d-a436-506de5cbd595.webp?mtime=1769326483"
+          "image": "images/2026-08-24-06.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/static_6e1809fc-30ac-439d-a436-506de5cbd595.webp?mtime=1769326483"
         },
         {
           "title": "Robert Borghesi",
@@ -1849,7 +1999,8 @@
           "url": "https://vimeo.com/1191969697",
           "host": "vimeo.com",
           "description": "매끄러운 위치 변환, 몰입형 팝업 환경, 하나의 연속적인 시각적 경험처럼 느껴지도록 설계된 유연한 장면 전환을 특징으로 하는 영화 같은 AI 럭셔리 향수 광고입니다. · 이 프로젝트는 초현실적인 미학, 프리미엄 패션 분위기, 우아한 영화적 움직임, 고급 향수 광고 캠페인에서 영감을 받은 럭셔리 브랜드 스토리텔링을 결합합니다. · 원활한 시각적 흐름에 중점을 두고,",
-          "image": "https://i.vimeocdn.com/video/2157112439-085da862bc102b4785e7beae4112fcbd196623cf138a475538d3680a2996bbed-d_640?region=us"
+          "image": "images/2026-08-24-08.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2157112439-085da862bc102b4785e7beae4112fcbd196623cf138a475538d3680a2996bbed-d_640?region=us"
         },
         {
           "title": "i+eo — 포털",
@@ -1859,7 +2010,8 @@
           "url": "https://montreal.mutek.org/en/artists/i-eo",
           "host": "montreal.mutek.org",
           "description": "AI 비주얼과 모듈러 사운드, 동남아시아 거리의 색채를 결합한 몰입형 라이브 A/V 월드 프리미어.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/P1087847.jpg?mtime=1745952941"
+          "image": "images/2026-08-24-09.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/P1087847.jpg?mtime=1745952941"
         },
         {
           "title": "인천국제공항 | 승객 경험을 향상시키기 위해 한국 문화를 기념하는 디지털 아트",
@@ -1869,7 +2021,8 @@
           "url": "https://vimeo.com/1088849807",
           "host": "vimeo.com",
           "description": "인천국제공항은 모멘트 팩토리와의 첫 번째 협력을 통해 제2터미널 출국장 확장에 기여했으며, 승객 여정의 중심 역할을 하는 눈에 띄는 설치물을 위해 개발된 시그니처 멀티미디어 콘텐츠를 제공했습니다. 프로젝트 팀에는 인천국제공항공사, 시공텍, 프로젝트 매니저 비닐아이가 포함됐다. · https://momentfactory.com/products/incheon-int",
-          "image": "https://i.vimeocdn.com/video/2021192064-42380a5cd401cfeae10e228649849db7b7a325e1cf9df19b0de1ac0861bc99c0-d_640?region=us"
+          "image": "images/2026-08-24-10.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2021192064-42380a5cd401cfeae10e228649849db7b7a325e1cf9df19b0de1ac0861bc99c0-d_640?region=us"
         }
       ]
     },
@@ -1886,7 +2039,8 @@
           "url": "https://www.teamlab.art/e/tokyo/",
           "host": "teamlab.art",
           "description": "경계 없이 이동하는 디지털 작품과 빛·거울·관객 참여가 결합된 상설형 몰입 전시.",
-          "image": "https://teamlab-site.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=1200,format=jpeg"
+          "image": "images/2026-08-23-01.jpg",
+          "imageFallback": "https://teamlab-site.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=1200,format=jpeg"
         },
         {
           "title": "머신 할루시네이션 — 스피어",
@@ -1896,7 +2050,8 @@
           "url": "https://refikanadol.com/works/machine-hallucinations-sphere/",
           "host": "refikanadol.com",
           "description": "Sphere의 초대형 외피를 AI 데이터 조각으로 전환한 퍼블릭 미디어 아트 프로젝트.",
-          "image": "https://refikanadol.com/wp-content/themes/refikanadol/img/ra-og.png"
+          "image": "images/2026-08-23-02.jpg",
+          "imageFallback": "https://refikanadol.com/wp-content/themes/refikanadol/img/ra-og.png"
         },
         {
           "title": "레인 룸",
@@ -1906,7 +2061,8 @@
           "url": "https://www.random-international.com/rain-room",
           "host": "random-international.com",
           "description": "관객의 움직임을 감지해 비를 멈추며 폭우 속을 젖지 않고 걷게 하는 인터랙티브 설치.",
-          "image": "https://images.squarespace-cdn.com/content/v1/663ca532b3e3797d82159fe2/a7ad32f2-8097-40b4-a2b3-efa464d2cf80/RAIN+ROOM%2C+2012++.jpeg?format=2500w"
+          "image": "images/2026-08-23-03.jpg",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/663ca532b3e3797d82159fe2/a7ad32f2-8097-40b4-a2b3-efa464d2cf80/RAIN+ROOM%2C+2012++.jpeg?format=2500w"
         },
         {
           "title": "드리프터",
@@ -1916,7 +2072,8 @@
           "url": "https://studiodrift.com/work/drifter/",
           "host": "studiodrift.com",
           "description": "거대한 콘크리트 블록이 중력을 벗어난 듯 부유하는 키네틱 설치.",
-          "image": "https://studiodrift.com/wp-content/uploads/2021/02/Copy-of-IMG_2336-2-1-scaled-e1658304637314.jpg"
+          "image": "images/2026-08-23-04.jpg",
+          "imageFallback": "https://studiodrift.com/wp-content/uploads/2021/02/Copy-of-IMG_2336-2-1-scaled-e1658304637314.jpg"
         },
         {
           "title": "우리는 공기의 바다에 산다",
@@ -1926,7 +2083,8 @@
           "url": "https://marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/",
           "host": "marshmallowlaserfeast.com",
           "description": "호흡과 심장 박동, 숲의 생태계를 공간 컴퓨팅으로 감각화한 몰입형 작품.",
-          "image": "https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml.jpg"
+          "image": "images/2026-08-23-05.jpg",
+          "imageFallback": "https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml.jpg"
         },
         {
           "title": "라이트 배리어",
@@ -1936,7 +2094,8 @@
           "url": "https://www.kimchiandchips.com/",
           "host": "kimchiandchips.com",
           "description": "수백 개의 빛줄기를 교차시켜 공중에 입체적인 형태를 만들어내는 볼류메트릭 설치.",
-          "image": "https://pub-def9ab096473429692fa64ce0ae78d6d.r2.dev/media/106b7d27ac1dcaaa/320.avif"
+          "image": "images/2026-08-23-06.jpg",
+          "imageFallback": "https://pub-def9ab096473429692fa64ce0ae78d6d.r2.dev/media/106b7d27ac1dcaaa/320.avif"
         },
         {
           "title": "빛의 아틀리에",
@@ -1946,7 +2105,8 @@
           "url": "https://www.atelier-lumieres.com/en",
           "host": "atelier-lumieres.com",
           "description": "산업 공간 전체를 다면 프로젝션과 음악으로 채우는 파리의 몰입형 디지털 아트 센터.",
-          "image": "https://www.atelier-lumieres.com/sites/default/files/styles/380x380/public/2026-02/michel-ange_david_atelier.jpg.webp?itok=mfW_jzlS"
+          "image": "images/2026-08-23-07.jpg",
+          "imageFallback": "https://www.atelier-lumieres.com/sites/default/files/styles/380x380/public/2026-02/michel-ange_david_atelier.jpg.webp?itok=mfW_jzlS"
         },
         {
           "title": "레인포레스트 루미나",
@@ -1956,7 +2116,8 @@
           "url": "https://momentfactory.com/products/rainforest-lumina",
           "host": "momentfactory.com",
           "description": "열대 우림의 야간 산책로를 빛·음향·프로젝션으로 확장한 몰입형 체험.",
-          "image": "https://momentfactory.com/cdn/shop/files/Moment_Factory_RAINFOREST_LUMINA-34-WS.jpg?v=1715019455"
+          "image": "images/2026-08-23-08.jpg",
+          "imageFallback": "https://momentfactory.com/cdn/shop/files/Moment_Factory_RAINFOREST_LUMINA-34-WS.jpg?v=1715019455"
         },
         {
           "title": "인공 식물학",
@@ -1976,7 +2137,8 @@
           "url": "https://www.cocolab.mx/en/experiences/white-canvas",
           "host": "cocolab.mx",
           "description": "다수의 무빙 라이트와 사운드가 관객을 둘러싸는 추상적 인터랙티브 공간.",
-          "image": "https://cocoweb-assets.s3.amazonaws.com/experiences/whitecanvas_1-1540406085.jpg"
+          "image": "images/2026-08-23-10.jpg",
+          "imageFallback": "https://cocoweb-assets.s3.amazonaws.com/experiences/whitecanvas_1-1540406085.jpg"
         },
         {
           "title": "와일드: 몰입형 사파리",
@@ -1986,7 +2148,7 @@
           "url": "https://www.illuminarium.com/",
           "host": "illuminarium.com",
           "description": "벽과 바닥의 대형 프로젝션·공간 음향·감각 효과로 구성한 몰입형 사파리 경험.",
-          "image": "https://www.facebook.com/tr?id=446066457835917&ev=PageView&noscript=1"
+          "image": null
         },
         {
           "title": "보레알 헤일로",
@@ -2006,7 +2168,8 @@
           "url": "https://montreal.mutek.org/en/news/mutek-2026-visual-campaign-sinjin-hawke-on-crafting-this-years-visual-world",
           "host": "montreal.mutek.org",
           "description": "Sinjin Hawke가 생물발광 생명체, 3D 작업, 생성 모델과 실시간 그래픽을 결합해 페스티벌의 시각 세계를 설계한 과정을 설명한다.",
-          "image": "https://medias.mutek.org/montreal/2026/_1200x630_crop_center-center_82_none/MUTEK27_HEADERBANNERMUTEKFESTIVAL_FORMONLY_1920X1080.png?mtime=1778535419"
+          "image": "images/2026-08-23-13.jpg",
+          "imageFallback": "https://medias.mutek.org/montreal/2026/_1200x630_crop_center-center_82_none/MUTEK27_HEADERBANNERMUTEKFESTIVAL_FORMONLY_1920X1080.png?mtime=1778535419"
         },
         {
           "title": "미래의 미술관을 설계한다는 것",
@@ -2016,7 +2179,8 @@
           "url": "https://ars.electronica.art/aeblog/en/2026/06/18/face-the-future/",
           "host": "ars.electronica.art",
           "description": "Gerfried Stocker가 Ars Electronica Center의 전시 설계와 기술 기반 예술을 관객에게 연결하는 방법을 돌아본다.",
-          "image": "https://ars.electronica.art/aeblog/files/2026/05/pic_01096_aec_aec_2001_hwaussentagface-1500x1000.jpg"
+          "image": "images/2026-08-23-14.jpg",
+          "imageFallback": "https://ars.electronica.art/aeblog/files/2026/05/pic_01096_aec_aec_2001_hwaussentagface-1500x1000.jpg"
         },
         {
           "title": "서울미디어시티비엔날레가 움직이는 이미지를 다루는 방식",
@@ -2026,7 +2190,8 @@
           "url": "https://artreview.com/the-interview-seoul-mediacity-biennale-2025/",
           "host": "artreview.com",
           "description": "미디어와 영화, 퍼포먼스, 음악을 하나의 전시 리듬으로 편집한 큐레이터들의 관점과 공간 구성을 살핀다.",
-          "image": "https://backend.artreview.com/wp-content/uploads/2025/08/2-1.-SMB13-No.-8.1862-The-Eye-of-God-RECTO-Georgiana-Houghton-copy.jpg"
+          "image": "images/2026-08-23-15.jpg",
+          "imageFallback": "https://backend.artreview.com/wp-content/uploads/2025/08/2-1.-SMB13-No.-8.1862-The-Eye-of-God-RECTO-Georgiana-Houghton-copy.jpg"
         },
         {
           "title": "빛 한 방울: 홀로그램과 퍼포머의 실시간 대화",
@@ -2046,7 +2211,8 @@
           "url": "https://tokyo.mutek.org/en/artists/lisa-mizuno-misola",
           "host": "tokyo.mutek.org",
           "description": "글리치, 프리즘, 유기적 디지털 질감을 실시간으로 조정하며 공간과 관객에 반응하는 신인 VJ의 시청각 퍼포먼스.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Screen-Shot-2026-03-19-at-11.41.41.png?mtime=1773888153"
+          "image": "images/2026-08-23-17.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Screen-Shot-2026-03-19-at-11.41.41.png?mtime=1773888153"
         },
         {
           "title": "Natalie Paneng: 디지털 세계를 무대로 만드는 법",
@@ -2056,7 +2222,8 @@
           "url": "https://montreal.mutek.org/en/artists/natalie-paneng",
           "host": "montreal.mutek.org",
           "description": "프로덕션 디자인과 디지털 기술을 결합해 대안적 현실과 캐릭터가 살아가는 비디오 설치를 만드는 신진 작가.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/HOTSPOT4XENO_SCREENSHOT_2022-08-08-152117.png?mtime=1659972079"
+          "image": "images/2026-08-23-18.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/HOTSPOT4XENO_SCREENSHOT_2022-08-08-152117.png?mtime=1659972079"
         },
         {
           "title": "Sabrina Ratté와 Guillaume Arseneault의 분산된 기억",
@@ -2066,7 +2233,8 @@
           "url": "https://montreal.mutek.org/en/artists/sabrina-ratte-guillaume-arseneault",
           "host": "montreal.mutek.org",
           "description": "건축적 3D 이미지와 인터랙티브 시스템을 통해 기억과 디지털 환경의 여러 관점을 공간 설치로 확장한다.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Sabrina-Ratte%CC%81-Guillaume-Arsenault.png?mtime=1628198971"
+          "image": "images/2026-08-23-19.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/Sabrina-Ratte%CC%81-Guillaume-Arsenault.png?mtime=1628198971"
         },
         {
           "title": "Hugues Clément: 유기적 풍경과 글리치의 충돌",
@@ -2076,10 +2244,11 @@
           "url": "https://tokyo.mutek.org/en/artists/hugues-clement",
           "host": "tokyo.mutek.org",
           "description": "전자음향, 3D 모델링과 그래픽 콜라주를 결합해 현실과 디지털의 경계를 흔드는 시청각 작업.",
-          "image": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/huguesclement.jpg?mtime=1585685286"
+          "image": "images/2026-08-23-20.jpg",
+          "imageFallback": "https://medias.mutek.org/artists/_1200x630_crop_center-center_82_none/huguesclement.jpg?mtime=1585685286"
         }
       ]
     }
   ],
-  "generatedAt": "2026-09-21T02:54:31.194Z"
+  "generatedAt": "2026-09-21T03:08:03.001Z"
 }

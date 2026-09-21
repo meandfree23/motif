@@ -25,12 +25,29 @@
     return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
 
-  function imageOrFallback(item, extraClass) {
-    if (item.image) {
-      return `<img src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=&quot;image-fallback&quot;><span>${escapeHtml(item.host || '')}</span></div>'"/>`;
-    }
-    return `<div class="image-fallback"><span>${escapeHtml(item.host || '')}</span></div>`;
+  // Image strategy (2026-09-21 hardening):
+  //  - item.image may be a repo-relative path (self-hosted, preferred: "images/YYYY-MM-DD/NN.jpg")
+  //    or an absolute external URL (legacy). item.imageFallback may hold the original external URL.
+  //  - On load error we retry: self-hosted -> external fallback -> cache-busted external -> host label.
+  //  - referrerpolicy="no-referrer" avoids hotlink-protection blocks on external hosts.
+  function imageOrFallback(item, eager) {
+    const host = escapeHtml(item.host || '');
+    const src = item.image ? escapeHtml(item.image) : '';
+    const fb = item.imageFallback ? escapeHtml(item.imageFallback) : '';
+    if (!src) return `<div class="image-fallback"><span>${host}</span></div>`;
+    return `<img src="${src}" data-fallback="${fb}" data-host="${host}" data-step="0" alt="" referrerpolicy="no-referrer" decoding="async" loading="${eager ? 'eager' : 'lazy'}" onerror="window.__motifImgError && window.__motifImgError(this)"/>`;
   }
+
+  window.__motifImgError = function (img) {
+    const step = Number(img.getAttribute('data-step') || '0');
+    const fb = img.getAttribute('data-fallback') || '';
+    const cur = img.getAttribute('src') || '';
+    const bust = (u) => u + (u.includes('?') ? '&' : '?') + 'r=' + Date.now();
+    if (step === 0 && fb && fb !== cur) { img.setAttribute('data-step', '1'); img.src = fb; return; }
+    if (step <= 1 && cur) { img.setAttribute('data-step', '2'); img.src = bust(cur.split('?')[0]); return; }
+    const host = img.getAttribute('data-host') || '';
+    img.parentElement.innerHTML = '<div class="image-fallback"><span>' + host + '</span></div>';
+  };
 
   function renderStoryMeta(item) {
     return `<p class="story-meta"><span>${escapeHtml(item.creator || '')}</span>${item.publishedAt ? `<time>${escapeHtml(fmtDate(item.publishedAt))}</time>` : ''}</p>`;
@@ -40,7 +57,7 @@
     return `
       <article class="lead-story">
         <a class="lead-image" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer" aria-label="${escapeHtml(item.title)} 원문 보기">
-          ${imageOrFallback(item)}
+          ${imageOrFallback(item, true)}
         </a>
         <div class="lead-copy">
           <p class="source-name">${escapeHtml(item.host || '')}</p>
@@ -215,7 +232,8 @@
     currentDate = date || null;
   }
 
-  fetch('./data.json', { cache: 'no-store' })
+  // Unique query string busts the GitHub Pages CDN cache (max-age=600), not just the browser cache.
+  fetch('./data.json?v=' + Date.now(), { cache: 'no-store' })
     .then(r => r.json())
     .then(data => {
       DATA = data;
