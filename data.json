@@ -1,6 +1,122 @@
 {
   "issues": [
     {
+      "date": "2026-09-22",
+      "title": "웃어야 열리는 거울과 가라앉는 하늘 — 도시가 매체로 말을 거는 방식",
+      "summary": "카를스루에 '미디어아트는 여기 있다', 린츠 아르스 일렉트로니카의 '헬로 월즈!', 몬트리올 뮤텍 빌라주 뉘메리크에서 오늘 소개하는 여섯 작업은 이끼·까마귀·거울·도시의 미래라는 인간 아닌 시점으로 세계를 되비춘다.",
+      "items": [
+        {
+          "title": "이리스아마즈 — 힘멜스슈투르츠",
+          "originalTitle": "Himmelssturz",
+          "creator": "IRIS-A-MAZ (Iris Holstein · Matthias Hederer)",
+          "publishedAt": "2026",
+          "url": "https://www.cityofmediaarts.de/en/werke/himmelssturz/",
+          "host": "cityofmediaarts.de",
+          "description": "IRIS-A-MAZ는 루벤스의 회화 '저주받은 자들의 추락'(1620)에서 출발해, 카를스루에 시네마테크 로비의 포노룩스 머신 두 대의 프로젝터로 끝나지 않는 추락 상태를 만든다. 로비 자체가 현실과 영화 세계 사이의 문턱이라는 점에서, 이 영상은 건축적 위치와 내용이 정확히 포개진다.",
+          "image": "images/2026-09-22-01.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/02/Himmelssturz_Kinemathek_FOTO_Andreas-Friedrich01-1024x683.jpg"
+        },
+        {
+          "title": "노리나 퀸테·안드레아스 횔도르퍼·VOLNA — 내일의 피라미드",
+          "originalTitle": "Pyramide von morgen",
+          "creator": "Norina Quinte · Andreas Hölldorfer (ato) · VOLNA",
+          "publishedAt": "2026",
+          "url": "https://www.cityofmediaarts.de/en/werke/pyramide-fuer-morgen/",
+          "host": "cityofmediaarts.de",
+          "description": "카를스루에 마르크트플라츠의 역사적 피라미드를 1:1로 복제한 이 구조물은 겉으로는 텅 빈 흰 건축이지만, 내부에 들어서면 VOLNA가 만든 비디오 게임 '더 파워 오브 투'가 기다린다. 방문자의 선택에 따라 과열·동결·균형이라는 다른 미래가 갈리며, 승패가 아니라 선택의 무게를 체험하게 한다.",
+          "image": "images/2026-09-22-02.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/Pyramide_08-2026-005-1024x683.jpg"
+        },
+        {
+          "title": "데지레 카비스·에벌린 페어블리트 — 이끼색 안경을 통해",
+          "originalTitle": "Through Moss-Colored Glasses",
+          "creator": "Desiree Kabis · Eveline Vervliet",
+          "publishedAt": "2026",
+          "url": "https://www.cityofmediaarts.de/en/werke/through-moss-colored-glasses-2026/",
+          "host": "cityofmediaarts.de",
+          "description": "웹캠이 방문자의 움직임을 포착해 화면 위를 떠다니는 색으로 옮기고, 그 위로 이끼들의 공생과 조용한 존재를 전하는 사운드가 흐른다. 인간 중심이 아닌 관점에서 시간과 성장, 공동체를 다시 묻는 설치다.",
+          "image": "images/2026-09-22-03.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/bothsides.jpg"
+        },
+        {
+          "title": "우주+임희영 — 노 버드",
+          "originalTitle": "No Bird",
+          "creator": "UJOO+LIMHEEYOUNG",
+          "publishedAt": "2026",
+          "url": "https://ars.electronica.art/futurelab/en/hello-worlds/",
+          "host": "ars.electronica.art",
+          "description": "고립된 섬에 살던 날지 못하는 새에서 착안해, 두 대의 기계가 모래 위를 움직인다. 한 기계는 새 발자국을 남기고 다른 기계는 그 뒤를 따라가며 지운다. 흔적을 남기는 동시에 지우는 이 순환은 인간이 새로운 영역으로 이동할 때 남기는 것과 지우는 것에 대한 질문으로 이어진다.",
+          "image": "images/2026-09-22-04.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/09/20260907_1007_vog_4126_3000x2000-1500x1000.jpg"
+        },
+        {
+          "title": "프레디 홍 — 알고리즘 속의 반영",
+          "originalTitle": "Algorithms in Reflection",
+          "creator": "Freddie Hong",
+          "publishedAt": "2026",
+          "url": "https://ars.electronica.art/futurelab/en/hello-worlds/",
+          "host": "ars.electronica.art",
+          "description": "표정을 읽는 인터랙티브 거울로, 방문자가 웃어야만 블라인드가 걷히고 거울이 모습을 비춘다. 웃음이 사라지면 다시 가려지는 이 장치는, 다른 사람이 아니라 기계가 표정의 진정성을 판정하게 함으로써 일상 속 표정과 몸짓의 데이터화를 체감하게 한다.",
+          "image": "images/2026-09-22-05.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/09/20260907_0959_vog_4060_3000x2000-1500x1000.jpg"
+        },
+        {
+          "title": "미리암 블로 — 언폴드",
+          "originalTitle": "UNFOLD",
+          "creator": "Myriam Bleau",
+          "publishedAt": "2026",
+          "url": "https://village-numerique.mutek.org/en/circuit/unfold-par-myriam-bleau",
+          "host": "village-numerique.mutek.org",
+          "description": "빛나는 LED 리본이 스스로 접히고 펼쳐지며 만드는 구조물로, 보는 각도에 따라 완전히 다른 형태로 보인다. 몬트리올 뮤텍 빌라주 뉘메리크 야외 회로에서 스크린이라는 매체의 물성 자체를 조각으로 되묻는다.",
+          "image": "images/2026-09-22-06.jpg",
+          "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/UNFOLD-MYRIAM-BLEAU/_750x9999_fit_center-center_99_none/14841/Myriam_Bleau_Unfold_Jeanne_Dubois_Pacquet_JDP2712.webp"
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "루벤스의 추락을 끝나지 않는 상태로 바꾼 로비의 두 프로젝터",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "IRIS-A-MAZ(이리스 홀슈타인, 마티아스 헤더러)는 2001년부터 신체와 매체, 공간을 겹쳐 작업해온 함부르크 기반 2인조다. 이번 작업은 카를스루에 시네마테크 로비에 상설된 포노룩스 머신을 위해 새로 제작됐다. 루벤스의 1620년작 '저주받은 자들의 추락'을 원점으로 삼아, 추락이라는 순간을 끝나지 않는 지속 상태로 바꾼다. 로비 자체가 실제 세계에서 영화 세계로 넘어가는 문턱이라는 점에서, 이 영상이 놓인 장소와 다루는 주제가 정확히 겹친다. 전시는 '미디어아트는 여기 있다' 프로그램의 일환으로 9월 13일까지 공개됐다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "포노룩스 머신은 시네마테크 로비에 설치된 장치로, 과거 영화 포스터 화가들이 대형 그림을 걸던 자리를 대신한다. 두 대의 프로젝터가 매핑 프로그래밍으로 서로 맞물려 작동하며, 만들어진 빛의 장면은 로비의 유리 파사드를 통과해 바깥 통로(파사주호프)까지 번져 나간다. 이리스아마즈는 이 두 프로젝터 사이의 겹침을 이용해 루벤스 그림 속 인물들이 떨어지는 궤적을 반복 루프로 짠다. 시작도 끝도 없는 낙하이기 때문에 관객은 한 장면을 붙잡을 수 없고, 몸의 무게중심이 흔들리는 감각만 남는다. 로비를 지나가는 관객의 동선과 낙하 이미지의 리듬이 겹치도록 루프 길이와 유리 파사드 바깥으로의 확산을 함께 계산한 점이 이 작업의 기술적 핵심이다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "낙하와 비상은 오래된 도상학적 모티프다. 파에톤과 이카루스는 오만으로 인해 추락했고, 성서에서 추락은 신의 심판으로 등장한다 — 루시퍼는 하늘에서 내던져지고, 최후의 심판에서 불의한 자들은 아래로 떨어진다. 루벤스의 '저주받은 자들의 추락'(1620)은 이 심판의 순간을 그린 대표작이다. 이리스아마즈는 이 회화적 참조를 영상의 루프 구조로 옮기면서, 추락을 처벌이 아니라 통제와 해방 사이를 오가는 상태로 다시 읽는다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "연출자에게 눈여겨볼 지점은 장소와 소재를 일치시킨 위치 선정이다. 로비라는 통과 공간에 '문턱'을 주제로 한 루프를 놓아, 관객이 미처 의식하기 전에 작품과 자신의 동선이 같은 문법으로 읽히게 만든다. 두 프로젝터의 매핑은 컷의 리듬이 아니라 겹침의 리듬을 만든다 — 하나의 이미지가 끝나기 전에 다음 이미지가 이미 시작되어 있어, 관객이 지금 어디쯤 떨어지고 있는지 가늠할 기준점을 잃는다. 유리 파사드 밖으로 새어나가는 빛까지 계산에 넣었다는 점은, 실내 연출이 외부 보행자의 시야까지 책임져야 한다는 것을 보여준다."
+          }
+        ],
+        "keywords": [
+          "미디어파사드",
+          "루프영상",
+          "도상학",
+          "임계공간",
+          "프로젝션매핑"
+        ],
+        "sources": [
+          {
+            "label": "Karlsruhe UNESCO City of Media Arts — Himmelssturz",
+            "url": "https://www.cityofmediaarts.de/en/werke/himmelssturz/"
+          },
+          {
+            "label": "Kinemathek Karlsruhe — PhonoLuxMaschine",
+            "url": "https://phonolux.kinemathek-karlsruhe.de/"
+          },
+          {
+            "label": "cityofmediaarts.de — IRIS-A-MAZ",
+            "url": "https://www.cityofmediaarts.de/en/kuenstler/iris-a-maz"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-09-21",
       "title": "소리와 이미지로 되돌아오는 것들 — 산호초에서 강물, 대기까지",
       "summary": "몸으로 감지되지 않던 환경의 변화를 소리와 확대된 이미지로 옮기는 작업들을 오늘 기록한다. 죽어가는 산호초를 되살리려는 수중 스피커부터 강물 속 미세플라스틱을 확대한 전자현미경 사진까지, 기술은 관찰을 대신하지 않고 관찰의 해상도를 높이는 도구로만 쓰인다.",
@@ -3373,5 +3489,5 @@
       }
     }
   ],
-  "generatedAt": "2026-09-21T04:11:56.996Z"
+  "generatedAt": "2026-09-21T22:06:12.698Z"
 }
