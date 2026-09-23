@@ -1,6 +1,122 @@
 {
   "issues": [
     {
+      "date": "2026-09-24",
+      "title": "베틀 위의 대화, 크롬 나무의 흔들림 — 카를스루에와 린츠가 미디어아트로 도시를 다시 쓰는 법",
+      "summary": "린츠의 퓨처랩은 방문객의 대화를 짜인 천으로, 데이터를 거울상으로 바꾸고, 카를스루에는 물시계 같은 침대와 가로등 시(詩)로 도시 표면을 다시 읽는다. 서울 출신 김윤철의 크롬 조형물이 그 사이에서 물성의 기준점을 잡아준다.",
+      "items": [
+        {
+          "title": "김윤철 — 머큐리얼 II",
+          "originalTitle": "MERCURIAL II",
+          "creator": "Yunchul Kim",
+          "publishedAt": "2026",
+          "url": "https://zkm.de/en/persons/yunchul-kim",
+          "host": "zkm.de",
+          "description": "크롬 코팅된 폴리카보네이트와 알루미늄으로 짠 나무 형상의 구조물이 모터로 서서히 움직이며 빛을 반사한다. ZKM 《Silver Egg》전에 놓인 이 작품은 2024년작 MERCURIAL의 연장선으로, 물질과 기계장치의 경계를 알레고리 없이 물성 자체로 보여준다.",
+          "image": "images/2026-09-24-01.jpg",
+          "imageFallback": "https://zkm.de/system/files/field_media_image/2026/07/02/140716/2026_Sivler_Egg_ZKM_Preview_215.jpg"
+        },
+        {
+          "title": "아르스 일렉트로니카 퓨처랩 — 딥 미러",
+          "originalTitle": "Deep Mirror",
+          "creator": "Ars Electronica Futurelab & Toyota Motor Corporation Advanced R&D and Engineering Company",
+          "publishedAt": "2026.09",
+          "url": "https://ars.electronica.art/center/en/deep-mirror/",
+          "host": "ars.electronica.art",
+          "description": "제스처와 표정을 인식하는 카메라가 방문객의 전시 관람 동선, 체류 시간, 발화 내용을 임시 데이터로 모아 '데이터 자아'를 구성한다. 《Hello Worlds!》 전시의 입구에 놓여 이후 모든 설치의 해석 방식에 영향을 주는 시스템의 관문 역할을 한다.",
+          "image": "images/2026-09-24-02.jpg",
+          "imageFallback": "https://ars.electronica.art/center/files/2026/08/2026-hello-worlds-c-tsch-158-von-6-1500x1000.jpg"
+        },
+        {
+          "title": "아르스 일렉트로니카 퓨처랩 — 레조넌스 룸",
+          "originalTitle": "Resonance Loom",
+          "creator": "Ars Electronica Futurelab & Toyota Motor Corporation Advanced R&D and Engineering Company",
+          "publishedAt": "2026.09",
+          "url": "https://ars.electronica.art/center/en/resonance-loom/",
+          "host": "ars.electronica.art",
+          "description": "방문객들이 나눈 미래에 대한 대화가 물리적 베틀과 연동된 디지털 베틀 위에서 실시간으로 직물 패턴으로 짜인다. 실과 텍스트가 같은 라틴어 어원(texere)을 공유한다는 점에서 출발해, 대화를 시각적 조직으로 번역하는 장치다.",
+          "image": "images/2026-09-24-03.jpg",
+          "imageFallback": "https://ars.electronica.art/center/files/2026/08/20260907_1403_vog_4621_3000x2000-1500x1000.jpg"
+        },
+        {
+          "title": "톰 비들프 — 원 웨이 오어 어나더",
+          "originalTitle": "One way or another",
+          "creator": "Tom Biddulph",
+          "publishedAt": "2022/2026",
+          "url": "https://www.cityofmediaarts.de/en/werke/one-way-or-another-2022-2026/",
+          "host": "cityofmediaarts.de",
+          "description": "다섯 개의 가로등에 나눠 붙인 도로표지판 형태의 짧은 시가 카를스루에 시내를 가로지르며 하나의 문장을 완성한다. 원래 잉글랜드 북부 라이트 페스티벌들을 위해 제작된 작업을 이번엔 카를스루에 현장에 맞춰 다시 배치했다.",
+          "image": "images/2026-09-24-04.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/K3A1737-1024x683.jpg"
+        },
+        {
+          "title": "레헬 라요스 · 다니엘라 바르가스 — 메모라케",
+          "originalTitle": "Memoraque",
+          "creator": "Lehel Lajos, Daniela Vargas",
+          "publishedAt": "2026",
+          "url": "https://www.cityofmediaarts.de/en/werke/memoraque-2026/",
+          "host": "cityofmediaarts.de",
+          "description": "천으로 덮인 침대가 물의 순환 장치로 작동해 매트리스 중앙 대야에 물이 차고 다시 비워지길 반복하며 나지막한 물소리를 낸다. 콜롬비아 칼리와 카를스루에를 잇는 교환 레지던시 프로젝트로, 이전 작 《No Longer Not Yet》의 '나뉜 침대'를 물이 매개하는 문턱으로 확장했다.",
+          "image": "images/2026-09-24-05.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/V5A6137-683x1024.jpg"
+        },
+        {
+          "title": "켄토 도미요시 — 라이트 업 바인브레너",
+          "originalTitle": "Light up Weinbrenner",
+          "creator": "Kento Tomiyoshi (flightgraf)",
+          "publishedAt": "2026",
+          "url": "https://www.cityofmediaarts.de/en/werke/light-up-weinbrenner-2026/",
+          "host": "cityofmediaarts.de",
+          "description": "카를스루에 건축가 프리드리히 바인브레너의 건물들을 본뜬 전전(戰前) 시기 목조 모형들 — 원래 성당의 크리스마스 구유극 배경으로 쓰이던 것 — 을 빛으로 다시 조명해 역사적 유산을 낯설게 바라보게 만든다.",
+          "image": "images/2026-09-24-06.jpg",
+          "imageFallback": "https://www.cityofmediaarts.de/wp-content/uploads/2026/07/V5A6539-1024x683.jpg"
+        }
+      ],
+      "focus": {
+        "itemIndex": 2,
+        "headline": "대화를 실로 바꾸는 베틀, 정답 없는 미래를 짜는 방식",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "린츠 아르스 일렉트로니카 센터의 《Hello Worlds!》 상설전은 2026년 9월 개관 이후 토요타와의 공동연구 'Future Humanity Project' 결과물을 연속 공개해왔다. 레조넌스 룸은 이 전시의 마지막 구역 'Hello Us!'에 놓여, 앞선 개인화 설치들(딥 미러, 하이브리드 씽킹)이 다룬 '나'의 문제를 '우리'로 확장한다. 방문객의 실제 대화가 재료가 된다는 점에서, 완성된 메시지를 전달하는 대신 매 순간 다른 결과물을 만들어내는 작업이다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "설치는 물리적 베틀과 대형 디지털 베틀 두 층위로 이루어진다. 방문객들이 보존하고 싶은 것, 걱정되는 것, 미래에 바라는 가치를 놓고 나눈 대화가 AI 기반 시스템을 거쳐 실시간으로 패턴화되고, 이 패턴이 디지털 태피스트리 위에 씨실과 날실처럼 축적된다. 비슷한 생각은 서로 가까이 모이고 다른 관점은 그대로 남아, 하나의 정답으로 수렴시키지 않고 다양성 자체를 가시화하는 방식으로 짜임이 설계됐다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "라틴어 'texere'(짜다)가 텍스트(text)와 텍스타일(textile) 양쪽의 어원이라는 사실에서 작업의 개념적 출발점을 확인할 수 있다. 실을 엮어 패턴을 만들어온 수천 년의 직조 기술과, 정보를 엮어 의미를 만드는 오늘날의 AI 시스템을 같은 '짜기'의 계보 위에 놓는다는 점에서, 개별 대화를 데이터로 환원하지 않고 물질적 은유로 되돌리려는 시도로 읽힌다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "물리적 베틀의 기계음과 디지털 태피스트리가 자라나는 속도를 어떻게 맞추느냐가 이 공간의 리듬을 결정한다. 카메라가 아니라 대화 자체가 입력값이라는 점에서, 관객이 말하는 위치와 마이크의 지향성, 그리고 다음 관객이 이전 패턴을 처음 마주하는 시점의 조명 밝기를 함께 설계해야 '내 말이 남았다'는 감각이 생긴다. 개인 인터뷰보다 두 명 이상이 나누는 대화 톤을 먼저 잡고, 태피스트리가 자라는 속도에 맞춰 컷을 끊는 편이 설치의 논리에 맞다."
+          }
+        ],
+        "keywords": [
+          "Ars Electronica Futurelab",
+          "Hello Worlds!",
+          "직조",
+          "집단 대화",
+          "Future Humanity Project"
+        ],
+        "sources": [
+          {
+            "label": "Ars Electronica Center — Resonance Loom",
+            "url": "https://ars.electronica.art/center/en/resonance-loom/"
+          },
+          {
+            "label": "Ars Electronica Futurelab — Hello Worlds!",
+            "url": "https://ars.electronica.art/futurelab/en/hello-worlds"
+          },
+          {
+            "label": "Behind the Prototype: Resonance Loom",
+            "url": "https://ars.electronica.art/negotiatinghumanity/en/view/hello-worlds-behind-the-prototype-resonance-loom-3a038ddb450c81999163f10a54cdcaa0"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-09-23",
       "title": "까마귀와 대화하는 기계, 종이로 지어진 소속감",
       "summary": "AI가 인간과 까마귀 사이 통역을 자처하는 실험부터 관료제의 서류를 조각으로 되돌리는 설치까지, 오늘 다룬 여섯 작업은 무엇이 정말 옮겨지고 무엇이 유실되는지를 각자의 매체로 되묻는다.",
@@ -3601,5 +3717,5 @@
       }
     }
   ],
-  "generatedAt": "2026-09-23T00:51:28.937Z"
+  "generatedAt": "2026-09-23T22:04:31.474Z"
 }
