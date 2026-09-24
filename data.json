@@ -1,6 +1,118 @@
 {
   "issues": [
     {
+      "date": "2026-09-25",
+      "title": "맨홀 밑 배관에서 원자 속 큐비트까지 — 인프라를 감각으로 번역하는 이번 주",
+      "summary": "영국 반즐리에서 개막한 AND Festival 2026이 지하 배관과 통신망을 사운드·AR·게임으로 드러내고, 뮌헨 ERES 재단은 원자 단위의 양자컴퓨팅을 증강현실로 시각화한다. 여섯 작업 모두 눈에 보이지 않는 인프라를 감각의 언어로 옮기는 방식에 집중한다.",
+      "items": [
+        {
+          "title": "모놈 — 어쿠스틱 메모리스",
+          "originalTitle": "Acoustic Memories",
+          "creator": "MONOM",
+          "publishedAt": "2026.09",
+          "url": "https://www.andfestival.org.uk/events/acoustic-memories-monom/",
+          "host": "andfestival.org.uk",
+          "description": "MONOM이 AND Festival을 위해 새로 만든 4D 공간음향 설치작으로, 반즐리 지하에 묻힌 채굴·산업 인프라의 소리를 아카이브 자료와 뒤섞어 어두운 공간 안에 펼쳐놓는다. 사운드를 일종의 공간 고고학으로 다루며, 노동과 산업화의 흔적이 세대를 가로질러 어떻게 남는지를 청각으로 추적한다.",
+          "image": "images/2026-09-25-01.jpg",
+          "imageFallback": "https://www.andfestival.org.uk/app/uploads/2026/07/SPATIAL-at-MONOM-Studios-by-Becca-Crawford-1-scaled.jpg"
+        },
+        {
+          "title": "디안 조이 — 크럼빌",
+          "originalTitle": "Krumville",
+          "creator": "Dian Joy",
+          "publishedAt": "2026.09",
+          "url": "https://www.andfestival.org.uk/events/krumville-dian-joy/",
+          "host": "andfestival.org.uk",
+          "description": "AI 이미지 생성으로 만든 가상의 마을 '크럼빌'을 실제 배우와 로케이션 촬영으로 다시 무대화해, 다섯 개의 동기화된 화면에 반복과 메아리로 엮은 하루를 펼쳐놓는다. 소셜미디어 이미지와 개인적 기억을 뒤섞어 알고리즘이 어떻게 서사를 만들어내는지를 되묻는 작업이다.",
+          "image": "images/2026-09-25-02.jpg",
+          "imageFallback": "https://www.andfestival.org.uk/app/uploads/2026/07/Credit-Dian-Joy-scaled.jpeg"
+        },
+        {
+          "title": "재즈민 모리스 — 노던 패시지: 어 퀘스트 투 호피안",
+          "originalTitle": "Northern Passage: A Quest To Hopian",
+          "creator": "Jazmin Morris",
+          "publishedAt": "2026.09",
+          "url": "https://www.andfestival.org.uk/events/northern-passage-a-quest-to-hopian-jazmin-morris",
+          "host": "andfestival.org.uk",
+          "description": "반즐리와 돈캐스터의 실제 장소를 3D 스캔해 만든 3단계 인터랙티브 게임으로, 버려진 건물과 부서진 버스 정류장이 치유의 정원과 커뮤니티 도서관으로 바뀌는 과정을 플레이어가 직접 조작하며 확인한다. 북잉글랜드 노동계급 마을에서 성장한 작가 자신의 경험을 놀이의 언어로 재구성했다.",
+          "image": "images/2026-09-25-03.jpg",
+          "imageFallback": "https://www.andfestival.org.uk/app/uploads/2026/07/Credit-Jazmin-Morris.png"
+        },
+        {
+          "title": "클러스터덕 — (W)HOLE",
+          "originalTitle": "(W)HOLE",
+          "creator": "Clusterduck",
+          "publishedAt": "2026.09",
+          "url": "https://www.andfestival.org.uk/events/whole-clusterduck/",
+          "host": "andfestival.org.uk",
+          "description": "거리의 맨홀 뚜껑 여섯 개를 QR 포털로 바꿔 땅·클라우드·도시·주소·인터페이스·사용자라는 여섯 층위의 디지털 인프라를 증강현실로 드러내는 공공미술 프로젝트다. 취리히 공공미술 프로그램에서 시작된 작업이 반즐리 버전으로 새로 이식되며 조각·사운드·3D 모델을 결합한다.",
+          "image": "images/2026-09-25-04.jpg",
+          "imageFallback": "https://www.andfestival.org.uk/app/uploads/2026/07/Clusterduck-WHOLE_City_Lindenhof2-scaled-e1783590997144.jpg"
+        },
+        {
+          "title": "메타헤이븐 — 카오스 시어리",
+          "originalTitle": "Chaos Theory",
+          "creator": "Metahaven",
+          "publishedAt": "2021",
+          "url": "https://www.andfestival.org.uk/events/chaos-theory-metahaven/",
+          "host": "andfestival.org.uk",
+          "description": "암스테르담 근교에서 촬영한 두 인물의 대화를 비선형적으로 엮은 오디오비주얼 시로, 대중교통 좌석에 쓰이는 표준 직물 '비거'를 설치 재료로 가져와 영화 속 풍경과 반즐리 전시 공간을 연결한다. 육아와 유년기를 둘러싼 사변을 서사 대신 이미지의 반복으로 전달하며 구겐하임 빌바오 소장품이기도 하다.",
+          "image": "images/2026-09-25-05.jpg",
+          "imageFallback": "https://www.andfestival.org.uk/app/uploads/2026/06/Screenshot-2026-06-11-at-09.30.40-1.png"
+        },
+        {
+          "title": "타미코 티엘 & /p — 파라독Qc/머신스",
+          "originalTitle": "ParadoQc/Machines",
+          "creator": "Tamiko Thiel and /p",
+          "publishedAt": "2025",
+          "url": "https://tamikothiel.com/paradoqc/",
+          "host": "tamikothiel.com",
+          "description": "중성원자 양자컴퓨터의 작동 과정을 레이저 냉각부터 얽힘 상태의 형광 판독까지 증강현실 라이브스트림으로 시각화한 설치작으로, 뮌헨 ERES 재단의 양자물리 전시 폐막을 앞두고 있다. 방문객은 스마트폰 화면을 통해 눈에 보이지 않는 원자의 양자 상태를 실시간으로 들여다본다.",
+          "image": "images/2026-09-25-06.jpg",
+          "imageFallback": "https://tamikothiel.com/paradoqc/ParadoQc_LIVE-_slash-p-Tamiko_Aufbau_6255c3_1024w.jpg"
+        }
+      ],
+      "focus": {
+        "itemIndex": 1,
+        "headline": "알고리즘이 그린 마을을 배우의 몸으로 되감는 순환 구조",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "크럼빌은 소셜미디어 이미지와 개인적 기억을 뒤섞어 AI로 가상의 마을을 그려낸 뒤, 그 이미지를 다시 실제 장소와 배우로 촬영해 무대에 세운다. 서사가 아니라 반복과 메아리로 구성된다는 점에서, 알고리즘이 만들어내는 이미지가 어떻게 우리의 기억과 서사 감각을 재편하는지를 직접 실험하는 작업이다. 반즐리 시빅 뒤편, 한때 쇼핑몰이었으나 지금은 멈춘 에스컬레이터만 남은 공간에서 상영된다는 점도 작업의 주제와 정확히 겹친다 — 도래하지 않은 미래의 잔해 위에서, 데이터가 이미지가 되고 이미지가 다시 연기가 되는 순환을 지켜보게 만든다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "작업은 두 층의 이미지 생성 과정을 거친다. 먼저 소셜미디어에서 수집한 이미지와 작가 자신의 기억을 재료 삼아 AI 이미지 생성으로 '크럼빌'이라는 가상의 마을과 그 안의 인물·사건을 만들어낸다. 이렇게 나온 기이한 이미지들은 다시 실제 로케이션에서 배우들의 연기로 재촬영되어, AI가 상상한 장면과 카메라가 포착한 장면이 서로를 모사하는 재귀적 루프를 이룬다. 이 결과물은 공장, 번화가, 극장, 다이너, 지하도라는 다섯 개의 서로 다른 환경으로 나뉘어 다섯 대의 스크린에 동기화되어 상영되며, 한 시간에 세 번 20분 길이로 반복 재생된다. 관객은 화면 사이를 오가며 같은 인물과 모티프가 다른 맥락에서 반복 출현하는 것을 목격한다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "작가 디안 조이는 2024년 아레바이트 갤러리 개인전 '알렉산드리아의 제네시스'에서 인터넷 포럼에서 퍼진 유전자 신화가 밈을 통해 변주되는 과정을 다룬 바 있다. 크럼빌은 그 관심을 온라인 이미지 생성 문화로 확장한 작업으로, 다큐멘터리적 리서치와 픽션, 개인 서사와 알고리즘적 이미지 생성을 뒤섞는 조이 특유의 방법론을 잇는다. AND Festival이 채택한 '인프라' 주제 안에서는 디지털 이미지 생성 자체를 하나의 숨은 인프라로 다루는 시도로 읽힌다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "다섯 개의 환경마다 다른 조명 톤을 준 것이 눈에 띈다 — 공장은 하드한 사이드광으로 노동의 반복을 강조하고, 다이너는 정지된 행동의 루프를 표현하려는 듯 플랫한 광량을 유지한다. 개퍼 벨 팔마노와 스파크 스티븐 올라이트가 크레딧에 따로 명시된 데서 보듯, 조명 설계를 촬영 단계에서부터 AI 생성 이미지의 색감에 맞춘 흔적이 보인다. 편집과 VFX를 작가 본인이 직접 겸했다는 점도 특기할 만하다 — AI 이미지와 실사 푸티지 사이의 이음매를 감추기보다 드러내는 컷 리듬을 택했을 가능성을 시사한다."
+          }
+        ],
+        "keywords": [
+          "AI 이미지 생성",
+          "다중 스크린",
+          "알고리즘 서사",
+          "재귀적 이미지",
+          "반즐리"
+        ],
+        "sources": [
+          {
+            "label": "AND Festival — Krumville 작품 페이지",
+            "url": "https://www.andfestival.org.uk/events/krumville-dian-joy/"
+          },
+          {
+            "label": "AND Festival — Dian Joy 아티스트 소개",
+            "url": "https://www.andfestival.org.uk/artists/dian-joy/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-09-24",
       "title": "베틀 위의 대화, 크롬 나무의 흔들림 — 카를스루에와 린츠가 미디어아트로 도시를 다시 쓰는 법",
       "summary": "린츠의 퓨처랩은 방문객의 대화를 짜인 천으로, 데이터를 거울상으로 바꾸고, 카를스루에는 물시계 같은 침대와 가로등 시(詩)로 도시 표면을 다시 읽는다. 서울 출신 김윤철의 크롬 조형물이 그 사이에서 물성의 기준점을 잡아준다.",
@@ -3717,5 +3829,5 @@
       }
     }
   ],
-  "generatedAt": "2026-09-23T22:04:31.474Z"
+  "generatedAt": "2026-09-24T22:07:48.690Z"
 }
