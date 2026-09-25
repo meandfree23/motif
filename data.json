@@ -1,6 +1,126 @@
 {
   "issues": [
     {
+      "date": "2026-09-26",
+      "title": "황금빛 나일 삼각주부터 목소리를 되돌려주는 거울까지 — 미래를 손에 쥐는 방식들",
+      "summary": "글리치로 재구성한 나일 삼각주 항공 풍경부터, 몸에 지니는 AI 프로토타입, 스스로 만든 안료로 뜬 파란 활공기까지, 이번 주는 기술이 신체·풍경·시간과 맺는 관계를 직접 만져볼 수 있는 작업들을 모았다.",
+      "items": [
+        {
+          "title": "셰퍼톰 · 줄리 — 하피 투모로우",
+          "originalTitle": "Hapi Tomorrow",
+          "creator": "Chepertom (Thomas Collet) · ZULI",
+          "publishedAt": "2026.09.25",
+          "url": "https://www.andfestival.org.uk/events/hapi-tomorrow-chepertom-and-zuli/",
+          "host": "andfestival.org.uk",
+          "description": "영상 압축 오류(데이터모싱)로 나일 삼각주의 항공 풍경을 그려낸 오디오비주얼 작품이 AND Festival 2026 SERVER 프로그램에서 세계 초연됐다. 문명이 시작된 땅이 기후위기로 잠기는 순환을, 카이로 출신 프로듀서 줄리의 샘플 해체 사운드와 맞물려 보여준다.",
+          "image": "images/2026-09-26-01.jpg",
+          "imageFallback": "https://www.andfestival.org.uk/app/uploads/2026/07/ggmp-gold1-1-1920x1349.png"
+        },
+        {
+          "title": "얀 자위더벨트 — 평범함 너머의 대화",
+          "originalTitle": "Conversations Beyond the Ordinary",
+          "creator": "Jan Zuiderveld",
+          "publishedAt": "2026.09",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/conversations-beyond-the-ordinary-3d438ddb450c8023be28fa1d5e6650db/",
+          "host": "ars.electronica.art",
+          "description": "커피머신·전자레인지·복사기 같은 사무 가전에 생성형 AI를 심어 저마다 다른 성격을 부여한 인터랙티브 연작이다. 협조를 거부하는 커피머신, 낙서를 창작물로 재해석하는 복사기를 통해 인간과 사물 사이 권력 관계를 유머러스하게 되짚는다.",
+          "image": "images/2026-09-26-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/09/conversations2-1.jpg"
+        },
+        {
+          "title": "아르스 일렉트로니카 퓨처랩 · 토요타 — 앰플리파이 미: 비전스",
+          "originalTitle": "Amplify Me – Visions: walk me, sense me, wear me, surround me, follow me",
+          "creator": "Ars Electronica Futurelab · Toyota Motor Corporation Advanced R&D and Engineering Company",
+          "publishedAt": "2026.09",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/amplify-me-visions-walk-me-sense-me-wear-me-surround-me-follow-me-3d438ddb450c8043a441ec3efca2b6aa",
+          "host": "ars.electronica.art",
+          "description": "걷기·감지·착용·둘러싸기·따라오기라는 다섯 갈래로 나뉜 신체 확장 프로토타입 모음이다. AI를 별도의 기계가 아니라 몸에 지니고 다니는 존재로 상정해, 이동성과 지각이 앞으로 어떻게 재편될지를 실물 시제품으로 실험한다.",
+          "image": "images/2026-09-26-03.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/09/20260907_1540_vog_4936_3000x2000-1500x1000.jpg"
+        },
+        {
+          "title": "아르스 일렉트로니카 퓨처랩 · 토요타 — 하이브리드 씽킹",
+          "originalTitle": "Amplify Me Experience: Hybrid Thinking",
+          "creator": "Ars Electronica Futurelab · Toyota Motor Corporation Advanced R&D and Engineering Company",
+          "publishedAt": "2026.09",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/amplify-me-experience-hybrid-thinking-3d438ddb450c80858defe0fb7498d6c4",
+          "host": "ars.electronica.art",
+          "description": "방문객이 짧은 음성 샘플로 자신의 음성 클론을 만들면, 그 목소리로 낭독되는 AI의 생각을 골전도 오디오로 듣는 체험형 설치다. 내 목소리로 말하는 낯선 생각이라는 이중 감각을 통해 사고의 경계가 흐려지는 순간을 실험한다.",
+          "image": "images/2026-09-26-04.jpg",
+          "imageFallback": "https://ars.electronica.art/futurelab/files/2026/09/20260907_1522_vog_4901_3000x2000-1500x1000.jpg"
+        },
+        {
+          "title": "토마스 포이어슈타인 — 에로노트 (행성의 푸름)",
+          "originalTitle": "ERONAUT (Planetares Blau)",
+          "creator": "Thomas Feuerstein",
+          "publishedAt": "2026",
+          "url": "https://zkm.de/en/persons/thomas-feuerstein",
+          "host": "zkm.de",
+          "description": "직접 개발한 생태적 안료로 만든 울트라마린빛 활공기가 ZKM 아트리움 천장에 떠 있는 21부작 설치의 일부다. 에로스와 프시케 신화를 물질의 색으로 번역하며, 공장에서 만든 안료가 아니라 작가가 특허받은 공정으로 자체 제작한 파란빛이 핵심이다.",
+          "image": "images/2026-09-26-05.jpg",
+          "imageFallback": "https://zkm.de/system/files/field_media_image/2026/07/02/135640/2026_Sivler_Egg_ZKM_Preview_167.jpg"
+        },
+        {
+          "title": "트리스탄 슐체 — 차이트가이스트",
+          "originalTitle": "ZEITGEIST",
+          "creator": "Tristan Schulze",
+          "publishedAt": "2026",
+          "url": "https://tristanschulze.de/projects/zeitgeist",
+          "host": "tristanschulze.de",
+          "description": "일곱 폭의 직물 태피스트리가 자기기만에서 심연을 거쳐 다시 제자리로 돌아오는 순환 서사를 그린다. 거울 가면을 쓴 인물이 반복 등장하며, 손으로 짠 것처럼 보이지만 실제로는 인쇄된 표면 자체가 피드가 약속하는 충만함의 기만을 은유한다.",
+          "image": "images/2026-09-26-06.jpg",
+          "imageFallback": "https://zkm.de/system/files/field_media_image/2026/07/02/140413/2026_Sivler_Egg_ZKM_Preview_232.jpg"
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "압축 오류로 다시 그린 나일 삼각주, 문명의 요람에서 침수의 미래로",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "Hapi Tomorrow는 2026년 9월 25일 AND Festival의 SERVER 프로그램에서 세계 초연됐다. 제작 자체는 영국문화원이 이집트에서 COP27 전후로 지원한 커미션에서 시작됐고, 완성작은 몇 년 뒤인 올해 요크셔 반즐리에서 처음 공개됐다. 나일 삼각주는 인류 문명이 시작된 '비옥한 초승달' 지역이자 지금은 해수면 상승으로 가장 먼저 잠기는 땅 중 하나로 꼽힌다. 작품은 이 지역을 인공위성이 내려다보는 듯한 황금빛 항공 시점으로 담아, 문명의 탄생과 소멸이 같은 화면 위에서 반복되는 순환 구조를 제시한다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "시각을 맡은 셰퍼톰(토마 콜레)은 영상 압축 코덱의 작동 원리를 스스로 학습한 뒤 그 오류를 의도적으로 유발하는 글리치 아티스트다. 그는 ffmpeg으로 프레임 간 예측 정보를 깨뜨려 이미지가 서로 스며들듯 번지게 만드는 데이터모싱을 핵심 기법으로 쓰는데, 이는 압축이 '지운' 정보의 흔적을 역으로 드러내는 작업에 가깝다. 이 영상에는 산업 활동이 풍경에 남긴 흔적을 다루는 그의 연작 'ROW'의 문제의식이 그대로 이어진다. 음악을 맡은 카이로 출신 프로듀서 줄리(아메드 엘가졸리)는 샘플을 극단적으로 압박하고 분해해 재조립하는 사운드 작업으로 알려져 있어, 시각의 압축 오류와 청각의 샘플 해체가 같은 층위에서 공명한다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "셰퍼톰은 자신의 추상 작업이 타르콥스키와 구로사와 같은 관조적 영화감독들, 그리고 건축·추상회화·아르 브뤼에서 영향받았다고 말한 바 있다. 글리치 아티스트 콜렉티브 커뮤니티에서 기법과 이론을 함께 벼려왔고, 이전에는 아리아나 그란데의 'imagine' 뮤직비디오에 글리치 비주얼로 참여했다. 줄리는 리 갬블의 UIQ 레이블에서 앨범 'Terminal'을 낸 이력이 있으며, 에이펙스 트윈과 오토크레이가 지지한 카이로 언더그라운드 신 출신 프로듀서다. 이 작품은 두 사람이 처음으로 나일 삼각주라는 공통의 지리적 원점에서 만난 결과물이다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "화면은 인물이나 사건이 아니라 지형 자체를 주인공으로 세운다. 카메라 컷 대신 픽셀 블록이 깨지고 다시 붙는 리듬이 편집을 대신하는데, 이 리듬이 전자음악의 비트가 아니라 사운드의 압축·해체 타이밍에 맞춰 설계된 흔적이 읽힌다. 사운드가 먼저 결정되고 그 위에 화면의 붕괴 지점이 얹히는 순서로, 상업 영상에서 흔한 '편집이 음악을 따라간다'는 원칙을 극단까지 밀어붙인 사례다. 항공 시점을 고집한 것도 눈여겨볼 지점이다. 인물의 신체 스케일을 배제함으로써 관객은 삼각주 전체를 하나의 유기체처럼 읽게 되고, 재난은 사건이 아니라 서서히 진행되는 지형 변화로 체감된다."
+          }
+        ],
+        "keywords": [
+          "글리치",
+          "데이터모싱",
+          "나일 삼각주",
+          "기후위기",
+          "사운드-비주얼 협업"
+        ],
+        "sources": [
+          {
+            "label": "AND Festival — Hapi Tomorrow 작품 페이지",
+            "url": "https://www.andfestival.org.uk/events/hapi-tomorrow-chepertom-and-zuli/"
+          },
+          {
+            "label": "Chepertom 공식 홈페이지 (작업 방식/연작 소개)",
+            "url": "https://chepertom.net/"
+          },
+          {
+            "label": "vapor95 — Thomas Collet 인터뷰 (데이터모싱 기법)",
+            "url": "https://vapor95.com/blogs/darknet/artist-spotlight-thomas-collet"
+          },
+          {
+            "label": "ZULI 공식 바이오",
+            "url": "https://zulimusic.xyz/bio/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-09-25",
       "title": "맨홀 밑 배관에서 원자 속 큐비트까지 — 인프라를 감각으로 번역하는 이번 주",
       "summary": "영국 반즐리에서 개막한 AND Festival 2026이 지하 배관과 통신망을 사운드·AR·게임으로 드러내고, 뮌헨 ERES 재단은 원자 단위의 양자컴퓨팅을 증강현실로 시각화한다. 여섯 작업 모두 눈에 보이지 않는 인프라를 감각의 언어로 옮기는 방식에 집중한다.",
@@ -3829,5 +3949,5 @@
       }
     }
   ],
-  "generatedAt": "2026-09-24T22:07:48.690Z"
+  "generatedAt": "2026-09-25T22:07:14.101Z"
 }
