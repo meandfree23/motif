@@ -5,10 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>MOTIF — Media Art Journal</title>
 <meta name="description" content="An independent journal of contemporary media art, read from around the world."/>
-<link rel="stylesheet" href="./style.css?v=2"/>
-<link rel="stylesheet" href="./motif2.css?v=2"/>
+<link rel="stylesheet" href="./style.css?v=3"/>
+<link rel="stylesheet" href="./motif2.css?v=3"/>
 </head>
 <body>
+<div class="read-progress" id="readProgress"></div>
 <div class="site-frame">
   <header class="journal-header">
     <button class="wordmark" type="button" aria-label="MOTIF 최신 호" id="logoBtn">MOTIF</button>
@@ -21,10 +22,13 @@
       <button type="button" data-view-nav="toolkit">Toolkit</button>
       <button type="button" data-view-nav="archive">Archive</button>
     </nav>
-    <form class="journal-search" role="search" id="searchForm">
-      <input aria-label="검색어 또는 브리프" placeholder="Search or brief" id="searchInput"/>
-      <button type="submit" aria-label="검색">↗</button>
-    </form>
+    <div class="header-tools">
+      <form class="journal-search" role="search" id="searchForm">
+        <input aria-label="검색어 또는 브리프" placeholder="브리프나 키워드로 찾기" id="searchInput"/>
+        <button type="submit" aria-label="찾기">↗</button>
+      </form>
+      <button type="button" class="board-btn" id="boardBtn" aria-label="담아 둔 작업">Board <i>0</i></button>
+    </div>
   </header>
   <main id="mainContent"></main>
   <footer>
@@ -32,6 +36,6 @@
     <span>Seoul · read worldwide · <span id="yearSpan"></span></span>
   </footer>
 </div>
-<script src="./app.js?v=2"></script>
+<script src="./app.js?v=3"></script>
 </body>
 </html>
