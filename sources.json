@@ -1,0 +1,461 @@
+{
+ "updatedAt": "2026-09-26",
+ "rule": "하루 한 출처(도메인) 최대 2개, 한 이슈에 최소 3개 권역, 30일 기준 한 권역 50% 이하",
+ "sources": [
+  {
+   "name": "Ars Electronica",
+   "url": "https://ars.electronica.art/",
+   "region": "유럽",
+   "place": "린츠, 오스트리아",
+   "type": "페스티벌"
+  },
+  {
+   "name": "ZKM Center for Art and Media",
+   "url": "https://zkm.de/en",
+   "region": "유럽",
+   "place": "카를스루에, 독일",
+   "type": "기관"
+  },
+  {
+   "name": "transmediale",
+   "url": "https://transmediale.de/",
+   "region": "유럽",
+   "place": "베를린, 독일",
+   "type": "페스티벌"
+  },
+  {
+   "name": "CTM Festival",
+   "url": "https://www.ctm-festival.de/",
+   "region": "유럽",
+   "place": "베를린, 독일",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Sonic Acts",
+   "url": "https://sonicacts.com/",
+   "region": "유럽",
+   "place": "암스테르담, 네덜란드",
+   "type": "페스티벌"
+  },
+  {
+   "name": "HEK (House of Electronic Arts)",
+   "url": "https://www.hek.ch/en/",
+   "region": "유럽",
+   "place": "바젤, 스위스",
+   "type": "기관"
+  },
+  {
+   "name": "iMAL",
+   "url": "https://imal.org/en",
+   "region": "유럽",
+   "place": "브뤼셀, 벨기에",
+   "type": "기관"
+  },
+  {
+   "name": "KIKK Festival",
+   "url": "https://www.kikk.be/",
+   "region": "유럽",
+   "place": "나뮈르, 벨기에",
+   "type": "페스티벌"
+  },
+  {
+   "name": "STRP",
+   "url": "https://strp.nl/",
+   "region": "유럽",
+   "place": "에인트호번, 네덜란드",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Sónar+D",
+   "url": "https://sonar.es/",
+   "region": "유럽",
+   "place": "바르셀로나, 스페인",
+   "type": "페스티벌"
+  },
+  {
+   "name": "FACT Liverpool",
+   "url": "https://www.fact.co.uk/",
+   "region": "유럽",
+   "place": "리버풀, 영국",
+   "type": "기관"
+  },
+  {
+   "name": "Serpentine Arts Technologies",
+   "url": "https://www.serpentinegalleries.org/",
+   "region": "유럽",
+   "place": "런던, 영국",
+   "type": "기관"
+  },
+  {
+   "name": "AND Festival",
+   "url": "https://www.andfestival.org.uk/",
+   "region": "유럽",
+   "place": "반즐리, 영국",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Onassis Stegi",
+   "url": "https://www.onassis.org/",
+   "region": "유럽",
+   "place": "아테네, 그리스",
+   "type": "기관"
+  },
+  {
+   "name": "LABoral",
+   "url": "https://laboralcentrodearte.org/en/",
+   "region": "유럽",
+   "place": "히혼, 스페인",
+   "type": "기관"
+  },
+  {
+   "name": "S+T+ARTS",
+   "url": "https://starts.eu/",
+   "region": "유럽",
+   "place": "EU",
+   "type": "어워드"
+  },
+  {
+   "name": "Lumen Prize",
+   "url": "https://www.lumenprize.com/",
+   "region": "유럽",
+   "place": "런던, 영국",
+   "type": "어워드"
+  },
+  {
+   "name": "MUTEK Montréal",
+   "url": "https://montreal.mutek.org/",
+   "region": "북미",
+   "place": "몬트리올, 캐나다",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Elektra",
+   "url": "https://elektramontreal.ca/",
+   "region": "북미",
+   "place": "몬트리올, 캐나다",
+   "type": "페스티벌"
+  },
+  {
+   "name": "SAT (Société des arts technologiques)",
+   "url": "https://sat.qc.ca/en",
+   "region": "북미",
+   "place": "몬트리올, 캐나다",
+   "type": "기관"
+  },
+  {
+   "name": "Rhizome",
+   "url": "https://rhizome.org/",
+   "region": "북미",
+   "place": "뉴욕, 미국",
+   "type": "기관"
+  },
+  {
+   "name": "Eyebeam",
+   "url": "https://www.eyebeam.org/",
+   "region": "북미",
+   "place": "뉴욕, 미국",
+   "type": "기관"
+  },
+  {
+   "name": "NEW INC",
+   "url": "https://www.newinc.org/",
+   "region": "북미",
+   "place": "뉴욕, 미국",
+   "type": "기관"
+  },
+  {
+   "name": "Gray Area",
+   "url": "https://grayarea.org/",
+   "region": "북미",
+   "place": "샌프란시스코, 미국",
+   "type": "기관"
+  },
+  {
+   "name": "Sundance New Frontier",
+   "url": "https://www.sundance.org/",
+   "region": "북미",
+   "place": "파크시티, 미국",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Tribeca Immersive",
+   "url": "https://tribecafilm.com/",
+   "region": "북미",
+   "place": "뉴욕, 미국",
+   "type": "페스티벌"
+  },
+  {
+   "name": "SIGGRAPH Art Gallery",
+   "url": "https://s2025.siggraph.org/",
+   "region": "북미",
+   "place": "미국",
+   "type": "컨퍼런스"
+  },
+  {
+   "name": "백남준아트센터",
+   "url": "https://njp.ggcf.kr/",
+   "region": "동아시아",
+   "place": "용인, 한국",
+   "type": "기관"
+  },
+  {
+   "name": "아트센터 나비",
+   "url": "https://www.nabi.or.kr/",
+   "region": "동아시아",
+   "place": "서울, 한국",
+   "type": "기관"
+  },
+  {
+   "name": "국립아시아문화전당 ACC",
+   "url": "https://www.acc.go.kr/",
+   "region": "동아시아",
+   "place": "광주, 한국",
+   "type": "기관"
+  },
+  {
+   "name": "서울미디어시티비엔날레",
+   "url": "https://mediacityseoul.kr/",
+   "region": "동아시아",
+   "place": "서울, 한국",
+   "type": "비엔날레"
+  },
+  {
+   "name": "YCAM",
+   "url": "https://www.ycam.jp/en/",
+   "region": "동아시아",
+   "place": "야마구치, 일본",
+   "type": "기관"
+  },
+  {
+   "name": "NTT ICC",
+   "url": "https://www.ntticc.or.jp/en/",
+   "region": "동아시아",
+   "place": "도쿄, 일본",
+   "type": "기관"
+  },
+  {
+   "name": "MUTEK Tokyo",
+   "url": "https://tokyo.mutek.org/",
+   "region": "동아시아",
+   "place": "도쿄, 일본",
+   "type": "페스티벌"
+  },
+  {
+   "name": "C-LAB Taiwan Contemporary Culture Lab",
+   "url": "https://clab.org.tw/en/",
+   "region": "동아시아",
+   "place": "타이베이, 대만",
+   "type": "기관"
+  },
+  {
+   "name": "Chronus Art Center",
+   "url": "https://www.chronusartcenter.org/en/",
+   "region": "동아시아",
+   "place": "상하이, 중국",
+   "type": "기관"
+  },
+  {
+   "name": "M+",
+   "url": "https://www.mplus.org.hk/en/",
+   "region": "동아시아",
+   "place": "홍콩",
+   "type": "기관"
+  },
+  {
+   "name": "Microwave International New Media Arts Festival",
+   "url": "https://www.microwavefest.net/",
+   "region": "동아시아",
+   "place": "홍콩",
+   "type": "페스티벌"
+  },
+  {
+   "name": "ArtScience Museum",
+   "url": "https://www.marinabaysands.com/museum.html",
+   "region": "동남·남아시아",
+   "place": "싱가포르",
+   "type": "기관"
+  },
+  {
+   "name": "Serendipity Arts",
+   "url": "https://www.serendipityartsfestival.com/",
+   "region": "동남·남아시아",
+   "place": "고아, 인도",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Amber Platform",
+   "url": "https://www.amberplatform.org/",
+   "region": "중동",
+   "place": "이스탄불, 튀르키예",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Sharjah Art Foundation",
+   "url": "https://www.sharjahart.org/",
+   "region": "중동",
+   "place": "샤르자, UAE",
+   "type": "기관"
+  },
+  {
+   "name": "Jameel Arts Centre",
+   "url": "https://artjameel.org/",
+   "region": "중동",
+   "place": "두바이, UAE",
+   "type": "기관"
+  },
+  {
+   "name": "Fak'ugesi African Digital Innovation Festival",
+   "url": "https://fakugesi.co.za/",
+   "region": "아프리카",
+   "place": "요하네스버그, 남아공",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Electric South",
+   "url": "https://electricsouth.org/",
+   "region": "아프리카",
+   "place": "케이프타운, 남아공",
+   "type": "랩"
+  },
+  {
+   "name": "FILE Electronic Language International Festival",
+   "url": "https://file.org.br/",
+   "region": "중남미",
+   "place": "상파울루, 브라질",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Bienal de Artes Mediales",
+   "url": "https://bienaldeartesmediales.cl/",
+   "region": "중남미",
+   "place": "산티아고, 칠레",
+   "type": "비엔날레"
+  },
+  {
+   "name": "MUTEK México",
+   "url": "https://mexico.mutek.org/",
+   "region": "중남미",
+   "place": "멕시코시티, 멕시코",
+   "type": "페스티벌"
+  },
+  {
+   "name": "ACMI",
+   "url": "https://www.acmi.net.au/",
+   "region": "오세아니아",
+   "place": "멜버른, 호주",
+   "type": "기관"
+  },
+  {
+   "name": "Vivid Sydney",
+   "url": "https://www.vividsydney.com/",
+   "region": "오세아니아",
+   "place": "시드니, 호주",
+   "type": "페스티벌"
+  },
+  {
+   "name": "Dark Mofo / Mona",
+   "url": "https://mona.net.au/",
+   "region": "오세아니아",
+   "place": "호바트, 호주",
+   "type": "기관"
+  },
+  {
+   "name": "CreativeApplications.Net",
+   "url": "https://www.creativeapplications.net/",
+   "region": "글로벌",
+   "place": "온라인",
+   "type": "매체"
+  },
+  {
+   "name": "We Make Money Not Art",
+   "url": "https://we-make-money-not-art.com/",
+   "region": "글로벌",
+   "place": "온라인",
+   "type": "매체"
+  },
+  {
+   "name": "Digicult",
+   "url": "https://digicult.it/",
+   "region": "글로벌",
+   "place": "온라인",
+   "type": "매체"
+  },
+  {
+   "name": "ISEA International",
+   "url": "https://isea-international.org/",
+   "region": "글로벌",
+   "place": "순회",
+   "type": "심포지엄"
+  },
+  {
+   "name": "Prix Ars Electronica archive",
+   "url": "https://archive.aec.at/prix/",
+   "region": "글로벌",
+   "place": "린츠, 오스트리아",
+   "type": "어워드"
+  },
+  {
+   "name": "Vimeo Staff Picks",
+   "url": "https://vimeo.com/channels/staffpicks",
+   "region": "글로벌",
+   "place": "온라인",
+   "type": "매체"
+  },
+  {
+   "name": "Zeitz MOCAA",
+   "url": "https://zeitzmocaa.museum/",
+   "region": "아프리카",
+   "place": "케이프타운, 남아공",
+   "type": "기관"
+  },
+  {
+   "name": "Singapore Art Museum",
+   "url": "https://www.singaporeartmuseum.sg/",
+   "region": "동남·남아시아",
+   "place": "싱가포르",
+   "type": "기관"
+  },
+  {
+   "name": "Bangkok Art Biennale",
+   "url": "https://www.bkkartbiennale.com/",
+   "region": "동남·남아시아",
+   "place": "방콕, 태국",
+   "type": "비엔날레"
+  },
+  {
+   "name": "Biennale Jogja",
+   "url": "https://biennalejogja.org/",
+   "region": "동남·남아시아",
+   "place": "욕야카르타, 인도네시아",
+   "type": "비엔날레"
+  },
+  {
+   "name": "Kochi-Muziris Biennale",
+   "url": "https://www.kochimuzirisbiennale.org/",
+   "region": "동남·남아시아",
+   "place": "코치, 인도",
+   "type": "비엔날레"
+  },
+  {
+   "name": "Videobrasil",
+   "url": "https://site.videobrasil.org.br/",
+   "region": "중남미",
+   "place": "상파울루, 브라질",
+   "type": "기관"
+  },
+  {
+   "name": "UCCA",
+   "url": "https://ucca.org.cn/en/",
+   "region": "동아시아",
+   "place": "베이징, 중국",
+   "type": "기관"
+  },
+  {
+   "name": "국립현대미술관 MMCA",
+   "url": "https://www.mmca.go.kr/",
+   "region": "동아시아",
+   "place": "서울, 한국",
+   "type": "기관"
+  }
+ ]
+}

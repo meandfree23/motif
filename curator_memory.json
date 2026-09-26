@@ -1,0 +1,75 @@
+{
+ "schema": "motif-curator-memory/v1",
+ "updatedAt": "2026-09-26",
+ "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
+ "editorial_rules": [
+  "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
+  "한 이슈에서 같은 도메인(host)은 최대 2개. 한 이슈에 최소 3개 권역.",
+  "최근 30일 기준 한 권역 비중 50% 이하 유지. World 탭의 공백 권역을 다음 리서치 우선 순위로 삼는다.",
+  "critique는 칭찬의 변형이 아닌 실제 한계나 질문.",
+  "origin은 출처가 명시한 경우에만. 모르면 null.",
+  "Signals는 3명 이상 작가, 5편 이상 근거가 모일 때만 새로 쓰고, 일요일마다 기존 신호의 근거를 갱신한다."
+ ],
+ "diversity_baseline_2026_09_26": {
+  "regions": {
+   "아프리카": 4,
+   "유럽": 113,
+   "북미": 48,
+   "동아시아": 32,
+   "중남미": 10,
+   "오세아니아": 1,
+   "미상": 6,
+   "중동": 2,
+   "동남·남아시아": 1
+  },
+  "top_hosts": [
+   [
+    "ars.electronica.art",
+    100
+   ],
+   [
+    "montreal.mutek.org",
+    35
+   ],
+   [
+    "vimeo.com",
+    13
+   ],
+   [
+    "cityofmediaarts.de",
+    12
+   ],
+   [
+    "village-numerique.mutek.org",
+    8
+   ],
+   [
+    "andfestival.org.uk",
+    6
+   ]
+  ],
+  "note": "유럽 52%, ars.electronica.art 46%로 편향. 동남·남아시아, 중동, 오세아니아, 아프리카가 거의 비어 있음."
+ },
+ "taste_profile": {
+  "prefers": [
+   "작동 원리를 출처로 검증할 수 있는 작업",
+   "관객/공간/신체 관계 설계가 선명한 작업",
+   "광고·영상 연출로 옮길 수 있는 구체 수법"
+  ],
+  "avoids": [
+   "기술 시연에 그치는 작업",
+   "보도자료 문구 반복",
+   "같은 작품의 크레딧만 바꾼 재등장"
+  ]
+ },
+ "open_questions": [
+  "Syntact 중복(8/31, 9/20) 정리 여부는 사용자 결정 대기",
+  "origin 미상 6건 추가 확인 필요"
+ ],
+ "pipeline_health_log": [
+  {
+   "date": "2026-09-26",
+   "note": "v2 개편: 217개 아이템 인사이트·태그·권역 백필(216 grounded), Focus 35편 계보 구조화, Toolkit 60장, Signals 5편, 출처 레지스트리 65곳(8개 권역+글로벌)."
+  }
+ ]
+}
