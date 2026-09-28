@@ -1,91 +1,100 @@
 {
-  "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-09-28",
-  "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
-  "editorial_rules": [
-    "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
-    "한 이슈에서 같은 도메인(host)은 최대 2개. 한 이슈에 최소 3개 권역.",
-    "최근 30일 기준 한 권역 비중 50% 이하 유지. World 탭의 공백 권역을 다음 리서치 우선 순위로 삼는다.",
-    "critique는 칭찬의 변형이 아닌 실제 한계나 질문.",
-    "origin은 출처가 명시한 경우에만. 모르면 null.",
-    "Signals는 3명 이상 작가, 5편 이상 근거가 모일 때만 새로 쓰고, 일요일마다 기존 신호의 근거를 갱신한다."
-  ],
-  "diversity_baseline_2026_09_26": {
-    "regions": {
-      "아프리카": 4,
-      "유럽": 113,
-      "북미": 48,
-      "동아시아": 32,
-      "중남미": 10,
-      "오세아니아": 1,
-      "미상": 6,
-      "중동": 2,
-      "동남·남아시아": 1
-    },
-    "top_hosts": [
-      [
-        "ars.electronica.art",
-        100
-      ],
-      [
-        "montreal.mutek.org",
-        35
-      ],
-      [
-        "vimeo.com",
-        13
-      ],
-      [
-        "cityofmediaarts.de",
-        12
-      ],
-      [
-        "village-numerique.mutek.org",
-        8
-      ],
-      [
-        "andfestival.org.uk",
-        6
-      ]
-    ],
-    "note": "유럽 52%, ars.electronica.art 46%로 편향. 동남·남아시아, 중동, 오세아니아, 아프리카가 거의 비어 있음."
+ "schema": "motif-curator-memory/v1",
+ "updatedAt": "2026-09-29",
+ "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
+ "editorial_rules": [
+  "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
+  "한 이슈에서 같은 도메인(host)은 최대 2개. 한 이슈에 최소 3개 권역.",
+  "최근 30일 기준 한 권역 비중 50% 이하 유지. World 탭의 공백 권역을 다음 리서치 우선 순위로 삼는다.",
+  "critique는 칭찬의 변형이 아닌 실제 한계나 질문.",
+  "origin은 출처가 명시한 경우에만. 모르면 null.",
+  "Signals는 3명 이상 작가, 5편 이상 근거가 모일 때만 새로 쓰고, 일요일마다 기존 신호의 근거를 갱신한다."
+ ],
+ "diversity_baseline_2026_09_26": {
+  "regions": {
+   "아프리카": 4,
+   "유럽": 113,
+   "북미": 48,
+   "동아시아": 32,
+   "중남미": 10,
+   "오세아니아": 1,
+   "미상": 6,
+   "중동": 2,
+   "동남·남아시아": 1
   },
-  "taste_profile": {
-    "prefers": [
-      "작동 원리를 출처로 검증할 수 있는 작업",
-      "관객/공간/신체 관계 설계가 선명한 작업",
-      "광고·영상 연출로 옮길 수 있는 구체 수법"
-    ],
-    "avoids": [
-      "기술 시연에 그치는 작업",
-      "보도자료 문구 반복",
-      "같은 작품의 크레딧만 바꾼 재등장"
-    ]
-  },
-  "open_questions": [
-    "Syntact 중복(8/31, 9/20) 정리 여부는 사용자 결정 대기",
-    "origin 미상 6건 추가 확인 필요",
-    "Brie Healy — QIP(Play On) 작품 특정 스크린샷 미확보, 다음 회차에 ACMI 소셜/보도자료에서 재탐색 필요",
-    "Gravidade VR(2020)·Body Sketches(2022)처럼 완성 연도가 오래된 작업이 2026년 전시로 재순환되는 사례가 늘고 있음 — '최신작' 기준과 재전시 표기 방식을 정리할지 검토",
-    "아프리카 권역: Fak'ugesi(10/13 개막), Dak'Art(11/19 개막) 등 대형 행사가 아직 개막 전이라 9/28 기준 검증 가능한 아프리카 작가 신작을 찾지 못함 — 10월 이후 재탐색 필요"
+  "top_hosts": [
+   [
+    "ars.electronica.art",
+    100
+   ],
+   [
+    "montreal.mutek.org",
+    35
+   ],
+   [
+    "vimeo.com",
+    13
+   ],
+   [
+    "cityofmediaarts.de",
+    12
+   ],
+   [
+    "village-numerique.mutek.org",
+    8
+   ],
+   [
+    "andfestival.org.uk",
+    6
+   ]
   ],
-  "pipeline_health_log": [
-    {
-      "date": "2026-09-26",
-      "note": "v2 개편: 217개 아이템 인사이트·태그·권역 백필(216 grounded), Focus 35편 계보 구조화, Toolkit 60장, Signals 5편, 출처 레지스트리 65곳(8개 권역+글로벌)."
-    },
-    {
-      "date": "2026-09-27",
-      "note": "5개 항목, 5개 권역(동남·남아시아·중동·오세아니아·중남미·북미) 동시 확보 — 유럽·동아시아 0건으로 최근 14일 유럽 편중(62%) 완화. 공백 권역이던 동남아시아(Riar Rizaldi/ACMI)·중동(Fatma Al Ali/Jameel Arts Centre)·오세아니아(Brie Healy/ACMI Play On)를 각각 첫 사례로 채움. 이미지 4/5 확보(og:image·페이지 이미지), Brie Healy QIP는 작품 특정 스크린샷을 찾지 못해 image:null 처리. Signals는 sig-science-apparatus-onstage에 Fatma Al Ali 근거 추가, regions에 중동 반영."
-    },
-    {
-      "date": "2026-09-28",
-      "note": "재시도 회차(11:00)로 발행. 4개 항목, 4개 권역(동남·남아시아1·중남미2·동아시아1) — 유럽 비중이 컸던 최근 14일 흐름(62%→60%대) 완화 목적으로 동남아·중남미·동아시아 집중 리서치. Museum MACAN(자카르타), Prix Ars Electronica 2026 수상작 아카이브(멕시코·한국 작가), Venice Biennale 멕시코관을 신규 출처로 활용. 이미지 4/4 확보(og:image·실브라우저 렌더링). Focus는 리아르 리잘디 '비오스콥 어시메토틱'(첫 인도네시아 미술관 개인전, 극장 로비 재구성)."
-    }
+  "note": "유럽 52%, ars.electronica.art 46%로 편향. 동남·남아시아, 중동, 오세아니아, 아프리카가 거의 비어 있음."
+ },
+ "taste_profile": {
+  "prefers": [
+   "작동 원리를 출처로 검증할 수 있는 작업",
+   "관객/공간/신체 관계 설계가 선명한 작업",
+   "광고·영상 연출로 옮길 수 있는 구체 수법"
   ],
-  "source_notes": [
-    "Museum MACAN(museummacan.org, 자카르타) — 전시 페이지에 og:image·갤러리 이미지 풍부, 인도네시아/동남아 작가 개인전 다수, 작동 양호.",
-    "Prix Ars Electronica 수상작 아카이브(archive.aec.at/prix/) — 매년 106개국 수상작 페이지에 국가 태그(MX/KR/등) 명시, 이미지도 자산 URL로 직접 접근 가능해 지역 다양화에 매우 유용. 단 한 이슈에 2개까지만 사용(host 제한).",
-    "Venice Biennale 국가관 페이지(labiennale.org/en/art/2026/<country>) — 국가별 페이지에 작가·설명 명시, 이미지는 og:image 사용(본문 갤러리는 지도 타일만 로드됨)."
+  "avoids": [
+   "기술 시연에 그치는 작업",
+   "보도자료 문구 반복",
+   "같은 작품의 크레딧만 바꾼 재등장"
   ]
+ },
+ "open_questions": [
+  "Syntact 중복(8/31, 9/20) 정리 여부는 사용자 결정 대기",
+  "origin 미상 6건 추가 확인 필요",
+  "Brie Healy — QIP(Play On) 작품 특정 스크린샷 미확보, 다음 회차에 ACMI 소셜/보도자료에서 재탐색 필요",
+  "Gravidade VR(2020)·Body Sketches(2022)처럼 완성 연도가 오래된 작업이 2026년 전시로 재순환되는 사례가 늘고 있음 — '최신작' 기준과 재전시 표기 방식을 정리할지 검토",
+  "아프리카 권역: Fak'ugesi(10/13 개막), Dak'Art(11/19 개막) 등 대형 행사가 아직 개막 전이라 9/28 기준 검증 가능한 아프리카 작가 신작을 찾지 못함 — 10월 이후 재탐색 필요",
+  "아프리카·중동 권역: 검증 가능한 미디어아트(영상/AI/센서 기반) 신작을 지속적으로 찾기 어려움 — Fak'ugesi(10/13), 다른 가을 행사 개막 후 재탐색 필요."
+ ],
+ "pipeline_health_log": [
+  {
+   "date": "2026-09-26",
+   "note": "v2 개편: 217개 아이템 인사이트·태그·권역 백필(216 grounded), Focus 35편 계보 구조화, Toolkit 60장, Signals 5편, 출처 레지스트리 65곳(8개 권역+글로벌)."
+  },
+  {
+   "date": "2026-09-27",
+   "note": "5개 항목, 5개 권역(동남·남아시아·중동·오세아니아·중남미·북미) 동시 확보 — 유럽·동아시아 0건으로 최근 14일 유럽 편중(62%) 완화. 공백 권역이던 동남아시아(Riar Rizaldi/ACMI)·중동(Fatma Al Ali/Jameel Arts Centre)·오세아니아(Brie Healy/ACMI Play On)를 각각 첫 사례로 채움. 이미지 4/5 확보(og:image·페이지 이미지), Brie Healy QIP는 작품 특정 스크린샷을 찾지 못해 image:null 처리. Signals는 sig-science-apparatus-onstage에 Fatma Al Ali 근거 추가, regions에 중동 반영."
+  },
+  {
+   "date": "2026-09-28",
+   "note": "재시도 회차(11:00)로 발행. 4개 항목, 4개 권역(동남·남아시아1·중남미2·동아시아1) — 유럽 비중이 컸던 최근 14일 흐름(62%→60%대) 완화 목적으로 동남아·중남미·동아시아 집중 리서치. Museum MACAN(자카르타), Prix Ars Electronica 2026 수상작 아카이브(멕시코·한국 작가), Venice Biennale 멕시코관을 신규 출처로 활용. 이미지 4/4 확보(og:image·실브라우저 렌더링). Focus는 리아르 리잘디 '비오스콥 어시메토틱'(첫 인도네시아 미술관 개인전, 극장 로비 재구성)."
+  },
+  {
+   "date": "2026-09-29",
+   "note": "5개 항목, 4개 권역(오세아니아1·북미2·중남미1·동남아시아1) — 유럽 0%로 최근 14일 유럽 편중(58.8%) 완화 목적. 데이터랜드(LA, Refik Anadol), 뉴캐슬 아트 갤러리(호주, Angela Tiatia), 칠레관 베네치아비엔날레(Norton Maza), 싱가포르 Momentary Pulses(Teow Yue Han & Federico Ruberto), ArtScience 뮤지엄(Lachlan Turczan)을 신규 출처로 활용. 이미지 4/5 확보(og:image·실브라우저 렌더링), Lachlan Turczan 'Lucida'는 ArtScience 설치 전용 사진을 찾지 못해 image:null 처리(밀라노 디자인위크 동일 연작 사진을 imageFallback으로만 사용). 아프리카·중동은 이번 회차도 검증 가능한 신작을 찾지 못함(Vanessa Amoah Opoku는 가나계지만 베를린/바젤 거주로 유럽 귀속, Nolan Oswald Dennis 작업은 미디어아트 매체 특성이 약해 제외). Focus는 리픽 아나돌 '머신 드림즈: 레인포레스트'(데이터랜드 개관작)."
+  }
+ ],
+ "source_notes": [
+  "Museum MACAN(museummacan.org, 자카르타) — 전시 페이지에 og:image·갤러리 이미지 풍부, 인도네시아/동남아 작가 개인전 다수, 작동 양호.",
+  "Prix Ars Electronica 수상작 아카이브(archive.aec.at/prix/) — 매년 106개국 수상작 페이지에 국가 태그(MX/KR/등) 명시, 이미지도 자산 URL로 직접 접근 가능해 지역 다양화에 매우 유용. 단 한 이슈에 2개까지만 사용(host 제한).",
+  "Venice Biennale 국가관 페이지(labiennale.org/en/art/2026/<country>) — 국가별 페이지에 작가·설명 명시, 이미지는 og:image 사용(본문 갤러리는 지도 타일만 로드됨).",
+  {
+   "date": "2026-09-29",
+   "note": "dataland.art og:image 없음, 스크린샷으로 대체 확보. theeverydaymuseum.sg는 press release PDF와 datocms 이미지 CDN에 고해상도 작품 사진 보유(양호). labiennale.org 국가관 페이지는 og:image가 600x600 썸네일뿐(제한적)."
+  }
+ ]
 }
