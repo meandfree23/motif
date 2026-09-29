@@ -15,6 +15,7 @@
   let TOOLKIT = { cards: [] };
   let SOURCES = { sources: [] };
   let ITEMS = [];
+  let WORKS = []; // ITEMS minus revisits (revisitOf) — used for stats, discovery and related lists
   let ITEM_BY_ID = {};
 
   const REGIONS = ['동아시아', '동남·남아시아', '중동', '아프리카', '유럽', '북미', '중남미', '오세아니아'];
@@ -70,13 +71,14 @@
         ITEMS.push(it); ITEM_BY_ID[it._id] = it;
       });
     });
+    WORKS = ITEMS.filter(it => !it.revisitOf);
   }
   function daysBetween(a, b) { return Math.round((new Date(a) - new Date(b)) / 86400000); }
   function latestDate() { return DATA.issues[0] ? DATA.issues[0].date : null; }
   function itemsWithin(days, offset) {
     const ref = latestDate(); if (!ref) return [];
     const o = offset || 0;
-    return ITEMS.filter(it => { const d = daysBetween(ref, it._issue.date); return d >= o && d < o + days; });
+    return WORKS.filter(it => { const d = daysBetween(ref, it._issue.date); return d >= o && d < o + days; });
   }
   function isNew(it) { return !firstVisit && prevVisit && it._issue.date > prevVisit; }
   function issueIndex(date) { return DATA.issues.findIndex(i => i.date === date); }
@@ -106,9 +108,14 @@
 
   // ---------- shared fragments ----------
   function itemHref(it) { return `?view=item&id=${encodeURIComponent(it._id)}`; }
+  function revisitNote(item) {
+    const orig = item.revisitOf && ITEM_BY_ID[item.revisitOf];
+    if (!orig) return '';
+    return `<p class="revisit-note">다시 보기 · 이 작업은 <a href="${itemHref(orig)}" data-go-item="${esc(orig._id)}">${esc(fmtDate(orig._issue.date))} 호</a>에서 처음 소개했다.</p>`;
+  }
   function renderStoryMeta(item) {
     const o = item.origin || {};
-    return `<p class="story-meta"><span>${esc(item.creator || '')}</span>${item.publishedAt ? `<time>${esc(fmtDate(item.publishedAt))}</time>` : ''}${o.artistBase ? `<span class="meta-origin">${esc(o.artistBase)}</span>` : ''}</p>`;
+    return revisitNote(item) + `<p class="story-meta"><span>${esc(item.creator || '')}</span>${item.publishedAt ? `<time>${esc(fmtDate(item.publishedAt))}</time>` : ''}${o.artistBase ? `<span class="meta-origin">${esc(o.artistBase)}</span>` : ''}</p>`;
   }
   function tagChip(facet, value, extra) {
     return `<button type="button" class="tag-chip${extra ? ' ' + extra : ''}" data-go-explore="${esc(facet)}:${esc(value)}">${esc(value)}</button>`;
@@ -128,6 +135,7 @@
   }
   function stateBadges(item) {
     const b = [];
+    if (item.revisitOf) b.push('<span class="badge revisit">다시 보기</span>');
     if (isNew(item)) b.push('<span class="badge new">New</span>');
     if (readSet.has(item._id)) b.push('<span class="badge read">읽음</span>');
     if (inBoard(item._id)) b.push('<span class="badge saved">담음</span>');
@@ -372,7 +380,7 @@
     const issues = DATA.issues;
     main.innerHTML = `
       <section class="archive-view">
-        <header class="page-title"><p>MOTIF · ${issues.length} issues · ${ITEMS.length} works</p><h1>Archive</h1></header>
+        <header class="page-title"><p>MOTIF · ${issues.length} issues · ${WORKS.length} works</p><h1>Archive</h1></header>
         <div class="archive-list rich">
           ${issues.map((issue, i) => {
             const items = issue.items || [];
@@ -426,7 +434,7 @@
   }
   function relatedItems(item, n) {
     const myRegion = item.origin && item.origin.region;
-    return ITEMS.filter(o => o !== item && o.tags)
+    return WORKS.filter(o => o !== item && o.tags && o._id !== item.revisitOf && o.revisitOf !== item._id)
       .map(o => ({ o, s: similarity(item, o) + ((o.origin && o.origin.region && o.origin.region !== myRegion) ? 1.5 : 0) }))
       .filter(x => x.s >= 4).sort((a, b) => b.s - a.s).slice(0, n || 4).map(x => x.o);
   }
@@ -592,7 +600,7 @@
   function renderExploreView() {
     const f = parseFilters();
     const limit = Number(state.params.get('n') || 24);
-    const pool = ITEMS.filter(it => it.tags || it.origin);
+    const pool = WORKS.filter(it => it.tags || it.origin);
     const results = pool.filter(it => matchesFilters(it, f));
     const active = Object.keys(f).flatMap(k => f[k].map(v => ({ k, v })));
     setTitle('Explore' + (active.length ? ' · ' + active.map(a => a.v).join(' + ') : ''));
@@ -625,7 +633,7 @@
   // ---------- World ----------
   function renderWorldView() {
     setTitle('World');
-    const all = ITEMS.filter(it => it.origin && it.origin.region);
+    const all = WORKS.filter(it => it.origin && it.origin.region);
     const recent = itemsWithin(14, 0).filter(it => it.origin && it.origin.region);
     const ca = regionCounts(all), cr = regionCounts(recent);
     const maxA = Math.max(1, ...Object.values(ca));
@@ -638,7 +646,7 @@
       <section class="world-view">
         ${sectionHead('World', '어디에서 온 작업을 읽고 있는가', 'MOTIF는 한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽으려 한다. 아래 수치는 작가의 주 활동 권역 기준이며, 편향을 스스로 점검하기 위해 공개한다. 권역을 누르면 그 권역의 작업이 열린다.')}
         <div class="world-stats">
-          <div><span>권역 태그가 붙은 작업</span><strong>${all.length}</strong><em>전체 ${ITEMS.length}</em></div>
+          <div><span>권역 태그가 붙은 작업</span><strong>${all.length}</strong><em>전체 ${WORKS.length}</em></div>
           <div><span>최근 14일 최대 권역 비중</span><strong>${Math.round(topShare * 100)}%</strong><em>목표 50% 이하</em></div>
           <div><span>최근 14일 최다 출처</span><strong>${topHost ? topHost[1] : 0}</strong><em>${esc(topHost ? topHost[0] : '')}</em></div>
           <div><span>최근 14일 공백 권역</span><strong>${gaps.length}</strong><em>${esc(gaps.join(', ') || '없음')}</em></div>
@@ -736,7 +744,7 @@
       });
       return { s: s + hit * 4, hit, why: [...why].slice(0, 4) };
     };
-    const works = ITEMS.map(it => Object.assign({ it }, score(it))).filter(x => x.hit > 0).sort((a, b) => b.hit - a.hit || b.s - a.s);
+    const works = WORKS.map(it => Object.assign({ it }, score(it))).filter(x => x.hit > 0).sort((a, b) => b.hit - a.hit || b.s - a.s);
     const allTagSet = new Set(tokenTags.flatMap(s => [...s]));
     const tools = (TOOLKIT.cards || []).map(c => {
       const hay = [c.name, c.how, c.useWhen, c.category, (c.tags || []).join(' ')].join(' ').toLowerCase();

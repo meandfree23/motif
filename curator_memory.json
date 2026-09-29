@@ -63,9 +63,7 @@
   ]
  },
  "open_questions": [
-  "Syntact 중복(8/31, 9/20) 정리 여부는 사용자 결정 대기",
   "origin 미상 6건 추가 확인 필요",
-  "Brie Healy — QIP(Play On) 작품 특정 스크린샷 미확보, 다음 회차에 ACMI 소셜/보도자료에서 재탐색 필요",
   "Gravidade VR(2020)·Body Sketches(2022)처럼 완성 연도가 오래된 작업이 2026년 전시로 재순환되는 사례가 늘고 있음 — '최신작' 기준과 재전시 표기 방식을 정리할지 검토",
   "아프리카 권역: Fak'ugesi(10/13 개막), Dak'Art(11/19 개막) 등 대형 행사가 아직 개막 전이라 9/28 기준 검증 가능한 아프리카 작가 신작을 찾지 못함 — 10월 이후 재탐색 필요",
   "아프리카·중동 권역: 검증 가능한 미디어아트(영상/AI/센서 기반) 신작을 지속적으로 찾기 어려움 — Fak'ugesi(10/13), 다른 가을 행사 개막 후 재탐색 필요."
@@ -86,6 +84,10 @@
   {
    "date": "2026-09-29",
    "note": "5개 항목, 4개 권역(오세아니아1·북미2·중남미1·동남아시아1) — 유럽 0%로 최근 14일 유럽 편중(58.8%) 완화 목적. 데이터랜드(LA, Refik Anadol), 뉴캐슬 아트 갤러리(호주, Angela Tiatia), 칠레관 베네치아비엔날레(Norton Maza), 싱가포르 Momentary Pulses(Teow Yue Han & Federico Ruberto), ArtScience 뮤지엄(Lachlan Turczan)을 신규 출처로 활용. 이미지 4/5 확보(og:image·실브라우저 렌더링), Lachlan Turczan 'Lucida'는 ArtScience 설치 전용 사진을 찾지 못해 image:null 처리(밀라노 디자인위크 동일 연작 사진을 imageFallback으로만 사용). 아프리카·중동은 이번 회차도 검증 가능한 신작을 찾지 못함(Vanessa Amoah Opoku는 가나계지만 베를린/바젤 거주로 유럽 귀속, Nolan Oswald Dennis 작업은 미디어아트 매체 특성이 약해 제외). Focus는 리픽 아나돌 '머신 드림즈: 레인포레스트'(데이터랜드 개관작)."
+  },
+  {
+   "date": "2026-09-29",
+   "note": "중복 정리(사용자 요청): 과거 중복 6건 처리 — 순수 중복 3건 삭제(9/20 Entangled Landscape·SynTact, 9/22 UNFOLD), Focus가 걸린 3건은 revisitOf로 재조명 표시(9/17 Noise of War→9/11, 9/19 Mirror to the Soul→9/09, 9/20 Sybil→9/02). 원인: (1) 9/17·9/19·9/20은 ChatGPT 시절 데이터가 9/20 이관 때 중복 검사 없이 들어옴, (2) 9/22 UNFOLD 등은 중복 검사가 프롬프트 지시(눈으로 대조)뿐이고 코드 검증이 없었음, 크레딧·원제 표기가 제각각이라 문자열 비교가 빗나감. 대책: scripts/check-dedup.mjs를 커밋 전 필수 관문으로 추가. 이미지 null 2건 보강(9/29 Lucida: ArtScience 공식 페이지 이미지, 9/27 QIP: Now or Never 공식 키아트)."
   }
  ],
  "source_notes": [
@@ -95,6 +97,24 @@
   {
    "date": "2026-09-29",
    "note": "dataland.art og:image 없음, 스크린샷으로 대체 확보. theeverydaymuseum.sg는 press release PDF와 datocms 이미지 CDN에 고해상도 작품 사진 보유(양호). labiennale.org 국가관 페이지는 og:image가 600x600 썸네일뿐(제한적)."
+  }
+ ],
+ "dedup_policy": {
+  "gate": "scripts/check-dedup.mjs (저장소). 후보 확정 전 --candidates, 커밋 직전 --new <오늘> 실행. FAIL이면 커밋 금지.",
+  "keys": "url(호스트+경로), 작품명(크레딧 접두사·연도 제거), 전체 원제, 한글 작품명, imageFallback, 유사 제목(자카드≥0.6 + 같은 작가/호스트)",
+  "issue_rules": "같은 host 최대 2개(FAIL), 같은 프로젝트 쪼개기 금지(FAIL), Focus 작품 재선정 금지(FAIL), 외부 핫링크 금지(FAIL); 권역<3·항목<5·이미지 null·14일 내 같은 작가는 WARN",
+  "revisit": "이미 소개한 작품을 다시 다룰 이유가 있으면 새 항목이 아니라 revisitOf:<원래 id>를 붙인 재조명 항목으로만 싣는다(사이트에 \"다시 보기\" 표시, 통계에서 제외).",
+  "credit_rule": "크레딧은 기관/랩/페스티벌이 아니라 작가 이름으로 쓴다. originalTitle에는 작품명만 쓴다(\"작가 — 작품\" 형식 금지)."
+ },
+ "dedup_allowlist": [
+  {
+   "ids": [
+    "2026-08-31-01",
+    "2026-09-22-04",
+    "2026-09-22-05",
+    "2026-09-23-06"
+   ],
+   "reason": "Ars Electronica Futurelab \"Hello Worlds!\" 전시 페이지 한 곳에 실린 서로 다른 작품(No Bird / Algorithms in Reflection / Lebensraum). 작품별 개별 페이지가 없어 url이 같다."
   }
  ]
 }

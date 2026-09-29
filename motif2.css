@@ -213,6 +213,9 @@
 .badge{font-style:normal;font-size:8.5px;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:1px 7px;border:1px solid var(--line);color:var(--muted)}
 .badge.new{background:#b5462a;border-color:#b5462a;color:#fff}
 .badge.saved{border-color:var(--ink);color:var(--ink)}
+.badge.revisit{border-color:#6b6b6b;color:#6b6b6b;text-transform:none;letter-spacing:.02em}
+.revisit-note{font-size:12px;color:var(--muted);margin:6px 0 4px}
+.revisit-note a{color:inherit;text-decoration:underline;text-underline-offset:2px}
 
 /* card actions + director point */
 .card-actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin-top:22px}

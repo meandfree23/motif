@@ -179,8 +179,8 @@
      "url": "https://www.marinabaysands.com/museum/exhibitions/into-the-ocean.html",
      "host": "marinabaysands.com",
      "description": "ArtScience 뮤지엄 '심해로: 저니 비니스'의 트와일라잇 존에 안개 속 빛의 막을 세우는 연작 '루시다'의 최신 버전이 설치됐다. 관객의 움직임이 막의 형태를 휘거나 굳게 만들어, 빛이 옅어지는 깊은 바다의 생물발광을 연상시키는 체험을 만든다.",
-     "image": null,
-     "imageFallback": "https://images.squarespace-cdn.com/content/v1/662ee25fcf7f4455b80414bd/3981660f-2778-43dc-8240-1dd5d4e6726e/Lucida%28I-VI%29.jpg",
+     "image": "images/2026-09-29-05.jpg",
+     "imageFallback": "https://www.marinabaysands.com/content/dam/mbs-asm/event-details/into-the-ocean/gallery/6-1920x1080.jpg",
      "insight": {
       "mechanism": "안개 속에 다중 광선을 투사해 물리적 질감을 가진 '빛의 막'을 세우고, 사운드 주파수로 공기 입자를 진동시켜 관객이 지날 때마다 막의 형태가 휘거나 굳도록 반응한다.",
       "whyNow": "스크린 매개 경험이 일상을 채우는 지금, 빛을 만질 수 있는 물성으로 되돌리는 이 작업은 빛이 사라지는 환경에서 감각을 재훈련하려는 시도로 시의성을 얻는다.",
@@ -594,8 +594,8 @@
      "url": "https://www.acmi.net.au/whats-on/play-on/",
      "host": "acmi.net.au",
      "description": "호주 태즈메이니아 호바트 기반 게임 개발자 브리 힐리가 만든 퍼즐 플랫포머로, ACMI의 신규 커미션 아케이드 게임 전시 'Play On'에 포함됐다. 미니어처 장난감 세계를 탐험하며 흩어진 글자를 모아 주인공의 정체성을 재구성하는 구조를 취한다.",
-     "image": null,
-     "imageFallback": "https://acmi-website-media-prod.s3.amazonaws.com/media/images/PUCO_Web_header.original.jpg",
+     "image": "images/2026-09-27-03.jpg",
+     "imageFallback": "https://media2026.nowornever.melbourne.vic.gov.au/wp-content/uploads/2026/07/21102223/NoN26_Web_PlayOn_Resized_1668x1112.jpg",
      "insight": {
       "mechanism": "2D 아케이드 그래픽과 원근 전환 메커니즘을 결합해, 플레이어가 미니어처 장난감 세계 속 시점을 바꿔가며 흩어진 글자를 찾아 정체성 서사를 완성하게 한다.",
       "whyNow": "ACMI가 상업 게임 대신 신규 커미션 아케이드 게임 3편으로 '레트로 기술의 노스탤지어'를 되묻는 전시를 열며, 호주 인디 개발자의 정체성 서사가 미디어아트 전시 맥락에 편입됐다.",
@@ -1939,7 +1939,7 @@
   {
    "date": "2026-09-22",
    "title": "웃어야 열리는 거울과 가라앉는 하늘 — 도시가 매체로 말을 거는 방식",
-   "summary": "카를스루에 '미디어아트는 여기 있다', 린츠 아르스 일렉트로니카의 '헬로 월즈!', 몬트리올 뮤텍 빌라주 뉘메리크에서 오늘 소개하는 여섯 작업은 이끼·까마귀·거울·도시의 미래라는 인간 아닌 시점으로 세계를 되비춘다.",
+   "summary": "카를스루에 '미디어아트는 여기 있다', 린츠 아르스 일렉트로니카의 '헬로 월즈!'에서 오늘 소개하는 다섯 작업은 이끼·까마귀·거울·도시의 미래라는 인간 아닌 시점으로 세계를 되비춘다.",
    "items": [
     {
      "id": "2026-09-22-01",
@@ -2129,44 +2129,6 @@
       "artistBase": "한국",
       "region": "동아시아",
       "venue": "린츠, 오스트리아"
-     },
-     "grounded": true
-    },
-    {
-     "id": "2026-09-22-06",
-     "title": "미리암 블로 — 언폴드",
-     "originalTitle": "UNFOLD",
-     "creator": "Myriam Bleau",
-     "publishedAt": "2026",
-     "url": "https://village-numerique.mutek.org/en/circuit/unfold-par-myriam-bleau",
-     "host": "village-numerique.mutek.org",
-     "description": "빛나는 LED 리본이 스스로 접히고 펼쳐지며 만드는 구조물로, 보는 각도에 따라 완전히 다른 형태로 보인다. 몬트리올 뮤텍 빌라주 뉘메리크 야외 회로에서 스크린이라는 매체의 물성 자체를 조각으로 되묻는다.",
-     "image": "images/2026-09-22-06.jpg",
-     "imageFallback": "https://village-numerique.mutek.org/uploads/PARCOURS/2026/UNFOLD-MYRIAM-BLEAU/_750x9999_fit_center-center_99_none/14841/Myriam_Bleau_Unfold_Jeanne_Dubois_Pacquet_JDP2712.webp",
-     "insight": {
-      "mechanism": "LED를 내장한 리본형 구조물이 접히고 펼쳐지는 동세를 반복하는 키네틱 조각으로, 야외 보행 회로에 설치돼 각도에 따라 다른 실루엣을 만든다.",
-      "whyNow": "스크린이 편재하는 시대에 화면이라는 평면의 물성 자체를 되묻는 조각적 접근이 몬트리올 뮤텍 빌라주 뉘메리크 야외 프로그램의 주요 화두로 다뤄졌다.",
-      "directorPoint": "고정 앵글 대신 동선을 따라가는 트래킹 샷으로 형태 변화를 담으면, 같은 오브제가 컷마다 다른 조형으로 읽히는 효과를 만들 수 있다.",
-      "critique": "각도에 따라 달라지는 조형감이 핵심 매력이라, 정적 사진이나 짧은 클립만으로는 체험을 온전히 전달하기 어렵고 현장성에 크게 의존한다."
-     },
-     "tags": {
-      "sense": [
-       "시각",
-       "공간감"
-      ],
-      "tech": [
-       "라이트·LED",
-       "키네틱·기계장치"
-      ],
-      "theme": [
-       "인간-기계 관계"
-      ],
-      "scale": "도시·공공공간"
-     },
-     "origin": {
-      "artistBase": "캐나다",
-      "region": "북미",
-      "venue": "몬트리올, 캐나다"
      },
      "grounded": true
     }
@@ -2440,13 +2402,13 @@
   {
    "date": "2026-09-20",
    "title": "Screenless Media Art — 이미지를 보여주지 말고, 시간이 물질에 남게 하라",
-   "summary": "미디어아트의 다음 화면은 화면이 없는 상태일 수 있다. 손짓과 흔적을 로봇의 동작과 생명의 시간으로 번역하는 작업들이, 기술이 자연의 시간을 기다려야 하는 순간을 만든다.",
+   "summary": "미디어아트의 다음 화면은 화면이 없는 상태일 수 있다. 손짓과 흔적을 로봇의 동작과 생명의 시간으로 번역하는 작업이, 기술이 자연의 시간을 기다려야 하는 순간을 만든다.",
    "items": [
     {
      "id": "2026-09-20-01",
-     "title": "Ars Electronica — 시빌",
-     "originalTitle": "Ars Electronica Festival 2026 — Sybil",
-     "creator": "Ars Electronica",
+     "title": "다니엘라 미터베르거 외 — 시빌",
+     "originalTitle": "Daniela Mitterberger et al. — Sybil",
+     "creator": "Daniela Mitterberger · Fabio Scotto · Ruth Sidabutar · Linfeng Zhou 외",
      "publishedAt": "2026.09",
      "url": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3",
      "host": "ars.electronica.art",
@@ -2479,84 +2441,8 @@
       "region": "유럽",
       "venue": "린츠, 오스트리아"
      },
-     "grounded": true
-    },
-    {
-     "id": "2026-09-20-02",
-     "title": "Ars Electronica — 얽힌 풍경",
-     "originalTitle": "Ars Electronica Festival 2026 — Entangled Landscape",
-     "creator": "Ars Electronica",
-     "publishedAt": "2026.09",
-     "url": "https://ars.electronica.art/negotiatinghumanity/en/view/entangled-landscape-3a938ddb450c81e7b64bd6fb784dd948",
-     "host": "ars.electronica.art",
-     "description": "벨기에 사우스웨스트플랑드르의 실제 토양 데이터를 받아 균근균과 식물 뿌리 사이의 상호작용을 계산 시스템으로 옮긴 작업이다. 관객은 혼합현실을 통해 평소 지각할 수 없는 지하 생태 관계를 경험한다.",
-     "image": "images/2026-09-20-02.jpg",
-     "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/09/unbenannt_-_09._september_2026_um_14.11.31_286329.jpeg",
-     "insight": {
-      "mechanism": "벨기에 사우스웨스트플랑드르 지역의 실시간 토양 데이터를 머신러닝 에이전트에 입력해 균근균-식물 뿌리 상호작용을 계산하고, 혼합현실로 시각화해 보여준다.",
-      "whyNow": "토양 밀봉과 생물다양성 손실이 화두가 되는 가운데, 보이지 않는 지하 생태 관계를 기술로 매개해 감각화하는 작업이 유럽 아트-사이언스 협업으로 확대되고 있다.",
-      "directorPoint": "MR 헤드셋 착용 전후 시점을 교차 편집해, 맨눈으로 보이는 흙과 헤드셋 너머 보이는 균사 네트워크의 대비를 스케일 전환으로 강조할 수 있다.",
-      "critique": "실제 토양 데이터를 쓰지만 균근균 네트워크의 시각적 형상 자체는 머신러닝 에이전트의 추정치라, 과학적 정확도보다 은유적 재현에 가깝다는 한계가 있다."
-     },
-     "tags": {
-      "sense": [
-       "시각",
-       "공간감"
-      ],
-      "tech": [
-       "XR·AR·VR",
-       "머신러닝·비전"
-      ],
-      "theme": [
-       "비인간·생태"
-      ],
-      "scale": "방·설치"
-     },
-     "origin": {
-      "artistBase": "독일 · 영국",
-      "region": "유럽",
-      "venue": "린츠, 오스트리아"
-     },
-     "grounded": true
-    },
-    {
-     "id": "2026-09-20-03",
-     "title": "Ars Electronica Futurelab — 신택트",
-     "originalTitle": "Ars Electronica Futurelab — SynTact",
-     "creator": "Ars Electronica Futurelab",
-     "publishedAt": "2026.09",
-     "url": "https://ars.electronica.art/futurelab/en/syntact/",
-     "host": "ars.electronica.art",
-     "description": "식물·로봇·인간을 하나의 협업 구조에 놓고 접촉을 공통 커뮤니케이션 방식으로 탐구한 작업이다. 인간과 기계 사이의 오래된 인터랙션 구조가, 인간·식물·기계가 나란히 있는 구조로 바뀐다.",
-     "image": "images/2026-09-20-03.jpg",
-     "imageFallback": "https://ars.electronica.art/futurelab/files/2026/07/syntact_c_susanne-kiesenhofer_04-1491x1000.jpg",
-     "insight": {
-      "mechanism": "살아있는 식물로 만든 고리형 통로를 지나면 빛으로 반응하고, 중앙에는 로봇 촉수가 달린 식물이 있어 관람객의 손길에 움직임으로 응답한다.",
-      "whyNow": "리코와 아르스 일렉트로니카 퓨처랩이 2022년부터 진행해온 '퓨처 팀즈' 연구의 연장으로, 인간 중심을 넘어선 협업 형태를 촉각으로 탐구하는 흐름을 반영한다.",
-      "directorPoint": "손이 식물에 닿는 순간과 로봇 촉수가 반응하는 순간 사이에 짧은 지연을 살려 편집하면, 접촉이라는 커뮤니케이션의 낯섦을 관객이 체감하게 만들 수 있다.",
-      "critique": "식물과 로봇, 인간을 나란히 두는 구도가 개념적으로 매력적이지만, 실제 상호작용은 단순한 터치 센서 반응에 가까워 '협업'이라는 표현이 과장일 수 있다."
-     },
-     "tags": {
-      "sense": [
-       "촉각",
-       "신체·움직임"
-      ],
-      "tech": [
-       "로보틱스",
-       "센서·인터랙션"
-      ],
-      "theme": [
-       "인간-기계 관계",
-       "비인간·생태"
-      ],
-      "scale": "방·설치"
-     },
-     "origin": {
-      "artistBase": "오스트리아",
-      "region": "유럽",
-      "venue": "린츠, 오스트리아"
-     },
-     "grounded": true
+     "grounded": true,
+     "revisitOf": "2026-09-02-02"
     }
    ],
    "focus": {
@@ -2648,7 +2534,8 @@
       "region": "유럽",
       "venue": "제네바, 스위스"
      },
-     "grounded": true
+     "grounded": true,
+     "revisitOf": "2026-09-09-06"
     }
    ],
    "focus": {
@@ -2835,7 +2722,8 @@
       "region": "유럽",
       "venue": "린츠, 오스트리아"
      },
-     "grounded": true
+     "grounded": true,
+     "revisitOf": "2026-09-11-02"
     }
    ],
    "focus": {
