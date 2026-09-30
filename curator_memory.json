@@ -67,7 +67,9 @@
     "Gravidade VR(2020)·Body Sketches(2022)처럼 완성 연도가 오래된 작업이 2026년 전시로 재순환되는 사례가 늘고 있음 — '최신작' 기준과 재전시 표기 방식을 정리할지 검토",
     "아프리카 권역: Fak'ugesi(10/13 개막), Dak'Art(11/19 개막) 등 대형 행사가 아직 개막 전이라 9/28 기준 검증 가능한 아프리카 작가 신작을 찾지 못함 — 10월 이후 재탐색 필요",
     "아프리카·중동 권역: 검증 가능한 미디어아트(영상/AI/센서 기반) 신작을 지속적으로 찾기 어려움 — Fak'ugesi(10/13), 다른 가을 행사 개막 후 재탐색 필요.",
-    "2026-09-30: 유럽 비중이 최근 14일 55%로 여전히 높음(28/51). 다음 회차부터 오세아니아·중남미 출처를 우선 훑을 것."
+    "2026-09-30: 유럽 비중이 최근 14일 55%로 여전히 높음(28/51). 다음 회차부터 오세아니아·중남미 출처를 우선 훑을 것.",
+    "Fak'ugesi African Digital & Innovation Festival(요하네스버그, 10/13~17 개막)에 르노 필리니치 오로스코(칠레계, 위츠대 박사후연구원)·에반스 아카니주카(우간다) 등 검증 가능한 작가 라인업 확인됨 — 개막 후(10/13 이후) 재탐색해 아프리카 권역 항목으로 다룰 것.",
+    "Zeitz MOCAA 'Turning Towards the Sun'(짐 추추 등, 케냐/아프리카 디아스포라)은 2026-12-10 개막 예정 — 개막 후 재탐색."
   ],
   "pipeline_health_log": [
     {
@@ -90,7 +92,8 @@
       "date": "2026-09-29",
       "note": "중복 정리(사용자 요청): 과거 중복 6건 처리 — 순수 중복 3건 삭제(9/20 Entangled Landscape·SynTact, 9/22 UNFOLD), Focus가 걸린 3건은 revisitOf로 재조명 표시(9/17 Noise of War→9/11, 9/19 Mirror to the Soul→9/09, 9/20 Sybil→9/02). 원인: (1) 9/17·9/19·9/20은 ChatGPT 시절 데이터가 9/20 이관 때 중복 검사 없이 들어옴, (2) 9/22 UNFOLD 등은 중복 검사가 프롬프트 지시(눈으로 대조)뿐이고 코드 검증이 없었음, 크레딧·원제 표기가 제각각이라 문자열 비교가 빗나감. 대책: scripts/check-dedup.mjs를 커밋 전 필수 관문으로 추가. 이미지 null 2건 보강(9/29 Lucida: ArtScience 공식 페이지 이미지, 9/27 QIP: Now or Never 공식 키아트)."
     },
-    "2026-09-30 13:53 재시도 회차로 발행: 5개 항목 (아프리카1·중동1·동남남아시아2·유럽1), 공백권역 아프리카/중동 보강, 이미지 5/5 확보, Focus: clinamen(Céleste Boursier-Mougenot)"
+    "2026-09-30 13:53 재시도 회차로 발행: 5개 항목 (아프리카1·중동1·동남남아시아2·유럽1), 공백권역 아프리카/중동 보강, 이미지 5/5 확보, Focus: clinamen(Céleste Boursier-Mougenot)",
+    "2026-10-01 07:xx 정시 발행: 4개 항목 (동남·남아시아1·중동1·유럽1·북미1), 공백권역 중동(UAE, 421 Arts Campus)·남아시아(인도, FILE 상파울루) 보강, 이미지 4/4 확보(실 브라우저 렌더링, 모두 og 계열 이미지 아님 — 기사/작품 페이지 내 실사진). Focus: Human in the Loop(Ahmad AlAttar). 아프리카·오세아니아는 이번에도 검증 가능한 현재 진행 중인 신작을 찾지 못함(Fak'ugesi는 10/13 개막 전이라 보류, Jim Chuchu Turning Towards the Sun은 12/10 개막 예정이라 보류) — 두 권역 모두 해당 행사 개막 후 재탐색 필요."
   ],
   "source_notes": [
     "Museum MACAN(museummacan.org, 자카르타) — 전시 페이지에 og:image·갤러리 이미지 풍부, 인도네시아/동남아 작가 개인전 다수, 작동 양호.",
@@ -103,6 +106,10 @@
     {
       "date": "2026-09-30",
       "note": "Fak'ugesi Immersive Africa(fakugesi.co.za)는 작품 이미지가 로고만 노출; 작가 개인 사이트(inkakendzia.com)에서 실제 스크린샷 확보 가능. Sharjah Art Foundation 보도자료는 og:image 썸네일 제공. theeverydaymuseum.sg(Momentary Pulses)는 datocms-assets CDN에 작품별 고화질 이미지 보유, 작가 다수 커미션이라 같은 호에 최대 2개까지 활용 가능."
+    },
+    {
+      "date": "2026-10-01",
+      "note": "421 Arts Campus(421.online, 아부다비)는 전시 개별 페이지 이미지가 핫링크 차단(503)되어 있어 리뷰 매체(canvasonline.com)의 설치 사진을 사용함(양호). FILE 상파울루(file.org.br) 개별 설치 페이지는 s3 호스팅 이미지가 안정적으로 열림(양호). MAD Arts(yeswearemadarts.com, 대니아비치)는 webflow CDN 이미지 접근 양호. Jameel Arts Centre(jameelartscentre.org)는 og:image 핫링크 차단되나 페이지 내 렌더링된 히어로 이미지는 접근 가능."
     }
   ],
   "dedup_policy": {

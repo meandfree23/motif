@@ -1,6 +1,229 @@
 {
   "issues": [
     {
+      "date": "2026-10-01",
+      "title": "숨은 규칙과 마주하는 네 개의 방",
+      "summary": "인도의 사운드 설치부터 두바이의 밧줄 미로, 런던발 드림머신, 마이애미의 AI 도시까지, 보이지 않는 알고리즘과 관객이 벌이는 협상을 네 편에서 살핀다.",
+      "crosscurrent": {
+        "note": "손끝의 입력이 시스템 속에서 형태를 얻을 때 통제는 누구 손에 있는가라는 질문에, 두바이의 숨바꼭질 설치와 마이애미의 AI 도시 설치가 서로 다른 답을 내놓는다.",
+        "itemIds": [
+          "2026-10-01-02",
+          "2026-10-01-04"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-01-01",
+          "title": "소멸하는 신호들",
+          "originalTitle": "Transmissions into the Void",
+          "creator": "Dennis Peter",
+          "publishedAt": "2026-08-20",
+          "url": "https://file.org.br/installations_2026/non-linear-transmissions-into-the-void-india/",
+          "host": "file.org.br",
+          "description": "고아를 기반으로 활동하는 디자이너 데니스 피터가 상파울루 FILE 페스티벌에서 빛과 소리로 채운 방을 선보인다. 즉흥연주가 사라지듯 정보도 결국 부식된다는 전제 아래, 생물학적·디지털·아날로그 기록 모두를 같은 소멸의 운명으로 묶어 보여준다.",
+          "image": "images/2026-10-01-01.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Dennis-Fabian-Transmissions-into-the-Void-INSTALACOES-FILE-SP-2026-scaled.jpg",
+          "insight": {
+            "mechanism": "모듈형 조명 유닛과 사운드 시스템이 방 전체를 감싸 관객이 들어서는 순간 빛과 소리의 유동적 조합으로 반응하는 몰입 공간을 구성한다.",
+            "whyNow": "클라우드에 모든 것이 영원히 저장된다고 믿는 시대에, 정보도 결국 시간에 잠식된다는 사실을 물리적 공간으로 되돌려 놓는다.",
+            "directorPoint": "공간 전체를 하나의 악기로 다루어 빛의 리듬과 사운드 텍스처가 함께 변주되며, 관객의 체류 자체가 유일하게 반복되지 않는 시퀀스를 만든다.",
+            "critique": "소멸이라는 개념이 사전 프로그램된 빛·소리 시퀀스인지, 실시간 데이터에 반응하는 알고리즘인지는 공개된 자료만으로는 분명하지 않다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "라이트·LED",
+              "공간음향"
+            ],
+            "theme": [
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "인도",
+            "region": "동남·남아시아",
+            "venue": "상파울루, 브라질"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-01-02",
+          "title": "루프 속의 인간",
+          "originalTitle": "Human in the Loop",
+          "creator": "Ahmad AlAttar",
+          "publishedAt": "2026-06-21",
+          "url": "https://www.421.online/whats-on/human-in-the-loop-by-dr-ahmad-alattar",
+          "host": "421.online",
+          "description": "두바이에서 활동하는 로보틱스 엔지니어 아흐마드 알아타르가 아부다비 421 아츠캠퍼스에서 첫 개인전을 열었다. 천장에 매단 54개의 밧줄과 숨은 알고리즘이 벌이는 숨바꼭질을 통해, 관객이 기술을 조종하는지 기술에 조종당하는지를 몸으로 묻는다.",
+          "image": "images/2026-10-01-02.jpg",
+          "imageFallback": "https://canvasonline.com/wp-content/uploads/2026/08/421-1440-1-1.jpg",
+          "insight": {
+            "mechanism": "6×9 격자로 매달린 54개의 밧줄 각각이 무선 마우스처럼 숨은 컴퓨터와 통신하며, 목표 지점에 가까울수록 새소리 배경음 위로 더 날카로운 글리치음이 겹쳐진다.",
+            "whyNow": "밤마다 휴대폰을 무의미하게 스크롤하는 습관을 갤러리 안의 게임으로 되비추어, AI 시대의 주의력과 통제감을 일상 언어로 다시 묻는다.",
+            "directorPoint": "정답 지점을 찾아도 알고리즘이 즉시 다른 곳으로 숨어버리게 설계해 완결의 쾌감 대신 반복 참여를 유도하며, 자연음과 글리치음의 대비로 몰입과 각성을 교차시킨다.",
+            "critique": "작가 스스로 순수 AI 대신 하드코딩된 규칙으로 되돌아갔다고 밝혀, '숨은 알고리즘'이라는 설정이 실제로는 고정된 패턴에 가깝다는 긴장이 남는다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "촉각"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "로보틱스"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "아랍에미리트",
+            "region": "중동",
+            "venue": "아부다비, 아랍에미리트"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-01-03",
+          "title": "새로운 드림머신 프로젝트",
+          "originalTitle": "New Dream Machine Project",
+          "creator": "Shezad Dawood",
+          "publishedAt": "2026-09-20",
+          "url": "https://jameelartscentre.org/whats-on/artists-rooms-shezad-dawood/",
+          "host": "jameelartscentre.org",
+          "description": "런던을 기반으로 활동하는 셰자드 다우드가 두바이 자밀 아츠센터 '아티스트의 방'에서 브라이언 가이신의 드림머신에 바치는 3미터 높이 회전 조각을 다시 선보인다. 탕헤르에서 시작된 수피 우주론과 비트 세대의 만남을 광주기 점멸 장치 하나에 압축해 넣었다.",
+          "image": "images/2026-10-01-03.jpg",
+          "imageFallback": "https://jameelartscentre.org/wp-content/uploads/2026/06/Copy-of-Dream-Machine-Film-Still-3-high-1100x500.jpg",
+          "insight": {
+            "mechanism": "천공이 뚫린 원통이 회전하며 뇌의 알파파 주파수에 맞춰 빛을 점멸시켜, 눈을 감은 관객에게 환각에 가까운 시각 패턴을 유도한다.",
+            "whyNow": "명상 앱과 웰니스 테크가 범람하는 지금, 15년 전 조각 하나가 기술로 의식 상태를 조작한다는 질문을 다시 꺼내 놓는다.",
+            "directorPoint": "중심 조각 곁에 캔 재활용으로 만든 소형 시제품 '레시클라주'와 아카이브 자료를 나란히 배치해, 완성작이 아니라 제작 과정 자체를 전시 동선으로 삼는다.",
+            "critique": "2011년 아브라즈 상 커미션작을 그대로 재전시한 것이어서, '아티스트의 방'이라는 신작 전시 틀 안에서 신작과 회고의 경계가 흐려진다."
+          },
+          "tags": {
+            "sense": [
+              "시각"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "의식·영성",
+              "기억·아카이브"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "영국",
+            "region": "유럽",
+            "venue": "두바이, 아랍에미리트"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-01-04",
+          "title": "벽으로 쌓은 도시",
+          "originalTitle": "A Walled City",
+          "creator": "Weidi Zhang, Rodger Luo",
+          "publishedAt": "2025-12-13",
+          "url": "https://www.yeswearemadarts.com/exhibitions/a-walled-city",
+          "host": "yeswearemadarts.com",
+          "description": "로스앤젤레스·피닉스를 기반으로 활동하는 웨이디 장과 로저 루오가 홍콩 구룡성채의 밀도 높은 공간 논리를 빌려 마이애미 인근 MAD 아츠에 AI 가상도시를 세웠다. 관객이 올린 개인 사진을 멀티에이전트 AI가 건축적 방으로 바꿔 계속 자라나는 하나의 유기체로 엮는다.",
+          "image": "images/2026-10-01-04.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/661554c9f128c6fdf3c3ceb2/6930769c50fc1fae7f377202_AWC8%20-%20Zhang%20Weidi.JPG",
+          "insight": {
+            "mechanism": "참여자가 업로드한 이미지를 멀티에이전트 AI 시스템이 분석해 건축적 '방' 단위로 변환하고, 이 방들이 누적되며 탈중심적 도시 구조를 형성한다.",
+            "whyNow": "개인의 사진 한 장이 곧바로 데이터가 되어 공동의 구조물로 편입되는 지금, 사적 기록과 공적 아카이브의 경계를 건축 형태로 시각화한다.",
+            "directorPoint": "각 참여자의 기여가 개별 방으로 식별 가능하게 남으면서도 전체 구조에 흡수되게 스케일을 전환시켜, 개인 데이터에서 도시 규모로의 확장을 한 화면 안에 압축한다.",
+            "critique": "작가는 이 작업이 향수가 아니라고 강조하지만, 소멸한 구룡성채의 이미지를 골격으로 쓰는 순간 노스탤지어의 프레임을 완전히 벗어나기는 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "생성AI",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "미국",
+            "region": "북미",
+            "venue": "대니아비치, 미국"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 1,
+        "headline": "쉰네 개의 밧줄과 숨은 알고리즘이 벌이는 숨바꼭질",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "아흐마드 알아타르는 로보틱스 박사 학위를 가진 엔지니어로, 두바이 퓨처 랩스에서 로봇 모션 학습을 연구하며 동시에 예술 실천을 병행해 왔다. 421 아츠캠퍼스의 '아티스틱 디벨롭먼트 프로그램' 2024년 기수를 거쳐 완성한 '휴먼 인 더 루프'는 그의 첫 기관 개인전이다. 스마트폰을 밤새 무의미하게 스크롤하는 습관을 갤러리 안의 놀이로 되비추며, 통제라는 단어가 인간과 알고리즘 중 누구에게 더 맞는 말인지 몸으로 묻는다는 점에서 지금 시점에 유효하다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "천장에는 네온 톤의 밧줄 54개가 6×9 격자로 매달려 있고, 각 밧줄은 숨은 컴퓨터와 연결된 무선 입력 장치처럼 작동한다. 방 안에는 새소리로 이루어진 자연 음향이 깔려 있으며, 밧줄을 당길 때마다 짧은 디지털 글리치음이 끼어든다. 숨은 알고리즘과의 거리가 가까울수록 글리치음은 더 길고 날카로워지고, 정답 지점을 당기면 조명이 점멸하며 강한 청각적 보상이 터진다. 그 순간 알고리즘은 즉시 다른 위치로 옮겨가며 탐색이 재시작된다. 작가는 순수 인공지능 대신 하드코딩된 규칙으로 이 순환을 설계해, 완결이 아니라 지속되는 탐색 상태 자체를 작품의 핵심으로 삼았다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "작품 제목은 로보틱스·AI 분야에서 인간의 개입이 필요한 시스템을 가리키는 용어 '휴먼 인 더 루프'에서 왔으며, 작가는 이를 '인간이 통제의 일부인 동시에 통제당하는 대상'이라는 이중의 의미로 비틀었다. 같은 작가의 이전 작업인 '모스-비헤이빙'(2025)은 전통 건축 사진에 AI 생성 이끼를 입혔고, '사두 보난자'(2025)는 에미라티 전통 직조 패턴을 인터랙티브 설치로 옮겼다. 두 선행작 모두 UAE 유산과 신기술을 겹치는 그의 반복된 관심사를 보여주며, 이번 작품은 그 관심사를 신체 반응으로 확장한 결과로 읽힌다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "이 작업의 핵심 연출은 화면이나 프로젝션이 아니라 손으로 당기는 로프와 청각 피드백만으로 공간을 구성했다는 점이다. 거리감을 시각이 아닌 소리의 거칠기와 지속 시간으로 번역하는 방식은, 관객을 화면 밖 신체로 끌어내는 인터랙션 설계의 좋은 참조점이 된다. 보상 직후 목표가 다시 숨어버리게 만든 순환 구조 역시, 만족을 지연시켜 몰입을 지속시키는 리듬 설계로서 연출자에게 유용한 장치다. 다만 작가 스스로 밝혔듯 이 '알고리즘'은 실제로는 고정 규칙에 가까워, 우연성을 표방하는 인터랙션이 실제로는 얼마나 결정론적인지 살펴볼 필요가 있다."
+          }
+        ],
+        "keywords": [
+          "휴먼인더루프",
+          "사운드인터랙션",
+          "로보틱스아트",
+          "UAE미디어아트",
+          "421아츠캠퍼스"
+        ],
+        "sources": [
+          {
+            "label": "421 Arts Campus 공식 전시 페이지",
+            "url": "https://www.421.online/whats-on/human-in-the-loop-by-dr-ahmad-alattar"
+          },
+          {
+            "label": "Canvas — The Human Variable 리뷰",
+            "url": "https://canvasonline.com/the-human-variable-dr-ahmad-alattar-at-421-arts-campus"
+          },
+          {
+            "label": "The National — 작가 인터뷰",
+            "url": "https://www.thenationalnews.com/arts-culture/2026/06/23/artist-and-engineer-creates-installation-that-allows-visitors-to-play-hide-and-seek-with-technology"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Moss-Behaving",
+            "year": "2025",
+            "relation": "전통 건축 사진에 AI 생성 이끼를 입힌 이전 작업, 유산과 신기술을 겹치는 관심사의 원형"
+          },
+          {
+            "name": "Sadu Bonanza",
+            "year": "2025",
+            "relation": "에미라티 전통 직조 패턴을 인터랙티브 설치로 옮긴 작업으로 신체 상호작용 설계의 선행 실험"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-09-30",
       "title": "아프리카 신화의 돔과 걸프의 매, 반복으로 정체성을 다시 쓰다",
       "summary": "아프리카·중동·동남아시아·유럽 네 권역에서 신화와 반복, 도시의 리듬을 다루는 다섯 작업을 모았다. 요하네스버그의 풀돔부터 뉴욕 아모리의 물소리까지, 오늘은 몸이 아니라 반복되는 형식이 정체성을 어떻게 다시 쓰는지 살핀다.",
@@ -11308,6 +11531,6 @@
       }
     }
   ],
-  "generatedAt": "2026-09-30T05:01:32.754Z",
+  "generatedAt": "2026-09-30T22:10:50.515Z",
   "schemaVersion": 2
 }
