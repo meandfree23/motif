@@ -91,7 +91,7 @@
           },
           "origin": {
             "artistBase": "인도네시아",
-            "region": "동남아시아",
+            "region": "동남·남아시아",
             "venue": "싱가포르"
           },
           "grounded": true
@@ -174,7 +174,7 @@
           },
           "origin": {
             "artistBase": "인도",
-            "region": "남아시아",
+            "region": "동남·남아시아",
             "venue": "디리야, 사우디아라비아"
           },
           "grounded": true
@@ -12473,6 +12473,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-04T23:01:13.426Z",
+  "generatedAt": "2026-10-04T23:05:33.258Z",
   "schemaVersion": 2
 }
