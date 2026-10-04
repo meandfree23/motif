@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -95,7 +95,8 @@
     "2026-09-30 13:53 재시도 회차로 발행: 5개 항목 (아프리카1·중동1·동남남아시아2·유럽1), 공백권역 아프리카/중동 보강, 이미지 5/5 확보, Focus: clinamen(Céleste Boursier-Mougenot)",
     "2026-10-01 07:xx 정시 발행: 4개 항목 (동남·남아시아1·중동1·유럽1·북미1), 공백권역 중동(UAE, 421 Arts Campus)·남아시아(인도, FILE 상파울루) 보강, 이미지 4/4 확보(실 브라우저 렌더링, 모두 og 계열 이미지 아님 — 기사/작품 페이지 내 실사진). Focus: Human in the Loop(Ahmad AlAttar). 아프리카·오세아니아는 이번에도 검증 가능한 현재 진행 중인 신작을 찾지 못함(Fak'ugesi는 10/13 개막 전이라 보류, Jim Chuchu Turning Towards the Sun은 12/10 개막 예정이라 보류) — 두 권역 모두 해당 행사 개막 후 재탐색 필요.",
     "2026-10-03 누락 보충 발행(10-02, 10-03): 사용자 요청으로 10-01 이후 비어 있던 두 날짜를 한 번에 채움. 10-02는 4개 항목(북미1·동남·남아시아1·동아시아1·유럽1), 10-03은 4개 항목(동아시아1·오세아니아1·중남미1·중동1)으로 유럽 비중 완화 목적. 이미지 8/8 확보(MMoCA·squarespace·teamLab imagewave·timo.ee·FILE s3·inavate cloudinary·fun-and-awe webflow·swcf 공식 포스터). Focus: Diffuse Control(Beeple, MMoCA), El Macroscopio(Proyecto Aurora, FILE SP). 주의: 두 호 모두 항목이 4개라 목표(5-8개)에는 못 미침; The Sound of Naoshima는 전자 장치가 없는 바람 구동 작업이라 미디어아트 경계 사례로 표기; 10-03 OPERATOR의 지역(중동)은 FILE의 표기에 의존. 아프리카 신작은 이번에도 검증 가능한 사례를 찾지 못함.",
-    "2026-10-04 정시 발행: 4개 항목(오세아니아1·아프리카1·중동1·유럽1), 이미지 4/4 확보. Focus: Simon Ingram의 Vibrating World: Rotokare Forest. 일요일 Signal 갱신으로 sig-nonhuman-translators에 오세아니아 근거 추가. Lifted Arches는 관객 입력이 없는 아카이브 기반 빛 조각 경계 사례, E.E.G. KISS의 현장 참여 퍼포먼스는 7월 개막 주말에 집중됐음을 명시."
+    "2026-10-04 정시 발행: 4개 항목(오세아니아1·아프리카1·중동1·유럽1), 이미지 4/4 확보. Focus: Simon Ingram의 Vibrating World: Rotokare Forest. 일요일 Signal 갱신으로 sig-nonhuman-translators에 오세아니아 근거 추가. Lifted Arches는 관객 입력이 없는 아카이브 기반 빛 조각 경계 사례, E.E.G. KISS의 현장 참여 퍼포먼스는 7월 개막 주말에 집중됐음을 명시.",
+    "2026-10-05 정시 발행 준비: 4개 항목(동아시아1·동남아시아1·중남미1·남아시아1), 이미지 4/4 확보. Focus: Bagus Pandega의 Fabric of the Earth. ACC·SAM·V&A·Raqs 공식 자료로 검증했으며 기존 249개 작품과 후보 중복 게이트 통과."
   ],
   "source_notes": [
     "Museum MACAN(museummacan.org, 자카르타) — 전시 페이지에 og:image·갤러리 이미지 풍부, 인도네시아/동남아 작가 개인전 다수, 작동 양호.",
@@ -120,6 +121,10 @@
     {
       "date": "2026-10-04",
       "note": "Govett-Brewster/University of Auckland ResearchSpace는 작품 사양과 생태 맥락이 상세하고 공식 이미지 원본도 제공(매우 양호). French Institute of South Africa/Futures_Past는 레소토 VR의 제작진·운영 기간·360도 서사를 확인하기 좋고 고해상도 스틸 제공. Ithra 작가 페이지는 3D 프린트·이동 조명 메커니즘을 상세히 공개. ZKM Silver Egg 페이지는 E.E.G. KISS의 2026 설치 사진과 전시 기간을 제공하나 실제 참여 퍼포먼스 일정은 7월 3~5일로 별도 확인 필요."
+    },
+    {
+      "date": "2026-10-05",
+      "note": "ACC는 작품 사양·115.4채널 구성과 곡 목록을 상세히 공개(매우 양호). Singapore Art Museum은 작품별 고해상도 이미지와 재료·작동 설명 제공(매우 양호). V&A ATRATO 페이지는 공급망·사운드·제작 크레딧은 상세하나 설치 이미지가 640px로 제한적. Raqs 공식 아카이브는 재료와 설치 사진은 풍부하지만 영상 재생 구조 설명은 제한적."
     }
   ],
   "dedup_policy": {
