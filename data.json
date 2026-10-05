@@ -1,6 +1,232 @@
 {
   "issues": [
     {
+      "date": "2026-10-06",
+      "title": "바다의 저음, 새의 궤적 — 보이지 않는 패턴을 듣고 그리는 네 가지 장치",
+      "summary": "싱가포르와 상파울루의 네 작업이 수중 음향과 새떼의 비행, 전류와 타일의 반복을 각자의 방식으로 번역한다. 데이터와 감각 사이, 기계가 끼어드는 지점을 네 작가가 각각 다르게 짚는다.",
+      "crosscurrent": {
+        "note": "소데오카는 새떼의 궤적에 좌표계를 덧씌워 포식의 패턴을 드러내고, 자오 윈데렌은 청각 장비를 바다 밑으로 내려보내 들리지 않던 저음을 건져 올린다 — 둘 다 보이지 않는 자연의 질서를 기계로 포착한다.",
+        "itemIds": [
+          "2026-10-06-01",
+          "2026-10-06-02"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-06-01",
+          "title": "황혼에서 떠오르는 것: 수중",
+          "originalTitle": "Rising from the Twilight: Underwater",
+          "creator": "Jana Winderen",
+          "publishedAt": "2026-06-06",
+          "url": "https://www.marinabaysands.com/museum/programmes/artscience-encounters/rising-from-the-twilight-underwater.html",
+          "host": "marinabaysands.com",
+          "description": "노르웨이 사운드 아티스트 자오 윈데렌이 바다 밑으로 하이드로폰을 내려보내 채집한 소리로 새로 커미션한 작품이다. ArtScience Museum의 빗물 오큘러스 아래, 수면 위 햇빛과 수면 아래 저음이 같은 공간에서 겹친다.",
+          "image": "images/2026-10-06-01.jpg",
+          "imageFallback": "https://ko.marinabaysands.com/content/dam/mbs-asm/artscience-encounters/rising-from-the-twilight-underwater/jana-winderen-1920x1080.jpg",
+          "insight": {
+            "mechanism": "여러 차례의 심해 하강에서 하이드로폰으로 녹음한 수중음을 다채널 사운드스케이프로 재구성해 공간 전체에 흘려보낸다.",
+            "whyNow": "OceanX와 협업한 'Into the Ocean' 전시가 올해 종료를 앞두면서, 그 조사 과정 자체를 청각 작업으로 남기려는 시도다.",
+            "directorPoint": "화면 없이 소리만으로 깊이감을 설계한다 — 저음의 밀도와 간격만으로 수심이 깊어지는 감각을 조성하는 사운드 선행 연출.",
+            "critique": "녹음 현장의 구체적 좌표나 생물종 정보가 공개되지 않아, 청취자가 어떤 바다를 듣는지 검증하기는 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "공간음향",
+              "과학장비·실험"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "노르웨이",
+            "region": "유럽",
+            "venue": "싱가포르 / ArtScience Museum"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-06-02",
+          "title": "이주의 변수들",
+          "originalTitle": "Migratory Parameters",
+          "creator": "Yoshi Sodeoka",
+          "publishedAt": "2026-08-11",
+          "url": "https://www.marinabaysands.com/museum/programmes/artscience-interlude/yoshi-sodeoka.html",
+          "host": "marinabaysands.com",
+          "description": "히로시마 출신으로 뉴욕에서 활동하는 소데오카 요시가 ArtScience Museum 로비 LED 스크린을 위해 만든 영상 작업이다. 날아가는 새떼 위로 좌표망과 추적 라벨을 겹쳐, 알고리즘이 자연을 읽는 방식을 가시화한다.",
+          "image": "images/2026-10-06-02.jpg",
+          "imageFallback": "https://ko.marinabaysands.com/content/dam/mbs-asm/event-details/artscience-interlude-yoshi-sodeoka/migratoryparameters-1920x823.jpg",
+          "insight": {
+            "mechanism": "실사로 촬영한 새떼 영상 위에 좌표축, 추적 마커, 벡터선 같은 컴퓨터 비전 시각 문법을 합성해 하나의 반복 재생 루프로 만든다.",
+            "whyNow": "ArtScience Interlude 프로그램이 매시 정각 같은 화면에 다른 작가의 작업을 올리는 연속 기획의 일환으로 8월부터 상영 중이다.",
+            "directorPoint": "자연 영상과 데이터 오버레이의 리듬을 어긋나게 배치해, 숫자가 생명체를 따라잡지 못하는 지점을 편집으로 드러낸다.",
+            "critique": "감시 미학을 비판하는 제스처이면서도 그 자체로 추적 그래픽을 매력적으로 전시해, 비판과 매혹 사이 경계가 흐릿하다."
+          },
+          "tags": {
+            "sense": [
+              "시각"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "비인간·생태",
+              "권력·감시"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "미국",
+            "region": "북미",
+            "venue": "싱가포르 / ArtScience Museum"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-06-03",
+          "title": "바이오볼트",
+          "originalTitle": "BIOVOLT",
+          "creator": "Yves Peitzner",
+          "publishedAt": "2026-08-20",
+          "url": "https://www.yvespeitzner.com/biovolt",
+          "host": "file.org.br",
+          "description": "뮌헨 기반 작가 이브 파이츠너가 LED 띠로 만든 10미터 길이의 구조물로, 상파울루 FILE 페스티벌 '인터-크리에이티비티'전에 설치됐다. 관객이 다가가거나 손을 뻗으면 그 움직임이 전류처럼 구조물 끝까지 흘러간다.",
+          "image": "images/2026-10-06-03.jpg",
+          "imageFallback": "https://www.yvespeitzner.com/biovolt",
+          "insight": {
+            "mechanism": "모션 센서가 관객의 움직임과 접촉을 감지해 LED 띠를 따라 빛의 파동을 실시간으로 쏘아 보내는 인터랙티브 라이트 설치다.",
+            "whyNow": "FILE 상파울루 2026 '인터-크리에이티비티'전이 인간과 기계 사이의 공유된 창작을 주제로 8월 20일부터 10월 11일까지 진행 중이다.",
+            "directorPoint": "빛의 이동 속도를 사람 걸음보다 살짝 빠르게 설계해, 관객이 자신의 에너지가 구조물을 '앞질러 가는' 듯한 지연 효과를 만든다.",
+            "critique": "인간 에너지와 전기 에너지의 연결이라는 은유가 설명문에 크게 의존하고 있어, 체험만으로는 그 상징을 읽어내기 어려울 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "독일",
+            "region": "유럽",
+            "venue": "상파울루, 브라질 / FIESP 문화센터"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-06-04",
+          "title": "조수의 테셀레이션",
+          "originalTitle": "Tidal Tessellation",
+          "creator": "Seohyo",
+          "publishedAt": "2023-03-28",
+          "url": "https://www.lerandom.art/artists/seohyo",
+          "host": "file.org.br",
+          "description": "서울 기반 제너러티브 아티스트 서효정이 코드로 쌓아 올린 타일 패턴 연작으로, FILE 상파울루 2026의 LED 쇼 프로그램에 다시 상영됐다. 원, 십자, 격자 같은 단순 도형이 조수처럼 밀려오고 쌓이며 매번 다른 배색으로 재구성된다.",
+          "image": "images/2026-10-06-04.jpg",
+          "imageFallback": "https://www.lerandom.art/artists/seohyo",
+          "insight": {
+            "mechanism": "일상 사물에서 뽑아낸 단순 도형을 규칙 기반 알고리즘으로 반복·적층시켜, 색상 팔레트와 클러스터링 변수만 바꿔가며 매번 다른 구성을 생성한다.",
+            "whyNow": "2023년 작업이지만 FILE 2026 LED 쇼가 12개국 작가의 도시형 스크린 작업을 모으며 이 연작을 다시 선택해 상파울루 야외 전광판에 올렸다.",
+            "directorPoint": "하나의 형태 규칙을 끝까지 지키되 색과 밀도, 클러스터링만 바꿔가며 변주가 반복 그 자체에서 나온다는 것을 보여주는 리듬 설계다.",
+            "critique": "규칙과 변주의 관계를 작가가 직접 설명하지 않으면 추상 패턴 이상의 맥락을 읽어내기 쉽지 않다."
+          },
+          "tags": {
+            "sense": [
+              "시각"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "AI·저자성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "대한민국",
+            "region": "동아시아",
+            "venue": "상파울루, 브라질 / FIESP 문화센터"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "들리지 않던 저음을 전시장 천장 밑으로 끌어올리는 하이드로폰",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "ArtScience Museum은 OceanX와 협업한 'Into the Ocean: Journey Beneath' 전시를 6월부터 11월까지 운영하며 심해 탐사 영상을 선보여 왔다. 자오 윈데렌의 'Rising from the Twilight: Underwater'는 그 전시가 끝나가는 시점에 커미션된 사운드 작업으로, 영상으로 보여준 심해를 이번엔 귀로 듣게 한다. 수학과 화학, 어류 생태학을 공부한 작가가 수십 년간 이어온 하이드로폰 채집 작업의 연장선에 있으며, 시각 스펙터클 중심의 심해 전시에 청각이라는 다른 감각 경로를 더했다는 점에서 눈여겨볼 만하다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "하이드로폰은 인간 청각 범위 밖의 저주파와 초음파까지 포착하는 수중 마이크다. 윈데렌은 여러 차례의 심해 하강 동안 이 장비를 선체 밖으로 늘어뜨려 조류와 생물, 선박 소음이 뒤섞인 원음을 녹음한 뒤, 이를 다채널 사운드스케이프로 편집해 ArtScience Museum의 빗물 오큘러스 아래 공간에 흘려보낸다. 화면이나 조명 없이 소리의 밀도와 공간 울림만으로 수심의 변화를 체감하게 만드는 구조다. 관객은 머리 위로 쏟아지는 자연광과 발밑에서 울리는 심해 저음을 동시에 경험하며, 수면과 심해라는 서로 다른 층위가 한 건축 공간 안에서 압축된다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "윈데렌은 2011년 'Silencing of the Reefs'에서 산호초 하이드로폰 녹음으로 해양 산성화가 산호 생물 소리의 밀도를 어떻게 지워가는지 들려준 바 있고, 2013년 뉴욕 MoMA의 집단전 'Soundings: A Contemporary Score'에 참여해 하이드로폰 작업을 미술관 맥락에 처음 본격적으로 소개했다. 2017년 'bára'에서는 빙하 녹는 소리를 채집해 기후 변화를 청각적 증거로 제시했다. 이번 작품은 그 계보 위에서, 심해 탐사라는 과학 서사에 자신의 오랜 청취 방법론을 결합한 결과로 읽을 수 있다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "이 작업의 핵심은 '보여주지 않음'이다. 영상 없이 소리의 레이어만으로 깊이감을 설계하는 방식은, 화면에 의존하지 않고도 공간 전체를 심해로 바꿀 수 있다는 걸 보여준다. 다만 녹음 현장의 좌표나 생물종 같은 구체적 정보가 공개되지 않아 청취자가 '어떤 바다인지' 검증할 길이 없다는 점은 과학적 엄밀성보다 분위기 조성에 무게를 둔 선택으로 보인다. 저음의 간격과 밀도를 어떻게 배분하느냐에 따라 청자가 느끼는 수심이 달라진다는 점은, 사운드 디자인이 카메라 워크 없이도 공간의 스케일을 연출할 수 있다는 실마리를 준다."
+          }
+        ],
+        "keywords": [
+          "하이드로폰",
+          "수중음향",
+          "기후·생태",
+          "청각 설치",
+          "심해"
+        ],
+        "sources": [
+          {
+            "label": "ArtScience Museum — Rising from the Twilight: Underwater",
+            "url": "https://www.marinabaysands.com/museum/programmes/artscience-encounters/rising-from-the-twilight-underwater.html"
+          },
+          {
+            "label": "TBA21 — Jana Winderen, Silencing of the Reefs (2011)",
+            "url": "https://tba21.org/silencing_of_the_reefs"
+          },
+          {
+            "label": "MoMA — Soundings: A Contemporary Score, Jana Winderen",
+            "url": "https://www.moma.org/interactives/exhibitions/2013/soundings/artists/15/works"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Silencing of the Reefs",
+            "year": "2011",
+            "relation": "산호초 하이드로폰 녹음으로 해양 산성화를 청각적으로 증언한 윈데렌의 초기 대표작"
+          },
+          {
+            "name": "Soundings: A Contemporary Score (MoMA 집단전)",
+            "year": "2013",
+            "relation": "하이드로폰 기반 사운드 작업을 미술관 화이트큐브 맥락에 처음 소개한 계기"
+          },
+          {
+            "name": "bára",
+            "year": "2017",
+            "relation": "빙하가 녹는 소리를 채집해 기후 변화를 청각 증거로 제시한 선행 작업"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-05",
       "title": "사라진 것을 물질이 다시 말하게 하는 네 가지 장치",
       "summary": "아시아의 이주를 노래한 아홉 편의 시, 재난 현장의 진흙, 채굴로 오염된 강의 금속, 유리로 불어 만든 폐까지. 기록에서 밀려난 이동·추출·신체의 경험을 소리와 기계, 디지털 이미지와 투명한 물질로 다시 발화시키는 네 작업을 읽는다.",
@@ -12473,6 +12699,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-04T23:05:33.258Z",
+  "generatedAt": "2026-10-05T23:42:06.823Z",
   "schemaVersion": 2
 }
