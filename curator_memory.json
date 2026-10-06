@@ -70,7 +70,8 @@
     "2026-09-30: 유럽 비중이 최근 14일 55%로 여전히 높음(28/51). 다음 회차부터 오세아니아·중남미 출처를 우선 훑을 것.",
     "Fak'ugesi African Digital & Innovation Festival(요하네스버그, 10/13~17 개막)에 르노 필리니치 오로스코(칠레계, 위츠대 박사후연구원)·에반스 아카니주카(우간다) 등 검증 가능한 작가 라인업 확인됨 — 개막 후(10/13 이후) 재탐색해 아프리카 권역 항목으로 다룰 것.",
     "Zeitz MOCAA 'Turning Towards the Sun'(짐 추추 등, 케냐/아프리카 디아스포라)은 2026-12-10 개막 예정 — 개막 후 재탐색.",
-    "2026-10-06: 아프리카·오세아니아·중동·중남미 공백 지속 — Fak'ugesi(10/13 개막)와 Zeitz MOCAA Turning Towards the Sun(12/11 개막) 모두 아직 시기상 이름. FILE 상파울루(~10/11 종료)의 중남미 출신 작가(Project Aurora/콜롬비아 등) 잔여 후보 다음 회차 우선 검토할 것."
+    "2026-10-06: 아프리카·오세아니아·중동·중남미 공백 지속 — Fak'ugesi(10/13 개막)와 Zeitz MOCAA Turning Towards the Sun(12/11 개막) 모두 아직 시기상 이름. FILE 상파울루(~10/11 종료)의 중남미 출신 작가(Project Aurora/콜롬비아 등) 잔여 후보 다음 회차 우선 검토할 것.",
+    "2026-10-07: 아프리카·중남미 공백 지속. Fak'ugesi(10/13 요하네스버그 개막)는 다음 회차에 재탐색 우선순위. FILE 상파울루(10/11 종료)의 중남미 출신 작가는 이번 회차에서도 개별 작품 페이지 부재로 보류 — 작가 개인 사이트 경유로 다음 회차 재시도."
   ],
   "pipeline_health_log": [
     {
@@ -101,6 +102,10 @@
     {
       "date": "2026-10-06",
       "note": "본 실행(08:29 회차)으로 발행. 항목 4개(목표 5~8 미달 — 아프리카/오세아니아/중동/중남미 신규 검증 가능 작업 발굴 실패로 조사 시간 대부분 소진). 권역 분포: 유럽2·북미1·동아시아1. 이미지 4/4 확보(og:image 또는 작가 포트폴리오 실브라우저 추출)."
+    },
+    {
+      "date": "2026-10-07",
+      "note": "정시 발행: 4개 항목(동남·남아시아1·중동1·오세아니아1·유럽1), 아프리카/중남미는 이번에도 검증 가능한 신작을 찾지 못함. 이미지 4/4 확보(SAM artwork-highlights 공식 이미지, Ithra 공식 설치사진, ACMI 공식 게임 스크린샷, PhMuseum 작가 프로젝트 페이지 이미지). Focus: (Inter)Faces of Predictions(Sheung Yiu, C/O Berlin). 오세아니아 공백은 ACMI 'Play On' 신작 아케이드 게임 커미션으로, 중동 공백은 2026 Ithra Art Prize 수상작(Aseel AlYaqoub, Flora Incognita, 10/1 수상 발표)으로 보강. A Walled City(Weidi Zhang & Rodger Luo)는 조사 중 기존 2026-10-01-04와 중복으로 확인되어(check-dedup FAIL) 제외함."
     }
   ],
   "source_notes": [
@@ -133,7 +138,8 @@
     },
     "marinabaysands.com(ArtScience Museum Singapore) — 'In the Ether' 가을 프로그램과 ArtScience Interlude/Encounters 상설 프로그램 페이지에 og:image 메타태그 안정적으로 제공, 작가별 개별 URL 존재해 이슈당 2개 제한에 적합. 신규 출처로 유용.",
     "file.org.br — FILE 상파울루 2026 'Inter-criatividade'(8/20~10/11) 설치 목록 페이지에 전체 작품 설명 보유하나 개별 작품 URL이 없는 경우가 많아(설치 다수가 공용 목록 페이지 하나만 가짐) 작가 개인 사이트를 url로 사용해 dedup 오탐 회피 필요. 이미지는 작가 개인 포트폴리오(예: yvespeitzner.com, lerandom.art)에서 추출.",
-    "2026-10-06: Zeitz MOCAA 'Turning Towards the Sun'(아프리카, AFMAC 공동제작)은 2026-12-11 개막 예정으로 아직 이름 — 다음 재탐색은 12월 이후."
+    "2026-10-06: Zeitz MOCAA 'Turning Towards the Sun'(아프리카, AFMAC 공동제작)은 2026-12-11 개막 예정으로 아직 이름 — 다음 재탐색은 12월 이후.",
+    "ithra.com(Ithra Art Prize) — 수상작 발표 후 speakers 페이지에 프로젝트 설명과 작가 공식 설치사진 3장 제공, 양호. yeswearemadarts.com(MAD Arts)은 양호하나 전시작(A Walled City)이 FILE São Paulo 2026과 동시 전시 중인 작품이라 이미 2026-10-01에 FILE 경유로 다뤄졌음 확인 — 같은 작품이 복수 기관에서 동시 전시되는 경우 반드시 check-dedup으로 재확인할 것."
   ],
   "dedup_policy": {
     "gate": "scripts/check-dedup.mjs (저장소). 후보 확정 전 --candidates, 커밋 직전 --new <오늘> 실행. FAIL이면 커밋 금지.",
@@ -158,6 +164,13 @@
         "2026-09-11-06"
       ],
       "reason": "제목만 같은 서로 다른 작업: Fun and Awe의 Apple Vision Pro 앱 OPERATOR(10-03)와 Playfool의 [OP]erator 봇 팜 조작석(09-11)"
+    },
+    {
+      "ids": [
+        "2026-09-27-03",
+        "2026-10-07-03"
+      ],
+      "reason": "ACMI 'Play On' 전시 페이지(acmi.net.au/whats-on/play-on/) 한 곳에 실린 서로 다른 신작 아케이드 게임 3편(Quiver/QIP/Pop-up Crashout) 중 두 편. 작품별 개별 페이지가 없어 url이 같다."
     }
   ]
 }
