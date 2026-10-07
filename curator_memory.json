@@ -71,7 +71,8 @@
     "Fak'ugesi African Digital & Innovation Festival(요하네스버그, 10/13~17 개막)에 르노 필리니치 오로스코(칠레계, 위츠대 박사후연구원)·에반스 아카니주카(우간다) 등 검증 가능한 작가 라인업 확인됨 — 개막 후(10/13 이후) 재탐색해 아프리카 권역 항목으로 다룰 것.",
     "Zeitz MOCAA 'Turning Towards the Sun'(짐 추추 등, 케냐/아프리카 디아스포라)은 2026-12-10 개막 예정 — 개막 후 재탐색.",
     "2026-10-06: 아프리카·오세아니아·중동·중남미 공백 지속 — Fak'ugesi(10/13 개막)와 Zeitz MOCAA Turning Towards the Sun(12/11 개막) 모두 아직 시기상 이름. FILE 상파울루(~10/11 종료)의 중남미 출신 작가(Project Aurora/콜롬비아 등) 잔여 후보 다음 회차 우선 검토할 것.",
-    "2026-10-07: 아프리카·중남미 공백 지속. Fak'ugesi(10/13 요하네스버그 개막)는 다음 회차에 재탐색 우선순위. FILE 상파울루(10/11 종료)의 중남미 출신 작가는 이번 회차에서도 개별 작품 페이지 부재로 보류 — 작가 개인 사이트 경유로 다음 회차 재시도."
+    "2026-10-07: 아프리카·중남미 공백 지속. Fak'ugesi(10/13 요하네스버그 개막)는 다음 회차에 재탐색 우선순위. FILE 상파울루(10/11 종료)의 중남미 출신 작가는 이번 회차에서도 개별 작품 페이지 부재로 보류 — 작가 개인 사이트 경유로 다음 회차 재시도.",
+    "2026-10-08: 아프리카·중남미 공백 지속. El Macroscopio(Proyecto Aurora)는 10/3에 이미 사용된 중복으로 확인되어 제외 — 향후 FILE 상파울루(10/11 종료) 재검색 시 전체 히스토리 프로그래매틱 대조를 반드시 먼저 할 것. Zeitz MOCAA 현재 전시(Cauleen Smith - LA 기반, Rita Mawuena Benissan - 섬유 태피스트리)는 각각 북미 귀속·미디어아트 특성 약함으로 이번에도 아프리카 후보에서 제외."
   ],
   "pipeline_health_log": [
     {
@@ -106,6 +107,10 @@
     {
       "date": "2026-10-07",
       "note": "정시 발행: 4개 항목(동남·남아시아1·중동1·오세아니아1·유럽1), 아프리카/중남미는 이번에도 검증 가능한 신작을 찾지 못함. 이미지 4/4 확보(SAM artwork-highlights 공식 이미지, Ithra 공식 설치사진, ACMI 공식 게임 스크린샷, PhMuseum 작가 프로젝트 페이지 이미지). Focus: (Inter)Faces of Predictions(Sheung Yiu, C/O Berlin). 오세아니아 공백은 ACMI 'Play On' 신작 아케이드 게임 커미션으로, 중동 공백은 2026 Ithra Art Prize 수상작(Aseel AlYaqoub, Flora Incognita, 10/1 수상 발표)으로 보강. A Walled City(Weidi Zhang & Rodger Luo)는 조사 중 기존 2026-10-01-04와 중복으로 확인되어(check-dedup FAIL) 제외함."
+    },
+    {
+      "date": "2026-10-08",
+      "note": "정시 발행(07:xx 회차). 항목 3개(목표 5~8 미달 — El Macroscopio/Proyecto Aurora 후보가 2026-10-03-03과 완전 중복으로 확인돼 교체 조사에 시간 소요, 아프리카·중남미 신규 검증 가능 작업도 이번에도 발굴 실패). 권역 분포: 오세아니아1·동아시아1·유럽1. 이미지 2/3 확보(ACMI 공식 전시 이미지, ZKM 작가 페이지 경유 작품 스크린샷; Quiver는 작품 스크린샷을 찾지 못해 image:null, 개발자 인물사진만 있어 imageFallback도 비움). Focus: Feng Mengbo의 Long March: Restart."
     }
   ],
   "source_notes": [
@@ -168,7 +173,8 @@
     {
       "ids": [
         "2026-09-27-03",
-        "2026-10-07-03"
+        "2026-10-07-03",
+        "2026-10-08-01"
       ],
       "reason": "ACMI 'Play On' 전시 페이지(acmi.net.au/whats-on/play-on/) 한 곳에 실린 서로 다른 신작 아케이드 게임 3편(Quiver/QIP/Pop-up Crashout) 중 두 편. 작품별 개별 페이지가 없어 url이 같다."
     }
