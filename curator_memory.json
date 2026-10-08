@@ -72,7 +72,8 @@
     "Zeitz MOCAA 'Turning Towards the Sun'(짐 추추 등, 케냐/아프리카 디아스포라)은 2026-12-10 개막 예정 — 개막 후 재탐색.",
     "2026-10-06: 아프리카·오세아니아·중동·중남미 공백 지속 — Fak'ugesi(10/13 개막)와 Zeitz MOCAA Turning Towards the Sun(12/11 개막) 모두 아직 시기상 이름. FILE 상파울루(~10/11 종료)의 중남미 출신 작가(Project Aurora/콜롬비아 등) 잔여 후보 다음 회차 우선 검토할 것.",
     "2026-10-07: 아프리카·중남미 공백 지속. Fak'ugesi(10/13 요하네스버그 개막)는 다음 회차에 재탐색 우선순위. FILE 상파울루(10/11 종료)의 중남미 출신 작가는 이번 회차에서도 개별 작품 페이지 부재로 보류 — 작가 개인 사이트 경유로 다음 회차 재시도.",
-    "2026-10-08: 아프리카·중남미 공백 지속. El Macroscopio(Proyecto Aurora)는 10/3에 이미 사용된 중복으로 확인되어 제외 — 향후 FILE 상파울루(10/11 종료) 재검색 시 전체 히스토리 프로그래매틱 대조를 반드시 먼저 할 것. Zeitz MOCAA 현재 전시(Cauleen Smith - LA 기반, Rita Mawuena Benissan - 섬유 태피스트리)는 각각 북미 귀속·미디어아트 특성 약함으로 이번에도 아프리카 후보에서 제외."
+    "2026-10-08: 아프리카·중남미 공백 지속. El Macroscopio(Proyecto Aurora)는 10/3에 이미 사용된 중복으로 확인되어 제외 — 향후 FILE 상파울루(10/11 종료) 재검색 시 전체 히스토리 프로그래매틱 대조를 반드시 먼저 할 것. Zeitz MOCAA 현재 전시(Cauleen Smith - LA 기반, Rita Mawuena Benissan - 섬유 태피스트리)는 각각 북미 귀속·미디어아트 특성 약함으로 이번에도 아프리카 후보에서 제외.",
+    "2026-10-09: 동아시아·동남남아시아·중동·오세아니아·아프리카 전부 공백. 다음 회차는 Fak'ugesi(10/13 요하네스버그 개막) 재탐색 우선, 더불어 MUTEK Tokyo/YCAM 등 동아시아 출처와 Jameel Arts Centre/Sharjah 가을 프로그램(중동)도 함께 훑을 것."
   ],
   "pipeline_health_log": [
     {
@@ -111,7 +112,8 @@
     {
       "date": "2026-10-08",
       "note": "정시 발행(07:xx 회차). 항목 3개(목표 5~8 미달 — El Macroscopio/Proyecto Aurora 후보가 2026-10-03-03과 완전 중복으로 확인돼 교체 조사에 시간 소요, 아프리카·중남미 신규 검증 가능 작업도 이번에도 발굴 실패). 권역 분포: 오세아니아1·동아시아1·유럽1. 이미지 2/3 확보(ACMI 공식 전시 이미지, ZKM 작가 페이지 경유 작품 스크린샷; Quiver는 작품 스크린샷을 찾지 못해 image:null, 개발자 인물사진만 있어 imageFallback도 비움). Focus: Feng Mengbo의 Long March: Restart."
-    }
+    },
+    "2026-10-09: 3건 발행(유럽1·북미1·중남미1). 아프리카·동남남아시아·중동·오세아니아·동아시아 공백. 이미지 3/3 확보(ars.electronica.art, grayarea.org, lozano-hemmer.com 원본 다운로드·sips 리사이즈). 조사 과정에서 Angela Tiatia(Vaiola, 09-29 이미 사용)와 Jajack Movement(09-16 이미 사용)를 코드 대조로 걸러냄 — 눈대조였다면 놓쳤을 중복. Fak'ugesi(10/13 개막 전)·아프리카·중동 권역 검증 가능한 신작 재탐색 계속 필요. 항목 수가 목표(5-8) 대비 적어 WARN 발생(check-dedup count:3) — 조사 단계에서 리전 다양성 확보에 시간을 많이 써 5개 이상 채우지 못함."
   ],
   "source_notes": [
     "Museum MACAN(museummacan.org, 자카르타) — 전시 페이지에 og:image·갤러리 이미지 풍부, 인도네시아/동남아 작가 개인전 다수, 작동 양호.",
@@ -144,7 +146,8 @@
     "marinabaysands.com(ArtScience Museum Singapore) — 'In the Ether' 가을 프로그램과 ArtScience Interlude/Encounters 상설 프로그램 페이지에 og:image 메타태그 안정적으로 제공, 작가별 개별 URL 존재해 이슈당 2개 제한에 적합. 신규 출처로 유용.",
     "file.org.br — FILE 상파울루 2026 'Inter-criatividade'(8/20~10/11) 설치 목록 페이지에 전체 작품 설명 보유하나 개별 작품 URL이 없는 경우가 많아(설치 다수가 공용 목록 페이지 하나만 가짐) 작가 개인 사이트를 url로 사용해 dedup 오탐 회피 필요. 이미지는 작가 개인 포트폴리오(예: yvespeitzner.com, lerandom.art)에서 추출.",
     "2026-10-06: Zeitz MOCAA 'Turning Towards the Sun'(아프리카, AFMAC 공동제작)은 2026-12-11 개막 예정으로 아직 이름 — 다음 재탐색은 12월 이후.",
-    "ithra.com(Ithra Art Prize) — 수상작 발표 후 speakers 페이지에 프로젝트 설명과 작가 공식 설치사진 3장 제공, 양호. yeswearemadarts.com(MAD Arts)은 양호하나 전시작(A Walled City)이 FILE São Paulo 2026과 동시 전시 중인 작품이라 이미 2026-10-01에 FILE 경유로 다뤄졌음 확인 — 같은 작품이 복수 기관에서 동시 전시되는 경우 반드시 check-dedup으로 재확인할 것."
+    "ithra.com(Ithra Art Prize) — 수상작 발표 후 speakers 페이지에 프로젝트 설명과 작가 공식 설치사진 3장 제공, 양호. yeswearemadarts.com(MAD Arts)은 양호하나 전시작(A Walled City)이 FILE São Paulo 2026과 동시 전시 중인 작품이라 이미 2026-10-01에 FILE 경유로 다뤄졌음 확인 — 같은 작품이 복수 기관에서 동시 전시되는 경우 반드시 check-dedup으로 재확인할 것.",
+    "2026-10-09: Ars Electronica Futurelab 페이지(ars.electronica.art/negotiatinghumanity)는 2026 페스티벌 작품 개별 페이지가 잘 구조화되어 있고 작가 국적 표기(TR/KR 등)까지 제공 — 향후 리전 분류에 유용. Gray Area(grayarea.org)는 전시 페이지에 og:image가 비어 있어 직접 탭 열어 <img> 태그를 스캔해야 이미지 확보 가능(fetch만으로는 403). Lozano-Hemmer 공식 사이트는 썸네일(_t 접미사)과 원본 파일명이 같은 패턴이라 접미사만 제거하면 원본 해상도 확보 가능."
   ],
   "dedup_policy": {
     "gate": "scripts/check-dedup.mjs (저장소). 후보 확정 전 --candidates, 커밋 직전 --new <오늘> 실행. FAIL이면 커밋 금지.",

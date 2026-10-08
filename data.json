@@ -1,6 +1,198 @@
 {
   "issues": [
     {
+      "date": "2026-10-09",
+      "title": "데이터가 몸을 입는 세 가지 방식",
+      "summary": "잘츠부르크의 바위산, 샌프란시스코의 염색체, 멕시코시티의 심장박동. 세 작업은 각기 다른 데이터를 신체의 언어로 바꿔 쓴다.",
+      "crosscurrent": {
+        "note": "윤정한은 유전자 데이터를 가상 아기의 신화로, 로사노헤메르는 심장박동 데이터를 정원의 빛으로 바꾼다. 익명의 생체 신호를 사적인 몸의 서사로 되돌리는 방식은 같지만, 하나는 대화로, 다른 하나는 조도의 교체로 그 몸을 공유시킨다.",
+        "itemIds": [
+          "2026-10-09-02",
+          "2026-10-09-03"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-09-01",
+          "title": "머지 비전스",
+          "originalTitle": "Merging Visions",
+          "creator": "Merve Sahin",
+          "publishedAt": "2026-09-12",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/merging-visions-38d38ddb450c81b1b50cff759475496a/",
+          "host": "ars.electronica.art",
+          "description": "잘츠부르크 페스티벌 극장 지구의 디지털 트윈을 기반으로, 메르베 샤힌은 바위산을 깎아 만든 극장 건축을 생태적·문화적 퇴적물로 다시 읽는 몰입형 설치를 만들었다. 3D 스캔한 암석 샘플과 세 장의 비주얼 에세이를 엮어, 도시의 디지털 쌍둥이를 멸균된 복제물이 아니라 서식과 침식이 기록된 매체로 제시한다.",
+          "image": "images/2026-10-09-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/merging-visions_chapter2_sahin.jpg",
+          "insight": {
+            "mechanism": "도시 디지털 트윈 모델에 3D 스캔한 암석 물질 데이터를 겹쳐, 건축을 지질학적 공동 행위자로 재구성한다",
+            "whyNow": "생성형 디지털 트윈이 도시를 매끈한 이미지로 환원하는 시점에, 균열과 침식을 남기는 반례를 제시한다",
+            "directorPoint": "거대 스크린에 흑백 선형 패턴을 투사해 신체를 실루엣으로 묻고, 관객의 위치를 작품 앞 그림자로 고정한다",
+            "critique": "암석 샘플의 촉각성은 설치 현장 안에서만 체감되고 디지털 이미지로는 거의 전달되지 않아, 현장 밖 공유가 어렵다"
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "오스트리아",
+            "region": "유럽",
+            "venue": "린츠, 오스트리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-09-02",
+          "title": "꿈꾸는 아기들: 일리",
+          "originalTitle": "Dreaming Babies: illi",
+          "creator": "Yoon Chung Han",
+          "publishedAt": "2026-09-17",
+          "url": "https://grayarea.org/event/exhibition-yoon-chung-han-dreaming-babies/",
+          "host": "grayarea.org",
+          "description": "윤정한은 체외수정 과정에서 겪은 배아 선별 경험을 바탕으로, 23쌍의 염색체마다 다른 변이를 지닌 가상의 아기 23명을 그레이 에어리어 갤러리를 가득 채운 인큐베이터 화면 속에 띄운다. 관객이 마이크에 말을 걸면 각 아기는 챗봇으로 응답하며, 정상과 이상을 가르는 유전 서사를 신화적 초능력의 이야기로 바꿔 쓴다.",
+          "image": "images/2026-10-09-02.jpg",
+          "imageFallback": "https://grayarea.org/wp-content/uploads/2026/09/DreamingBabies_08.jpg",
+          "insight": {
+            "mechanism": "실제 유전자 데이터를 생성 AI와 결합해 23명의 가상 아기를 만들고, 음성 입력을 챗봇 대화로 연결해 실시간 반응을 만든다",
+            "whyNow": "착상전 유전자검사가 보편화되는 시점에, 걸러진 배아의 자리를 서사와 초능력으로 되돌려 놓는다",
+            "directorPoint": "관객의 목소리를 마이크로 받아 아기의 응답을 트리거하는 인터랙션으로, 대화가 시작되기 전까지 화면은 잠든 채 기다린다",
+            "critique": "AI가 생성한 서사가 각 염색체 이상에 대한 실제 의학 정보를 대신하지는 않아, 신화화가 과도한 낙관으로 읽힐 위험이 있다"
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "생성AI",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "돌봄·치유"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "미국",
+            "region": "북미",
+            "venue": "샌프란시스코, 미국"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-09-03",
+          "title": "펄스 가든",
+          "originalTitle": "Pulse Garden",
+          "creator": "Rafael Lozano-Hemmer",
+          "publishedAt": "2026-01-16",
+          "url": "https://www.lozano-hemmer.com/pulse_garden.php",
+          "host": "lozano-hemmer.com",
+          "description": "라파엘 로사노헤메르는 멕시코시티 현대미술관 조각정원에 4천 개의 LED 전구를 심고, 각 전구가 이전 방문자의 심장박동 리듬으로 깜빡이게 만들었다. 새 참가자의 맥박이 녹음되는 순간 가장 오래된 기록이 하나씩 지워지며, 정원 전체가 끝없이 교체되는 생체 합창으로 작동한다.",
+          "image": "images/2026-10-09-03.jpg",
+          "imageFallback": "https://www.lozano-hemmer.com/image_sets/pulse_garden/mexico_2026/pulse_garden_mexico_city_2026_jh_001.jpg",
+          "insight": {
+            "mechanism": "광전맥파(PPG) 센서로 방문자의 심장박동을 녹음해 4천 개 LED의 점멸 패턴과 사운드로 변환하고, 가장 오래된 기록을 순서대로 교체한다",
+            "whyNow": "생체 데이터가 점점 추상적 숫자로만 다뤄지는 시점에, 심장박동을 정원 전체가 공유하는 공동체의 리듬으로 되돌린다",
+            "directorPoint": "4천 개의 점이 조각정원 전역에 흩어져 있어 관객은 한 시점에 전체를 보지 못하고 걸으며 박동의 합창을 발견한다",
+            "critique": "4천 명분의 박동이 쌓이는 순간부터는 누구의 심장인지 구분할 수 없어, 개별성보다 익명의 집합으로 수렴한다는 긴장이 남는다"
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "촉각"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED",
+              "공간음향"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "돌봄·치유"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "멕시코",
+            "region": "중남미",
+            "venue": "멕시코시티, 멕시코"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "도시의 디지털 쌍둥이가 암석의 기억을 되찾을 때",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "도시를 실시간으로 복제하는 디지털 트윈 기술은 점점 정교해지지만, 대개는 건물과 도로를 매끈한 표면으로만 보여준다. 메르베 샤힌은 잘츠부르크 페스티벌 극장 지구를 대상으로 삼아, 한 세기에 걸쳐 바위산을 깎아 만든 이 극장 건축이 사실은 지질학적 사건의 연속이었음을 드러낸다. 3D 스캔으로 채집한 암석 샘플을 손에 쥘 수 있는 물리적 모형으로 되돌리면서, 그는 디지털 트윈이 생략해온 흙과 바위, 발굴과 점유의 흔적을 다시 작품의 재료로 끌어들인다. S+T+ARTS Ec(h)o 레지던시의 틀 안에서 만들어진 이 작업은, 도시 시각화가 생태와 문화의 복잡성을 지우는 방식에 대한 구체적인 반례다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "작업은 두 겹의 레이어로 구성된다. 하나는 잘츠부르크 극장 지구의 3D 스캔 데이터를 바탕으로 만든 몰입형 비주얼 에세이로, 대형 스크린에 흑백 선형 패턴이 투사되어 관객의 실루엣을 그 안에 가둔다. 다른 하나는 같은 스캔 작업에서 추출한 산의 암석을 3D 프린팅한 물리적 샘플로, 관객이 직접 만지며 발굴과 점유의 질감을 느끼게 한다. 세 개의 챕터는 각각 지질학적, 생태학적, 문화적 층위를 다루며, 디지털 트윈을 정적인 복제물이 아니라 도나 해러웨이와 섀넌 매턴이 말한 비인간 행위자들의 서사로 재구성한다. 결과적으로 이 작업은 깨끗한 도시 시각화 대신 지저분하고 확장된, 살아있는 도시 이미지를 제안한다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "샤힌은 도나 해러웨이의 다종적 얽힘 개념과 섀넌 매턴이 제기한 매끈한 도시 비판을 디지털 트윈 작업의 이론적 토대로 명시한다. 아르스 엘렉트로니카 퓨처랩이 같은 잘츠부르크 페스티벌 아카이브로 만든 Faust VR의 역사적 재구성 방식과도 나란히 전시되어, 같은 자료를 어떻게 다르게 다룰 수 있는지 비교할 수 있게 한다. 건축가 출신 작가가 파라메트릭 모델링을 비평적 서사의 도구로 전환한 사례로 읽을 수 있다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "이 작업의 연출적 핵심은 스케일 전환이다. 거대한 디지털 트윈 이미지 앞에 관객을 실루엣으로 세워 압도감을 만들고, 곧이어 손에 쥐는 작은 암석 모형으로 시선을 끌어내려 촉각적 친밀함을 회복시킨다. 흑백 선형 그래픽은 조명 설계 없이도 공간 전체를 긋는 선의 리듬만으로 운동감을 만들어내는데, 이는 광고나 영상에서 거대 스케일과 신체 스케일을 한 시퀀스 안에서 오가는 연출의 참고가 될 만하다. 다만 세 챕터의 전환 리듬이 동일한 속도로 반복되어, 후반부로 갈수록 긴장이 다소 풀린다는 인상도 남는다."
+          }
+        ],
+        "keywords": [
+          "디지털 트윈",
+          "지질학적 기억",
+          "생태 서사",
+          "촉각 모형"
+        ],
+        "sources": [
+          {
+            "label": "Ars Electronica Festival 2026 — Merging Visions",
+            "url": "https://ars.electronica.art/negotiatinghumanity/en/view/merging-visions-38d38ddb450c81b1b50cff759475496a/"
+          },
+          {
+            "label": "LINA Community — Merve Sahin project page",
+            "url": "https://lina.community/projects/9eebfca3-4347-4724-b3d9-c6711959a98c/"
+          },
+          {
+            "label": "Salzburg Festival — Merve Sahin artist bio",
+            "url": "https://www.salzburgerfestspiele.at/en/a/merve-sahin"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Donna Haraway",
+            "year": "",
+            "relation": "다종적 얽힘과 비인간 행위자 개념을 작업의 생태적 서사 틀로 제공"
+          },
+          {
+            "name": "Shannon Mattern",
+            "year": "",
+            "relation": "매끈한 도시 비판으로 디지털 트윈의 생략 지점을 비평적으로 지적"
+          },
+          {
+            "name": "Faust VR (Ars Electronica Futurelab × Salzburg Festival)",
+            "year": "2023",
+            "relation": "같은 잘츠부르크 페스티벌 아카이브를 가상현실로 재구성한 선행 사례로 나란히 전시"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-08",
       "title": "사랑의 화살과 행군하는 홍군, 몸속 생태계까지 — 낡은 장르로 다시 쓰는 오늘",
       "summary": "레트로 아케이드 문법을 빌려 사랑과 역사를 다시 쓰는 두 작업, 그리고 미세플라스틱 시대의 면역계를 게임엔진으로 들여다보는 설치를 모았다.",
@@ -13116,6 +13308,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-07T23:17:04.015Z",
+  "generatedAt": "2026-10-08T22:50:50.039Z",
   "schemaVersion": 2
 }
