@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-09T23:34:49.715Z",
+  "updatedAt": "2026-10-10T22:42:48.170Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -117,6 +117,10 @@
     {
       "date": "2026-10-10",
       "note": "정시 발행(07:xx 본 회차): 5개 항목(아프리카2·동아시아1·유럽1·중남미1). 처음으로 아프리카 권역 2건 확보 — 2026 프리 아르스 엘렉트로니카 수상작 중 잠비아(SummitShare, Digital Humanity 골든니카)와 가나(Mardiya Siba Yahaya, Adventures of the Witch's Garden, 아너러리 멘션)를 코드 대조로 중복 없이 확보. 동아시아는 YCAM 오토모 요시히데 신작전(without records)으로 보강, 유럽·중남미는 같은 프리 아르스 엘렉트로니카 인터랙티브 아트+ 아너러리 멘션(독일 Julia Vollmer, 페루 Claudix Vanesix)으로 채움. 이미지 5/5 확보(YCAM 공식 og:image, archive.aec.at 프리뷰 자산, 작가 개인 사이트). 중동·오세아니아는 이번에도 검증 가능한 신작을 찾지 못해 공백 지속. Focus: to hurt for a thought(Julia Vollmer). Toolkit 카드 1건 추가."
+    },
+    {
+      "date": "2026-10-11",
+      "note": "재시도 회차(07:30)로 발행: 3개 항목(중동1·중남미1·북미1). Ars Electronica Prix 2026 아카이브에서 로자바 민주기술센터의 Mij(The Fog, 중동)와 Laura Colmenares Guerra의 R€¥€R$€(중남미)를 확보(archive.aec.at 호스트 2개 사용, 한도 준수), Frist Art Museum(내슈빌)에서 Robin Vuchnich의 Thoreau's Flowers(북미)를 새 소스로 발굴. 이미지 3/3 확보(archive.aec.at asset 직접 다운로드, Frist 공식 설치 사진). Focus: R€¥€R$€(아마존 VR 지도). 브라우저 탭이 세션 초반 일시적으로 멈췄다가(다른 동시 세션과의 충돌로 추정) 약 1분 뒤 자동 복구됨 — listBrowserTabs()로 재확인 후 진행. 조사 중 Shezad Dawood(New Dream Machine Project)가 10/1에 이미 사용된 중복으로 확인되어 교체, Otomo+Sakamoto의 DUO(YCAM)는 10/17 개막 예정으로 아직 비공개라 제외."
     }
   ],
   "source_notes": [
