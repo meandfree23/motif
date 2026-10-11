@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-10T22:42:48.170Z",
+  "updatedAt": "2026-10-11",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -121,6 +121,10 @@
     {
       "date": "2026-10-11",
       "note": "재시도 회차(07:30)로 발행: 3개 항목(중동1·중남미1·북미1). Ars Electronica Prix 2026 아카이브에서 로자바 민주기술센터의 Mij(The Fog, 중동)와 Laura Colmenares Guerra의 R€¥€R$€(중남미)를 확보(archive.aec.at 호스트 2개 사용, 한도 준수), Frist Art Museum(내슈빌)에서 Robin Vuchnich의 Thoreau's Flowers(북미)를 새 소스로 발굴. 이미지 3/3 확보(archive.aec.at asset 직접 다운로드, Frist 공식 설치 사진). Focus: R€¥€R$€(아마존 VR 지도). 브라우저 탭이 세션 초반 일시적으로 멈췄다가(다른 동시 세션과의 충돌로 추정) 약 1분 뒤 자동 복구됨 — listBrowserTabs()로 재확인 후 진행. 조사 중 Shezad Dawood(New Dream Machine Project)가 10/1에 이미 사용된 중복으로 확인되어 교체, Otomo+Sakamoto의 DUO(YCAM)는 10/17 개막 예정으로 아직 비공개라 제외."
+    },
+    {
+      "date": "2026-10-11",
+      "note": "일요일 주간 Signals 작업(13:00 KST 회차, 브라우저 정상 복구 확인 후 진행): 기존 3개 신호(sig-nonhuman-translators, sig-interface-returns-to-skin, sig-science-apparatus-onstage)에 최근 7일 근거 5건 추가, 새 신호 sig-eco-loss-archive 추가(7개 권역·11개 근거, '사라진 생태를 증거로 복원하는 아카이브가 늘어난다'). sig-mirror-becomes-substitute, sig-ai-as-counterparty는 최근 7일 내 뚜렷한 접점 없어 미보강. signals.json updatedAt을 2026-10-04에서 2026-10-11로 갱신."
     }
   ],
   "source_notes": [
