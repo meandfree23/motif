@@ -1,6 +1,236 @@
 {
   "issues": [
     {
+      "date": "2026-10-13",
+      "title": "새가 학습하고, 나무가 방송하며, 상상과 정원이 증식하는 네 개의 생태계",
+      "summary": "휘파람을 배우는 전자 새 떼, 히비스커스의 생체 신호를 전파로 보내는 대나무 탑, 뇌영상과 시선에서 증식하는 AI 이미지, 몸의 움직임에 반응해 계속 자라는 가상 식물까지 — 인간 밖의 입력이 빛과 소리와 장면을 스스로 조직하는 네 가지 시스템.",
+      "crosscurrent": {
+        "note": "Echoes of the Machine과 Dub Plants는 소리의 지휘권을 사람 한 명에게서 분산시킨다. 하나는 관객·빛·이웃 노드가 전자 새 떼의 합창을 바꾸고, 다른 하나는 멀리 있는 히비스커스의 생체 변화가 라디오 탑의 샘플을 고르며 기계와 식물을 공동 연주자로 만든다.",
+        "itemIds": [
+          "2026-10-13-01",
+          "2026-10-13-02"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-13-01",
+          "title": "휘파람을 배우는 전자 새 떼",
+          "originalTitle": "Echoes of the Machine: A Cybernetic Song",
+          "creator": "Renzo Filinich Orozco & Ken Nixon",
+          "publishedAt": "2025–2026",
+          "url": "https://renzofilinich.com/echoes_machine",
+          "host": "renzofilinich.com",
+          "description": "마이크와 조도 센서를 단 ESP32 노드들이 관객의 휘파람, 박수, 목소리를 듣고 남아프리카 새 11종의 합성 울음으로 답한다. 각 노드는 하루 동안 쌓인 리듬을 16상태 마르코프 체인으로 학습하고, 이웃 노드와 ESP-NOW 메시를 주고받아 종·타이밍·음량을 바꾼다. 10월 13일 개막한 Fak’ugesi 2026 기간 중 요하네스버그 Tshimologong에서 전시된다.",
+          "image": "images/2026-10-13-01.jpg",
+          "imageFallback": "https://ndownloader.figshare.com/files/64658061",
+          "insight": {
+            "mechanism": "MEMS 마이크와 Goertzel DSP가 휘파람·박수·목소리를 감지하고, 조도·16상태 마르코프 체인·이웃 ESP32 노드의 메시지를 합쳐 11종의 절차적 새소리와 LED 반응을 정한다.",
+            "whyNow": "아프리카의 기억과 기계 지능을 다루는 Fak’ugesi 2026 개막과 함께, AI를 거대한 모델 대신 저전력 노드들의 학습과 피드백으로 보여주는 설치다.",
+            "directorPoint": "중앙 화면이나 단일 스피커를 두지 않고 여러 작은 노드가 서로를 바꾸게 해, 관객의 짧은 소리와 그림자가 공간 전체의 합창으로 번지게 한다.",
+            "critique": "작품 소개는 이를 인공 신경망과 존재 생성으로 설명하지만 공개 코드는 주로 규칙 기반 합성, Goertzel 감지, 16상태 마르코프 학습으로 구성된다. 2026년 10월 설치의 노드 수와 배치는 아직 공개되지 않았다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "공간음향",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "요하네스버그, 남아프리카공화국",
+            "region": "아프리카",
+            "venue": "Tshimologong Digital Innovation Precinct, Fak’ugesi 2026, 요하네스버그"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-13-02",
+          "title": "히비스커스가 디제이하는 라디오 탑",
+          "originalTitle": "Dub Plants",
+          "creator": "Joe Namy",
+          "publishedAt": "2024–2025",
+          "url": "https://olivetones.com/projects/Dubplants/index.html",
+          "host": "olivetones.com",
+          "description": "샤르자의 안뜰에 세운 대나무 라디오 탑의 혼 스피커 여덟 개가 알 다이드 농장에 있는 히비스커스의 신호를 받는다. 나무에 붙인 센서가 햇빛·물·바람에 따른 생체 데이터 변화를 감지하면 수확 노래, 나무 노래, 새소리와 환경음 약 25개가 실시간으로 선택되고 변형된다. 식물의 리듬이 라디오와 농업의 기억을 현재의 소리 풍경으로 방송한다.",
+          "image": "images/2026-10-13-02.jpg",
+          "imageFallback": "https://s3.us-east-1.amazonaws.com/bomb-images/_1200x630_fit_center-center_82_none/Joe-Namy-Dub-Plants-FINAL-1.jpg?mtime=1749484428",
+          "insight": {
+            "mechanism": "농장의 히비스커스에 연결한 센서가 생체 데이터 변화를 읽고, 그 값으로 25개 안팎의 노래·새소리·환경음 샘플을 트리거하거나 변형해 대나무 탑의 혼 스피커 여덟 개로 보낸다.",
+            "whyNow": "샤르자가 2026년 가을 SAF Radio와 사운드 프로그램을 이어가는 시점에, 전파 기술을 식민 통신의 역사보다 식물·농업·지역의 청취 관계로 다시 묶어 보는 사례다.",
+            "directorPoint": "입력 장치를 관객 대신 전시장 밖 나무에 두어, 보이지 않는 원격 상태가 안뜰의 소리 변화로 느껴지게 한다. 공간의 새소리와 아잔이 겹칠 자리를 남긴 믹싱도 장소를 장면의 일부로 쓴다.",
+            "critique": "센서의 종류와 생체 데이터가 각 샘플에 매핑되는 규칙은 공개되지 않았다. “나무가 느끼는 것”이라는 표현은 강력하지만 실제 측정값과 식물의 감각을 동일시할 위험이 있다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "공간음향"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "런던·베이루트",
+            "region": "중동",
+            "venue": "Al Mureijah Art Spaces, Sharjah Biennial 16, 샤르자"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-13-03",
+          "title": "시선과 암세포가 증식시키는 상상",
+          "originalTitle": "UUmwelt",
+          "creator": "Pierre Huyghe",
+          "publishedAt": "2018–현재",
+          "url": "https://www.moma.org/calendar/exhibitions/5912",
+          "host": "moma.org",
+          "description": "피험자가 생물, 도구, 기계, 예술품을 상상할 때의 fMRI 뇌활동을 신경망이 이미지로 재구성한다. 뉴욕 MoMA 조각정원에 흩어진 독립형 스크린에서는 관람객의 시선을 감지한 센서와 암세포 돌연변이 가상 시뮬레이션 데이터가 새 이미지와 재생 순서를 실시간으로 결정한다. 전시는 2026년 11월 29일까지 이어진다.",
+          "image": "images/2026-10-13-03.jpg",
+          "imageFallback": "https://www.moma.org/d/c/installation_images/W1siZiIsIjY0Mjg5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=a4501c09c0c8aa50",
+          "insight": {
+            "mechanism": "fMRI 뇌활동으로 학습한 신경망이 상상 이미지를 재구성하고, 정원의 센서가 포착한 관객의 시선과 암세포 돌연변이 시뮬레이션 데이터가 이미지 생성과 스크린 순서를 실시간으로 바꾼다.",
+            "whyNow": "생성 AI의 결과물을 프롬프트 응답이 아니라 인간의 뇌 신호, 관객의 주의, 생물학적 증식 데이터가 얽힌 열린 생태계로 제시하는 2026년 MoMA 설치다.",
+            "directorPoint": "한 화면의 완결된 영상 대신 정원 곳곳의 세로 스크린으로 이미지를 분산해, 관객이 걸으며 서로 다른 시퀀스를 만나게 하고 시선 자체를 편집 신호로 돌려보낸다.",
+            "critique": "환각적인 결과 이미지가 fMRI에서 무엇을 얼마나 정확히 복원했는지는 관객이 검증하기 어렵다. 암 전이와 알고리즘 증식을 연결하는 비유도 질병의 복잡성을 미학적 장치로 단순화할 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "머신러닝·비전",
+              "생성AI",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "AI·저자성",
+              "신체·정체성",
+              "비인간·생태"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "프랑스",
+            "region": "북미",
+            "venue": "The Abby Aldrich Rockefeller Sculpture Garden, MoMA, 뉴욕"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-13-04",
+          "title": "몸의 움직임으로 자라는 AI 정원",
+          "originalTitle": "Meta-Nature AI",
+          "creator": "Miguel Chevalier",
+          "publishedAt": "2023–현재",
+          "url": "https://museumdefundatie.nl/en/show/digital-nature",
+          "host": "museumdefundatie.nl",
+          "description": "AI로 만든 2D·3D 나무, 잎, 꽃, 열매의 데이터베이스를 알고리즘이 계속 재조합해 벽 전체에 새로운 식물 군락을 만든다. 관객이 투사면 앞을 움직이면 형광빛 생태계가 반응하며 성장과 변형의 흐름을 바꾼다. 10월 3일 네덜란드 즈볼러의 Museum de Fundatie에서 시작한 《Digital by Nature》가 이 가상 자연을 2027년 4월 4일까지 다시 펼친다.",
+          "image": "images/2026-10-13-04.jpg",
+          "imageFallback": "https://museumdefundatie.nl/sites/default/files/styles/gallery/public/2026-05/Miguel-Chevalier%2C-Meta-Nature-AI%2C-since-2023%2C-generative-and-interactive-installation%2C-Photo-Thomas-Granovsky.jpg?itok=9G37dsfw",
+          "insight": {
+            "mechanism": "AI로 생성한 식물 형태 데이터베이스를 알고리즘이 끊임없이 조합하고, 관객의 움직임을 입력으로 받아 프로젝션 속 꽃·잎·줄기의 배치와 흐름을 변화시킨다.",
+            "whyNow": "2026년 10월 즈볼러 순회전이 개막하며, 생성 AI를 이미지 한 장이 아니라 몸으로 드나드는 지속적 환경으로 확장한 작업을 다시 볼 수 있게 됐다.",
+            "directorPoint": "화면 가장자리를 지우고 벽 전체를 정원으로 만든 뒤 관객의 실루엣을 그 안에 겹쳐, 인터랙션의 결과보다 자신이 생태계 안에 들어왔다는 스케일 감각을 먼저 준다.",
+            "critique": "가상 자연은 2000년대부터 이어진 작가의 주제를 AI 데이터베이스로 확장한 것이어서 개념적 새로움은 제한적이다. 센서 종류와 움직임이 개별 식물에 매핑되는 방식도 공개되지 않았다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "생성AI",
+              "센서·인터랙션",
+              "프로젝션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "AI·저자성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "이브리쉬르센, 프랑스",
+            "region": "유럽",
+            "venue": "Museum de Fundatie, 즈볼러, 네덜란드"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "중앙 지휘자 없이 배우고 번지는 전자 새 떼",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "10월 13일 개막한 Fak’ugesi 2026은 아프리카의 기억, 상상, 기술 인프라를 세 가지 ‘엔진’으로 묶는다. 《Echoes of the Machine》은 그 질문을 거대한 언어 모델이나 화면 속 이미지가 아니라, 요하네스버그의 전시장에 흩어진 작은 전자 노드들로 옮긴다. 각 장치는 관객의 휘파람과 박수, 빛의 변화, 이웃 장치의 신호를 받아 남아프리카 새의 울음으로 답한다. 지능은 중앙 서버의 명령보다 부분적인 청취와 반복되는 피드백에서 생긴다는 관점이다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "작품의 기본 단위는 ESP32 보드, MEMS 마이크, 조도 센서, 스피커와 LED로 이루어진 노드다. 마이크 입력은 Goertzel DSP로 휘파람·박수·목소리·새소리의 특정 주파수 성분을 감지한다. 노드는 11종의 새 울음을 녹음으로 재생하지 않고 절차적 알고리즘으로 합성하며, 종·타이밍·음량은 조도, 하루 동안 관객의 사건 순서를 학습한 16상태 마르코프 체인, ESP-NOW 메시로 전달된 이웃 노드의 영향에 따라 달라진다. 메시지가 몰리면 여러 노드가 연속 호출을 내는 ‘플록 모드’가 켜지고, Raspberry Pi는 설정과 장비 상태를 관리하지만 합창의 매 순간을 지휘하지 않는다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "관객이 기계들 사이의 대화에 들어간다는 구조는 고든 패스크가 1967–1968년 《Cybernetic Serendipity》를 위해 만든 《The Colloquy of Mobiles》와 이어진다. 패스크의 다섯 모빌은 빛과 소리로 서로를 찾고, 관객은 손전등과 거울로 대화에 개입했다. 반세기 뒤 Filinich와 Nixon은 모빌 대신 저전력 무선 노드, 광선 대신 조도와 마이크 입력, 고정된 제어 회로 대신 하루 동안 갱신되는 확률적 리듬을 사용한다. 공통점은 기계를 표현 도구가 아니라 다른 기계와 관객을 해석하는 사회적 행위자로 배치한다는 데 있다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "이 작업의 연출적 힘은 결과보다 연결 방식에 있다. 하나의 압도적인 스피커 대신 반응이 작은 장치를 공간에 분산하고, 관객이 한 번 낸 소리가 이웃 노드를 거치며 다른 종과 밝기로 변하도록 하면 장면은 명령이 아니라 전염처럼 생긴다. 공개된 회로와 코드는 효과의 원리를 구체적으로 보여주지만, 작품 소개가 말하는 ‘인공 신경망’과 실제 구현 사이에는 간격이 있다. 핵심 학습 장치는 16상태 마르코프 체인이며 많은 반응은 규칙 기반이다. 그 한계를 숨기지 않을 때 오히려 작은 기술로 살아 있는 듯한 집단 행동을 만드는 설계가 더 선명해진다."
+          }
+        ],
+        "keywords": [
+          "사이버네틱스",
+          "ESP32",
+          "마르코프체인",
+          "새소리합성",
+          "분산네트워크"
+        ],
+        "sources": [
+          {
+            "label": "작가 작품 페이지",
+            "url": "https://renzofilinich.com/echoes_machine"
+          },
+          {
+            "label": "공개 코드·하드웨어 문서",
+            "url": "https://github.com/nixkj/echoes"
+          },
+          {
+            "label": "Wits University Fak’ugesi 2026 프로그램",
+            "url": "https://www.wits.ac.za/news/latest-news/general-news/2026/2026-10/fakugesi-2026--full-programme-unveiled.html"
+          },
+          {
+            "label": "Wits Open Data 작품 기록",
+            "url": "https://opendata.wits.ac.za/articles/dataset/Echoes_of_the_Machine_A_cybernetic_Song_2025_2026_/32314596"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Gordon Pask, The Colloquy of Mobiles",
+            "year": "1967–1968",
+            "relation": "빛과 소리로 대화하는 기계 집단에 관객이 개입하는 초기 사이버네틱 설치로, 분산된 노드와 피드백이라는 직접적인 계보를 이룬다"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-12",
       "title": "파문을 번역하고, 없는 존재를 불러내는 네 개의 방",
       "summary": "물결을 빛으로 바꾸는 수조, 메아리 없는 방에 가짜 발소리를 심는 음향 설치, 공중을 헤엄치는 로봇 물고기 떼, AI의 오류로 관객 얼굴을 되비추는 실시간 영상까지 — 보이지 않는 신호가 몸 앞에 장면으로 나타나는 네 가지 방식.",
@@ -13957,6 +14187,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-10T22:43:06.552Z",
+  "generatedAt": "2026-10-12T23:48:36.462Z",
   "schemaVersion": 2
 }

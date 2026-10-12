@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -74,7 +74,8 @@
     "2026-10-07: 아프리카·중남미 공백 지속. Fak'ugesi(10/13 요하네스버그 개막)는 다음 회차에 재탐색 우선순위. FILE 상파울루(10/11 종료)의 중남미 출신 작가는 이번 회차에서도 개별 작품 페이지 부재로 보류 — 작가 개인 사이트 경유로 다음 회차 재시도.",
     "2026-10-08: 아프리카·중남미 공백 지속. El Macroscopio(Proyecto Aurora)는 10/3에 이미 사용된 중복으로 확인되어 제외 — 향후 FILE 상파울루(10/11 종료) 재검색 시 전체 히스토리 프로그래매틱 대조를 반드시 먼저 할 것. Zeitz MOCAA 현재 전시(Cauleen Smith - LA 기반, Rita Mawuena Benissan - 섬유 태피스트리)는 각각 북미 귀속·미디어아트 특성 약함으로 이번에도 아프리카 후보에서 제외.",
     "2026-10-10: 아프리카 공백은 이번에 해소(프리 아르스 엘렉트로니카 수상작 경유)했으나 중동·오세아니아는 여전히 공백 — Fak'ugesi(10/13 요하네스버그 개막, 이미 발굴한 아프리카 소스이므로 다음은 중동/오세아니아 우선), Sharjah Vantage Point 13(다큐멘터리 사진 중심이라 미디어아트 적합성 낮음, 다른 중동 소스 필요), ACMI 신규 전시(Lifelike 11/20 개막 전) 재탐색 필요.",
-    "2026-10-12: 중동·아프리카 신규 항목은 이번 회차에 싣지 못함. Fak’ugesi가 10/13 개막하므로 다음 회차에서 실제 공개된 설치와 이미지부터 재탐색할 것."
+    "2026-10-12: 중동·아프리카 신규 항목은 이번 회차에 싣지 못함. Fak’ugesi가 10/13 개막하므로 다음 회차에서 실제 공개된 설치와 이미지부터 재탐색할 것.",
+    "2026-10-13: Fak’ugesi 개막 회차에서 아프리카 신규 항목을 확보. 다음 회차는 동남·남아시아 또는 오세아니아 신규 소스를 우선하고, Fak’ugesi 현장 사진이 공개되면 10월 설치 배치와 노드 수를 재확인할 것."
   ],
   "pipeline_health_log": [
     {
@@ -130,6 +131,10 @@
     {
       "date": "2026-10-12",
       "note": "정시 발행 준비: 4개 항목(오세아니아1·동아시아1·동남·남아시아1·중남미1), 이미지 4/4 확보. Focus: SUGAI KEN의 ‘… Huh!?’: Pseudo-echoic Room. Vivid Sydney·NTT ICC·ArtScience Museum/bit.studio·Festival Internacional de la Imagen 공식 자료와 보조 출처로 검증. SUGAI 이미지는 설치 사진이 공개되지 않아 ICC 공식 인터뷰 영상 썸네일을 사용. 기존 275개 작품과 중복 없음."
+    },
+    {
+      "date": "2026-10-13",
+      "note": "정시 발행 준비: 4개 항목(아프리카1·중동1·북미1·유럽1), 이미지 4/4 확보. Focus: Renzo Filinich Orozco & Ken Nixon의 Echoes of the Machine: A Cybernetic Song. Fak’ugesi/Wits·공개 GitHub 하드웨어 문서·BOMB/작가 페이지·MoMA·Museum de Fundatie/Kunsthalle München 자료로 검증. 기존 279개 작품과 중복 없음."
     }
   ],
   "source_notes": [
@@ -172,6 +177,10 @@
     {
       "date": "2026-10-12",
       "note": "NTT ICC 작품 아카이브는 무향실 작품의 작동 설명과 전시 기간이 상세하지만 설치 사진은 제공하지 않음. bit.studio 공식 페이지와 art4d 인터뷰는 FLOCK OF의 전파 센서·전자 보드·부력 제어 구조를 교차 확인하기 좋음. Festival Internacional de la Imagen 2026 전시 페이지는 중남미 현지 전시 일정과 작품 설명이 함께 있어 신규 소스로 유용."
+    },
+    {
+      "date": "2026-10-13",
+      "note": "Wits figshare Open Data는 Echoes of the Machine 설치 사진 원본과 CC BY 4.0 기록을 제공하며 api.figshare.com/v2/articles/32314596에서 파일 목록을 확인할 수 있음. MoMA UUmwelt 페이지는 브라우저에서 설치 이미지별 고해상도 URL을 제공. Museum de Fundatie의 Digital by Nature 페이지는 2026 즈볼러 순회 일정과 Meta-Nature AI 공식 갤러리 이미지를 함께 제공."
     }
   ],
   "dedup_policy": {
