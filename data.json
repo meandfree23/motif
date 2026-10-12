@@ -1,6 +1,221 @@
 {
   "issues": [
     {
+      "date": "2026-10-12",
+      "title": "파문을 번역하고, 없는 존재를 불러내는 네 개의 방",
+      "summary": "물결을 빛으로 바꾸는 수조, 메아리 없는 방에 가짜 발소리를 심는 음향 설치, 공중을 헤엄치는 로봇 물고기 떼, AI의 오류로 관객 얼굴을 되비추는 실시간 영상까지 — 보이지 않는 신호가 몸 앞에 장면으로 나타나는 네 가지 방식.",
+      "crosscurrent": {
+        "note": "REFLECT와 FLOCK OF는 물의 움직임을 각각 빛과 공중 로봇의 운동으로 옮긴다. 하나는 관객이 만든 실제 파문을 확대하고, 다른 하나는 물고기의 군집 행동을 공기 속에 재연하며 물 없는 해양 감각을 만든다.",
+        "itemIds": [
+          "2026-10-12-01",
+          "2026-10-12-03"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-12-01",
+          "title": "파문을 되비추는 수조",
+          "originalTitle": "REFLECT",
+          "creator": "Emma Gasson",
+          "publishedAt": "2024",
+          "url": "https://www.vividsydney.com/event/light/reflect",
+          "host": "vividsydney.com",
+          "description": "커다란 수조의 물을 손으로 건드리면 센서가 수면의 움직임을 추적해 위쪽의 빛 패턴으로 실시간 번역한다. 앰비언트 사운드와 물의 반사가 함께 이어지며, 관객의 작은 접촉이 공간 전체로 번지는 장면을 만든다. 2024년 영국 SHINE 프로그램에서 제작된 뒤 2026년 Vivid Sydney의 Union Bond Store에 전시됐다.",
+          "image": "images/2026-10-12-01.jpg",
+          "imageFallback": "https://www.vividsydney.com/sites/default/files/2026-05/Reflect.png",
+          "insight": {
+            "mechanism": "센서가 수면의 움직임을 추적하고, 관객이 만든 파문을 빛의 패턴으로 변환해 공간에 투사한다.",
+            "whyNow": "2026 Vivid Sydney가 대형 파사드뿐 아니라 손끝의 미세한 움직임을 다루는 실내 인터랙션까지 확장한 사례다.",
+            "directorPoint": "정보를 화면에 직접 표시하지 않고 물이라는 물질을 인터페이스로 삼아, 입력과 결과 사이에 반사와 흔들림의 시간을 넣는다.",
+            "critique": "센서 종류와 지연 시간 등 기술 사양은 공개되지 않았고, 물 근처에서 명상 상태에 든다는 설명은 체험 효과를 일반화하는 측면이 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED"
+            ],
+            "theme": [
+              "돌봄·치유"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "런던, 영국",
+            "region": "오세아니아",
+            "venue": "Union Bond Store, Vivid Sydney 2026, 시드니"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-12-02",
+          "title": "없는 발소리가 들어오는 방",
+          "originalTitle": "‘… Huh!?’: Pseudo-echoic Room",
+          "creator": "SUGAI KEN",
+          "publishedAt": "2026",
+          "url": "https://www.ntticc.or.jp/en/archive/works/huh-pseudo-echoic-room/",
+          "host": "ntticc.or.jp",
+          "description": "도쿄 ICC의 무향실에 한 사람씩 들어가, 집이 수축하는 소리와 발소리처럼 존재하지 않는 누군가의 흔적을 듣는다. 스가이 켄은 특수 설정의 무향실에서 바이노럴 녹음한 소리를 고해상도 스피커로 재생해, 다른 장소를 환상으로 보여주는 대신 바로 이 방 안에 무언가가 있다는 청각적 착각을 만든다.",
+          "image": "images/2026-10-12-02.jpg",
+          "imageFallback": "https://img.youtube.com/vi/Z4U-4_tD170/maxresdefault.jpg",
+          "insight": {
+            "mechanism": "무향실에서 특수 설정으로 바이노럴 녹음한 발소리와 건물의 수축음을, 잔향이 없는 전시장 무향실의 고해상도 스피커로 다시 재생한다.",
+            "whyNow": "생성 AI 시대의 기록과 기억을 묻는 ICC Annual 2026에서, 보이는 이미지가 아니라 출처를 확인할 수 없는 소리만으로 현재의 확실성을 흔든다.",
+            "directorPoint": "한 번에 한 관객만 들이고 시각 정보를 거의 지운 채, 소리의 방향과 간격만으로 등장인물 없는 장면을 세운다.",
+            "critique": "스피커 수와 배치, 녹음 설정은 공개되지 않아 착각의 기술적 구조를 재현하기 어렵고, 예약제 1인 체험이라 접근성도 제한된다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "공간음향"
+            ],
+            "theme": [
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "일본",
+            "region": "동아시아",
+            "venue": "NTT InterCommunication Center [ICC], 도쿄"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-12-03",
+          "title": "공중을 헤엄치는 떼",
+          "originalTitle": "FLOCK OF",
+          "creator": "bit.studio",
+          "publishedAt": "2023",
+          "url": "https://bit.studio/gallery/flock-of",
+          "host": "bit.studio",
+          "description": "은빛 헬륨 풍선 물고기들이 프로펠러 소음 없이 관객 가까이에서 공중을 헤엄친다. 공간에 설치된 전파 센서가 각 물고기의 전자 보드와 통신하고, 맞춤형 프로그램이 부력과 이동 경로를 조절해 떨어진 개체도 다시 군집의 리듬을 따른다. 2026년 싱가포르 ArtScience Museum의 《Into the Ocean: Journey Beneath》에서 물 없는 바다를 구성한다.",
+          "image": "images/2026-10-12-03.jpg",
+          "imageFallback": "https://art4d.com/wp-content/uploads/2024/11/tdpk_bit.studio_3_low-res.jpg",
+          "insight": {
+            "mechanism": "공간의 전파 센서와 물고기마다 달린 전자 보드가 통신하고, 맞춤형 프로그램이 헬륨 풍선의 부력과 방향 패턴을 제어한다.",
+            "whyNow": "드론의 프로펠러와 소음을 버리고 부드러운 풍선을 택해, 로봇 군집을 위협이 아닌 접근 가능한 생명감으로 바꾼 사례다.",
+            "directorPoint": "천장과 바닥의 기준을 느슨하게 만들고 관객을 군집 사이에 세워, 수중 장면을 물 없이 신체적으로 체험하게 한다.",
+            "critique": "공식 설명은 센서 종류와 통신 규격을 밝히지 않으며, 관객 반응이 실시간 경로를 바꾸는지 사전 안무를 따르는지 출처마다 설명이 엇갈린다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "로보틱스",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "방콕, 태국",
+            "region": "동남·남아시아",
+            "venue": "ArtScience Museum, 싱가포르"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-12-04",
+          "title": "오류가 되돌려준 얼굴",
+          "originalTitle": "Error-horror",
+          "creator": "Franc Aleu",
+          "publishedAt": "2025",
+          "url": "https://www.festivaldelaimagen.com/exhibicion/",
+          "host": "festivaldelaimagen.com",
+          "description": "프랑 알레우가 3년 넘게 결함 있는 AI 모델과 개발 중인 도구에서 얻은 글리치, 검열, 오해를 이미지와 영상의 재료로 모았다. 실시간 영상 생성 작품 앞에 선 관객은 자신의 모습이 불완전한 디지털 생명체로 바뀌어 되돌아오는 것을 본다. 2026년 콜롬비아 Festival Internacional de la Imagen에서 기계의 실수를 실패가 아닌 변형된 거울로 제시했다.",
+          "image": "images/2026-10-12-04.jpg",
+          "imageFallback": "https://festivalpanoramic.cat/wp-content/uploads/2025/09/90_panoramic_2025_Granollers_DSC09155_Marc-Font-scaled.jpg",
+          "insight": {
+            "mechanism": "카메라 앞 관객의 모습을 실시간 영상 생성 과정에 넣어, AI의 글리치와 왜곡이 남은 디지털 생명체 형태로 화면에 반영한다.",
+            "whyNow": "매끈한 생성 결과가 넘치는 시점에, 초기 모델의 검열과 오작동을 지우지 않고 3년간의 실패 기록 자체를 전시한다.",
+            "directorPoint": "거울 구도를 사용하되 닮은 얼굴 대신 기계가 오해한 얼굴을 돌려줘, 관객을 오류의 관찰자이자 재료로 동시에 만든다.",
+            "critique": "사용한 모델과 처리 지연, 카메라 구성은 공개되지 않아 실시간 생성의 구체적 작동을 검증하기 어렵고 개념 설명이 기술 정보보다 앞선다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "생성AI",
+              "영상·필름"
+            ],
+            "theme": [
+              "AI·저자성",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "바르셀로나, 스페인",
+            "region": "중남미",
+            "venue": "Centro Cultural del Banco de la República, 마니살레스, 콜롬비아"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 1,
+        "headline": "메아리 없는 방에 ‘없는 존재’를 세우는 소리",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "생성 AI 시대의 기록은 눈앞에서 끊임없이 생성되고 다시 쓰이지만, 스가이 켄은 반대로 아무것도 보이지 않는 방에서 기억과 존재의 확실성을 묻는다. 《ICC Annual 2026》은 기술이 무엇을 기록하고 배제하는지, 역사와 기억이 어떤 힘에 의해 재편되는지를 다룬다. 그 안에서 이 작품은 이미지나 문서 대신 발소리와 건물의 수축음처럼 출처가 불분명한 소리를 제시한다. 관객은 소리가 실제인지 재생인지 판단하기보다, 누군가 ‘있다’고 느끼는 자신의 감각이 얼마나 쉽게 구성되는지를 마주한다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "무향실은 벽의 반사를 흡수해 소리의 잔향과 공간적 단서를 거의 없앤다. 스가이는 이런 방에서 발소리, 집이 수축하며 내는 소리 등을 특수 설정으로 바이노럴 녹음한 뒤, ICC의 무향실에 설치한 고해상도 스피커로 다시 재생한다. 현실의 방이 더해주는 메아리가 없기 때문에 녹음 속 방향과 거리 정보가 그대로 전면에 드러나고, 관객은 소리가 스피커에서 나온다기보다 바로 방 안에서 생겼다고 착각하게 된다. 한 회에 한 사람만 입장하는 운영 방식은 다른 관객의 몸과 움직임을 제거해 그 착각을 더욱 고립시킨다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "작품의 직접적인 출발점은 스가이가 2024년 규슈대학교 디자인학부 무향실에서 진행한 공연이다. 장소와 날짜, 행사의 맥락을 매번 연주에 포함시키는 그의 비반복적 퍼포먼스 방식이 이번에는 무향실 자체를 악기이자 서사의 조건으로 삼는 설치로 옮겨왔다. ICC 역시 무향실의 인공적인 공간성을 활용한 사운드 작업을 지속해왔지만, 스가이는 다른 장소로 이동시키는 음향 환영보다 ‘여기 없는 존재가 여기 있다’는 감각의 오류에 초점을 맞춘다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "이 작업이 주는 연출적 힌트는 비워내기다. 인물, 화면, 배경음악을 더하는 대신 한 명의 관객과 몇 개의 구체적 소리만 남기면, 발소리 사이의 간격과 방향이 곧 장면 전환이 된다. 공포나 긴장을 만들 때 무엇인가를 보여주기보다 공간의 고유한 반향을 먼저 지우고, 관객이 원인을 찾도록 소리만 배치하는 방식이다. 다만 스피커 수와 배치, 녹음 설정이 공개되지 않아 효과의 구조를 외부에서 검증하거나 재현하기 어렵고, 1인 예약제라는 강한 조건은 체험의 밀도를 높이는 동시에 접근성을 좁힌다."
+          }
+        ],
+        "keywords": [
+          "무향실",
+          "바이노럴녹음",
+          "공간음향",
+          "청각적착각",
+          "존재감"
+        ],
+        "sources": [
+          {
+            "label": "NTT ICC 작품 페이지",
+            "url": "https://www.ntticc.or.jp/en/archive/works/huh-pseudo-echoic-room/"
+          },
+          {
+            "label": "ICC Annual 2026 전시 페이지",
+            "url": "https://www.ntticc.or.jp/en/exhibitions/2026/icc-annual-2026/"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "규슈대학교 디자인학부 무향실 공연",
+            "year": "2024",
+            "relation": "스가이 켄이 같은 장소적 조건을 탐구한 공연으로, 이번 1인 설치의 직접적인 출발점이 됐다"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-11",
       "title": "안개를 뿜는 수호신과 뒤집힌 통화 기호, 사라진 꽃의 기억",
       "summary": "로자바의 안개 방어 조각상, 아마존을 다시 그린 VR 지도, 소로가 남긴 꽃의 소멸을 체감하게 하는 투사 작업까지 — 기술을 자기결정과 기억의 도구로 되돌리는 세 장면.",
