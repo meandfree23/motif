@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14T00:53:42.751Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -75,7 +75,8 @@
     "2026-10-08: 아프리카·중남미 공백 지속. El Macroscopio(Proyecto Aurora)는 10/3에 이미 사용된 중복으로 확인되어 제외 — 향후 FILE 상파울루(10/11 종료) 재검색 시 전체 히스토리 프로그래매틱 대조를 반드시 먼저 할 것. Zeitz MOCAA 현재 전시(Cauleen Smith - LA 기반, Rita Mawuena Benissan - 섬유 태피스트리)는 각각 북미 귀속·미디어아트 특성 약함으로 이번에도 아프리카 후보에서 제외.",
     "2026-10-10: 아프리카 공백은 이번에 해소(프리 아르스 엘렉트로니카 수상작 경유)했으나 중동·오세아니아는 여전히 공백 — Fak'ugesi(10/13 요하네스버그 개막, 이미 발굴한 아프리카 소스이므로 다음은 중동/오세아니아 우선), Sharjah Vantage Point 13(다큐멘터리 사진 중심이라 미디어아트 적합성 낮음, 다른 중동 소스 필요), ACMI 신규 전시(Lifelike 11/20 개막 전) 재탐색 필요.",
     "2026-10-12: 중동·아프리카 신규 항목은 이번 회차에 싣지 못함. Fak’ugesi가 10/13 개막하므로 다음 회차에서 실제 공개된 설치와 이미지부터 재탐색할 것.",
-    "2026-10-13: Fak’ugesi 개막 회차에서 아프리카 신규 항목을 확보. 다음 회차는 동남·남아시아 또는 오세아니아 신규 소스를 우선하고, Fak’ugesi 현장 사진이 공개되면 10월 설치 배치와 노드 수를 재확인할 것."
+    "2026-10-13: Fak’ugesi 개막 회차에서 아프리카 신규 항목을 확보. 다음 회차는 동남·남아시아 또는 오세아니아 신규 소스를 우선하고, Fak’ugesi 현장 사진이 공개되면 10월 설치 배치와 노드 수를 재확인할 것.",
+    "2026-10-14: Margi(마르기)는 시빅테크 플랫폼 성격이 강해 전통적 '미디어아트' 정의와의 경계 사례 — 향후 유사 Digital Humanity 부문 후보는 시각/공간적 체험 요소가 더 뚜렷한 작업을 우선할 것. 동남·남아시아 권역이 이번 호에 2건 겹쳐 다른 권역(오세아니아·중남미) 우선 조사가 다음 회차 과제."
   ],
   "pipeline_health_log": [
     {
@@ -135,6 +136,10 @@
     {
       "date": "2026-10-13",
       "note": "정시 발행 준비: 4개 항목(아프리카1·중동1·북미1·유럽1), 이미지 4/4 확보. Focus: Renzo Filinich Orozco & Ken Nixon의 Echoes of the Machine: A Cybernetic Song. Fak’ugesi/Wits·공개 GitHub 하드웨어 문서·BOMB/작가 페이지·MoMA·Museum de Fundatie/Kunsthalle München 자료로 검증. 기존 279개 작품과 중복 없음."
+    },
+    {
+      "date": "2026-10-14",
+      "note": "본 실행(07:01 KST 회차가 3시간 이상 경과해 멈춘 것으로 판단, 09:52경 새 회차가 진행): 3개 항목(아프리카1·동남·남아시아2), 목표 5~8 미달 — Ala Younis 'Lifted Arches'가 2026-10-04-03과 완전 중복으로 확인되어 check-dedup FAIL 후 교체. 최종: 칸시카(Kancícà, Laëila Adjovi·Joséphine Derobe, 풀돔 몰입형 영화, Fak'ugesi/Wits Digital Dome) — Focus 선정, 기후 행동 수확하기(Harvesting Climate Action, Ling Tan, S+T+ARTS 2026, 런던 해크니), 마르기(Margi, Nidhi Sudhan, Prix Ars Electronica 2026 Digital Humanity 아너러리 멘션, 인도 시빅테크 플랫폼). check-dedup WARN 2건(권역 2개<3, 항목 3개<5). 이미지 3/3 확보(공식 프로젝트 이미지, S+T+ARTS 공식 사진, Prix 아카이브 프리뷰 스크린샷). Toolkit 카드 1장 추가(항로와 화면 이동 일치)."
     }
   ],
   "source_notes": [

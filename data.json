@@ -1,6 +1,200 @@
 {
   "issues": [
     {
+      "date": "2026-10-14",
+      "title": "대서양을 건넌 기억과 들고 가는 탄소 의자 — 공공 디지털의 세 얼굴",
+      "summary": "풀돔으로 복원한 왕비의 항로, 관객이 가져가는 탄소 데이터 의자, 인도 전역의 구제 자원을 묶는 지도. 세 작업 모두 기술을 멀리 두지 않고 손에 쥐어준다.",
+      "crosscurrent": {
+        "note": "링 탄의 탄소 의자와 니디 수단의 마르기는 둘 다 거대한 통계를 개인이 손에 쥘 수 있는 단위(의자 한 개, 클릭 세 번)로 쪼개 체감 가능하게 만든다.",
+        "itemIds": [
+          "2026-10-14-02",
+          "2026-10-14-03"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-14-01",
+          "title": "칸시카",
+          "originalTitle": "Kancícà",
+          "creator": "Laëila Adjovi & Joséphine Derobe",
+          "publishedAt": "2026-04-07",
+          "url": "https://dreamfeelfactory.com/en/Kanc%C3%ADc%C3%A0-An-Immersive-Journey-from-S%C3%A3o-Paulo-to-Nairobi/",
+          "host": "dreamfeelfactory.com",
+          "description": "세네갈 다카르를 기반으로 활동하는 라엘라 아조비와 프랑스 연출가 조제핀 드로브가 공동 연출한 풀돔 몰입형 작품으로, 대서양을 건넌 단쇼메 왕국의 왕모 나 아공티메의 여정을 추적한다. 2025년 상파울루에서 초연된 뒤 2026년 4월 요하네스버그 위츠 디지털 돔에서 'Immersive Africa' 프로그램으로 상영 중이다.",
+          "image": "images/2026-10-14-01.jpg",
+          "imageFallback": "https://dreamfeelfactory.com/gallery/Kancica.jpg",
+          "insight": {
+            "mechanism": "8K 풀돔 프로젝션 안에서 보이지 않는 세계를 오가는 젊은 보둔 사제 도투가 왕비의 기억을 추적하는 서사를 따라가며, 관객을 360도로 감싸는 영상과 티가나 산타나의 원곡 음향이 공간 전체에서 동시에 울린다.",
+            "whyNow": "프랑스-브라질 문화교류 시즌을 계기로 상파울루·우이다를 거쳐 2026년 4월 요하네스버그에 닿은 이 작품은, 아프리카·유럽 기관 연합 'Immersive Africa'가 식민 교역로를 거슬러 기억을 되돌리려는 시도다.",
+            "directorPoint": "인물 이동의 좌우 방향을 지리적 이동과 일치시켜 관객이 몸으로 항로를 기억하게 만들고, 사운드를 화면보다 먼저 공간에 채워 다음 장면의 감정을 예고하는 선행 사운드 연출이 돋보인다.",
+            "critique": "프랑스 제작진이 서사를 주도해 큐레이션 주체가 실제로 '아프리카발' 기억인지 질문이 남고, 돔 상영이라는 형식상 1회 관람 인원과 접근성이 제한적이다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "프로젝션",
+              "공간음향"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "언어·번역"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "세네갈",
+            "region": "아프리카",
+            "venue": "요하네스버그, 남아프리카공화국"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-14-02",
+          "title": "기후 행동 수확하기",
+          "originalTitle": "Harvesting Climate Action",
+          "creator": "Ling Tan",
+          "publishedAt": "2026-06-09",
+          "url": "https://ars.electronica.art/starts-prize/en/harvesting-climate-action/",
+          "host": "ars.electronica.art",
+          "description": "싱가포르 출신으로 런던을 기반으로 활동하는 링 탄이 해크니 자치구와 4년간 진행한 'Low Carbon Chinatown' 프로젝트의 결실로, 재활용 판지로 만든 100개의 양면 의자에 기후 행동과 식재료 탄소발자국 데이터를 새겨 전시장을 채웠다. 설치는 6주 뒤 100인이 참여하는 저탄소 중국계 음식 만찬으로 전환되어 주민들이 의자를 들고 가져가는 것으로 마무리됐다.",
+          "image": "images/2026-10-14-02.jpg",
+          "imageFallback": "https://ars.electronica.art/starts-prize/files/2026/06/harvesting-climate-action_img_2_harvesting-climate-action-c-nick-turpin.jpg",
+          "insight": {
+            "mechanism": "카드보드 의자 100개가 각각 한 면은 '기후 행동', 다른 면은 생애주기 분석으로 계산한 식재료 탄소발자국을 담은 이중 데이터 오브젝트로 기능하며, 개인·100인·자치구 단위로 탄소 영향을 세 겹으로 겹쳐 보여준다.",
+            "whyNow": "유럽연합 지원을 받은 S+T+ARTS 상 2026 수상작으로, 기후 데이터를 추상적 그래프가 아니라 중국계 디아스포라 음식 문화라는 구체적 경험으로 번역해 지역 의회가 실제 정책 참고자료로 채택했다.",
+            "directorPoint": "관객이 의자를 집어 들고 가져가는 마지막 동작까지 설치의 일부로 설계해, 전시 종료 시점을 하나의 퍼포먼스적 클라이맥스로 연출했다.",
+            "critique": "데이터 시각화가 풍부한 반면 작품 자체의 조형 언어는 소박한 가구 디자인에 머물러, 설치를 직접 체험하지 못한 관객에게는 정서적 밀도가 사진만으로 잘 전달되지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "싱가포르",
+            "region": "동남·남아시아",
+            "venue": "런던, 영국"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-14-03",
+          "title": "마르기",
+          "originalTitle": "Margi",
+          "creator": "Nidhi Sudhan",
+          "publishedAt": "2026-06-27",
+          "url": "https://archive.aec.at/prix/320413/",
+          "host": "archive.aec.at",
+          "description": "인도 케랄라 티루바난타푸람을 기반으로 활동하는 니디 수단이 이끄는 비영리 단체 시티즌 디지털 파운데이션이 만든 '마르기'는 온라인 사기·성폭력·허위정보 등 디지털 피해를 겪은 시민이 몇 번의 클릭만으로 각 주 언어에 맞는 지역·전국 단위 구제 자원을 찾도록 돕는 플랫폼이다. 2026년 프릭스 아르스 엘렉트로니카 디지털 휴머니티 부문에서 754개 출품작 중 아너러리 멘션을 받았다.",
+          "image": "images/2026-10-14-03.jpg",
+          "imageFallback": "https://archive.aec.at/asset/3906070/preview/",
+          "insight": {
+            "mechanism": "인도 지도를 주 단위로 클릭하면 해당 지역의 신고 기관과 지원 서비스가 모국어로 나타나고, '도움이 필요해요/피해를 예방하고 싶어요/전체 보기' 세 갈래 경로로 분산된 정보를 3클릭 이내로 압축한다.",
+            "whyNow": "2025년 인도 사이버범죄 신고 건수가 전년 대비 24% 늘고 여성·아동 대상 범죄가 2020~2024년 사이 118% 증가한 가운데, 대형 기술기업의 후원 없이 운영되는 공공 디지털 인프라로 설계됐다.",
+            "directorPoint": "경고나 통계 대신 지도 클릭이라는 단순한 탐색 동작 하나로 시민을 진입시켜, 위기 상황에서도 인지 부담을 최소화하는 인터페이스 흐름을 설계했다.",
+            "critique": "시각 언어가 표준적인 정부 포털 디자인에 가까워 미디어아트보다 시빅테크 플랫폼에 가깝고, 2명 규모 개발팀이 전국 단위 서비스를 지속 운영할 수 있을지는 불확실하다."
+          },
+          "tags": {
+            "sense": [
+              "시각"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "권력·감시",
+              "돌봄·치유"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "인도",
+            "region": "동남·남아시아",
+            "venue": "온라인"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "대서양을 건넌 왕비의 기억, 돔 안에서 다시 떠오르다",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "칸시카는 2025년 상파울루 초연 이후 히우데자네이루·우이다를 거쳐 2026년 4월 요하네스버그 위츠 디지털 돔에 도착했다. 프랑스·베냉·브라질 3국 공동제작이라는 이례적 구조는 아프리카·유럽 문화기관 연합 'Immersive Africa'의 틀 안에서 가능했다. 노예무역으로 끊어진 단쇼메 왕국과 브라질의 연결고리를 되짚는 이 작업이 유럽 자본과 기술로 제작돼 다시 아프리카 대륙에서 상영된다는 사실 자체가, 기억의 소유권이 누구에게 있는지를 묻는 질문이 된다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "8K 풀돔 프로젝션이 관객을 360도로 둘러싸는 가운데, 젊은 보둔 사제 도투가 보이는 세계와 보이지 않는 세계를 오가며 추방된 왕비 나 아공티메의 흔적을 추적하는 서사가 펼쳐진다. 작곡가 티가나 산타나의 원곡 음악이 영상보다 앞서 공간을 채우며 다음 장면의 정서를 예고하고, 생성형 애니메이션과 아카이브 이미지가 교차 편집돼 역사적 사실과 영적 상상을 한 화면 안에서 오간다. 남아공 상영에서는 줄루족 창조신화를 다룬 'Kwasukasukela'와 짝을 이뤄 35분짜리 복합 프로그램으로 구성돼, 관객은 두 대륙의 신화적 시간대를 연속으로 체험한다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "공동연출 조제핀 드로브는 2018년 베니스비엔날레 칼리지 시네마 VR에 선정된 'Meet Mortaza VR', 아르테의 'The Wedding at Cana VR' 등 몰입형 다큐멘터리를 꾸준히 만들어 온 3D·VR 전문가다. 공동연출 라엘라 아조비는 2018년부터 서아프리카에서 쿠바로 전승된 요루바 여신 예모자를 추적하는 'The Roads of Yemoja' 연작을 지속해 왔고, 베를린 세계문화의집(HKW) 'O Quilombismo' 전시에도 참여했다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "광고·영상 연출에 가져올 지점은 두 가지다. 첫째, 인물의 이동 방향을 실제 지리적 항로와 일치시켜 관객이 내러티브를 공간적으로 체득하게 만드는 방법이다. 왼쪽에서 오른쪽으로 흐르는 화면 이동이 실제 대서양 횡단 경로와 겹치도록 설계해, 설명 없이도 몸으로 거리감을 느끼게 한다. 둘째, 사운드를 화면보다 한 박자 먼저 공간에 채워 다음 장면의 감정을 예고하는 선행 사운드 연출이다. 두 기법 모두 풀돔이라는 특수 장비 없이도 일반 스크린이나 다중 채널 영상 연출에 그대로 옮겨 적용할 수 있다."
+          }
+        ],
+        "keywords": [
+          "풀돔",
+          "몰입형영화",
+          "대서양기억",
+          "단쇼메왕국",
+          "아프리카-유럽협력"
+        ],
+        "sources": [
+          {
+            "label": "Dream Feel Factory — Kancícà project page",
+            "url": "https://dreamfeelfactory.com/en/Kanc%C3%ADc%C3%A0-An-Immersive-Journey-from-S%C3%A3o-Paulo-to-Nairobi/"
+          },
+          {
+            "label": "Wits University — Global immersive work Kancícà premieres at Digital Dome",
+            "url": "https://www.wits.ac.za/news/latest-news/general-news/2026/2026-05/global-immersive-work-kancica-premieres-at-digital-dome.html"
+          },
+          {
+            "label": "Fak'ugesi Festival — Immersive Africa programme",
+            "url": "https://fakugesi.co.za/sig-immersive.html"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Meet Mortaza VR (Joséphine Derobe)",
+            "year": "2018",
+            "relation": "베니스비엔날레 칼리지 시네마 VR 선정, 몰입형 다큐 연출 계보"
+          },
+          {
+            "name": "The Wedding at Cana VR / Arte Trips (Joséphine Derobe)",
+            "year": "2017",
+            "relation": "VR 다큐멘터리 제작 기법의 직접적 선행작"
+          },
+          {
+            "name": "The Roads of Yemoja (Laëila Adjovi)",
+            "year": "2018~",
+            "relation": "서아프리카-쿠바 요루바 여신 전승을 추적하는 아조비의 연구 연작"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-13",
       "title": "새가 학습하고, 나무가 방송하며, 상상과 정원이 증식하는 네 개의 생태계",
       "summary": "휘파람을 배우는 전자 새 떼, 히비스커스의 생체 신호를 전파로 보내는 대나무 탑, 뇌영상과 시선에서 증식하는 AI 이미지, 몸의 움직임에 반응해 계속 자라는 가상 식물까지 — 인간 밖의 입력이 빛과 소리와 장면을 스스로 조직하는 네 가지 시스템.",
@@ -14187,6 +14381,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-12T23:48:36.462Z",
+  "generatedAt": "2026-10-14T00:52:45.752Z",
   "schemaVersion": 2
 }
