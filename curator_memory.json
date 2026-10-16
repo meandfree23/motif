@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -76,7 +76,8 @@
     "2026-10-10: 아프리카 공백은 이번에 해소(프리 아르스 엘렉트로니카 수상작 경유)했으나 중동·오세아니아는 여전히 공백 — Fak'ugesi(10/13 요하네스버그 개막, 이미 발굴한 아프리카 소스이므로 다음은 중동/오세아니아 우선), Sharjah Vantage Point 13(다큐멘터리 사진 중심이라 미디어아트 적합성 낮음, 다른 중동 소스 필요), ACMI 신규 전시(Lifelike 11/20 개막 전) 재탐색 필요.",
     "2026-10-12: 중동·아프리카 신규 항목은 이번 회차에 싣지 못함. Fak’ugesi가 10/13 개막하므로 다음 회차에서 실제 공개된 설치와 이미지부터 재탐색할 것.",
     "2026-10-13: Fak’ugesi 개막 회차에서 아프리카 신규 항목을 확보. 다음 회차는 동남·남아시아 또는 오세아니아 신규 소스를 우선하고, Fak’ugesi 현장 사진이 공개되면 10월 설치 배치와 노드 수를 재확인할 것.",
-    "2026-10-14: Margi(마르기)는 시빅테크 플랫폼 성격이 강해 전통적 '미디어아트' 정의와의 경계 사례 — 향후 유사 Digital Humanity 부문 후보는 시각/공간적 체험 요소가 더 뚜렷한 작업을 우선할 것. 동남·남아시아 권역이 이번 호에 2건 겹쳐 다른 권역(오세아니아·중남미) 우선 조사가 다음 회차 과제."
+    "2026-10-14: Margi(마르기)는 시빅테크 플랫폼 성격이 강해 전통적 '미디어아트' 정의와의 경계 사례 — 향후 유사 Digital Humanity 부문 후보는 시각/공간적 체험 요소가 더 뚜렷한 작업을 우선할 것. 동남·남아시아 권역이 이번 호에 2건 겹쳐 다른 권역(오세아니아·중남미) 우선 조사가 다음 회차 과제.",
+    "2026-10-16: 오세아니아는 이번에도 신규 항목 미포함(Govett-Brewster 전시가 10/11 종료되어 현재진행형 기준 탈락) — ACMI Lifelike(11/20 개막) 개막 후 재탐색 필요."
   ],
   "pipeline_health_log": [
     {
@@ -144,6 +145,10 @@
     {
       "date": "2026-10-15",
       "note": "정시 발행 준비: 5개 항목(유럽2·동아시아1·북미1·아프리카1), 이미지 4/5 확보(Postcards from Latent Space는 작가 개인 사이트에 갤러리가 없고 공식 프로필 이미지가 작품 자체가 아니어서 image:null 처리, imageFallback은 Fak'ugesi 공식 인스타그램 게시물 이미지). Focus: Mirror Mirror — What Remains of Me (Randall Barriga, 스위스). curiosityengine.netlify.app 본인 케이스 스터디와 CreativeApplications.Net 기사 2곳을 WebFetch로 확인. Crosscurrent: 미러 미러(AI의 사람 분류)와 포스트카드(AI 아카이브의 기억/배제)를 감시·기억 대비로 연결. Toolkit 카드 1장 추가(대기 시간을 서사 전환으로 쓰는 기법). check-dedup.mjs FAIL 0 확인."
+    },
+    {
+      "date": "2026-10-16",
+      "note": "항목 5개, 권역 북미1·중동1·중남미1·유럽1·동아시아1 (5개 권역 균등 분산, 유럽 0건 추가 최소화 유지). 이미지 5/5 확보(모두 실제 작품/설치 사진으로 검증). Focus: Daito Manabe — RELATIONAL TIME (동아시아). check-dedup FAIL 0. 새 소스 발굴: wearetbd.com(Steven Benton/TBD Design, 애틀랜타 SITE 페스티벌), labiennale.org 국가관 개별 페이지(오만·아르헨티나), andreaslutz.com(KASUGA 스튜디오), tcam.museum(타이중시립미술관) — 모두 host 분산 목적으로 기관 공식 페이지보다 작가/미술관 개별 페이지를 url로 우선 사용."
     }
   ],
   "source_notes": [

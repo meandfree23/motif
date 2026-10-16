@@ -1,6 +1,284 @@
 {
   "issues": [
     {
+      "date": "2026-10-16",
+      "title": "구슬과 모래, 소금과 신경망 — 몸짓이 공간을 작동시키는 다섯 가지 방식",
+      "summary": "애틀랜타의 나무 구슬부터 타이중의 초파리 신경망까지, 오늘의 다섯 작업은 모두 관람객의 몸짓 하나를 공간 전체를 움직이는 입력값으로 삼는다.",
+      "crosscurrent": {
+        "note": "오만관의 장신구(중동)는 걸음을 밟으면 장신구가 울리며 관찰자·관찰대상을 뒤집고, 아르헨티나관의 소금 풍경(중남미)은 걸음이 '감시되는 영역'을 작동시킨다 — 같은 베네치아 비엔날레 안에서 움직임을 감시의 증거가 아니라 반응의 자격으로 바꾸는 두 가지 방식.",
+        "itemIds": [
+          "2026-10-16-02",
+          "2026-10-16-03"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-16-01",
+          "title": "방을 악기로 바꾸는 열두 개의 구",
+          "originalTitle": "Room as Instrument",
+          "creator": "Lisa Li · Steven Benton · Monsieur Blanc",
+          "publishedAt": "2026-10-03",
+          "url": "https://www.wearetbd.com/projects/site-2026-kinetic-sculpture",
+          "host": "wearetbd.com",
+          "description": "애틀랜타의 일일 실험예술 행사 SITE 2026에서 선보인 키네틱 설치로, 벽에 뚫린 하나의 개구부 안에서 열두 개의 나무 구가 각자의 모터 권양기에 매달려 수학 함수를 물리적 움직임으로 옮긴다. 운영자가 곡을 고르면 구의 움직임과 투사된 시각화, 음악이 7초 간격으로 전환되며 함께 맞물린다.",
+          "image": "images/2026-10-16-01.jpg",
+          "imageFallback": "https://wearetbd.com/media/projects/site-2026-kinetic-sculpture/room-in-motion.jpg",
+          "insight": {
+            "mechanism": "TouchDesigner가 수학 함수에서 뽑은 열두 개의 위치 값을 시리얼로 BTT Octopus 컨트롤러에 보내 NEMA17 스테퍼 모터 권양기를 구동하고, 같은 패턴 데이터가 실시간 투사 시각화로도 동시에 출력된다.",
+            "whyNow": "AI가 생성한 영상 대신 눈에 보이는 기계 장치가 직접 수학을 몸짓으로 번역하는 키네틱 조각이 소규모 실험예술 행사에서 다시 주목받고 있다.",
+            "directorPoint": "곡 전환 시 7초짜리 블렌딩 구간을 둬서 구의 궤적이 다음 패턴으로 서서히 녹아들게 만든 편집 리듬은 컷 전환의 속도감을 설계하는 참고가 된다.",
+            "critique": "관객이 직접 조작할 수 있는 인터랙션 지점은 없고 운영자의 곡 선택에만 반응해, '악기'라는 제목에 비해 즉흥성은 제한적이다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "미국",
+            "region": "북미",
+            "venue": "애틀랜타, 미국"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-16-02",
+          "title": "모래를 밟으면 천장이 응답하는 오만관",
+          "originalTitle": "Zīnah (Adornment)",
+          "creator": "Haitham Al Busafi",
+          "publishedAt": "2026-05-09",
+          "url": "https://www.labiennale.org/en/art/2026/oman-sultanate",
+          "host": "labiennale.org",
+          "description": "베네치아 비엔날레 오만관을 채운 몰입형 키네틱 사운드스케이프로, 전통 말 장신구 '알자아나'를 모티프 삼아 관람객이 오만산 모래 바닥을 걸으면 천장에 매달린 은빛 장신구 군집이 그 움직임에 반응해 낮은 조의 울림으로 공명한다. 관찰자와 관찰 대상의 위치를 뒤집어 방문객이 장식되는 경험을 하게 한다.",
+          "image": "images/2026-10-16-02.jpg",
+          "imageFallback": "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/oman1.jpg",
+          "insight": {
+            "mechanism": "바닥에 깔린 오만산 모래 위를 걷는 압력과 움직임이 센서를 거쳐 천장에 매달린 확대된 은빛 장신구 조형물의 떨림과 울림을 촉발하는 반응형 설치다.",
+            "whyNow": "장신구라는 장식 오브제를 관찰 대상에서 관찰 주체로 뒤집는 설치가, 말과 인간의 관계를 노동이 아닌 '파트너십의 철학'으로 다시 쓰려는 흐름과 맞물려 있다.",
+            "directorPoint": "관람객의 걸음이라는 가장 느린 신체 동작 하나만으로 공간 전체의 사운드를 촉발시키는 방식은, 카메라 워크 없이도 움직임을 소리로 선행시키는 연출의 참고가 된다.",
+            "critique": "'관찰자와 관찰 대상의 전복'이라는 개념적 틀이 실제 체험에서 얼마나 선명하게 전달되는지는 현장 반응에 따라 갈릴 수 있는 지점이다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "촉각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "공간음향"
+            ],
+            "theme": [
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "오만",
+            "region": "중동",
+            "venue": "베네치아, 이탈리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-16-03",
+          "title": "소금과 숯으로 그린, 감시당하는 풍경",
+          "originalTitle": "Monitor Yin Yang",
+          "creator": "Matías Duville",
+          "publishedAt": "2026-05-09",
+          "url": "https://www.labiennale.org/en/art/2026/argentina",
+          "host": "labiennale.org",
+          "description": "베네치아 비엔날레 아르헨티나관에 설치된 뒤빌의 첫 기념비적 규모 드로잉으로, 소금과 숯만으로 그려낸 풍경 위를 영상·설치·사운드가 겹쳐 '걸어서 통과하는 악보'로 바꾼다. 방문객의 움직임이 감시당하는 영역을 활성화하는 장치로 작동해, 고정된 풍경이 아니라 불안정한 지형을 항해하는 도구가 된다.",
+          "image": "images/2026-10-16-03.jpg",
+          "imageFallback": "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/argentina1.jpg",
+          "insight": {
+            "mechanism": "소금과 숯으로 그린 대형 드로잉 바닥 위에 영상·사운드를 겹쳐, 방문객이 공간을 걸을 때마다 '감시되는 영역'이 작동하며 음악적 요소(즉흥·수행·움직임·템포)로 읽히도록 설계했다.",
+            "whyNow": "이미 도래한 재난을 두려워하는 대신 그 폐허 속에서도 삶과 아름다움을 지각하는 인간의 역량이라는 역설을, 걸을 수 있는 풍경 하나로 압축해 보여준다.",
+            "directorPoint": "바다와 숲의 잔여물인 소금·숯을 재료이자 상징으로 동시에 쓰는 선택은, 세트 디자인에서 질감 하나로 지질학적 시간과 인간의 시간을 겹쳐 보이게 하는 참고가 된다.",
+            "critique": "'감시되는 영역'이라는 설정이 실제로 어떤 센서·카메라 장치로 구현되는지 1차 출처에 구체적 사양이 공개되어 있지 않아, 연출 방식은 추정에 의존한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "영상·필름"
+            ],
+            "theme": [
+              "권력·감시",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "아르헨티나",
+            "region": "중남미",
+            "venue": "베네치아, 이탈리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-16-04",
+          "title": "얼굴을 추상 몸짓으로 바꿔 되돌려주는 조각",
+          "originalTitle": "Capture / Resemble",
+          "creator": "Andreas Lutz",
+          "publishedAt": "2026-03-01",
+          "url": "https://www.andreaslutz.com/capture-resemble/",
+          "host": "andreaslutz.com",
+          "description": "프랑스 디종의 SLASH SLASH 페스티벌에서 선보인 조각으로, 방문객의 얼굴 표정을 포착해 추상적인 움직임으로 전환한다. 매 포착은 이전 데이터와 비교·저장되며, 조각이 주기적으로 '꿈꾸듯' 저장된 기록을 재해석하는 단계에 들어가 사람들 사이의 중간 지점을 찾아가는 보편적 몸짓 어휘를 진화시킨다.",
+          "image": "images/2026-10-16-04.jpg",
+          "imageFallback": "https://www.andreaslutz.com/capture-resemble/img/Capture-Resemble-1.jpg",
+          "insight": {
+            "mechanism": "천장의 RGB 카메라가 MediaPipe로 얼굴에서 418개 포인트를 추출하고 그중 24개를 열두 개 XYZ 액추에이터의 팬·틸트·LED로 매핑, DMX로 전송해 표정을 빛과 움직임으로 바꾼다. 캡처는 32비트 TIFF로 저장돼 '재현' 단계에 다시 재생된다.",
+            "whyNow": "AI 에이전트를 직접 복제하는 대신, AI가 데이터를 축적·재해석하는 학습 주기 자체를 열두 개의 조명-모터 유닛으로 모사해 '자각하는 기계'를 은유로만 제시한다.",
+            "directorPoint": "포착과 재해석을 분리된 '국면'으로 나눠 조각이 반응만 하지 않고 스스로 데이터를 되새김하는 시간을 보여주는 구조는, 인터랙션 연출에서 '쉬는 리듬'을 설계하는 참고가 된다.",
+            "critique": "자가 학습하는 AI를 흉내 낸 '재해석' 단계가 사전 프로그램된 재생 로직에 가까워, 실제 기계 학습과는 거리가 있는 은유적 장치라는 한계가 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "AI·저자성"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "독일",
+            "region": "유럽",
+            "venue": "디종, 프랑스"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-16-05",
+          "title": "관람객의 걸음이 파리의 신경망을 흔드는 전시",
+          "originalTitle": "RELATIONAL TIME – Life Beyond Simulation",
+          "creator": "Daito Manabe",
+          "publishedAt": "2026-10-03",
+          "url": "https://www.tcam.museum/zh/guided/relationaltime",
+          "host": "tcam.museum",
+          "description": "진보 다이토의 해외 첫 대형 개인전으로, 타이중시립미술관의 전시실 세 곳을 관람객의 존재 자체가 연산 변수가 되는 자율 에이전트 시스템으로 바꾼다. 전시실 A는 AI 에이전트들이 자원 배분을 두고 논쟁하는 미시 생태계, B는 관객의 움직임이 인공생명 세계를 교란하는 집단 진화, C는 공개된 초파리 커넥톰 데이터로 구축한 신경망이 관객 움직임을 소리와 빛으로 바꾸는 분산 사운드 필드다.",
+          "image": "images/2026-10-16-05.jpg",
+          "imageFallback": "https://image.taiwannews.com.tw/2026/10/05/b0983bf1b2344de390c5bd8555aa7506.jpeg",
+          "insight": {
+            "mechanism": "전시실 C는 2026년 공개된 성체 수컷 초파리 중추신경계 커넥톰 데이터로 신경 구조 자체를 작동시키는 연산 시스템을 짰다. 관객의 움직임이 자극으로 변환돼 수천 개 뉴런을 거쳐 천장 24개 지점의 음향과 사각 중앙 디스플레이의 빛으로 출력되고, 그 반응에 관객이 다시 움직이면 그것이 새 입력이 되어 음악과 영상이 스스로를 계속 생성한다.",
+            "whyNow": "생성형 AI의 급부상으로 한 달간 코드를 전혀 쓰지 못했던 개인적 정체성 위기를 겪은 작가가, AI 지원으로 작성한 2100만 줄의 코드로 오히려 기술적 한계에 막혔던 구상을 처음 구현해낸 전환점이다.",
+            "directorPoint": "전시실 B에서는 센서가 관객의 움직임을 힘으로 변환해 인공생명 세계를 교란시키되, 감시 에이전트가 주기적으로 시스템 이력을 읽어 다양성을 유지하도록 환경을 조정한다 — 관객 개입과 시스템 자정 장치를 번갈아 배치하는 리듬이 연출의 핵심이다.",
+            "critique": "전시가 닫힌 뒤에도 시스템의 진화를 추적할 수 있는 전용 웹사이트를 운영한다고 밝혔지만, 현장 없이 그 '살아있는' 체감을 얼마나 재현할 수 있을지는 불확실하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "생성AI",
+              "센서·인터랙션",
+              "데이터·시각화",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "AI·저자성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "일본",
+            "region": "동아시아",
+            "venue": "타이중, 대만"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 4,
+        "headline": "파리의 신경망이 관객의 걸음을 음악으로 바꾸는 전시",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "열 살부터 코드를 짜 온 진보 다이토는 지난해 생성형 AI의 급부상으로 자신의 기술이 쓸모없어질지 모른다는 정체성 위기를 겪고 한 달간 코드를 전혀 쓰지 못했다. 그 공백을 지나 그는 AI를 대체재가 아니라 구상을 넓히는 도구로 받아들였고, 이번 전시는 AI 지원으로 작성한 2100만 줄의 코드로 기술적 한계에 막혀 있던 구상을 처음 구현해낸 결과물이다. 해외 첫 대형 개인전이라는 무게보다, 코딩 정체성의 전환점을 공개 전시로 증언한다는 점이 지금 이 작업을 주목하게 만든다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "전시실 세 곳은 각기 다른 시간 스케일로 작동한다. A는 서로 다른 입장을 가진 15개 AI 에이전트가 자원 배분안을 제안·비판하며 세포 군집이 섭취·변이하는 미시 생태계다. B는 센서가 관람객의 움직임을 힘으로 바꿔 인공생명 세계를 교란시키되, 감시 에이전트가 주기적으로 시스템 이력을 읽어 다양성을 유지하도록 환경을 조정한다. C는 2026년 9월 공개된 성체 수컷 초파리의 중추신경계 커넥톰 데이터로 신경 구조 자체를 작동시켜, 관람객의 움직임을 자극으로 바꿔 수천 개 뉴런을 거친 뒤 천장 24개 지점의 음향과 중앙 디스플레이의 빛으로 되돌린다. 그 반응에 관람객이 다시 움직이면 그것이 새 입력이 되어 음악과 영상이 스스로 생성을 이어간다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "다이토는 2006년 라이조마틱스를 설립한 뒤 근전위 센서로 자신의 표정을 읽어 전기자극으로 타인의 얼굴에 복사하는 실험과 《Electric Stimulus to Face》(2008)로 몸의 생체신호를 소리·빛으로 번역하는 작업을 시작했다. 이후 교토대 가미타니 유키야스 연구실과의 뇌 디코딩 공동작업, 도쿄대 배양 신경세포·뇌 오르가노이드 연구로 신체에서 신경 활동 자체로 소재를 옮겨왔다. 이번 전시의 초파리 신경망은 구글 리서치와 HHMI 재니아가 2026년 9월 공개한 성체 수컷 커넥톰 데이터를 그대로 연산 기반으로 삼은 결과다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "세 전시실은 순서 없이 어느 쪽부터 봐도 되게 설계됐지만, 공통된 연출 원리는 '관객의 개입과 시스템의 자정' 사이를 번갈아 배치하는 리듬이다. 즉각 반응하는 반사의 시간, 몸으로 느끼며 움직이는 시간, 경험이 쌓여 응답 경향 자체가 바뀌는 시간을 서로 다른 전시실에 나눠 배치한 선택은, 한 장면 안에 템포가 다른 리듬을 동시에 두려는 영상 연출에 직접 참고가 된다. 관객이 전시장을 나간 뒤에도 시스템 진화를 추적할 수 있는 전용 웹사이트를 운영한다는 점도, '닫히지 않는 결말'을 설계하는 참고 사례다."
+          }
+        ],
+        "keywords": [
+          "AI 에이전트",
+          "커넥톰",
+          "인공생명",
+          "생성형 AI",
+          "신경망 사운드"
+        ],
+        "sources": [
+          {
+            "label": "ARTSK — Daito Manabe Opens First Overseas Solo Show in Taichung as a Living System",
+            "url": "https://artsk.ai/news/artouch-daito-manabe-relational-time-taichung-2026"
+          },
+          {
+            "label": "Taiwan News — Japanese media artist's first major overseas show debuts in Taichung",
+            "url": "https://www.taiwannews.com.tw/en/news/6451853"
+          },
+          {
+            "label": "Daito Manabe 공식 사이트 — Relational Time Artist Statement",
+            "url": "https://daito.ws/en/projects/relational-time/artist-statement/"
+          },
+          {
+            "label": "Google Research — A connectomics milestone: Mapping the complete male fruit fly brain",
+            "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Electric Stimulus to Face (Daito Manabe)",
+            "year": "2008",
+            "relation": "근전위 센서로 표정을 읽어 전기자극으로 되돌리던 작가 자신의 초기작, 생체신호를 소리·빛으로 번역하는 이번 작업의 원형"
+          },
+          {
+            "name": "뇌 디코딩 공동작업 (교토대 가미타니 유키야스 연구실)",
+            "year": "",
+            "relation": "fMRI 뇌 활동 해석으로 신체에서 신경 활동 자체로 소재를 넓혀간 중간 단계"
+          },
+          {
+            "name": "성체 수컷 초파리 중추신경계 커넥톰 (Google Research · HHMI Janelia)",
+            "year": "2026",
+            "relation": "전시실 C의 신경망 연산 기반이 된 공개 데이터셋"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-15",
       "title": "거울이 되비추는 판단, 아카이브가 되비추는 기억",
       "summary": "AI가 사람을 읽어 분류하는 스위스의 거울 설치와, AI가 학습한 아카이브가 무엇을 기억하는지를 묻는 우간다의 디지털 콜라주를 중심으로, 중국의 기후 로봇과 뉴욕의 미신 기계, 헨트의 멈춘 커튼까지 다섯 편을 모았다.",
@@ -14643,6 +14921,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-15T00:37:47.909Z",
+  "generatedAt": "2026-10-16T00:32:46.908Z",
   "schemaVersion": 2
 }
