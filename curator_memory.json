@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-19T06:28:44.370Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -153,6 +153,10 @@
     {
       "date": "2026-10-19",
       "note": "정시 발행 준비: 5개 항목(오세아니아1·동남·남아시아1·유럽2·null1), 이미지 5/5 확보(모두 공식 전시/프로젝트 사진). Focus: Khaled Sabsabi — conference of one's self (호주관, 베니스 비엔날레). Creative Australia 보도자료+Hyperallergic 작가 인터뷰+labiennale.org 공식 페이지 3곳을 WebFetch로 확인, 캔버스 재투사+벡터화 레이어 기법을 작가 본인 인터뷰로 구체 확인. 새 출처 발굴: labiennale.org 국가관 개별 페이지(호주·싱가포르, getComputedStyle background-image로 full_screen_slide 원본 확보), creativeapplications.net 10월 신규 포스트(the_local_aura, NOTUN), ryoichikurokawa.com 작가 개인 사이트(ZKM Silver Egg 2026 전시작 Frame of reference, 2024년작이나 2026-07-04부터 새 장소에서 전시 중이라 채택). NOTUN(방글라데시 대나무 주택 프로젝트, AA London 석사논문)은 국제 팀이라 artistBase/region null 처리. Tokyo Atlas International Art Exhibition(10/10 개막, 오사카·아오미·테노즈)에서 Muhannad Shono(사우디)·Kawita Vatanajyankur(태국) 등 신작이 예정돼 있으나 10/19 기준 공식 사이트에 개별 작품명이 아직 공개되지 않아 이번 회차에는 보류 — 작품명 공개되면 중동/동남아 후보로 재검토."
+    },
+    {
+      "date": "2026-10-19",
+      "note": "Signals 주간 보충(사용자 요청으로 15:30 KST 수동 진행): 10-17·10-18 이틀은 데몬 오프라인으로 발행 공백, 그 결과 10-18 일요일 Signals 작업도 누락돼 오늘 대신 수행. 기존 6개 신호에 10-12~10-19 근거 12건 추가(regions 재계산: nonhuman-translators +아프리카·중동, mirror-substitute +중남미, interface-skin +오세아니아·중동). 새 신호 sig-suspended-swarm-instrument(매달린 사물의 군집이 방 전체를 악기로 만든다) 추가 — 6명 작가·6편·4개 권역(북미·중동·동남·남아시아·유럽). 한계: 아프리카·중남미·동아시아 사례 미확인."
     }
   ],
   "source_notes": [
