@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -149,6 +149,10 @@
     {
       "date": "2026-10-16",
       "note": "항목 5개, 권역 북미1·중동1·중남미1·유럽1·동아시아1 (5개 권역 균등 분산, 유럽 0건 추가 최소화 유지). 이미지 5/5 확보(모두 실제 작품/설치 사진으로 검증). Focus: Daito Manabe — RELATIONAL TIME (동아시아). check-dedup FAIL 0. 새 소스 발굴: wearetbd.com(Steven Benton/TBD Design, 애틀랜타 SITE 페스티벌), labiennale.org 국가관 개별 페이지(오만·아르헨티나), andreaslutz.com(KASUGA 스튜디오), tcam.museum(타이중시립미술관) — 모두 host 분산 목적으로 기관 공식 페이지보다 작가/미술관 개별 페이지를 url로 우선 사용."
+    },
+    {
+      "date": "2026-10-19",
+      "note": "정시 발행 준비: 5개 항목(오세아니아1·동남·남아시아1·유럽2·null1), 이미지 5/5 확보(모두 공식 전시/프로젝트 사진). Focus: Khaled Sabsabi — conference of one's self (호주관, 베니스 비엔날레). Creative Australia 보도자료+Hyperallergic 작가 인터뷰+labiennale.org 공식 페이지 3곳을 WebFetch로 확인, 캔버스 재투사+벡터화 레이어 기법을 작가 본인 인터뷰로 구체 확인. 새 출처 발굴: labiennale.org 국가관 개별 페이지(호주·싱가포르, getComputedStyle background-image로 full_screen_slide 원본 확보), creativeapplications.net 10월 신규 포스트(the_local_aura, NOTUN), ryoichikurokawa.com 작가 개인 사이트(ZKM Silver Egg 2026 전시작 Frame of reference, 2024년작이나 2026-07-04부터 새 장소에서 전시 중이라 채택). NOTUN(방글라데시 대나무 주택 프로젝트, AA London 석사논문)은 국제 팀이라 artistBase/region null 처리. Tokyo Atlas International Art Exhibition(10/10 개막, 오사카·아오미·테노즈)에서 Muhannad Shono(사우디)·Kawita Vatanajyankur(태국) 등 신작이 예정돼 있으나 10/19 기준 공식 사이트에 개별 작품명이 아직 공개되지 않아 이번 회차에는 보류 — 작품명 공개되면 중동/동남아 후보로 재검토."
     }
   ],
   "source_notes": [

@@ -1,6 +1,275 @@
 {
   "issues": [
     {
+      "date": "2026-10-19",
+      "title": "회의하는 자아, 멈춘 몸, 되돌려주는 카메라 — 몸과 땅을 다시 읽는 다섯 가지 방식",
+      "summary": "베니스 비엔날레의 두 국가관과 토리노·카를스루에·방글라데시를 가로질러, 신체와 장소를 감시가 아니라 응답의 언어로 되돌리는 작업들을 모았다.",
+      "crosscurrent": {
+        "note": "헹은 개입 없이 몸의 정지를 그대로 담고, 페체야는 웹캠 추적으로 몸에 뉴스 데이터를 붙인다 — 동남아시아와 유럽에서 카메라가 신체를 다루는 정반대 태도를 보여준다.",
+        "itemIds": [
+          "2026-10-19-02",
+          "2026-10-19-03"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-19-01",
+          "title": "회의하는 자기 자신",
+          "originalTitle": "conference of one's self",
+          "creator": "Khaled Sabsabi",
+          "publishedAt": "2026-05-09",
+          "url": "https://www.labiennale.org/en/art/2026/australia",
+          "host": "labiennale.org",
+          "description": "여덟 개의 대형 캔버스를 팔각형으로 배치하고, 그 캔버스를 촬영한 영상을 같은 캔버스 위에 다시 투사해 그림과 투사 이미지가 서로를 비추게 만든 설치다. 수피 시인 아타르의 '새들의 회의'에서 빌려온 구조 안에 레바논과 호주에서 찍은 영상을 끼워 넣어, 이주와 공동체의 서사를 54분 루프로 접어 넣는다.",
+          "image": "images/2026-10-19-01.jpg",
+          "imageFallback": "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/australia1.jpg?itok=4PgZcqWg",
+          "insight": {
+            "mechanism": "캔버스를 촬영해 같은 캔버스에 재투사하고, 색상을 벡터화한 레이어마다 레바논 행렬·호주 축구 경기 등 다른 영상을 끼워 넣어 회화와 영상의 경계를 흐린다.",
+            "whyNow": "국가관에서 배제됐다가 여론과 독립 심사로 복귀한 이력이 집단적 자기 성찰이라는 주제와 공명하며, 11월 22일까지 이어지는 비엔날레 기간 내내 화제의 중심에 있다.",
+            "directorPoint": "팔각형 배치와 54분 루프, 아날로그 테이프로 녹음한 생활 소음 사운드스케이프가 관객이 서두르지 않고 머무르게 만드는 리듬을 설계한다.",
+            "critique": "서사를 직접 설명하지 않는 개방형 구조가 수피 사상 맥락을 모르는 관객에게는 추상적으로만 다가올 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "의식·영성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "호주",
+            "region": "오세아니아",
+            "venue": "베니스, 이탈리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-19-02",
+          "title": "잠시 멈춤",
+          "originalTitle": "A Pause",
+          "creator": "Amanda Heng Liang Ngim",
+          "publishedAt": "2026-05-09",
+          "url": "https://www.labiennale.org/en/art/2026/singapore",
+          "host": "labiennale.org",
+          "description": "계단 폭을 넓혀 관람 속도 자체를 늦추는 건축적 개입 안에, 피부와 관절을 클로즈업한 1990년작 사진 연작과 싱가포르·베니스 주민의 정지 동작을 실시간으로 담은 영상 초상이 나란히 놓인다. 작가의 오랜 신체 탐구를 두 도시 사이로 확장해, 밀집한 도시 속에서 몸이 스스로 리듬을 되찾는 순간을 기록한다.",
+          "image": "images/2026-10-19-02.jpg",
+          "imageFallback": "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2026/1300x600/singapore1.jpg?itok=aJ60siyj",
+          "insight": {
+            "mechanism": "건축적으로 넓힌 계단 보폭이 관람 속도를 물리적으로 늦추고, 개입 없이 실시간으로 찍은 두 도시 주민의 정지 동작 영상이 그 느려진 리듬과 맞물린다.",
+            "whyNow": "싱가포르 작가가 국가관 전체를 신체와 정지라는 주제로 재설계한 드문 사례로, 11월 22일까지 이어지는 비엔날레 기간 내내 현재진행형이다.",
+            "directorPoint": "계단 폭과 단 높이를 바꿔 관람객의 보행 속도를 연출 요소로 쓰고, 개입 없는 실시간 촬영으로 '연출되지 않은 정지'를 포착한다.",
+            "critique": "건축적 개입과 영상 사이의 연결이 설명 없이는 추상적으로 읽혀, 신체 담론에 익숙하지 않은 관객에게는 거리감을 줄 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "신체·정체성",
+              "도시·공동체"
+            ],
+            "scale": "건축·파사드"
+          },
+          "origin": {
+            "artistBase": "싱가포르",
+            "region": "동남·남아시아",
+            "venue": "베니스, 이탈리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-19-03",
+          "title": "그 동네의 아우라",
+          "originalTitle": "the_local_aura",
+          "creator": "Antonio Pezzella",
+          "publishedAt": "2026-10-03",
+          "url": "https://www.creativeapplications.net/member/the_local_aura-a-neighbourhoods-present-carried-by-those-who-cross-it/",
+          "host": "creativeapplications.net",
+          "description": "카메라 앞을 지나는 관람객의 실루엣에 토리노 바리에라 디 밀라노 지역의 실시간 뉴스 헤드라인이 흰 텍스트 박스로 들러붙어 함께 움직인다. 감시 카메라의 시각 언어를 빌리되 데이터를 추출하는 대신 그 장소의 현재를 관람객에게 돌려주는 방식으로 뒤집는다.",
+          "image": "images/2026-10-19-03.jpg",
+          "imageFallback": "https://www.creativeapplications.net/wp-content/uploads/2026/10/the_local_aura-2-1600x1000.jpg",
+          "insight": {
+            "mechanism": "웹캠이 관람객의 몸을 추적하면 구글 뉴스 RSS에서 가져온 동네 관련 헤드라인이 실루엣에 붙어 지연되며 따라오고, 화면이 비면 전체 뉴스 피드가 천천히 흐른다.",
+            "whyNow": "사람들이 그냥 지나치는 토리노의 한 동네를 다루며, 감시 미학을 정보 반환으로 뒤집는 실험이 2026년 10월 TRIP 페스티벌에서 처음 공개됐다.",
+            "directorPoint": "추적 데이터를 몸에 붙여 보여주는 자막형 연출과, 사람이 없을 때 뉴스가 스크롤되는 대기 화면 연출이 '보여주기·기다리기'의 리듬을 나눈다.",
+            "critique": "뉴스 헤드라인 텍스트에 의존하는 구조라, 언어나 지역 맥락을 모르는 관람객에게는 의미가 축소된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "도시·공동체",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "이탈리아",
+            "region": "유럽",
+            "venue": "토리노, 이탈리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-19-04",
+          "title": "참조의 틀",
+          "originalTitle": "Frame of reference",
+          "creator": "Ryoichi Kurokawa",
+          "publishedAt": "2026-07-04",
+          "url": "https://www.ryoichikurokawa.com/project/for.html",
+          "host": "ryoichikurokawa.com",
+          "description": "정사각형 디스플레이 2~4개를 조각처럼 조합해, 자연 풍경에서 추출한 색상 데이터를 노이즈 알고리즘으로 분절·재구성한 영상을 투사한다. 8분 루프 동안 빛과 어둠, 소리와 침묵 사이의 긴장이 반복되며 관객을 추상적 흔들림의 한가운데 세운다.",
+          "image": "images/2026-10-19-04.jpg",
+          "imageFallback": "https://www.ryoichikurokawa.com/project/images/for/for_zkm_2.jpg",
+          "insight": {
+            "mechanism": "자연 풍경에서 수집한 색상 정보를 노이즈 알고리즘으로 쪼개 모듈형 정사각 디스플레이에 분산시키고, 2채널 사운드가 그 분절된 리듬에 맞춰 흐른다.",
+            "whyNow": "2024년 도쿄에서 초연된 이 작업이 2026년 7월 ZKM의 'Silver Egg' 장기전에 새로 편입되며, 2027년 2월까지 독일 관객에게 처음 소개되는 중이다.",
+            "directorPoint": "디스플레이를 비정형 조각처럼 공중에 매달아 배치해, 관객이 한 화면이 아니라 여러 프레임 사이 틈을 오가며 장면을 조립하게 만든다.",
+            "critique": "서사나 메시지 없이 순수한 지각 경험에 집중하는 구조라, 데이터 출처 설명이 부족하면 장식적으로 읽힐 위험이 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "프로젝션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "독일",
+            "region": "유럽",
+            "venue": "카를스루에, 독일"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-19-05",
+          "title": "노툰",
+          "originalTitle": "NOTUN",
+          "creator": "Chuyu Zhang, Darya Holub, Hankai Ye",
+          "publishedAt": "2026-10-12",
+          "url": "https://www.creativeapplications.net/member/notun-designing-for-damage-in-cyclone-prone-bangladesh/",
+          "host": "creativeapplications.net",
+          "description": "방글라데시 해안 마을을 위해 강우·바람 시뮬레이션, 생분해 제방 블록, 대나무 조립 주택, 혼합현실 시공 가이드를 하나로 엮은 회복형 정주 전략이다. 손상을 막는 대신 손상을 받아들이고 복구하는 시스템을 설계해, 재난 이후에도 주민이 직접 고치고 다시 지을 수 있게 한다.",
+          "image": "images/2026-10-19-05.jpg",
+          "imageFallback": "https://www.creativeapplications.net/wp-content/uploads/2026/10/Notun_Image-1-1600x1000.jpg",
+          "insight": {
+            "mechanism": "강우·풍동 시뮬레이션으로 주거 배치를 최적화하고, 모래·점토·감자전분으로 만든 분해형 제방 블록과 혼합현실 가이드로 대나무 주택의 교체형 조립을 돕는다.",
+            "whyNow": "몬순 홍수와 사이클론 강풍을 동시에 다루는 계산적 건축 프로젝트가 2026년 10월 소개되며, '손상을 설계하는' 복구 중심 접근을 제시했다.",
+            "directorPoint": "혼합현실 오버레이가 시공 순서를 단계별로 겹쳐 보여주는 방식은, 복잡한 과정을 현장 작업자가 몸으로 따라가게 만드는 연출적 지침서로 기능한다.",
+            "critique": "실제 재난 현장에서의 장기 내구성과 유지관리 비용은 시뮬레이션과 모형 단계를 넘어선 검증이 더 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "XR·AR·VR"
+            ],
+            "theme": [
+              "기후·환경",
+              "노동·산업"
+            ],
+            "scale": "건축·파사드"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": null,
+            "venue": "파투아칼리, 방글라데시"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "여덟 개의 캔버스가 비추는 회의하는 자기 자신",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "사브사비는 올해 초 호주관 작가로 선정됐다가, 2007년작 영상에 헤즈볼라 전 지도자의 흐릿한 이미지가 담겼다는 논란으로 돌연 배제됐다. 여론과 독립 심사를 거쳐 복귀한 뒤 완성한 이 설치는 '집단으로서의 자기'를 묻는 작업이어서 더 무겁게 읽힌다. 개인의 서사가 정치적 검열의 대상이 됐던 경험이, 역설적으로 '단일한 지도자가 아니라 공동체 전체가 목소리를 이룬다'는 작품의 핵심 질문과 맞물린다. 11월 22일까지 이어지는 베니스 비엔날레에서, 국가 서사와 개인 서사가 충돌하는 현재의 문화전쟁을 비추는 사례로도 거론된다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "설치의 중심에는 가로 3미터, 세로 2미터 캔버스 여덟 점이 팔각형으로 걸려 있다. 각 캔버스를 사진으로 찍어 같은 캔버스 위에 영사하되, 그림의 주요 색상을 벡터화한 레이어마다 서로 다른 영상(레바논의 종교 행렬, 호주의 축구 경기 장면 등)을 끼워 넣는다. 그 결과 관객은 지금 보고 있는 것이 그려진 캔버스인지, 투사된 영상인지 구분하기 어려운 광학적 착시를 경험한다. 54분 루프 동안, 아날로그 테이프로 녹음한 생활 소음 사운드스케이프가 이미지의 변화와 맞물려 흐른다. 일곱 개의 캔버스는 아타르의 시에 나오는 일곱 골짜기를, 사브사비가 더한 여덟 번째 캔버스는 완성과 깨달음의 순간을 가리킨다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "구조의 뼈대는 12세기 페르시아 수피 시인 파리드 웃딘 아타르의 서사시 '새들의 회의'다. 새 떼가 전설의 왕 시모르그를 찾아 일곱 골짜기를 건너지만, 도착한 자리에는 아무도 없고 남은 서른 마리 자신들이 곧 '시모르그(페르시아어로 서른 마리 새)'였음을 깨닫는다는 우화다. 사브사비는 같은 비엔날레 아르세날레관에서 자매작 'khalil'을 동시에 선보이며, 2014년작 '70,000 Veils'에서 다져온 디지털 시대 영성 탐구를 이번 설치의 레이어드 영상 기법으로 이어갔다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "팔각형 배치는 관객이 정면을 두지 않고 몸을 계속 돌리게 만들어, '한눈에 파악되는 작품'이 아니라 '시간을 들여 돌아야 완성되는 작품'이라는 감각을 준다. 54분이라는 긴 루프와 아날로그 테이프 질감의 사운드는 디지털 프로젝션 기술을 쓰면서도 손으로 만든 느낌을 잃지 않으려는 선택이다. 광고나 브랜드 영상이라면 이 리듬을 그대로 쓰긴 어렵지만, 레이어를 벗겨내듯 이미지를 겹치는 투사 기법과 '보는 각도마다 다른 조합이 드러나는' 공간 연출은 짧은 포맷에도 응용할 수 있는 단서를 준다."
+          }
+        ],
+        "keywords": [
+          "수피즘",
+          "이주",
+          "집단적 자아",
+          "비디오 설치",
+          "사운드스케이프"
+        ],
+        "sources": [
+          {
+            "label": "Creative Australia 보도자료",
+            "url": "https://creative.gov.au/news-events/news/australian-artist-khaled-sabsabi-reveals-details-presentations-australia-pavilion"
+          },
+          {
+            "label": "Hyperallergic 작가 인터뷰",
+            "url": "https://hyperallergic.com/khaled-sabsabis-art-of-collective-becoming"
+          },
+          {
+            "label": "La Biennale di Venezia 공식 페이지",
+            "url": "https://www.labiennale.org/en/art/2026/australia"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "파리드 웃딘 아타르, 새들의 회의",
+            "year": "12세기",
+            "relation": "일곱 골짜기를 건너는 새 떼의 우화에서 설치의 팔각형 구조와 완성의 서사를 가져왔다"
+          },
+          {
+            "name": "사브사비, 70,000 Veils",
+            "year": "2014",
+            "relation": "디지털 시대 종교와 영성을 다룬 10년 작업으로, 이번 설치의 레이어드 영상 기법의 토대가 됐다"
+          },
+          {
+            "name": "사브사비, khalil",
+            "year": "2026",
+            "relation": "같은 비엔날레 아르세날레관에서 동시에 선보인 자매작으로, 바깥의 자아와 안의 자아를 짝 지은 철학적 구조를 공유한다"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-16",
       "title": "구슬과 모래, 소금과 신경망 — 몸짓이 공간을 작동시키는 다섯 가지 방식",
       "summary": "애틀랜타의 나무 구슬부터 타이중의 초파리 신경망까지, 오늘의 다섯 작업은 모두 관람객의 몸짓 하나를 공간 전체를 움직이는 입력값으로 삼는다.",
@@ -14921,6 +15190,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-16T00:32:46.908Z",
+  "generatedAt": "2026-10-19T04:41:31.304Z",
   "schemaVersion": 2
 }
