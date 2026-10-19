@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-19T06:28:44.370Z",
+  "updatedAt": "2026-10-19T22:47:34.902Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -77,7 +77,8 @@
     "2026-10-12: 중동·아프리카 신규 항목은 이번 회차에 싣지 못함. Fak’ugesi가 10/13 개막하므로 다음 회차에서 실제 공개된 설치와 이미지부터 재탐색할 것.",
     "2026-10-13: Fak’ugesi 개막 회차에서 아프리카 신규 항목을 확보. 다음 회차는 동남·남아시아 또는 오세아니아 신규 소스를 우선하고, Fak’ugesi 현장 사진이 공개되면 10월 설치 배치와 노드 수를 재확인할 것.",
     "2026-10-14: Margi(마르기)는 시빅테크 플랫폼 성격이 강해 전통적 '미디어아트' 정의와의 경계 사례 — 향후 유사 Digital Humanity 부문 후보는 시각/공간적 체험 요소가 더 뚜렷한 작업을 우선할 것. 동남·남아시아 권역이 이번 호에 2건 겹쳐 다른 권역(오세아니아·중남미) 우선 조사가 다음 회차 과제.",
-    "2026-10-16: 오세아니아는 이번에도 신규 항목 미포함(Govett-Brewster 전시가 10/11 종료되어 현재진행형 기준 탈락) — ACMI Lifelike(11/20 개막) 개막 후 재탐색 필요."
+    "2026-10-16: 오세아니아는 이번에도 신규 항목 미포함(Govett-Brewster 전시가 10/11 종료되어 현재진행형 기준 탈락) — ACMI Lifelike(11/20 개막) 개막 후 재탐색 필요.",
+    "2026-10-20: 아프리카/오세아니아 공백 지속 — Zeitz MOCAA 'Turning Towards the Sun'(12/11 개막)과 ACMI 'Lifelike'(11/20 개막) 모두 개막 전. ZKM Silver Egg의 Thomas Feuerstein 잔여작(DIATOMA/PSXHE)은 2026년 신작이나 개별 메커니즘 설명이 부족해 보류 지속 — 작가 공식 사이트(thomasfeuerstein.net)에서 상세 설명을 찾으면 다음 회차 후보로 재검토할 것. MUTEK.AR(부에노스아이레스, 10/7~11)이 새로운 소스로 유효함을 확인 — 남은 기간 후보(Myriam Bleau 'Hypermobility'는 작가가 9/22 UNFOLD로 이미 사용돼 제외, Studio Lemercier 'Nebulae'/Qoa & Joaquina S. 'Niebla Intramundos' 등 돔 프로그램 잔여작) 다음 회차 검토 가능."
   ],
   "pipeline_health_log": [
     {
@@ -157,6 +158,10 @@
     {
       "date": "2026-10-19",
       "note": "Signals 주간 보충(사용자 요청으로 15:30 KST 수동 진행): 10-17·10-18 이틀은 데몬 오프라인으로 발행 공백, 그 결과 10-18 일요일 Signals 작업도 누락돼 오늘 대신 수행. 기존 6개 신호에 10-12~10-19 근거 12건 추가(regions 재계산: nonhuman-translators +아프리카·중동, mirror-substitute +중남미, interface-skin +오세아니아·중동). 새 신호 sig-suspended-swarm-instrument(매달린 사물의 군집이 방 전체를 악기로 만든다) 추가 — 6명 작가·6편·4개 권역(북미·중동·동남·남아시아·유럽). 한계: 아프리카·중남미·동아시아 사례 미확인."
+    },
+    {
+      "date": "2026-10-20",
+      "note": "정시 발행(07:00 KST 본 실행): 항목 4개(중동2·중남미1·동아시아1), 목표 5~8개 미달 — 아프리카·오세아니아·유럽에서 당일 검증 가능한 신작을 찾지 못함(아프리카: Fak'ugesi 소진, Zeitz MOCAA 12/11 개막 전; 오세아니아: ACMI Lifelike 11/20 개막 전; 유럽: ZKM Silver Egg 잔여 후보 Thomas Feuerstein DIATOMA/PSXHE는 2026년작 개별 메커니즘 설명 부족해 보류). 이미지 3/4 확보(실제 작품 사진 확인), Metaract 1건은 공동 상영작(Metaract+Iwakura) 사진들에 캡션이 없어 어느 쪽 스틸인지 특정 불가해 image:null 처리. Focus: Tarek Atoui — Hold(테이트모던 터빈홀, 중동/레바논). check-dedup FAIL 0. 새 소스 발굴: 베니스 비엔날레 카타르관(qm.org.qa, labiennale.org 대신 기관 공식 페이지 사용), 테이트모던 Hyundai Commission(tate.org.uk), MUTEK.AR 부에노스아이레스 2026(joaquinasalgado.com, manamisakamoto.com — 작가 개인 사이트로 host 분산)."
     }
   ],
   "source_notes": [

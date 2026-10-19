@@ -1,6 +1,235 @@
 {
   "issues": [
     {
+      "date": "2026-10-20",
+      "title": "뉴스 앵커의 탈주와 터빈홀의 숨소리 — 소리와 리듬으로 공간을 다시 짓는 법",
+      "summary": "카타르관의 허구 뉴스룸과 테이트모던 터빈홀의 악기 설치부터 부에노스아이레스의 침수된 비디오게임과 돔 영상까지, 소리와 몸의 리듬으로 공간과 기억을 재구성하는 네 작업을 모았다.",
+      "crosscurrent": {
+        "note": "살가도는 침수된 게임 속에서 잃어버린 사운드 조각을 찾아 기억을 복원하고, 사카모토·우라노는 자연의 질감과 디지털 파편을 겹쳐 실재와 가상의 경계를 흐린다 — 중남미와 동아시아에서 물과 자연이 디지털 기억의 매개가 되는 방식을 다르게 보여준다.",
+        "itemIds": [
+          "2026-10-20-03",
+          "2026-10-20-04"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-20-01",
+          "title": "다마르 TV",
+          "originalTitle": "DAMAR TV",
+          "creator": "Sophia Al-Maria",
+          "publishedAt": "2026-05-09",
+          "url": "https://qm.org.qa/en/calendar/untitled-2026/",
+          "host": "qm.org.qa",
+          "description": "카타르계 미국인 작가 소피아 알마리아가 베니스 비엔날레 카타르관 '모이는 사람들'(untitled 2026) 천막 안에서 상영하는 49분 31초 분량의 신작 영상이다. 해고된 가상의 뉴스 앵커가 음악과 소리의 힘으로 현실이 뒤틀리는 꿈결 같은 여정을 따라간다.",
+          "image": "images/2026-10-20-01.jpg",
+          "imageFallback": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-thethirdline/usr/library/images/main/news/111/still-from-damar-tv-by-sophia-al-maria-at-the-national-pavilion-of-qatar_1.jpg",
+          "insight": {
+            "mechanism": "뉴스 스튜디오 세트와 조명을 그대로 노출한 채, 앵커가 자리를 이탈하며 방송이라는 틀 자체가 흔들리는 과정을 보여준다.",
+            "whyNow": "리크릿 티라바닛이 설계한 '마즐리스' 형태 천막 파빌리온 안에서 영상·음악·요리가 공존하는 올해 처음 상설화된 카타르관의 개관작이다.",
+            "directorPoint": "앵커의 붉은 정장과 어두운 세트를 대비시키는 조명, 트래킹 마커가 그대로 보이는 바닥을 노출해 '방송'이라는 매체의 인공성을 전경화한다.",
+            "critique": "파빌리온 전체가 영상·음악·요리를 뒤섞은 '모이는 자리' 컨셉이라 영상 단독의 서사적 완결성은 상대적으로 약하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "권력·감시",
+              "언어·번역"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "카타르(미국)",
+            "region": "중동",
+            "venue": "베니스, 이탈리아"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-20-02",
+          "title": "홀드",
+          "originalTitle": "Hold",
+          "creator": "Tarek Atoui",
+          "publishedAt": "2026-10-13",
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui",
+          "host": "tate.org.uk",
+          "description": "레바논 출신 사운드 아티스트 타렉 아투이가 테이트모던 터빈홀 전체를 악기로 바꾼 설치로, 대나무 생황과 한국 북, 우즈벡 카르나이 나팔을 본뜬 3D프린트 관, 30미터에 달하는 발음 직물이 공간에 매달려 있다. 마이크가 공간의 소리를 실시간으로 채집해 작가가 만든 소프트웨어로 재가공한 뒤 다시 흘려보내 매 순간 다른 사운드스케이프를 만든다.",
+          "image": "images/2026-10-20-02.jpg",
+          "imageFallback": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate-HYUNDAI-2026_41.width-600.jpg",
+          "insight": {
+            "mechanism": "설치 곳곳의 마이크가 악기와 터빈홀 자체의 울림을 채집하면 커스텀 소프트웨어가 이를 재가공해 스피커로 되돌려보내는 순환 구조로 소리가 계속 변주된다.",
+            "whyNow": "11번째 현대미술관 연례 커미션을 시각이 아닌 소리로 채운 사례로, 2026년 10월 개막해 2027년 4월까지 이어지는 장기 설치이자 공연 시리즈다.",
+            "directorPoint": "관객이 바닥에 놓인 돌 위에 눕거나 앉아 진동을 몸으로 느끼게 하고, 대나무관·직물 등 재료별로 다른 발음 방식을 병치해 공간을 서로 다른 리듬의 악기군으로 나눈다.",
+            "critique": "상시 설치와 비정기 라이브 세션이 번갈아 진행되는 구조라, 연주자가 없는 시간대에는 설치의 '자동 연주'만 경험하게 되는 편차가 크다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "공간음향",
+              "센서·인터랙션",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "언어·번역"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": "레바논",
+            "region": "중동",
+            "venue": "런던, 영국"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-20-03",
+          "title": "노스탤지어는 확장된 피드백이다",
+          "originalTitle": "Nostalgia Is the Extended Feedback",
+          "creator": "Joaquina Salgado",
+          "publishedAt": "2026-10-09",
+          "url": "https://www.joaquinasalgado.com/nitef.html",
+          "host": "joaquinasalgado.com",
+          "description": "아르헨티나 출신으로 베를린에서 활동하는 미디어 아티스트 호아키나 살가도의 비디오게임 설치로, 관객은 조각된 바다생물 모양 트랙볼로 물에 잠긴 저해상도 세계를 돌아다니며 빛나는 알 속에 숨겨진 음악 조각을 찾는다. 부에노스아이레스 MUTEK.AR 기간 중 아트랩 갤러리에서 아이맥과 세워진 LCD 스크린으로 전시되고 있다.",
+          "image": "images/2026-10-20-03.jpg",
+          "imageFallback": "https://storage.ghost.io/c/25/84/2584b75d-4bd6-4cce-8259-f1d1c65abbb5/content/images/size/w1200/2026/10/nostalgia-is-the-extended-feedback-crt-station-wide.jpg",
+          "insight": {
+            "mechanism": "트랙볼 컨트롤러로 캐릭터를 조종해 침수된 지형을 가로지르면 빛나는 알들이 타티아나 호이만이 작곡한 사운드 루프를 하나씩 내어주고, 플레이어는 그것들을 모아 사운드트랙 전체를 완성한다.",
+            "whyNow": "2025년 12월 베를린 소마 아트에서 초연된 작업이 2026년 10월 MUTEK.AR 8회 축제 갤러리 프로그램으로 부에노스아이레스에 처음 상륙해 작가의 고국에서 첫 전시를 가졌다.",
+            "directorPoint": "물이 이동 속도를 늦추는 장치로 기능해 플레이어의 동선에 '지연과 반복'이라는 리듬을 강제하고, 저해상도 텍스처와 트랙볼이라는 구형 인터페이스로 초기 인터넷 미학을 환기한다.",
+            "critique": "수집형 사운드 루프 구조가 명확한 결말이나 목표 없이 분위기에 머무르도록 설계돼 있어, 전통적 게임 서사를 기대하는 관객에게는 더딘 체험일 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시각",
+              "촉각"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "아르헨티나(베를린 거주)",
+            "region": "중남미",
+            "venue": "부에노스아이레스, 아르헨티나"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-20-04",
+          "title": "메타랙트",
+          "originalTitle": "Metaract",
+          "creator": "Manami Sakamoto, Yuri Urano",
+          "publishedAt": "2026-10-11",
+          "url": "https://www.manamisakamoto.com/satmontreal-metaract",
+          "host": "manamisakamoto.com",
+          "description": "도쿄의 비주얼 아티스트 사카모토 마나미와 오사카의 사운드 아티스트 우라노 유리가 몬트리올 SAT 레지던시에서 공동 제작한 풀돔 몰입 영상으로, 자연에서 채집한 질감·색채·소리와 3DCG로 만든 디지털 파편을 겹쳐 아날로그와 디지털의 이중성을 탐구한다. 2023년 몬트리올 초연 이후 10여 개 도시를 순회했고, 10월 11일 부에노스아이레스 MUTEK.AR의 플라네타리오 돔 프로그램에서 다시 상영된다.",
+          "image": null,
+          "imageFallback": "https://static.wixstatic.com/media/5e8dfe_a2b39e6325af4eb592297c567c997173~mv2.jpg/v1/crop/x_0,y_927,w_4480,h_4867/fill/w_996,h_1082,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SAT%20x%20Mutek%20-%20Metaract%20%2B%20Iwakur%20-%2023-08-22%20%20-%20Ash%20KG%20(subtletherapy_com)-8.jpg",
+          "insight": {
+            "mechanism": "실제 자연 환경을 촬영한 질감과 사운드에 3DCG로 생성한 디지털 파편을 겹겹이 중첩시켜, 기계만으로는 만들 수 없는 실재와 가상의 혼합 서사를 돔 천장 전체에 펼친다.",
+            "whyNow": "2023년 몬트리올 SAT에서 초연된 이 작품이 3년째 순회를 이어가며 10월 11일 부에노스아이레스에서 처음으로 남미 관객을 만난다.",
+            "directorPoint": "360도 돔 스크린의 천장 전체를 활용해 관객이 눕거나 기대어 위를 올려다보게 만들고, 자연 질감과 인공 패턴을 교차시켜 시선이 쉴 곳을 주지 않는다.",
+            "critique": "2023년작이 꾸준히 재상영되는 순회작이라 '최신작'이라기보다 과거작에 가까워, 도시마다 다른 돔 사양에 따라 체험 품질이 달라질 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "공간음향",
+              "프로젝션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "인간-기계 관계"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "일본",
+            "region": "동아시아",
+            "venue": "부에노스아이레스, 아르헨티나"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 1,
+        "headline": "터빈홀을 숨 쉬는 악기로 바꾸는 순환하는 사운드 설치",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "테이트모던 터빈홀은 2000년 개관 이래 거대한 규모의 시각적 설치로 채워져 온 공간이다. 11번째 현대미술관 연례 커미션을 맡은 타렉 아투이는 이 거대한 홀을 '보는' 대신 '듣고 느끼는' 공간으로 뒤집는다. 대나무 생황과 우즈벡 카르나이 나팔, 한국 북, 3D프린트 관악기가 천장에 매달려 몸을 움직이지 않고도 소리의 지형을 바꾼다. 레바논에서 태어나 파리에서 활동해 온 작가는 20여 년간 악기 발명과 청각 장애 공동체와의 협업을 통해 '듣는다는 것'의 경계를 넓혀 왔고, 이번 설치는 그 연구를 미술관 최대 규모 공간에 처음으로 펼친 사례다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "설치 곳곳에 심어진 마이크가 악기 소리와 터빈홀 건축 자체의 울림을 실시간으로 채집한다. 작가가 직접 만든 소프트웨어가 이 소리를 재가공해 다시 공간으로 흘려보내므로, 같은 공간을 방문해도 매번 다른 사운드스케이프를 듣게 된다. 바닥에 놓인 돌에는 스피커가 내장돼 있어 관객이 몸을 기대면 진동을 직접 느낄 수 있고, 이세이 미야케와 협업해 만든 전도성 그래파이트 도료 직물은 바람에 흔들리며 스스로 소리를 낸다. 전통 악기의 발음 원리와 전자 기술이 뒤섞여, 조각과 음향 장비의 경계가 모호해진다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "아투이는 2012년 샤르자에서 청각 장애 학생들과 함께 시작한 'WITHIN' 프로젝트에서, 촉각과 진동으로 소리를 느끼는 악기를 만들어 왔다. 2017년부터 이어 온 'The Ground'에서는 각 악기가 독자적으로 울리다가도 연주자가 개입하면 함께 변주되는 구조를 실험했다. 이번 'Hold' 역시 40여 명의 음악가가 6개월 동안 돌아가며 설치를 연주하는 세션을 통해, 고정된 작곡이 아니라 계속 변화하는 작업으로 남는다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "관객이 바닥의 돌 위에 눕거나 앉아 진동을 몸으로 느끼게 하는 연출은, 카메라가 아니라 신체가 '듣는' 지점을 설계하는 방식이다. 대나무관·직물·타악기처럼 재료마다 다른 발음 방식을 공간에 병치해, 한 공간 안에서 서로 다른 리듬의 악기군이 동시에 울리게 만든다. 연주자가 없는 시간대에는 설치가 채집한 소리를 스스로 재생하는 '자동 연주' 상태가 되므로, 사람이 있고 없음이 공간의 밀도를 결정하는 연출 변수로 작동한다."
+          }
+        ],
+        "keywords": [
+          "사운드 설치",
+          "터빈홀",
+          "청각 장애 협업",
+          "순환 사운드",
+          "악기 발명"
+        ],
+        "sources": [
+          {
+            "label": "Tate Modern — Hyundai Commission: Tarek Atoui",
+            "url": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui"
+          },
+          {
+            "label": "designboom — Tarek Atoui transforms Tate Modern's Turbine Hall",
+            "url": "https://www.designboom.com/art/tarek-atoui-tate-modern-turbine-hall-giant-experimental-orchestra-installation-hyundai-commission"
+          },
+          {
+            "label": "ZKM — Tarek Atoui, WITHIN (2012– )",
+            "url": "https://zkm.de/en/tarek-atoui"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "WITHIN",
+            "year": "2012",
+            "relation": "청각 장애 공동체와 촉각·진동 중심 악기를 만든 아투이 자신의 초기 프로젝트"
+          },
+          {
+            "name": "The Ground",
+            "year": "2017",
+            "relation": "악기군이 독자적으로 울리다 연주자 개입으로 변주되는 구조를 먼저 실험한 작가의 선행작"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-19",
       "title": "회의하는 자아, 멈춘 몸, 되돌려주는 카메라 — 몸과 땅을 다시 읽는 다섯 가지 방식",
       "summary": "베니스 비엔날레의 두 국가관과 토리노·카를스루에·방글라데시를 가로질러, 신체와 장소를 감시가 아니라 응답의 언어로 되돌리는 작업들을 모았다.",
@@ -15190,6 +15419,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-19T04:41:31.304Z",
+  "generatedAt": "2026-10-19T22:47:14.905Z",
   "schemaVersion": 2
 }
