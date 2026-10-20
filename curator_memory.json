@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-20T04:18:22Z",
+  "updatedAt": "2026-10-20T20:10:24Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -166,6 +166,10 @@
     {
       "date": "2026-10-20",
       "note": "발행 보완: 동시 발행자의 기존 4개 항목·Focus·crosscurrent와 과거 컬렉션을 보존하고, 후보 검사에 통과한 Ancestors(핀란드/유럽)와 Uprooted(남아공/아프리카)를 05·06으로 추가하여 6개·5권역으로 보완. Metaract의 공동상영 사진 식별 문제는 SAT의 La Nuit des idées de Montréal 2026 페이지에서 Metaract(Manami Sakamoto and Yuri Urano)라는 개별 제목 바로 위의 공식 사진을 대조해 해결. image 6/6 self-host, 사진 Ash KG 출처 표기. 10월11일 상영을 미래형으로 쓴 문장을 과거형으로 수정. 새 호 중복 생성이나 기존 Focus 교체 없음. 후보 검사/날짜별 최종 gate FAIL 0 확인 후 SHA 조건부 커밋."
+    },
+    {
+      "date": "2026-10-21",
+      "note": "Latest 6개·5권역(동아시아2/유럽1/북미1/오세아니아1/동남·남아시아1), Focus: Ho Rui An의 A Petropolis in a Garden with a Long View. 공식 ICC·IDFA·Govett-Brewster·작가/갤러리·미술관 자료를 대조했다. IDFA 두 작품은 11월 공개 예정임을 명시하고 현장 체험을 주장하지 않았다. Ho 작품의 2024 기원과 2026 재전시를 구분. 공식 작품 사진/스틸 6장을 실제 확인하고 자체 호스팅. Harrison의 사진은 오른쪽 영상과 왼쪽 별도 사진 작품을 설명에 구분. 사진 크레딧과 원본 URL 보존; 권리는 작가·사진가·기관에 있으며 라이선스 소유를 주장하지 않는 작품 소개용 프리뷰. 후보 검사 FAIL 0; 날짜별 검사 및 SHA lease 후 발행."
     }
   ],
   "source_notes": [

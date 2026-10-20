@@ -1,6 +1,318 @@
 {
   "issues": [
     {
+      "date": "2026-10-21",
+      "title": "빛이 목소리를 운반하고, 정원이 산업을 숨길 때",
+      "summary": "레이저 통신으로 다시 듣는 저항의 기록, 날지 않는 기계, 지워진 인물을 잇는 VR 오페라와 이누이트의 가상 공화국, 정유시설 이후의 기억과 식물로 채운 기업 사무실. 다섯 권역의 여섯 작업에서 이미지가 기억과 권력을 전달하거나 가리는 방식을 읽는다. IDFA 두 작품은 11월 공개 예정작이며 나머지는 현재 전시 맥락을 확인했다.",
+      "crosscurrent": {
+        "note": "뉴질랜드의 마스든포인트를 바라보는 해리슨과 싱가포르의 석유기업 사무실을 재구성한 호루이안은, 산업시설의 바깥 풍경과 관리실의 안쪽 풍경을 마주 놓는다. 전자는 산업이 떠난 뒤의 책임을, 후자는 친환경 이미지 뒤에서 계속되는 공급망을 질문한다.",
+        "itemIds": [
+          "2026-10-21-05",
+          "2026-10-21-06"
+        ]
+      },
+      "items": [
+        {
+          "title": "저항의 배열",
+          "originalTitle": "Resistance Array",
+          "creator": "suzueri (Suzuki Elico) · Higa Satoru",
+          "publishedAt": "2026-06-20",
+          "url": "https://www.ntticc.or.jp/en/archive/works/resistance-array/",
+          "host": "www.ntticc.or.jp",
+          "description": "2019년 홍콩·칠레의 레이저 시위 관련 SNS 게시물을 기계학습으로 연결하고, 그 지도를 빛과 소리로 다시 읽는 2026년 설치다. ICC 연례전에서 11월 8일까지 소개한다. 이미지는 ICC가 공개한 작품 참고 사진이며 사진가는 Masanobu Nishino다.",
+          "insight": {
+            "mechanism": "레이저가 투사된 게시물의 점을 따라가다 벽의 자작 수신기에 닿으면, 빛에 실린 홍콩 시위의 녹음이 소리로 변환된다. 연결선은 장식이 아니라 통신 경로다.",
+            "whyNow": "플랫폼에서 빠르게 소모되는 정치적 이미지의 이동을 물리적 전달 장치로 되돌려, 국경을 건넌 연대를 다시 듣게 한다.",
+            "directorPoint": "이미지와 소리를 동시에 재생하기보다, 빛이 특정 위치에 도착해야 목소리가 열리는 조건부 동기화가 핵심이다. 이는 공식 장치 설명에서 읽은 구성 원리다.",
+            "critique": "SNS 게시물의 연결성이 실제 운동의 관계를 온전히 대표하는 것은 아니다. 기계학습의 분류 기준과 기록되지 않은 목소리는 별도로 질문해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "데이터·시각화",
+              "머신러닝·비전"
+            ],
+            "theme": [
+              "권력·감시",
+              "도시·공동체",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "일본(도쿄, suzueri)",
+            "region": "동아시아",
+            "venue": "도쿄 NTT ICC, 일본"
+          },
+          "id": "2026-10-21-01",
+          "image": "images/2026-10-21-01.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/007/bec29.7986.large.jpg",
+          "grounded": true
+        },
+        {
+          "title": "다른 비행 혹은 추락을 위한 장치",
+          "originalTitle": "Tsūchūtai, Teitōki (For Alternative Flight or Fall)",
+          "creator": "Kobayashi Muku",
+          "publishedAt": "2026-06-20",
+          "url": "https://www.ntticc.or.jp/en/archive/works/tsuchutai-teitoki-for-alternative-flight-or-fall/",
+          "host": "www.ntticc.or.jp",
+          "description": "실제로 날지 않는 비행기를 둘러싼 문학과 시뮬레이터의 역사를, 느리게 움직이는 신체 지지 장치로 엮은 2026년 작업이다. 현재 ICC에서 전시 중이며 10월 24일 작가 대담이 예정돼 있다. 작품 사진: TOMITA Ryohei / ICC.",
+          "insight": {
+            "mechanism": "엎드린 자세와 몸의 변화에 관계하는 기계를 직접 제작했다. 비행 모형에 매료된 이나가키 다루호와, 땅을 떠나지 않고 계기 비행을 훈련하는 Link Trainer가 두 출발점이다.",
+            "whyNow": "몰입을 사실적인 풍경의 재현으로만 설명하지 않고, 목적과 몸의 감각이 어긋나는 장치의 역사로 돌아가게 한다.",
+            "directorPoint": "공식 사진과 설명에서 읽히는 핵심은 이동 거리보다 자세의 변형이다. 목적지를 보여주지 않는 기계가 비행과 추락을 함께 상상하게 한다.",
+            "critique": "공개 설명만으로 모든 관객의 탑승 가능 여부나 실제 체감 강도를 확정할 수 없다. 참여 방식과 접근성은 현장 안내를 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "신체·정체성"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "일본",
+            "region": "동아시아",
+            "venue": "도쿄 NTT ICC, 일본"
+          },
+          "id": "2026-10-21-02",
+          "image": "images/2026-10-21-02.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/008/008ea.8058.large.jpg",
+          "grounded": true
+        },
+        {
+          "title": "보이지 않는 여성 VR",
+          "originalTitle": "The Invisible Woman VR",
+          "creator": "Tamara Shogaolu",
+          "publishedAt": "2026",
+          "url": "https://festival.idfa.nl/en/film/3a9e822c-3d5e-4e60-82fe-8b09dc162d28/the-invisible-woman-vr/",
+          "host": "festival.idfa.nl",
+          "description": "현재의 흑인 여성 기자 Idil과 17세기 암스테르담의 Francisca de Angola를 연결하는 35분 인터랙티브 VR 오페라다. IDFA DocLab의 11월 13–22일 프로그램에 공개 예정인 작품으로, 현장 체험 리뷰가 아닌 공식 발표와 스틸을 바탕으로 소개한다. 스틸: IDFA / Ado Ato Pictures.",
+          "insight": {
+            "mechanism": "애니메이션 공간과 오페라의 목소리를 통해, 물리적 문서에 왜곡되거나 희미하게 남은 인물이 현재의 인물과 만나도록 구성한다.",
+            "whyNow": "기록을 더 선명한 이미지로 복원하는 데서 멈추지 않고, 누가 기록할 권한을 가졌는지를 목소리와 참여의 문제로 바꾼다.",
+            "directorPoint": "서로 다른 시대를 연대기적 설명 대신 두 목소리의 만남으로 잇는 점이 주목된다. 인터랙션의 세부 조작은 아직 공식 소개만으로 단정하지 않는다.",
+            "critique": "지워진 역사를 재구성하는 감정적 설득력과 사료의 확실성은 구분해야 한다. 상상의 장면이 역사적 증거를 대신하는 것으로 읽히지 않게 할 필요가 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "XR·AR·VR"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "신체·정체성",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "네덜란드·미국",
+            "region": "유럽",
+            "venue": "암스테르담 IDFA DocLab, 네덜란드(11월 공개 예정)"
+          },
+          "id": "2026-10-21-03",
+          "image": "images/2026-10-21-03.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/a7483a55-9e60-41e6-bcdc-1996eed48b76/2500.jpeg",
+          "grounded": true
+        },
+        {
+          "title": "타르투팔루크",
+          "originalTitle": "Tartupaluk",
+          "creator": "Laakkuluk Williamson",
+          "publishedAt": "2026",
+          "url": "https://festival.idfa.nl/en/film/71887f38-ce3d-40b6-a9b4-d8d1f816421e/tartupaluk/",
+          "host": "festival.idfa.nl",
+          "description": "캐나다와 그린란드 사이의 실제 작은 섬에 가상의 '연인들의 공화국'을 세우는 31분 인터랙티브 VR이다. 360도 실사와 애니메이션을 결합하며, 2026년 완성 버전이 11월 IDFA에서 국제 프리미어로 소개될 예정이다. 이미지: IDFA 공식 작품 스틸.",
+          "insight": {
+            "mechanism": "두 영적 안내자가 되풀이해 나타나 선택을 요청한다. 관객은 북극을 멀리서 보는 관광객이 아니라, 이누이트의 세계 안에서 자기 위치를 묻는 방문자로 설정된다.",
+            "whyNow": "국가가 소유권을 주장하는 지도를 사랑과 접속의 허구 국가로 바꾸는 작업이다. 2023년 프로토타입과 올해 31분 버전을 구분해 읽어야 한다.",
+            "directorPoint": "지역 문화를 배경 장식으로 소비하지 않고, 누가 안내하고 누가 선택을 요구하는지에 정치적 시점을 심는다. 이는 공식 구성 설명에 근거한 독해다.",
+            "critique": "선택지가 있다는 사실만으로 관객의 실질적 결정권이 보장되지는 않는다. 분기의 범위와 이누이트 언어가 전달되는 방식은 체험 후 검증할 질문이다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "도시·공동체",
+              "권력·감시",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "이칼루이트, 캐나다",
+            "region": "북미",
+            "venue": "암스테르담 IDFA DocLab, 네덜란드(11월 공개 예정)"
+          },
+          "id": "2026-10-21-04",
+          "image": "images/2026-10-21-04.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/9f3a2acb-b982-4aa2-ba1e-235715e74452/2500.jpeg",
+          "grounded": true
+        },
+        {
+          "title": "너무 큰 빚",
+          "originalTitle": "A Debt so Large",
+          "creator": "Ngahuia Harrison",
+          "publishedAt": "2026-08-08",
+          "url": "https://govettbrewster.com/exhibitions/2026/economies-of-deferral",
+          "host": "govettbrewster.com",
+          "description": "정유시설 가동이 2022년 끝난 마스든포인트와 그 주변의 기억을 살피는 해리슨의 신작군 중 16분 HD 영상이다. 뉴질랜드의 'Economies of Deferral'에서 11월 15일까지 전시한다. 설치 사진 오른쪽이 해당 영상이며 왼쪽은 별도 사진 연작이다. 사진: Samuel Hartnett, Courtesy of the artist.",
+          "insight": {
+            "mechanism": "현장의 시간 기반 영상과 주변의 사진·기록을 병치해, 산업이 물러간 뒤에도 남는 경제적 의존과 생태적 손상을 같은 장소의 문제로 묶는다.",
+            "whyNow": "전환이 완료됐다는 선언과 그곳에 사는 사람들의 미해결된 기억 사이의 시차를 다룬다. 산업의 퇴장이 곧 회복은 아니라는 질문이다.",
+            "directorPoint": "공식 설치 사진에서는 해안 풍경이 독립된 스크린을 차지한다. 물을 배경이 아닌 권리와 기억이 교차하는 현장으로 읽는 방식이 중요하다.",
+            "critique": "현재 공개된 작품별 설명은 제한적이다. 인터뷰 구성이나 촬영 기술을 추정하지 않으며, 본문은 확인된 매체 정보와 신작군의 전시 맥락에 한정한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "노동·산업",
+              "기후·환경",
+              "기억·아카이브"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "뉴질랜드",
+            "region": "오세아니아",
+            "venue": "뉴플리머스 Govett-Brewster Art Gallery, 뉴질랜드"
+          },
+          "id": "2026-10-21-05",
+          "image": "images/2026-10-21-05.jpg",
+          "imageFallback": "https://govettbrewster.com/media/rumekyoi/_dsf1736web.jpg",
+          "grounded": true
+        },
+        {
+          "title": "긴 전망을 가진 정원 속 석유도시",
+          "originalTitle": "A Petropolis in a Garden with a Long View",
+          "creator": "Ho Rui An",
+          "publishedAt": "2024",
+          "url": "https://horuian.com/a-petropolis-in-a-garden-with-a-long-view/",
+          "host": "horuian.com",
+          "description": "식물로 채운 석유기업 임원의 사무실을 통해 싱가포르의 '정원도시' 이미지와 석유 경제를 겹쳐 보는 영상 설치다. 2024년에 시작돼 2026년 뉴질랜드 전시로 이어진 작업이며, 올해 처음 만들어진 신작으로 소개하지 않는다. 현 전시의 설치 세부 사진: Samuel Hartnett, Courtesy of the artist / Govett-Brewster.",
+          "insight": {
+            "mechanism": "영상, 사무 가구, 상패와 책, 화분을 한 환경에 배열한다. 식물의 친환경 이미지가 정제·저장·유통 산업을 둘러싼 보이지 않는 구조와 맞부딪친다.",
+            "whyNow": "현재 뉴질랜드 전시가 자국 에너지 산업의 변화와 싱가포르의 연료 공급망을 함께 다루면서, 한 도시의 이미지가 다른 지역의 생활 조건과 연결된다.",
+            "directorPoint": "정유공장만 직접 보여주는 대신, 산업의 미래를 상상하고 관리하는 사무실을 장면의 중심으로 놓는다. 세트의 소품이 설명의 근거가 되는 구성이다.",
+            "critique": "풍성한 식물이 비판의 대상인 기업 이미지를 오히려 매력적으로 만들 위험이 있다. 영상과 문서의 맥락을 읽지 않으면 그린 인테리어로 소비될 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "노동·산업",
+              "기후·환경",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "싱가포르",
+            "region": "동남·남아시아",
+            "venue": "뉴플리머스 Govett-Brewster Art Gallery, 뉴질랜드"
+          },
+          "id": "2026-10-21-06",
+          "image": "images/2026-10-21-06.jpg",
+          "imageFallback": "https://govettbrewster.com/media/5n4ousff/_dsf1849web.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 5,
+        "headline": "공장이 아니라 사무실을 보여주며 석유 경제를 읽게 하는 법",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "이 작업은 2024년에 시작됐고, 2026년 현재 Govett-Brewster의 'Economies of Deferral'에서 새 맥락을 얻는다. 같은 전시는 뉴질랜드 산업의 발전과 철수, 미뤄진 전환을 살핀다. 싱가포르에 기반을 둔 작가의 사무실은 먼 나라의 기업 이미지가 아니라, 지역을 건너 연결되는 에너지 공급망의 한 장면으로 읽힌다. 여기서 '지금'은 제작 연도를 새로 붙이는 일이 아니라, 기존 작업과 현재 장소의 관계를 확인하는 일이다."
+          },
+          {
+            "heading": "어떻게 작동하는가",
+            "body": "작가가 제시하는 환경은 식물을 주제로 꾸민 석유기업 임원의 사무실이다. 영상과 책, 상패, 가구와 화분이 하나의 장면을 이룬다. 싱가포르의 녹화된 도시 이미지를 석유의 정제·저장·유통과 같은 화면 안에서 읽게 한다. 공장의 물리적 규모 대신 관리와 예측이 수행되는 실내를 선택한 것이 중요하다. 인물의 설명을 듣기 전부터 소품의 배치가 어떤 지식을 권위로 보이게 하는지 묻게 된다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "Vanguard Gallery는 작가의 'scenographies'를 기업과 군사 전략에서 발전한 시나리오 플래닝을 비판적으로 뒤집는 장면 구성으로 설명한다. 'Solar: A Meltdown'(2014–17)의 열대 실내와 수동식 선풍기에서 식민주의와 쾌적함을 연결했다면, 이번 사무실은 녹색 경관과 산업적 예측을 결합한다. 싱가포르미술관의 2026년 해설은 작가가 영상과 사물로 노동·자본·이데올로기의 관계를 추적해 왔음을 보여준다. 이 계보는 본 작업을 친환경 장식에 대한 풍자로만 축소하지 않게 한다."
+          },
+          {
+            "heading": "디렉터의 독해와 남는 질문",
+            "body": "공식 설치 사진에서는 화면 속 정유시설이 화분과 나무 무늬 벽면 사이에 놓인다. 산업을 고발하는 영상과 편안한 실내의 시각 언어가 분리되지 않는다는 점이 긴장이다. 이는 현장 체험의 보고가 아니라 공개 사진과 작품 설명을 대조한 독해다. 소품을 많이 놓는 것보다 각 사물과 산업의 관계를 추적할 수 있게 하는 밀도가 중요하다. 다만 관객이 그 맥락을 건너뛰면 비판의 장면이 기업의 세련된 자기 이미지로 다시 소비될 수도 있다."
+          }
+        ],
+        "keywords": [
+          "석유 경제",
+          "정원도시",
+          "영상 설치",
+          "시노그래피",
+          "시나리오 플래닝"
+        ],
+        "sources": [
+          {
+            "label": "Ho Rui An — 공식 작품 설명",
+            "url": "https://horuian.com/a-petropolis-in-a-garden-with-a-long-view/"
+          },
+          {
+            "label": "Govett-Brewster — Economies of Deferral, 현재 전시와 설치 사진",
+            "url": "https://govettbrewster.com/exhibitions/2026/economies-of-deferral"
+          },
+          {
+            "label": "Vanguard Gallery — Scenographies, 2025",
+            "url": "https://www.vanguardgallery.com/archive_exhibitions/scenographies/"
+          },
+          {
+            "label": "Singapore Art Museum — The Economy Enters the People, 2026 해설",
+            "url": "https://singaporeartmuseum.sg/about/our-collection/stories/the-economy-enters-the-people"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Solar: A Meltdown",
+            "year": "2014–17",
+            "relation": "열대 실내와 식민지 선풍기로 기후·쾌적함의 정치성을 드러낸 작가 자신의 선행작"
+          },
+          {
+            "name": "Scenographies",
+            "year": "2025",
+            "relation": "장면과 소품을 통해 풍경을 조직하는 권력을 추적한 개인전의 개념적 맥락"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-20",
       "title": "뉴스 앵커의 탈주와 터빈홀의 숨소리 — 소리와 리듬으로 공간을 다시 짓는 법",
       "summary": "카타르관의 허구 뉴스룸과 테이트모던 터빈홀의 악기 설치부터 부에노스아이레스의 침수된 비디오게임과 돔 영상까지, 소리와 몸의 리듬으로 공간과 기억을 재구성하는 여섯 작업을 모았다. 가상 후손을 만드는 Ancestors와 식물의 시점을 따르는 Uprooted를 더해 기억과 생태의 관점으로 범위를 넓혔다.",
