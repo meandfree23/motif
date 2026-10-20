@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-19T22:47:34.902Z",
+  "updatedAt": "2026-10-20T04:18:22Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -162,6 +162,10 @@
     {
       "date": "2026-10-20",
       "note": "정시 발행(07:00 KST 본 실행): 항목 4개(중동2·중남미1·동아시아1), 목표 5~8개 미달 — 아프리카·오세아니아·유럽에서 당일 검증 가능한 신작을 찾지 못함(아프리카: Fak'ugesi 소진, Zeitz MOCAA 12/11 개막 전; 오세아니아: ACMI Lifelike 11/20 개막 전; 유럽: ZKM Silver Egg 잔여 후보 Thomas Feuerstein DIATOMA/PSXHE는 2026년작 개별 메커니즘 설명 부족해 보류). 이미지 3/4 확보(실제 작품 사진 확인), Metaract 1건은 공동 상영작(Metaract+Iwakura) 사진들에 캡션이 없어 어느 쪽 스틸인지 특정 불가해 image:null 처리. Focus: Tarek Atoui — Hold(테이트모던 터빈홀, 중동/레바논). check-dedup FAIL 0. 새 소스 발굴: 베니스 비엔날레 카타르관(qm.org.qa, labiennale.org 대신 기관 공식 페이지 사용), 테이트모던 Hyundai Commission(tate.org.uk), MUTEK.AR 부에노스아이레스 2026(joaquinasalgado.com, manamisakamoto.com — 작가 개인 사이트로 host 분산)."
+    },
+    {
+      "date": "2026-10-20",
+      "note": "발행 보완: 동시 발행자의 기존 4개 항목·Focus·crosscurrent와 과거 컬렉션을 보존하고, 후보 검사에 통과한 Ancestors(핀란드/유럽)와 Uprooted(남아공/아프리카)를 05·06으로 추가하여 6개·5권역으로 보완. Metaract의 공동상영 사진 식별 문제는 SAT의 La Nuit des idées de Montréal 2026 페이지에서 Metaract(Manami Sakamoto and Yuri Urano)라는 개별 제목 바로 위의 공식 사진을 대조해 해결. image 6/6 self-host, 사진 Ash KG 출처 표기. 10월11일 상영을 미래형으로 쓴 문장을 과거형으로 수정. 새 호 중복 생성이나 기존 Focus 교체 없음. 후보 검사/날짜별 최종 gate FAIL 0 확인 후 SHA 조건부 커밋."
     }
   ],
   "source_notes": [
@@ -208,6 +212,10 @@
     {
       "date": "2026-10-13",
       "note": "Wits figshare Open Data는 Echoes of the Machine 설치 사진 원본과 CC BY 4.0 기록을 제공하며 api.figshare.com/v2/articles/32314596에서 파일 목록을 확인할 수 있음. MoMA UUmwelt 페이지는 브라우저에서 설치 이미지별 고해상도 URL을 제공. Museum de Fundatie의 Digital by Nature 페이지는 2026 즈볼러 순회 일정과 Meta-Nature AI 공식 갤러리 이미지를 함께 제공."
+    },
+    {
+      "date": "2026-10-20",
+      "note": "Metaract 이미지 근거: https://sat.qc.ca/en/events/la-nuit-des-idees-de-montreal-2026/ 의 Immersive short films 섹션에서 개별 Metaract 제목에 붙은 https://ressources.sat.qc.ca/uploads/2026/08/sat-x-mutek-metaract-iwakur-23-08-22-ash-kg-subtletherapy-com-18-1024x683.jpg 를 확인. 단순히 공동상영 파일명만으로 추측하지 않았으며, 촬영자 Ash KG 명시. Ancestors는 FILE 공식 작품 자료와 Tampere Art Museum/작가 공식 설명, Uprooted는 IDFA 공식 작품·스틸과 Electric South 공식 제작 자료로 확인했다. Uprooted는 11월 초연 예정임을 명시하며 실제 관람평으로 쓰지 않았다. 이미지 저작권은 원 권리자에게 있으며 편집용 작품 소개에 출처를 보존한다."
     }
   ],
   "dedup_policy": {

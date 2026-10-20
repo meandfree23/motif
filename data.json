@@ -3,7 +3,7 @@
     {
       "date": "2026-10-20",
       "title": "뉴스 앵커의 탈주와 터빈홀의 숨소리 — 소리와 리듬으로 공간을 다시 짓는 법",
-      "summary": "카타르관의 허구 뉴스룸과 테이트모던 터빈홀의 악기 설치부터 부에노스아이레스의 침수된 비디오게임과 돔 영상까지, 소리와 몸의 리듬으로 공간과 기억을 재구성하는 네 작업을 모았다.",
+      "summary": "카타르관의 허구 뉴스룸과 테이트모던 터빈홀의 악기 설치부터 부에노스아이레스의 침수된 비디오게임과 돔 영상까지, 소리와 몸의 리듬으로 공간과 기억을 재구성하는 여섯 작업을 모았다. 가상 후손을 만드는 Ancestors와 식물의 시점을 따르는 Uprooted를 더해 기억과 생태의 관점으로 범위를 넓혔다.",
       "crosscurrent": {
         "note": "살가도는 침수된 게임 속에서 잃어버린 사운드 조각을 찾아 기억을 복원하고, 사카모토·우라노는 자연의 질감과 디지털 파편을 겹쳐 실재와 가상의 경계를 흐린다 — 중남미와 동아시아에서 물과 자연이 디지털 기억의 매개가 되는 방식을 다르게 보여준다.",
         "itemIds": [
@@ -139,12 +139,12 @@
           "publishedAt": "2026-10-11",
           "url": "https://www.manamisakamoto.com/satmontreal-metaract",
           "host": "manamisakamoto.com",
-          "description": "도쿄의 비주얼 아티스트 사카모토 마나미와 오사카의 사운드 아티스트 우라노 유리가 몬트리올 SAT 레지던시에서 공동 제작한 풀돔 몰입 영상으로, 자연에서 채집한 질감·색채·소리와 3DCG로 만든 디지털 파편을 겹쳐 아날로그와 디지털의 이중성을 탐구한다. 2023년 몬트리올 초연 이후 10여 개 도시를 순회했고, 10월 11일 부에노스아이레스 MUTEK.AR의 플라네타리오 돔 프로그램에서 다시 상영된다.",
-          "image": null,
-          "imageFallback": "https://static.wixstatic.com/media/5e8dfe_a2b39e6325af4eb592297c567c997173~mv2.jpg/v1/crop/x_0,y_927,w_4480,h_4867/fill/w_996,h_1082,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SAT%20x%20Mutek%20-%20Metaract%20%2B%20Iwakur%20-%2023-08-22%20%20-%20Ash%20KG%20(subtletherapy_com)-8.jpg",
+          "description": "도쿄의 비주얼 아티스트 사카모토 마나미와 오사카의 사운드 아티스트 우라노 유리가 몬트리올 SAT 레지던시에서 공동 제작한 풀돔 몰입 영상으로, 자연에서 채집한 질감·색채·소리와 3DCG로 만든 디지털 파편을 겹쳐 아날로그와 디지털의 이중성을 탐구한다. 2023년 몬트리올 초연 이후 10여 개 도시를 순회했고, 10월 11일 부에노스아이레스 MUTEK.AR의 플라네타리오 돔 프로그램에서 다시 상영됐다. 사진: Ash KG, SAT 공식 Metaract 소개 자료.",
+          "image": "images/2026-10-20-04.jpg",
+          "imageFallback": "https://ressources.sat.qc.ca/uploads/2026/08/sat-x-mutek-metaract-iwakur-23-08-22-ash-kg-subtletherapy-com-18-1024x683.jpg",
           "insight": {
             "mechanism": "실제 자연 환경을 촬영한 질감과 사운드에 3DCG로 생성한 디지털 파편을 겹겹이 중첩시켜, 기계만으로는 만들 수 없는 실재와 가상의 혼합 서사를 돔 천장 전체에 펼친다.",
-            "whyNow": "2023년 몬트리올 SAT에서 초연된 이 작품이 3년째 순회를 이어가며 10월 11일 부에노스아이레스에서 처음으로 남미 관객을 만난다.",
+            "whyNow": "2023년 몬트리올 SAT에서 초연된 이 작품이 3년째 순회를 이어가며 10월 11일 부에노스아이레스에서 처음으로 남미 관객을 만났다.",
             "directorPoint": "360도 돔 스크린의 천장 전체를 활용해 관객이 눕거나 기대어 위를 올려다보게 만들고, 자연 질감과 인공 패턴을 교차시켜 시선이 쉴 곳을 주지 않는다.",
             "critique": "2023년작이 꾸준히 재상영되는 순회작이라 '최신작'이라기보다 과거작에 가까워, 도시마다 다른 돔 사양에 따라 체험 품질이 달라질 수 있다."
           },
@@ -170,6 +170,89 @@
             "region": "동아시아",
             "venue": "부에노스아이레스, 아르헨티나"
           },
+          "grounded": true
+        },
+        {
+          "title": "조상들",
+          "originalTitle": "Ancestors",
+          "creator": "Hanna Haaslahti",
+          "publishedAt": "2025-09-27",
+          "url": "https://file.org.br/installations_2026/hanna-haaslahti-ancestors-finlandia/",
+          "host": "file.org.br",
+          "description": "관객의 디지털 분신이 다른 방문자의 분신과 함께 가상의 후손을 만들어 낸다. 나를 닮았지만 내 통제를 벗어난 계보를 바라보며, 얼굴을 개인의 소유물보다 낯선 타인과 연결되는 관계의 출발점으로 경험하게 한다. 이미지: FILE 2026 공식 작품 자료.",
+          "insight": {
+            "mechanism": "얼굴을 디지털 분신으로 옮기고 방문자들의 특징을 결합한 가상 후손을 생성한다. 관객은 가계도의 관찰자이자 그 계보를 여는 입력이 된다.",
+            "whyNow": "2026 FILE 소개와 Prix Ars Electronica New Animation Art의 Honorary Mention을 통해, 생성 기술을 개인 초상보다 관계와 미래 세대의 문제로 확장한 사례다.",
+            "directorPoint": "자기 얼굴을 본 순간 체험을 끝내지 않고, 그 얼굴이 타인과 섞여 다음 세대로 넘어가는 시간을 설계한다. 인식의 쾌감 뒤에 통제 상실을 배치한다.",
+            "critique": "얼굴의 결합을 혈연이나 정체성의 본질처럼 받아들일 위험이 있다. 얼굴 제공을 거절하는 관객도 경험할 수 있는 동선과 동의의 구분이 중요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "머신러닝·비전",
+              "생성AI",
+              "프로젝션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "AI·저자성",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "핀란드",
+            "region": "유럽",
+            "venue": "FILE 2026, 상파울루, 브라질"
+          },
+          "id": "2026-10-20-05",
+          "image": "images/2026-10-20-05.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Hanna-Haaslahti-Ancestors-__-Finlandia-Installations-FILE-SP-2026-resized.jpg",
+          "grounded": true
+        },
+        {
+          "title": "뿌리 뽑힌 시점",
+          "originalTitle": "Uprooted",
+          "creator": "Jason Jacobs · Devon Delmar",
+          "publishedAt": null,
+          "url": "https://festival.idfa.nl/en/film/5ff8e21d-2c94-4110-a2ef-8729a0c441ae/uprooted/",
+          "host": "festival.idfa.nl",
+          "description": "남아프리카의 다육식물 시점에서 밀렵과 운송, 재배 시설, 뉴욕 아파트로 이어지는 여정을 겪는 12분 VR 작품이다. 사람을 따라 움직이는 대신 식물이 놓인 높이와 이동의 조건을 받아들이게 하며 자연의 상품화를 가까이서 보게 한다. 이미지: IDFA 공식 작품 스틸.",
+          "insight": {
+            "mechanism": "360도 시야를 식물의 위치에 고정해 주변의 사람과 환경이 바뀌는 여정을 구성한다. 인간의 말은 온전히 이해되지 않지만 몸짓과 상황이 위협을 전달한다.",
+            "whyNow": "11월 12–22일 IDFA 2026의 DocLab 몰입형 논픽션 경쟁 부문에서 세계 초연이 예정돼 있다. 아직 현장 체험한 작업이 아니라 공식 공개 자료를 바탕으로 읽는 선정작이다.",
+            "directorPoint": "비인간의 시점을 설명하는 내레이션 대신 카메라의 높이와 이동 권한을 제한한다. 관객이 무엇을 볼 수 없는지를 통해 권력관계를 느끼게 한다.",
+            "critique": "몰입이 식물의 실제 감각을 재현한다고 볼 수는 없다. 인간이 설계한 시점의 은유라는 한계를 유지해야 하며, 초연 전이므로 체험의 효과를 확정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "비인간·생태",
+              "권력·감시",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "남아프리카공화국",
+            "region": "아프리카",
+            "venue": "IDFA DocLab, 암스테르담, 네덜란드(11월 초연 예정)"
+          },
+          "id": "2026-10-20-06",
+          "image": "images/2026-10-20-06.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/91085189-01c2-44ff-a3cb-9057b11c5189/1280.jpeg",
           "grounded": true
         }
       ],
@@ -15419,6 +15502,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-19T22:47:14.905Z",
+  "generatedAt": "2026-10-20T04:18:22Z",
   "schemaVersion": 2
 }
