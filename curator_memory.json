@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-20T20:10:24Z",
+  "updatedAt": "2026-10-21T15:34:52Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -170,6 +170,10 @@
     {
       "date": "2026-10-21",
       "note": "Latest 6개·5권역(동아시아2/유럽1/북미1/오세아니아1/동남·남아시아1), Focus: Ho Rui An의 A Petropolis in a Garden with a Long View. 공식 ICC·IDFA·Govett-Brewster·작가/갤러리·미술관 자료를 대조했다. IDFA 두 작품은 11월 공개 예정임을 명시하고 현장 체험을 주장하지 않았다. Ho 작품의 2024 기원과 2026 재전시를 구분. 공식 작품 사진/스틸 6장을 실제 확인하고 자체 호스팅. Harrison의 사진은 오른쪽 영상과 왼쪽 별도 사진 작품을 설명에 구분. 사진 크레딧과 원본 URL 보존; 권리는 작가·사진가·기관에 있으며 라이선스 소유를 주장하지 않는 작품 소개용 프리뷰. 후보 검사 FAIL 0; 날짜별 검사 및 SHA lease 후 발행."
+    },
+    {
+      "date": "2026-10-22",
+      "note": "Latest 6개·4권역(동아시아2·유럽2·아프리카1·오세아니아1), Focus LYMENA. 기존 58호와 mission/editorial_rules/dedup_policy/taste_profile을 보존. ICC·작가 공식 자료, Electric South/Steam/프로젝트 공식 사이트, Govett-Brewster, FILE/EveryHuman/ZKM, IDFA/FilmGate/작가 이력을 교차 확인. Sands of Time은 Steam 출시 예정이며 Electric South의 alpha 배포 안내와 현재 Steam 표시의 차이를 기록. Temporal Strata는 IDFA 18분 버전과 타 행사 22분 안내를 구분; 11월 네덜란드 공개 예정. 공식 작품 사진/스틸 6장 실제 확인·자체 호스팅, Fiona Clark 영상 촬영 Stu Sutherland 크레딧 보존. 이미지 권리는 원권리자에게 있으며 소유·포괄적 재사용 허락을 주장하지 않는 출처 연계 작품 소개 프리뷰. 후보 및 커밋 전 날짜별 검사 FAIL 0일 때만 발행."
     }
   ],
   "source_notes": [

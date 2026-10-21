@@ -1,6 +1,316 @@
 {
   "issues": [
     {
+      "date": "2026-10-22",
+      "title": "열리지 않는 동굴과 닳아가는 해안 — 감각의 권한을 묻는 여섯 작업",
+      "summary": "접근할 수 없는 박쥐의 동굴, 표준을 통과하는 이미지, 모래 채굴 이후의 가상 해안, 미술관 외벽을 도는 몸, AI가 만드는 향, 돔을 채우는 시간의 층. 네 권역의 작업을 통해 관객에게 무엇을 허용하고 무엇을 남겨두는지 살핀다. 제작 연도와 현재 전시, 출시 예정 상태를 구분해 읽는다.",
+      "crosscurrent": {
+        "note": "LYMENA는 동굴의 중심을 끝내 열지 않고, Sands of Time은 탐색과 수집을 통해 복구의 가능성을 제시한다. 두 가상 환경은 모두 생태를 다루지만, 하나는 접근의 한계를, 다른 하나는 행동의 보상을 전면에 둔다. 관객의 권한을 어디까지 줄 것인지가 서로 다른 생태관으로 이어진다.",
+        "itemIds": [
+          "2026-10-22-01",
+          "2026-10-22-03"
+        ]
+      },
+      "items": [
+        {
+          "title": "리메나",
+          "originalTitle": "LYMENA",
+          "creator": "Hayama Rei",
+          "publishedAt": "2025",
+          "url": "https://www.ntticc.or.jp/en/archive/works/lymena/",
+          "host": "www.ntticc.or.jp",
+          "description": "백여 마리의 CG 박쥐가 사는 동굴과 주변 숲을 탐색하는 게임 엔진 기반 영상 설치다. 2025년작을 ICC가 2026년 연례전의 3면 스크린에 맞춰 전시한다. 동굴 입구는 닫혀 있으며 관객이 끝내 정복할 수 있는 장소로 열리지 않는다. 이미지: 작가 공식 작품 페이지의 스틸.",
+          "insight": {
+            "mechanism": "통로의 조작대에서 탐색한 화면을 전시실 관객이 함께 본다. 조작자가 없을 때에는 가상세계 안의 고정 카메라들이 풍경을 보여준다.",
+            "whyNow": "성취와 보상을 제거한 게임 공간으로, 자연을 반드시 접근하고 소유해야 하는 대상으로 보는 시선을 되묻는다. 현재 전시는 11월 8일까지다.",
+            "directorPoint": "핵심은 더 많은 영역을 열어주는 것이 아니라 중심을 닫아두는 구조다. 동굴을 떠난 한 박쥐를 찾을 수 있어도 서식지 내부를 점유할 수는 없다.",
+            "critique": "탐색을 느리게 만드는 것만으로 생태적 관계가 생기는 것은 아니다. 조작 권한이 한 사람에게 모일 때 주변 관객의 기다림이 어떻게 경험되는지는 현장에서 따져볼 문제다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "가나가와, 일본",
+            "region": "동아시아",
+            "venue": "도쿄 NTT ICC, 일본"
+          },
+          "id": "2026-10-22-01",
+          "image": "images/2026-10-22-01.jpg",
+          "imageFallback": "https://reihayama.net/wp-content/uploads/2025/11/LYMENA_1-954x534.png",
+          "grounded": true
+        },
+        {
+          "title": "이미지 리메인즈",
+          "originalTitle": "Image Remains",
+          "creator": "Rosa Menkman",
+          "publishedAt": "2026",
+          "url": "https://www.ntticc.or.jp/en/archive/works/image-remains/",
+          "host": "www.ntticc.or.jp",
+          "description": "발터 베냐민의 '역사의 천사'를 이미지 처리 기술의 변화 속으로 통과시키는 영상 중심 연작이다. 복제와 변환이 거듭돼도 기술 시스템을 완전히 벗어나지 못하는 인물을 통해 표준화의 타협을 드러낸다. 현재 ICC 연례전 출품작이며 이미지는 ICC 공식 작품 스틸이다.",
+          "insight": {
+            "mechanism": "한 인물이 여러 이미지 처리 체계를 거치며 수많은 복사본으로 분산되는 서사로, 해상도와 형식이 단순한 품질 설정이 아니라 가시성의 조건임을 묻는다.",
+            "whyNow": "AI가 이미지를 읽고 만드는 환경에서, 인간에게 좋은 이미지와 기계에 유용한 이미지가 같은 기준으로 결정되는지 다시 볼 필요가 있다.",
+            "directorPoint": "깨진 이미지를 스타일로 소비하기보다, 무엇이 호환되고 무엇이 노이즈로 지워지는지를 장면의 갈등으로 삼는다. 이는 공식 작품 설명에 근거한 독해다.",
+            "critique": "철학적 인물과 기술사의 관계는 사전 맥락 없이 곧바로 읽히기 어렵다. 화면의 파편화만 인상적으로 남으면 표준을 둘러싼 구체적 권력관계가 희미해질 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "권력·감시",
+              "AI·저자성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "네덜란드",
+            "region": "유럽",
+            "venue": "도쿄 NTT ICC, 일본"
+          },
+          "id": "2026-10-22-02",
+          "image": "images/2026-10-22-02.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/007/8f49a.7985.large.jpg",
+          "grounded": true
+        },
+        {
+          "title": "시간의 모래",
+          "originalTitle": "Sands of Time",
+          "creator": "Peace “Dopay” Olatunji · Dopay Interactive",
+          "publishedAt": "2026",
+          "url": "https://www.sandsoftimevr.com/",
+          "host": "www.sandsoftimevr.com",
+          "description": "모래 채굴로 훼손된 미래의 다르에스살람을 무대로 하는 VR 프로젝트다. 나이지리아 창작자와 여러 아프리카 국가의 팀이 실재 장소를 재구성했다. Electric South는 2026년 지원작으로 소개하지만 Steam은 아직 '출시 예정'이므로 정식 출시작으로 단정하지 않는다. 이미지: 프로젝트 공식 사이트의 가상세계 스틸.",
+          "insight": {
+            "mechanism": "현실의 지형·문화 표지를 바탕으로 만든 환경을 탐색하며 탄자나이트를 수집하고, 모래 채굴의 비용을 장소와 이야기로 발견하게 한다.",
+            "whyNow": "평범한 건축 자원으로 여겨지는 모래를 해안 생태와 공동체의 삶에 연결한다. 상업 배포 상태와 개발·전시 단계의 공개를 구분해서 읽는 사례이기도 하다.",
+            "directorPoint": "환경 문제를 외부 해설로만 전달하지 않고 사라지는 길, 기울어진 건축, 탐색의 장애물로 변환한다는 점이 중요하다. 체험 완료를 주장하지 않는 공식 자료 기반 소개다.",
+            "critique": "자원을 모으면 세계를 복원한다는 게임 규칙은 채굴 문제의 제도적 복잡성을 단순화할 수 있다. 교육적 목표와 보상 구조가 충돌하는 지점을 살펴야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기후·환경",
+              "비인간·생태",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "나이지리아",
+            "region": "아프리카",
+            "venue": "개발·공개 플랫폼: 프로젝트 공식 사이트 / Steam 출시 예정"
+          },
+          "id": "2026-10-22-03",
+          "image": "images/2026-10-22-03.jpg",
+          "imageFallback": "https://static.wixstatic.com/media/8140e2_1ccb3dbcc55b4aa7b2d12413593fb693~mv2.jpg",
+          "grounded": true
+        },
+        {
+          "title": "화석연료 후원이 없다면 이곳은 어떤 모습일까?",
+          "originalTitle": "What would this place look like without fossil fuel sponsorship?",
+          "creator": "Fiona Clark",
+          "publishedAt": "2025-08-10",
+          "url": "https://govettbrewster.com/exhibitions/2026/open-window-what-would-this-place-look-like-without-fossil-fuel-sponsorship",
+          "host": "govettbrewster.com",
+          "description": "2025년 8월 10일 아침, 재활용 마대 자루로 만든 옷을 입은 작가가 Len Lye Centre 외곽을 돌며 거울 같은 외벽을 응시한 퍼포먼스의 영상 기록이다. 현재 Govett-Brewster의 Open Window에서 11월 15일까지 상영한다. 기록 촬영: Stu Sutherland. Courtesy of the artist and Lett Thomas.",
+          "insight": {
+            "mechanism": "빛나는 미술관 건축과 거친 의복을 입은 몸을 마주 놓고, 반복되는 보행과 응시를 통해 건물의 재정적 기반을 질문한다.",
+            "whyNow": "기관이 비판적 예술을 전시하는 일과 화석연료 기업의 후원을 받는 일이 어떤 관계인지, 작품이 놓인 바로 그 장소에서 묻는다.",
+            "directorPoint": "큰 행사를 새로 만드는 대신 미술관 주변을 도는 작은 행동을 기록했다. 건축의 표면과 그 앞에 머무는 몸이 대비의 대부분을 담당한다.",
+            "critique": "기관이 자기 비판을 전시하는 것이 실제 후원 구조의 변화로 이어지는지는 별개의 문제다. 비판을 수용했다는 이미지 자체가 면책이 될 위험도 남는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "기후·환경",
+              "권력·감시",
+              "도시·공동체"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "북부 타라나키, 뉴질랜드",
+            "region": "오세아니아",
+            "venue": "뉴플리머스 Govett-Brewster Open Window, 뉴질랜드"
+          },
+          "id": "2026-10-22-04",
+          "image": "images/2026-10-22-04.jpg",
+          "imageFallback": "https://govettbrewster.com/media/zzvpaj0w/what-would-this-place-look-like-without-fossil-fuel-sponsorship_2025.jpg",
+          "grounded": true
+        },
+        {
+          "title": "알고리드믹 퍼퓨머리",
+          "originalTitle": "Algorithmic Perfumery by EveryHuman",
+          "creator": "Frederik Duerinck · Anahita Mekanik",
+          "publishedAt": "2020",
+          "url": "https://file.org.br/installations_2026/everyhuman-algorithmic-perfumery-holanda/",
+          "host": "file.org.br",
+          "description": "참여자의 기억·취향·상상을 AI와의 상호작용 및 향의 조합으로 연결하는 참여형 설치다. ZKM은 2020년부터 이어진 작업으로 표기하며 현재 'Silver Egg'에서 소개한다. FILE 2026에도 전시됐으나 그 행사는 10월 11일 종료됐다. 이미지는 FILE가 공개한 실제 장치 사진이다.",
+          "insight": {
+            "mechanism": "참여자가 입력한 정보와 시스템이 학습한 관계를 바탕으로 향을 구성하고, 자체 하드웨어가 물질적 결과를 만든다. 개발사는 입력자가 창작 과정의 중심에 있다고 설명한다.",
+            "whyNow": "개인화된 AI가 화면 밖에서 냄새와 기억을 다룰 때, '나를 이해한다'는 주장을 감각의 결과로 확인하게 하는 경계 사례다.",
+            "directorPoint": "입력과 결과 사이에 추상적인 추천 문장 대신 실제 향을 놓는다. 관객은 자기 서술과 느껴지는 결과가 일치하는지 스스로 판단해야 한다.",
+            "critique": "자기보고식 취향과 학습 데이터가 한 사람의 정체성을 대표한다고 볼 수는 없다. 예술적 자기 탐색과 향수 상품의 개인화 서비스가 겹친다는 점도 함께 읽어야 한다."
+          },
+          "tags": {
+            "sense": [
+              "후각·미각"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "로보틱스"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계",
+              "기억·아카이브"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "브레다, 네덜란드",
+            "region": "유럽",
+            "venue": "현재 ZKM 카를스루에, 독일 / 사진은 FILE 상파울루 2026"
+          },
+          "id": "2026-10-22-05",
+          "image": "images/2026-10-22-05.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/08/Documentacao-Frederik-Duerinck-Algorithmic-Perfumery-by-EveryHuman-Holanda-FILE-SP-2026-2-scaled.jpg",
+          "grounded": true
+        },
+        {
+          "title": "시간의 지층",
+          "originalTitle": "Temporal Strata",
+          "creator": "Ping-Sheng Wu · Jie Liou",
+          "publishedAt": "2026",
+          "url": "https://festival.idfa.nl/en/film/bfa45cdf-e7f5-43e3-ab05-412c8a8b3353/temporal-strata/",
+          "host": "festival.idfa.nl",
+          "description": "생성형 이미지와 소리를 층층이 겹쳐 시간의 감각을 구성하는 풀돔 작업이다. 2026년 북미와 대만에서 소개됐으며, 11월 IDFA의 네덜란드 공개가 예정돼 있다. IDFA 버전은 18분으로 안내한다. 이미지: IDFA 공식 작품 스틸.",
+          "insight": {
+            "mechanism": "프랙털과 세포적 구조, 리듬과 질감의 변화를 하나의 시청각 장으로 조직한다. 돔의 기하와 음향 조건이 구성에 관여하지만, 공개 소개가 실시간 관객 반응을 뜻하지는 않는다.",
+            "whyNow": "사건의 전개 대신 반복과 미세한 차이로 지속 시간을 느끼게 한다. 같은 제목이라도 상영처별 길이와 버전이 다를 수 있음을 확인해야 한다.",
+            "directorPoint": "형태가 특정 사물로 완전히 굳어지기 전에 패턴을 바꾸는 방식에 주목할 수 있다. 이는 공식 스틸과 프로그램 설명을 대조한 독해이며 현장 감각의 단정은 아니다.",
+            "critique": "몰입형 추상이 주는 경이로움이 작품의 철학적 주제를 자동으로 전달하지는 않는다. 관객이 실제로 시간 감각을 다르게 경험하는지는 별도 검증이 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "공간음향",
+              "영상·필름"
+            ],
+            "theme": [
+              "의식·영성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "대만(Ping-Sheng Wu)",
+            "region": "동아시아",
+            "venue": "IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "id": "2026-10-22-06",
+          "image": "images/2026-10-22-06.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/0dfbeba2-c4a5-4376-85ed-945468059f01/2500.jpeg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "세계를 열어주는 대신, 들어갈 수 없는 중심을 남겨두기",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "하야마 레이는 야생동물의 재활과 구조, 자연환경의 문제에 관여해 온 작가다. 아날로그 필름과 영상으로 인간이 자연을 '보는' 상황을 다뤄온 이력은 이번 가상 풍경을 단순한 게임 기술 실험과 구분한다. 2025년작 LYMENA가 현재 ICC의 연례전에서 상영·탐색되는 맥락도 중요하다. 기술로 자연을 더 많이 점유하는 대신, 화면 안에서도 접근하지 못할 영역을 남긴다는 질문이기 때문이다."
+          },
+          {
+            "heading": "작동의 두 상태",
+            "body": "작가의 공식 설명은 키보드와 마우스를 통한 가상 공간 탐색, 그리고 녹색 막으로 보호된 동굴 입구를 제시한다. 내부에는 많은 박쥐가 있지만 관객은 그곳에 들어갈 수 없다. ICC 버전에서는 조작대의 화면이 3면 스크린으로 공유되고, 조작자가 없으면 여러 고정 카메라의 풍경이 나타난다. 행동하는 한 사람과 지켜보는 여러 사람, 그리고 아무도 개입하지 않는 시간이 서로 다른 관람 상태를 만든다."
+          },
+          {
+            "heading": "보이지 않는 것을 남기는 계보",
+            "body": "작가는 실제 자연을 CG로 대체한 풍경을 속이 채워진 세계라기보다 주석이 달린 빈 공간에 가깝게 설명한다. 중요하다고 여기는 것이 화면에 모두 드러나지는 않는다는 뜻이다. 공식 이력에 나오는 'The Pearl of Tailorbird' 개인전(2018–19)을 비롯해, 비인간 생명과 인간의 보기 사이의 간극은 지속된 관심사다. 이번 작업의 변화는 그 간극을 이미지의 내용뿐 아니라 탐색 가능한 범위 자체에 새긴 데 있다."
+          },
+          {
+            "heading": "디렉터의 독해와 한계",
+            "body": "공개 스틸에서 동굴을 덮은 막은 풍경의 비밀을 곧 공개하겠다는 예고처럼 보일 수 있다. 그러나 작동 설명은 그 약속을 끝내 충족시키지 않는다. 이 불일치가 여기서 읽을 수 있는 구성 원리다. 무엇이든 열어주는 인터랙션 대신 열리지 않는 중심을 남기면, 관객의 주의는 해결보다 기다림과 주변으로 이동한다. 다만 이것이 모든 관객에게 생태적 성찰을 만든다고 단정할 수는 없다. 조작의 독점과 관람의 지루함 역시 확인해야 할 실제 한계다."
+          }
+        ],
+        "keywords": [
+          "접근 불가능한 중심",
+          "게임 엔진",
+          "박쥐",
+          "비인간 감각",
+          "공동 관람"
+        ],
+        "sources": [
+          {
+            "label": "NTT ICC — LYMENA, 2026 전시 버전의 작동",
+            "url": "https://www.ntticc.or.jp/en/archive/works/lymena/"
+          },
+          {
+            "label": "Rei Hayama — 공식 작품 설명과 스틸",
+            "url": "https://reihayama.net/lymen%CE%BB/"
+          },
+          {
+            "label": "Rei Hayama — 공식 이력과 작업 맥락",
+            "url": "https://reihayama.net/reihayama/"
+          },
+          {
+            "label": "NTT ICC — Annual 2026 전시 기간",
+            "url": "https://www.ntticc.or.jp/en/exhibitions/2026/icc-annual-2026/"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "The Pearl of Tailorbird",
+            "year": "2018–19",
+            "relation": "작가 공식 이력에 기재된 개인전으로, 비인간 자연과 인간의 보기를 다뤄 온 선행 작업 맥락"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-21",
       "title": "빛이 목소리를 운반하고, 정원이 산업을 숨길 때",
       "summary": "레이저 통신으로 다시 듣는 저항의 기록, 날지 않는 기계, 지워진 인물을 잇는 VR 오페라와 이누이트의 가상 공화국, 정유시설 이후의 기억과 식물로 채운 기업 사무실. 다섯 권역의 여섯 작업에서 이미지가 기억과 권력을 전달하거나 가리는 방식을 읽는다. IDFA 두 작품은 11월 공개 예정작이며 나머지는 현재 전시 맥락을 확인했다.",
