@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-23T01:08:26Z",
+  "updatedAt": "2026-10-24",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -178,6 +178,10 @@
     {
       "date": "2026-10-23",
       "note": "Latest 6개·5권역과 Interviews with Two Strangers Focus. 작가·IDFA·ICC·Govett-Brewster·McCahon House·Electric South 공식 근거와 실제 작품 이미지 6장 확인. ESHRAQ의 2024년부터 진행/2026 IDFA 표기, Natalie’s Trifecta의 2023년작/2026 재전시, Sugita의 2024/26과 사진 연도, Whiria 전시의 7월 종료를 구분. HAMAKAI 후보는 공식 이미지가 작품 설치가 아닌 참고 사진이어서 제외. 이전 59개 이슈와 현재 큐레이터 규칙 보존."
+    },
+    {
+      "date": "2026-10-24",
+      "note": "Latest 6개·4권역과 복수 거점 작가 1명, Focus Our Listenings. 이전 60호와 schemaVersion/generatedAt, 최신 mission/editorial_rules/dedup_policy/taste_profile 보존. 2023 게임 재전시·2025 영상·2026 발표를 구분하고, 미국 현지 개막일과 한국 발행일 차이 명시. SAM 5월 종료 및 BioArt Society 8월 상영을 현재 행사로 표기하지 않음. 공식 이미지 6장 실제 확인·축소 self-host. 후보 gate FAIL 0 WARN 0, 최종 날짜별 gate 및 SHA lease를 적용."
     }
   ],
   "source_notes": [
@@ -232,6 +236,10 @@
     {
       "date": "2026-10-23",
       "note": "추가 근거: https://alllesss.com/ESHRAQ 및 https://alllesss.com/About (ESHRAQ 진행형 연도·Unreal Engine·암스테르담 기반); https://electricsouth.org/production_year/2023/ 및 https://www.munch.no/en/munch/almost-unreal/natalie-paneng/ (Trifecta·요하네스버그 기반); https://govettbrewster.com/events/event/E31705D2126 (From the Minister of Energy — Carless Days 2026·4K·Grant Priest·오른쪽 설치 영상 사진)와 https://govettbrewster.com/exhibitions/2026/economies-of-deferral (11/15까지 전시). https://festival.idfa.nl/en/idfa-2026-2/ (11/12–22 예정). Whiria와 Sugita는 각 공식 작품 사진의 연도·종료일/참고 표기를 본문에 유지. 모든 이미지의 저작권은 원 작가·촬영자에게 있으며 공식 배포용 작품 소개 이미지를 편집용 축소 프리뷰로 사용하고 원본 URL·크레딧을 보존. 개방형 라이선스라고 주장하지 않음."
+    },
+    {
+      "date": "2026-10-24",
+      "note": "Our Listenings: HNF 프로젝트와 MUAC 공식 전시(2026.9.5–2027.2.14), Imane Farès 작가 약력(과들루프 기반), Hermès La Verrière Musa Nuit 2020 원문 확인. 이미지는 MUAC 이미지 다운로드 제한과 별개로 HNF가 작품 스틸/작가 제공으로 명시한 공식 프리뷰를 사용: https://static.wixstatic.com/media/bc92f6_1cad2bf140644fcba7c15300db9d0a16~mv2.jpg . Nobody Knows For Certain: 작가 작품/게임플레이 still3 + https://jameelartscentre.org/whats-on/nobody-knows-for-certain-afrah-shafiq/ (2023 제작·두바이 11월 예정·고아 기반). Ghazal: IDFA 작품과 https://dubai.mutek.org/en/artists/ghazalmajidi (밴쿠버 기반). Katpatat: IDFA 작품/크레딧·1991 선행실험 구분. Hao: MIT 작품·현재 윈난/베를린 복수 거점이어서 단일 region을 억지 분류하지 않고 null. Mori Collection021로 2025 제작과 54:41 확인. Plantation Tragedy: BioArt Society 영화 프로그램, SAM An Endless Harvest/영문 룸시트, https://www.leeumhoam.org/hoam/program/1759 (공식 작가 대담·대표 영상·욕야카르타 거점), https://palaisdetokyo.com/en/exposition/art-spectrum-2026/ (현재 참여 일정) 대조. SAM은 전체 설치의 공식 기록 사진을 사용하고 종료 사실 명시. 사진/스틸 권리는 원 작가·기관·갤러리에 있으며 원본 URL·크레딧을 보존한 작품 소개용 축소 프리뷰로만 제시. 포괄적 라이선스나 소유권을 주장하지 않음."
     }
   ],
   "dedup_policy": {
