@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-21T15:34:52Z",
+  "updatedAt": "2026-10-23T01:08:26Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -174,6 +174,10 @@
     {
       "date": "2026-10-22",
       "note": "Latest 6개·4권역(동아시아2·유럽2·아프리카1·오세아니아1), Focus LYMENA. 기존 58호와 mission/editorial_rules/dedup_policy/taste_profile을 보존. ICC·작가 공식 자료, Electric South/Steam/프로젝트 공식 사이트, Govett-Brewster, FILE/EveryHuman/ZKM, IDFA/FilmGate/작가 이력을 교차 확인. Sands of Time은 Steam 출시 예정이며 Electric South의 alpha 배포 안내와 현재 Steam 표시의 차이를 기록. Temporal Strata는 IDFA 18분 버전과 타 행사 22분 안내를 구분; 11월 네덜란드 공개 예정. 공식 작품 사진/스틸 6장 실제 확인·자체 호스팅, Fiona Clark 영상 촬영 Stu Sutherland 크레딧 보존. 이미지 권리는 원권리자에게 있으며 소유·포괄적 재사용 허락을 주장하지 않는 출처 연계 작품 소개 프리뷰. 후보 및 커밋 전 날짜별 검사 FAIL 0일 때만 발행."
+    },
+    {
+      "date": "2026-10-23",
+      "note": "Latest 6개·5권역과 Interviews with Two Strangers Focus. 작가·IDFA·ICC·Govett-Brewster·McCahon House·Electric South 공식 근거와 실제 작품 이미지 6장 확인. ESHRAQ의 2024년부터 진행/2026 IDFA 표기, Natalie’s Trifecta의 2023년작/2026 재전시, Sugita의 2024/26과 사진 연도, Whiria 전시의 7월 종료를 구분. HAMAKAI 후보는 공식 이미지가 작품 설치가 아닌 참고 사진이어서 제외. 이전 59개 이슈와 현재 큐레이터 규칙 보존."
     }
   ],
   "source_notes": [
@@ -224,6 +228,10 @@
     {
       "date": "2026-10-20",
       "note": "Metaract 이미지 근거: https://sat.qc.ca/en/events/la-nuit-des-idees-de-montreal-2026/ 의 Immersive short films 섹션에서 개별 Metaract 제목에 붙은 https://ressources.sat.qc.ca/uploads/2026/08/sat-x-mutek-metaract-iwakur-23-08-22-ash-kg-subtletherapy-com-18-1024x683.jpg 를 확인. 단순히 공동상영 파일명만으로 추측하지 않았으며, 촬영자 Ash KG 명시. Ancestors는 FILE 공식 작품 자료와 Tampere Art Museum/작가 공식 설명, Uprooted는 IDFA 공식 작품·스틸과 Electric South 공식 제작 자료로 확인했다. Uprooted는 11월 초연 예정임을 명시하며 실제 관람평으로 쓰지 않았다. 이미지 저작권은 원 권리자에게 있으며 편집용 작품 소개에 출처를 보존한다."
+    },
+    {
+      "date": "2026-10-23",
+      "note": "추가 근거: https://alllesss.com/ESHRAQ 및 https://alllesss.com/About (ESHRAQ 진행형 연도·Unreal Engine·암스테르담 기반); https://electricsouth.org/production_year/2023/ 및 https://www.munch.no/en/munch/almost-unreal/natalie-paneng/ (Trifecta·요하네스버그 기반); https://govettbrewster.com/events/event/E31705D2126 (From the Minister of Energy — Carless Days 2026·4K·Grant Priest·오른쪽 설치 영상 사진)와 https://govettbrewster.com/exhibitions/2026/economies-of-deferral (11/15까지 전시). https://festival.idfa.nl/en/idfa-2026-2/ (11/12–22 예정). Whiria와 Sugita는 각 공식 작품 사진의 연도·종료일/참고 표기를 본문에 유지. 모든 이미지의 저작권은 원 작가·촬영자에게 있으며 공식 배포용 작품 소개 이미지를 편집용 축소 프리뷰로 사용하고 원본 URL·크레딧을 보존. 개방형 라이선스라고 주장하지 않음."
     }
   ],
   "dedup_policy": {

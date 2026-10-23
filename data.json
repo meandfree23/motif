@@ -1,6 +1,318 @@
 {
   "issues": [
     {
+      "date": "2026-10-23",
+      "title": "대화를 대신할 수 있을까 — 몸과 기록이 남는 여섯 장면",
+      "summary": "작가를 닮은 챗봇과의 대화, 철학을 조작하는 가상세계, 다시 열리는 디지털 자아, 장관이 재독하는 편지, 생명의 선택 기준, 수중 생태의 목소리. 다섯 권역의 작업에서 기록을 남기는 주체와 그것을 다시 만나는 형식을 살핀다. 현재 전시·11월 예정작·올해 종료된 전시 기록을 구분한다.",
+      "crosscurrent": {
+        "note": "Interviews with Two Strangers는 작가를 대신 말하는 챗봇과 실제 만남을 병치한다. From the Minister of Energy — Carless Days는 과거 문서를 남긴 사람에게 그 문장을 다시 읽게 한다. 둘 다 발화의 내용뿐 아니라 누가, 어떤 몸과 매체로 다시 말하는지가 기록의 의미를 바꾸는 장면이다.",
+        "itemIds": [
+          "2026-10-23-01",
+          "2026-10-23-04"
+        ]
+      },
+      "items": [
+        {
+          "originalTitle": "Interviews with Two Strangers",
+          "creator": "Carrie Sijia Wang",
+          "title": "두 낯선 이와의 인터뷰",
+          "url": "https://carriesijiawang.com/portfolio_page/interviews-with-two-strangers/",
+          "imageFallback": "https://carriesijiawang.com/wp-content/uploads/2026/06/strangers-full-peggy-scaled.jpg",
+          "id": "2026-10-23-01",
+          "publishedAt": "2026",
+          "description": "뉴욕 실험극장의 역사를 만들어 온 60세 이상 연극인 9명이 작가를 모방한 챗봇, 그리고 작가 본인과 각각 대화한다. 텍스트와 대면 인터뷰 영상을 나란히 놓은 설치다. 뉴욕 전시 후 11월 IDFA 국제초연이 예정되어 있다. 사진: 작가 공식 페이지의 La MaMa 설치 전경.",
+          "insight": {
+            "mechanism": "같은 참여자가 챗봇과 먼저 타이핑으로, 이어 작가와 직접 대화한다. 서로 다른 대화의 기록을 한 화면 구성 안에 병치한다. IDFA는 132분, 작가는 46분 단축판과 132분 장편을 함께 명시한다.",
+            "whyNow": "AI 대화의 유창함이 관계의 충실함과 같은지, 오랜 공연 경험을 가진 이들의 말과 몸을 통해 묻는다. 11월 12–22일 IDFA 발표를 앞둔 공식 자료에 근거한 소개다.",
+            "directorPoint": "인간 쪽만 감동적으로 편집하기보다, 타이핑된 문장과 얼굴·목소리가 만드는 서로 다른 시간을 동시에 비교하게 하는 구성이 중요하다.",
+            "critique": "인간과 AI뿐 아니라 문자와 영상, 먼저 한 대화와 나중 대화까지 조건이 다르다. 이 비교를 AI의 공감 능력에 대한 통제된 실험 결과처럼 읽어서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "생성AI"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "언어·번역",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "미국(뉴욕 활동)",
+            "region": "북미",
+            "venue": "La MaMa, 뉴욕 / IDFA, 암스테르담(11월 예정)"
+          },
+          "host": "carriesijiawang.com",
+          "image": "images/2026-10-23-01.jpg",
+          "grounded": true
+        },
+        {
+          "originalTitle": "ESHRAQ",
+          "creator": "Ali Eslami",
+          "title": "에슈라크",
+          "url": "https://festival.idfa.nl/en/film/88ea9b87-760b-488b-a921-99bcbc8a493e/ESHRAQ/",
+          "imageFallback": "https://my.idfa.nl/image-transforms/0d02cef7-db87-417b-8a9c-abfbbd0a972e/2500.jpeg",
+          "id": "2026-10-23-02",
+          "publishedAt": "2024– (2026 IDFA 발표)",
+          "description": "수흐라와르디의 조명철학을 모듈형 시뮬레이션으로 옮기는 진행형 프로젝트다. 구체나 인간형 에이전트로 이동하고 세계의 조합을 바꾼다. 작가는 2024년부터 진행 중이라고, IDFA는 2026년 발표작으로 표기한다. 이미지: IDFA 공식 시뮬레이션 스크린샷.",
+          "insight": {
+            "mechanism": "서로 다른 운동 방식을 가진 에이전트를 점유하고 모듈을 조합한다. 우르의 지구라트와 암스테르담 운하 같은 구축된 레벨이 있지만, 끝까지 깨는 게임보다 변화하는 세계에 가깝다.",
+            "whyNow": "11월 IDFA가 공개한 작업으로, 비서구 철학을 게임의 외형 장식이 아닌 인식·이동의 규칙으로 번역하려는 시도다. 완성된 상용 게임이나 2026년 최초 제작작이라고 단정하지 않는다.",
+            "directorPoint": "캐릭터의 배경 설명보다 먼저 어떤 몸으로 어디를 움직일 수 있는지 바꾼다. 철학을 내레이션으로 풀이하는 대신 관점 전환의 조작법으로 만드는 접근을 읽을 수 있다.",
+            "critique": "유동성과 무한한 변주가 곧 이해를 보장하지 않는다. 철학적 맥락을 모르는 관객에게 조작의 변화가 인식의 변화로 이어지는지는 별도로 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "놀이·게임",
+              "의식·영성",
+              "기억·아카이브"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "암스테르담, 네덜란드",
+            "region": "유럽",
+            "venue": "IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-23-02.jpg",
+          "grounded": true
+        },
+        {
+          "originalTitle": "Natalie’s Trifecta",
+          "creator": "Natalie Paneng",
+          "title": "나탈리의 트리펙타",
+          "url": "https://festival.idfa.nl/en/film/1bd30530-48c5-4078-ba02-b2abe9e08cdb/Archive-Arcade%3A-Natalie%27s-Trifecta/",
+          "imageFallback": "https://my.idfa.nl/image-transforms/ebcf100f-1bfb-4491-af45-b70465bafcd7/2500.jpeg",
+          "id": "2026-10-23-03",
+          "publishedAt": "2023 (2026 재전시 예정)",
+          "description": "작가의 가상 갤러리, 실제 스튜디오, 상상의 Niceatopia를 오가는 30분 VR이다. 2023년작이 2026 IDFA Archive Arcade에서 다시 공개될 예정이다. 신작이 아니라 디지털 작품의 재접근 사례로 소개한다. 이미지: IDFA 공식 작품 스틸.",
+          "insight": {
+            "mechanism": "Homeworld의 세 관문이 전시 공간, 작업 과정과 질문이 있는 IRL World, 놀이를 위한 꿈의 세계로 이어진다. 세 공간은 하나의 사실적 전기로 합쳐지지 않고 작가의 서로 다른 층을 드러낸다.",
+            "whyNow": "Archive Arcade는 하드웨어와 플랫폼 변화로 접근이 어려워진 디지털 작업을 다시 경험하게 하는 프로그램이다. 2023년 수상과 2026년 재전시를 구분하면 보존 자체도 큐레이션의 주제가 된다.",
+            "directorPoint": "한 사람을 설명하는 인터뷰에 모든 정보를 몰아넣지 않고, 보여주는 공간·만드는 공간·상상하는 공간을 각각 방문하게 한다.",
+            "critique": "가상 자아가 풍부할수록 작가의 상징 체계에 익숙하지 않은 관객은 길을 잃을 수 있다. 재전시판의 구체적인 기술 복원 범위는 공개 자료만으로 확정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "신체·정체성",
+              "기억·아카이브",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "요하네스버그, 남아프리카공화국",
+            "region": "아프리카",
+            "venue": "IDFA Archive Arcade, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-23-03.jpg",
+          "grounded": true
+        },
+        {
+          "originalTitle": "From the Minister of Energy — Carless Days",
+          "creator": "Matthew Galloway",
+          "title": "에너지 장관으로부터 — 자동차 없는 날",
+          "url": "https://mccahonhouse.org.nz/residency/matthew-galloway",
+          "imageFallback": "https://www.npdcevents.nz/media/3hpf34zy/simon-last-programme-2.jpg?autorotate=true",
+          "id": "2026-10-23-04",
+          "publishedAt": "2026",
+          "description": "1979–80년 자동차 운행 제한 정책과 관련된 편지를 당시 에너지 장관 Bill Birch가 다시 읽는 영상 작업이다. Govett-Brewster는 2026년 4K 영상으로 명시하며 현재 Economies of Deferral에 전시한다. 사진: 갤러리 연계 행사 페이지의 설치 전경. 오른쪽이 이 영상이며 영상 촬영은 Grant Priest.",
+          "insight": {
+            "mechanism": "국가기록에서 찾은 편지를 서명 주체의 몸과 목소리로 되돌린다. 레지던시 기록은 책상 앞 정면과 손·문서 위쪽에서 촬영한 구성을 설명한다.",
+            "whyNow": "에너지 자립의 약속과 산업의 이후를 묻는 전시는 11월 15일까지다. 11월 7일 연계 대화도 예정되어 있지만, 그 행사가 이미 열렸다고 쓰지 않는다.",
+            "directorPoint": "과거 정책을 성우가 대신 해설하는 대신, 당시 책임자가 자신의 이름으로 남은 문장을 지금의 몸으로 읽게 한다. 문서와 화자의 시간차가 장면의 긴장을 만든다.",
+            "critique": "책임자를 다시 발화하게 하는 것이 자동으로 책임 추궁은 아니다. 노동자와 지역 공동체의 증언이 어떤 비중으로 함께 들리는지도 봐야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "노동·산업",
+              "권력·감시"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "웰링턴, 뉴질랜드",
+            "region": "오세아니아",
+            "venue": "Govett-Brewster, 뉴플리머스, 뉴질랜드"
+          },
+          "host": "mccahonhouse.org.nz",
+          "image": "images/2026-10-23-04.jpg",
+          "grounded": true
+        },
+        {
+          "originalTitle": "Selfish Shells of the 21st Century",
+          "creator": "Sugita Aoi",
+          "title": "21세기의 허물",
+          "url": "https://www.ntticc.or.jp/ja/archive/works/selfish-shells-of-the-21st-century/",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/007/94670.7987.large.jpg",
+          "id": "2026-10-23-05",
+          "publishedAt": "2024/26",
+          "description": "생식 기술을 둘러싼 선택과 배제의 기준을 SF 서사로 질문하는 영상 설치다. ICC는 2024/26으로 표기하며 9월 12일–11월 8일 전시한다. 이미지 역시 ICC가 제공한 2024년판 참고 설치 사진으로, 2026년 현장 사진인 것처럼 제시하지 않는다.",
+          "insight": {
+            "mechanism": "비현실적인 SF 이미지와 생식 의료의 윤리적 질문을 전시장 전체의 영상 설치로 엮는다. 좋은 특성을 고르는 기준과 그 밖의 생명을 사물처럼 다루는 구조를 문제 삼는다.",
+            "whyNow": "10월 17일 작가 대담 이후에도 ICC 전시는 계속된다. 작품의 가상 설정을 현재 인간 복제나 특정 의료 기술의 임상적 가능성에 대한 사실 주장으로 읽지 않는다.",
+            "directorPoint": "기술의 미래를 찬반 토론으로만 설명하지 않고, 누가 정상과 개선의 기준을 정하는지 공간과 이미지의 불편함으로 돌려 묻는다.",
+            "critique": "생식 의료 전반을 위협적인 미래로 묶으면 실제 이용자의 선택과 돌봄을 지울 수 있다. 비판의 대상이 의료 이용자인지, 선택을 강제하는 사회 구조인지 분리할 필요가 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "프로젝션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "일본(도쿄예술대 재학)",
+            "region": "동아시아",
+            "venue": "NTT ICC, 도쿄, 일본"
+          },
+          "host": "www.ntticc.or.jp",
+          "image": "images/2026-10-23-05.jpg",
+          "grounded": true
+        },
+        {
+          "originalTitle": "Whiria ko te iwi tuna",
+          "creator": "Tihikura Hohaia · Alex Monteith · Maree Sheehan (Toiaa Taiao)",
+          "title": "휘리아 코 테 이위 투나",
+          "url": "https://govettbrewster.com/exhibitions/2026/toiaa-taiao-whiria-ko-te-iwi-tuna",
+          "imageFallback": "https://govettbrewster.com/media/vr4lfkxa/_dsf3078web.jpg",
+          "id": "2026-10-23-06",
+          "publishedAt": "2026",
+          "description": "하천 Te Whanganui의 마지막 100m를 다룬 5채널 동기 영상·7채널 사운드·15분 설치다. 이번에는 올해 공식 전시 기록을 읽는다. Govett-Brewster 전시는 7월 18일 종료되어 현재 관람 가능한 전시가 아니다. 사진: 공식 설치 전경, Samuel Hartnett 촬영, 작가 제공.",
+          "insight": {
+            "mechanism": "여러 해 모은 수중 영상과 현장 녹음을 통해 물·돌·비인간 생명의 관계를 감각화한다. 물고기와 갑각류의 다양한 성장 단계, 계절과 날씨의 차이를 함께 담는다.",
+            "whyNow": "오늘의 에너지 산업 아카이브 작업과 나란히 읽으면 자원 문제의 비용을 인간의 문서 밖, 살아 있는 하천의 시간으로 확장할 수 있다. 종료된 전시를 새로 개막한 신작처럼 다루지 않는다.",
+            "directorPoint": "강 전체를 장대한 항공 시점으로 요약하지 않고 하구 직전의 작은 구간에 시간을 축적한다. 채널 수보다 어디에 오래 머무는지가 생태적 시점을 만든다는 독해다.",
+            "critique": "아름다운 수중 이미지와 몰입 음향만 남으면 hapū의 돌봄 권한과 입법 실패에 대한 비판이 배경으로 물러날 수 있다. 생태의 미감과 물을 관리할 권리를 분리하지 않아야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "공간음향",
+              "프로젝션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "아오테아로아 뉴질랜드",
+            "region": "오세아니아",
+            "venue": "Govett-Brewster, 뉴플리머스(2026년 7월 종료)"
+          },
+          "host": "govettbrewster.com",
+          "image": "images/2026-10-23-06.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "답변이 매끄러워도 만남은 같은가 — 두 대화를 한 공간에 놓는 법",
+        "sections": [
+          {
+            "heading": "한 사람의 목소리를 두 번 만나다",
+            "body": "Carrie Sijia Wang은 뉴욕 실험극장의 연극인 9명과 작업했다. 참여자는 작가의 대화 스타일을 모방한 챗봇과 타이핑으로 이야기한 뒤, 작가 본인을 만나 대화한다. 텍스트 기록과 영상은 나란히 놓인다. 여기서 중요한 것은 AI가 인간을 얼마나 그럴듯하게 흉내 내는가만이 아니다. 대화의 상대를 알고 있다고 느끼는 순간과, 실제로 한 공간을 나누는 순간의 차이를 관객이 비교할 수 있다는 점이다."
+          },
+          {
+            "heading": "비교를 위해 차이를 지우지 않는다",
+            "body": "작가의 설명은 챗봇의 거의 지체 없는 답변과 인간 사이의 복잡하고 매끄럽지 않은 상호작용을 대비한다. 그러나 문자와 영상은 동일한 측정 도구가 아니다. 얼굴과 목소리가 있는 기록에는 타이핑 로그와 다른 정보가 들어간다. 따라서 이 설치는 인간의 우월성을 수치로 입증하는 실험보다, 대화의 어떤 층이 기록 방식에 따라 보이거나 사라지는지 묻는 장치로 읽는 편이 정확하다."
+          },
+          {
+            "heading": "작가의 이전 질문에서 오늘의 관계로",
+            "body": "2020년 브라우저 작업 An Interview with ALEX는 관객을 가상의 AI 인사 담당자 앞에 세웠다. 게임과 평가, 감시가 노동을 어떻게 조직하는지 묻는 구조였다. 이번에는 제도적 면접의 권력에서 작가 자신의 대화 방식과 동료 예술가의 기억으로 자리를 옮긴다. 기계가 질문을 던진다는 공통점은 있지만, 비판의 중심은 점수 산출에서 누군가의 대리인과 관계를 맺는 일로 이동한다. 이는 두 공식 작품 설명을 연결한 편집적 해석이다."
+          },
+          {
+            "heading": "판본과 접근 조건까지 함께 읽기",
+            "body": "작가는 46분 단축판과 132분 장편 루프를 명시하고, IDFA는 132분으로 소개한다. 공식 사진은 뉴욕 La MaMa 설치 전경이며 아직 열리지 않은 11월 IDFA 현장 사진이 아니다. 긴 대화의 병치는 충분히 머물 때 비교를 가능하게 하지만, 잠깐 지나가는 관객에게는 인간의 얼굴만 더 오래 남을 수도 있다. 두 기록에 어느 정도의 시간과 주의를 나눌 수 있는지 역시 전시 설계의 질문이다."
+          }
+        ],
+        "keywords": [
+          "대리 발화",
+          "대화의 매체",
+          "실험극장",
+          "AI와 관계",
+          "병치"
+        ],
+        "sources": [
+          {
+            "label": "작가 공식 작품 설명·판본·La MaMa 설치 사진",
+            "url": "https://carriesijiawang.com/portfolio_page/interviews-with-two-strangers/"
+          },
+          {
+            "label": "IDFA 2026 작품 소개·크레딧·132분 판본",
+            "url": "https://festival.idfa.nl/en/film/f727c0c3-2272-4e48-a689-992042acad92/interviews-with-two-strangers/"
+          },
+          {
+            "label": "작가 공식 An Interview with ALEX (2020)",
+            "url": "https://carriesijiawang.com/portfolio_page/an-interview-with-alex/"
+          },
+          {
+            "label": "IDFA 2026 행사 일정",
+            "url": "https://festival.idfa.nl/en/idfa-2026-2/"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "An Interview with ALEX",
+            "year": "2020",
+            "relation": "가상 AI 면접의 평가·감시에서, 작가 자신의 대화 스타일을 대리하는 관계의 문제로 옮겨 간다."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-22",
       "title": "열리지 않는 동굴과 닳아가는 해안 — 감각의 권한을 묻는 여섯 작업",
       "summary": "접근할 수 없는 박쥐의 동굴, 표준을 통과하는 이미지, 모래 채굴 이후의 가상 해안, 미술관 외벽을 도는 몸, AI가 만드는 향, 돔을 채우는 시간의 층. 네 권역의 작업을 통해 관객에게 무엇을 허용하고 무엇을 남겨두는지 살핀다. 제작 연도와 현재 전시, 출시 예정 상태를 구분해 읽는다.",
@@ -16124,6 +16436,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-20T04:18:22Z",
+  "generatedAt": "2026-10-23T01:08:26.000Z",
   "schemaVersion": 2
 }
