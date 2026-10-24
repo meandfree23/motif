@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -182,6 +182,10 @@
     {
       "date": "2026-10-24",
       "note": "Latest 6개·4권역과 복수 거점 작가 1명, Focus Our Listenings. 이전 60호와 schemaVersion/generatedAt, 최신 mission/editorial_rules/dedup_policy/taste_profile 보존. 2023 게임 재전시·2025 영상·2026 발표를 구분하고, 미국 현지 개막일과 한국 발행일 차이 명시. SAM 5월 종료 및 BioArt Society 8월 상영을 현재 행사로 표기하지 않음. 공식 이미지 6장 실제 확인·축소 self-host. 후보 gate FAIL 0 WARN 0, 최종 날짜별 gate 및 SHA lease를 적용."
+    },
+    {
+      "date": "2026-10-25",
+      "note": "Latest 6개·5권역, Shifting Connections Focus. 이전 61호와 최신 큐레이터 정책·스키마 메타데이터 보존. 2025 IDFA 표기와 2026 타이베이 발표/10인·약10분, IDFA12분 버전 차이 명시. Escape의 작가 SXSW 소개와 IDFA 초연 표기가 달라 최초 공개 단정 보류; 사진은 공식 SXSW 무대. Monisme 2023/10월27일 예정 상영과 관람 경고 유지. The Subterranean Imprint Archive 2021–23, Listening Air 2019–23 및 종료 코치 전시는 새 제작/현재 전시로 포장하지 않음. 후보 FAIL0/WARN0. 일요일 기존 Signals7개 검토·근거10건 보강·권역 재계산; 실제 과학 장비 추가 근거0건은 임의로 보강하지 않음. Toolkit2장 추가. 공식 작품/참여/설치 사진6장 직접 확인·축소 self-host."
     }
   ],
   "source_notes": [
@@ -240,6 +244,10 @@
     {
       "date": "2026-10-24",
       "note": "Our Listenings: HNF 프로젝트와 MUAC 공식 전시(2026.9.5–2027.2.14), Imane Farès 작가 약력(과들루프 기반), Hermès La Verrière Musa Nuit 2020 원문 확인. 이미지는 MUAC 이미지 다운로드 제한과 별개로 HNF가 작품 스틸/작가 제공으로 명시한 공식 프리뷰를 사용: https://static.wixstatic.com/media/bc92f6_1cad2bf140644fcba7c15300db9d0a16~mv2.jpg . Nobody Knows For Certain: 작가 작품/게임플레이 still3 + https://jameelartscentre.org/whats-on/nobody-knows-for-certain-afrah-shafiq/ (2023 제작·두바이 11월 예정·고아 기반). Ghazal: IDFA 작품과 https://dubai.mutek.org/en/artists/ghazalmajidi (밴쿠버 기반). Katpatat: IDFA 작품/크레딧·1991 선행실험 구분. Hao: MIT 작품·현재 윈난/베를린 복수 거점이어서 단일 region을 억지 분류하지 않고 null. Mori Collection021로 2025 제작과 54:41 확인. Plantation Tragedy: BioArt Society 영화 프로그램, SAM An Endless Harvest/영문 룸시트, https://www.leeumhoam.org/hoam/program/1759 (공식 작가 대담·대표 영상·욕야카르타 거점), https://palaisdetokyo.com/en/exposition/art-spectrum-2026/ (현재 참여 일정) 대조. SAM은 전체 설치의 공식 기록 사진을 사용하고 종료 사실 명시. 사진/스틸 권리는 원 작가·기관·갤러리에 있으며 원본 URL·크레딧을 보존한 작품 소개용 축소 프리뷰로만 제시. 포괄적 라이선스나 소유권을 주장하지 않음."
+    },
+    {
+      "date": "2026-10-25",
+      "note": "Shifting Connections: https://www.vmstudio.tw/shifting-connections + IDFA 작품 + TFAM 공식 XR 참여 PDF(5.16–9.20 종료) 대조. 사진 alt에 楊惟中 촬영 명시, 2026 미술관 참여 장면. 계보 Traversing the Mist는 https://www.vmstudio.tw/travering-the-mist 에 2023 IDFA 세계초연과6DoF 다인경험 확인. Color Machine: https://joanielemercier.com/thresholds-at-hek-basel/ 의 해당 작품 소제목 직후 사진과19거울/모터/색광, HEK8.22–11.15, CCCB 작가소개 브뤼셀 기반 확인. Escape: IDFA 작품·스틸과 https://www.lucasrizzotto.com/projects 및 홈의 뉴욕 기반/2026 SXSW 소개 대조, 첫공개 표기 충돌은 단정하지 않고 본문에 남김. Monisme: ACMI 작품별 페이지가115분·2023·2026.10.27 일정·감독대화·성폭력표현경고·©RiarRizaldi 스틸·인도네시아 기반 명시. Subterranean: https://francoisknoetze.com/subterranean-imprint-archive/ 와 Electric South, Vela Projects, 서울미디어시티비엔날레 2023 공식자료로2021/2021–23·6DoF·콜라주설치·작가크레딧 확인. 공식 작가 페이지 사진 메타데이터 ©DavidGallard 보존. Listening Air: RMZ의 코치 공식사진/2025.12.13–2026.3.31 종료, TanyaBonakdar 작품사양2019–2023, Timișoara2023 공식기관의 마이크-스피커/이동/항거노래, 작가공식약력 뭄바이 확인. 실제 과학계측이나 실시간 음성수집을 추정하지 않음. 이미지 저작권은 원 작가·촬영자·기관에 있으며 공식 작품소개 자료의 축소 프리뷰로 출처/크레딧을 보존하고 개방형 라이선스나 소유권을 주장하지 않음."
     }
   ],
   "dedup_policy": {

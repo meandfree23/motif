@@ -1,6 +1,319 @@
 {
   "issues": [
     {
+      "date": "2026-10-25",
+      "title": "몸이 모이면 장면의 주인이 바뀐다 — 연결과 목소리의 여섯 형식",
+      "summary": "같은 VR 공간을 짜는 몸, 거울에 나뉘는 반사, 극장의 집단 선택, 화산을 둘러싼 세계관, 기술의 광물사, 이동하는 연대의 노래. 다섯 권역의 작업을 통해 참여의 형식과 그 아래 남는 역사적 조건을 함께 읽는다. 현재·예정 전시와 과거 작업 리서치를 구분한다.",
+      "crosscurrent": {
+        "note": "Shifting Connections가 관객을 하나의 가상 관계망으로 묶는다면, The Subterranean Imprint Archive는 그 경험을 가능하게 하는 기술이 어떤 자원과 역사 위에 놓였는지 되묻는다. 서로를 본다는 감각과 연결의 물질적 조건을 함께 놓으면, 몰입을 인간관계의 해결책으로 곧바로 선언하기 어려워진다.",
+        "itemIds": [
+          "2026-10-25-01",
+          "2026-10-25-05"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-25-01",
+          "title": "변동하는 연결",
+          "originalTitle": "Shifting Connections",
+          "creator": "Chou Tung-Yen (周東彥)",
+          "url": "https://www.vmstudio.tw/shifting-connections",
+          "imageFallback": "https://static.wixstatic.com/media/5fd36e_ffb6de82d85a4762aa7419aa1206bba0~mv2.jpg",
+          "publishedAt": "2025 (2026 전시·투어)",
+          "description": "여러 관객의 몸이 점·선·노드가 되어 하나의 가상 공간을 짜는 집단 XR이다. IDFA는 2025년작·12분으로, 제작팀은 2026년 타이베이 전시의 10인·약 10분 구성을 설명한다. 타이베이 전시는 9월 종료, IDFA 발표는 11월 예정이다. 사진: 제작팀 공식 참여 장면, 楊惟中 촬영.",
+          "insight": {
+            "mechanism": "참여자의 움직임에 따라 가상 선이 연결되고 풀리며 재조직된다. 제작팀의 전시 구성에는 VR 내부 영상을 바깥으로 투사해 비착용 관객도 집단의 움직임을 볼 수 있는 관람석이 있다.",
+            "whyNow": "개인용 헤드셋을 혼자 몰입하는 장비로만 쓰지 않고, 다른 사람이 있어야 성립하는 공연의 조건으로 바꾼다. 11월 IDFA 네덜란드 초연을 앞둔 공식 자료 기반 소개다.",
+            "directorPoint": "인물의 외형을 정교하게 복제하는 대신 관계를 나타내는 선을 남긴다. 몸 하나의 행동이 타인 사이의 거리와 연결을 바꾸도록 하는 규칙이 장면의 중심이다.",
+            "critique": "기하학적으로 연결된다는 감각과 실제 사회적 연대는 다르다. 참여자 간 이동 능력과 체험 속도의 차이, 헤드셋을 쓰지 않는 관객의 위치를 함께 봐야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "센서·인터랙션",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "도시·공동체",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "대만",
+            "region": "동아시아",
+            "venue": "타이베이시립미술관(9월 종료) / IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "host": "www.vmstudio.tw",
+          "image": "images/2026-10-25-01.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-25-02",
+          "title": "컬러 머신",
+          "originalTitle": "The Color Machine",
+          "creator": "Joanie Lemercier · Juliette Bibasse (Studio Lemercier)",
+          "url": "https://joanielemercier.com/thresholds-at-hek-basel/",
+          "imageFallback": "https://i0.wp.com/joanielemercier.com/wp-content/uploads/2026/09/PXL_20260824_164510497.jpg?resize=771%2C1024&ssl=1",
+          "publishedAt": "2026",
+          "description": "19개 거울의 구조에 색광과 모터를 결합해 관객과 주변 공간의 반사를 천천히 재배열하는 키네틱 조각이다. Solar Concentrator에서 발전한 작업으로, 태양광 수집 장치와 현재 전시의 색광 구동을 혼동하지 않는다. HEK 전시는 11월 15일까지. 사진: Studio Lemercier 공식 설치 기록.",
+          "insight": {
+            "mechanism": "나무 구조와 커스텀 전자 장치의 모터가 거울의 방향을 바꾸면서 여러 색광의 반사가 변한다. 인물과 주변 공간이 같은 반사면에서 분절되고 합쳐진다. 관객 추적 센서가 작동한다는 근거는 없다.",
+            "whyNow": "현재 HEK의 Thresholds에서 기술의 결과뿐 아니라 재료·노동·한계를 드러내는 작업군 안에 놓인다. 에임스의 Do-Nothing Machine을 참조하는, 생산 목적 없이 경험을 만드는 기계라는 작가 설명이 출발점이다.",
+            "directorPoint": "새 영상을 계속 생성하는 대신 거울의 각도 하나로 인물과 색면의 구성을 바꾼다. 움직임의 원리를 노출한 채 같은 공간이 다르게 보이게 하는 방식이다.",
+            "critique": "단순하거나 저렴한 구조가 자동으로 낮은 환경 부담을 보증하지는 않는다. 색과 반사의 쾌감이 전자 부품·조명·전시 운영의 에너지 문제를 대신 설명하게 해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "기후·환경"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "브뤼셀, 벨기에",
+            "region": "유럽",
+            "venue": "HEK, 바젤/뮌헨슈타인, 스위스(8.22–11.15)"
+          },
+          "host": "joanielemercier.com",
+          "image": "images/2026-10-25-02.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-25-03",
+          "title": "인터넷 탈출",
+          "originalTitle": "Escape the Internet",
+          "creator": "Lucas Rizzotto",
+          "url": "https://festival.idfa.nl/en/film/62b94866-264e-4b00-8360-91bfa62c035f/escape-the-internet/",
+          "imageFallback": "https://my.idfa.nl/image-transforms/72775957-e412-4c2f-827a-16aace983e4c/2500.jpeg",
+          "publishedAt": "2026",
+          "description": "객석 전체가 휴대전화로 캐릭터를 만들고 극장 대형 화면의 게임을 함께 진행하는 110분 공연형 경험이다. 진행자가 협동·음악·도덕적 선택의 장면을 이끈다. 11월 IDFA 발표 예정. 사진은 공식 제공된 SXSW 무대 기록이며, 아직 열리지 않은 IDFA 현장 사진이 아니다.",
+          "insight": {
+            "mechanism": "각자의 휴대전화에서 만든 캐릭터가 같은 스크린으로 모인다. 여러 미니게임과 선택을 진행자가 이어가며 관객 사이의 행동을 공연의 사건으로 만든다.",
+            "whyNow": "AI 재난과 인터넷 피로를 희극의 설정으로 삼되 해결의 중심을 같은 방의 사람들에게 둔다. 작가의 2026 SXSW 소개와 IDFA의 초연 표기가 달라 최초 공개 여부는 단정하지 않는다.",
+            "directorPoint": "개인 화면은 입력 창구로 줄이고 결과와 선택의 부담은 공통 스크린으로 돌린다. 콘텐츠 속 사건뿐 아니라 옆자리 사람이 무엇을 선택했는지가 긴장을 만든다.",
+            "critique": "휴대전화와 진행자의 리듬에 따라가는 집단 체험이 곧 자발적 공동체는 아니다. 참여를 원치 않거나 기기 이용이 어려운 관객의 선택권과 집단 압력을 함께 물어야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "센서·인터랙션",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "놀이·게임",
+              "도시·공동체",
+              "인간-기계 관계"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": "뉴욕, 미국",
+            "region": "북미",
+            "venue": "IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-25-03.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-25-04",
+          "title": "모니즘",
+          "originalTitle": "Monisme",
+          "creator": "Riar Rizaldi",
+          "url": "https://www.acmi.net.au/whats-on/monisme/",
+          "imageFallback": "https://acmi-website-media-prod.s3.amazonaws.com/media/images/Monisme_2160x1023.original.png",
+          "publishedAt": "2023 (2026 ACMI 상영 예정)",
+          "description": "인도네시아 므라피 화산과 관계 맺는 사람들의 세계를 다큐멘터리와 허구 사이에서 엮은 115분 영화다. 화산학자·모래 광부·신비가와 함께 이야기를 만들었다. 10월 27일 멜버른 ACMI 상영과 감독 대화가 예정돼 있다. 이미지: ACMI 제공 작품 스틸, © Riar Rizaldi.",
+          "insight": {
+            "mechanism": "전문 배우와 비배우가 화산의 과학적 지식, 생계와 영적 관계를 연기한다. 실제로 일어난 일과 일어날 수 있었던 상황을 넘나들어 단일한 설명의 우위를 흔든다.",
+            "whyNow": "2023년작의 이번 주 상영을 계기로 자원 채굴을 다루는 오늘의 VR 아카이브와 나란히 읽는다. 신작 제작 소식이나 상영 후 관람평으로 제시하지 않는다.",
+            "directorPoint": "한 장소를 설명하는 여러 전문가의 인터뷰로 분리하지 않고, 서로 다른 세계관이 같은 산을 두고 부딪히는 허구적 상황으로 조직한다.",
+            "critique": "과학·노동·신앙을 섞는 형식이 각 지식의 차이와 권력관계를 흐릴 수 있다. ACMI는 강도 높은 성폭력 표현을 경고하므로 관람 추천에서도 작품의 불편함을 단순한 실험성으로 미화하지 않아야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "노동·산업",
+              "비인간·생태",
+              "의식·영성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "인도네시아",
+            "region": "동남·남아시아",
+            "venue": "ACMI, 멜버른, 호주(10월 27일 상영 예정)"
+          },
+          "host": "www.acmi.net.au",
+          "image": "images/2026-10-25-04.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-25-05",
+          "title": "지하 각인 아카이브",
+          "originalTitle": "The Subterranean Imprint Archive",
+          "creator": "Francois Knoetze · Amy Louise Wilson (Lo-Def Film Factory)",
+          "url": "https://francoisknoetze.com/subterranean-imprint-archive/",
+          "imageFallback": "https://francoisknoetze.com/wp-content/uploads/2023/04/ufa_lelieuunique_lo-deffilmfactory_e294ace28c90davidgallard_29.jpg",
+          "publishedAt": "2021–2023 (기존 작업 리서치)",
+          "description": "콩고민주공화국 신콜로브웨의 우라늄 광산에서 출발해 중·남부 아프리카의 기술정치사를 재구성하는 6DoF VR·설치 프로젝트다. 작가는 2021년 시작, 서울미디어시티비엔날레는 2021–2023으로 기록한다. 오늘 새 전시 소식이 아닌 아카이브 독해다. 사진: Le Lieu Unique 설치, © David Gallard, 작가 공식 제공.",
+          "insight": {
+            "mechanism": "아카이브 리서치, 영상·콜라주·조각 설치와 VR을 엮은 대항 아카이브다. 미래 기술의 출발점에 놓인 광물 채굴과 식민적 권력관계를 다시 서사의 중심으로 가져온다.",
+            "whyNow": "기술을 비물질적 경험으로 소비하는 오늘의 XR 작업 옆에서, 장비와 이미지 이전의 자원·노동·역사를 되묻는 기준작으로 선정했다. 2026년 신규 제작이나 현재 상영을 주장하지 않는다.",
+            "directorPoint": "첨단 인터페이스의 표면을 매끈하게 정리하기보다 낡은 전자기기와 콜라주를 물질적 환경으로 남긴다. '미래'를 과거의 잔해와 끊을 수 없게 만드는 구성이다.",
+            "critique": "서구 중심 역사를 뒤집는 강력한 상징도 아프리카 내부의 서로 다른 경험을 하나로 묶을 수 있다. 우라늄의 이동을 다룬 허구·콜라주와 개별 사료의 증거 수준을 구분해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "노동·산업",
+              "전쟁·폭력"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "남아프리카공화국(케이프타운에서 결성)",
+            "region": "아프리카",
+            "venue": "공식 아카이브 / 사진은 Le Lieu Unique, 낭트의 과거 설치"
+          },
+          "host": "francoisknoetze.com",
+          "image": "images/2026-10-25-05.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-25-06",
+          "title": "듣는 공기",
+          "originalTitle": "Listening Air",
+          "creator": "Shilpa Gupta",
+          "url": "https://www.rmzfoundation.org/our-collaborations/listening-air-by-shilpa-gupta/",
+          "imageFallback": "https://www.rmzfoundation.org/wp-content/uploads/2026/01/listening-air-by-shilpa-gupta-1.jpg",
+          "publishedAt": "2019–2023 (2025–26 코치 전시 기록)",
+          "description": "목소리를 받는 마이크를 소리를 내는 스피커로 바꾸고, 어두운 방에서 이동시키는 키네틱 사운드 설치다. 서로 다른 장소와 세대를 건너온 연대의 노래가 관객 사이를 지난다. 소개하는 코치 전시는 3월 31일 종료했다. 사진: 전시 지원기관 RMZ Foundation의 공식 설치 기록.",
+          "insight": {
+            "mechanism": "스피커를 단 마이크와 조명, 금속 받침의 인쇄 텍스트가 하나의 듣는 공간을 만든다. 고정된 정면 무대 대신 움직이는 발음체가 듣는 위치와 거리를 바꾼다. 관객의 실시간 음성 수집 장치라고 설명하지 않는다.",
+            "whyNow": "일요일 Signals의 매달린 배열·공간 악기 흐름을 남아시아의 목소리와 정치적 기억으로 확장해 읽는다. 2026년 신작이나 현재 코치에서 관람 가능한 전시는 아니다.",
+            "directorPoint": "익숙한 장치가 수행할 것으로 예상되는 역할을 뒤집는다. 관객은 마이크 앞에서 발언하는 대신 이미 그곳을 지나온 목소리를 듣는 자리에 서게 된다.",
+            "critique": "항거의 노래가 분위기 좋은 음향으로만 들리면 각 언어와 투쟁의 맥락이 지워질 수 있다. 다성적 공간이 실제 발언권의 회복을 보증하지는 않는다는 한계를 남겨야 한다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "공간음향",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "언어·번역",
+              "기억·아카이브",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "뭄바이, 인도",
+            "region": "동남·남아시아",
+            "venue": "Ginger House Museum Hotel, 코치(2025.12.13–2026.3.31, 종료)"
+          },
+          "host": "www.rmzfoundation.org",
+          "image": "images/2026-10-25-06.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "헤드셋을 쓴 개인들에서 하나의 공연으로 — Shifting Connections의 두 관객",
+        "sections": [
+          {
+            "heading": "정교한 아바타 대신 연결의 규칙을 남긴다",
+            "body": "Shifting Connections는 얼굴과 옷을 사실적으로 재현하는 대신 몸을 점·선·노드로 줄인다. IDFA의 설명에서 선은 다른 참여자의 점과 연결되거나 풀리며 움직임에 따라 다시 구성된다. 여기서 정체성을 모두 지웠다고 단정할 수는 없다. 다만 관객이 '내 캐릭터가 어떻게 생겼는가'보다 '내 움직임이 타인과 어떤 관계를 만드는가'를 먼저 보게 한다는 편집적 독해가 가능하다."
+          },
+          {
+            "heading": "안에서 참여하고 밖에서 보는 두 가지 관객",
+            "body": "제작팀이 공개한 미술관 구성에는 VR 내부 영상을 외부로 투사하는 관람석이 있다. 헤드셋 속에서는 선의 관계를 바꾸지만, 바깥에서는 헤드셋을 쓴 실제 몸들이 망설이고 다가가는 공연을 본다. 가상 화면과 실제 몸의 움직임은 서로를 완전히 설명하지 않는다. 이 간격이 XR을 개인 체험 부스에서 집단적 현장으로 옮기는 중요한 장치다. 향후 모든 투어 장소가 같은 관람석을 갖는다는 뜻은 아니다."
+          },
+          {
+            "heading": "하나의 작품에도 서로 다른 시간이 기록된다",
+            "body": "IDFA는 작품 연도를 2025년, 길이를 12분으로 표기한다. 제작팀은 2026년 타이베이 전시에서 열 명이 약 10분을 함께하는 구성을 소개하고, 미술관의 공식 참여 안내는 5월 16일–9월 20일 일정을 명시한다. 따라서 10월 현재 타이베이에서 진행 중이라고 쓰거나, 11월 예정인 네덜란드 발표를 최초 제작으로 바꿔 말해서는 안 된다. 버전과 발표 장소의 차이를 남기는 것이 체험을 과장하지 않는 소개의 출발점이다."
+          },
+          {
+            "heading": "친밀한 서사에서 추상적 공동체로 — 얻은 것과 남은 질문",
+            "body": "2023년 Traversing the Mist는 초현실적 게이 사우나를 함께 걷는 6DoF 경험이었다. 이번 작업은 구체적 인물과 장소 대신 기하학적 관계에 집중한다. 두 작품을 비교하면 집단 체험의 관심이 서사적 친밀함에서 공동으로 만드는 형식으로 이동했다고 읽을 수 있다. 그러나 추상화가 곧 보편적 포용은 아니다. 움직이는 속도가 다른 사람, 헤드셋을 쓸 수 없는 사람, 참여보다 관찰을 원하는 사람도 관계망의 일부가 될 수 있는지는 실제 운영에서 확인해야 한다."
+          }
+        ],
+        "keywords": [
+          "집단 XR",
+          "관람석",
+          "신체의 관계망",
+          "가상 안무",
+          "버전과 기록"
+        ],
+        "sources": [
+          {
+            "label": "Very Theatre — 작품·제작진·2026 미술관 구성",
+            "url": "https://www.vmstudio.tw/shifting-connections"
+          },
+          {
+            "label": "IDFA — Shifting Connections, 연도·12분·11월 발표",
+            "url": "https://festival.idfa.nl/en/film/16fdb5c8-bfd6-4db1-9e44-79320c43afce/shifting-connections/"
+          },
+          {
+            "label": "타이베이시립미술관 — 공식 XR 참여 안내",
+            "url": "https://www.tfam.museum/File/files/02exhibition/260504_Entanglements/%E7%8B%A0%E5%8A%87%E5%A0%B4_%E8%AE%8A%E5%8B%95%E7%9A%84%E9%80%A3%E7%B5%90.pdf"
+          },
+          {
+            "label": "Very Theatre — Traversing the Mist, 2023 초연",
+            "url": "https://www.vmstudio.tw/travering-the-mist"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Traversing the Mist",
+            "year": "2023",
+            "relation": "같은 작가의 6DoF 집단 체험. 구체적 욕망과 장소를 공유하던 방식에서, 점과 선으로 관계를 공동 구성하는 방식으로의 이동을 비교한다(편집적 독해)."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-24",
       "title": "함께 듣고 함께 움직이는 일 — 누가 관계의 규칙을 정하는가",
       "summary": "물을 듣는 공동 창작, 책을 찾아가는 게임, 전쟁 사진으로 된 반사, 여러 손이 조작하는 패들, 상실을 수행하는 몸, 생산을 멈추는 식물. 네 권역과 두 지역을 오가는 작가의 여섯 작업에서 참여가 관계를 바꾸는 조건을 살핀다. 현재 전시·예정 발표·종료된 설치 기록을 구분한다.",
@@ -16746,6 +17059,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-23T15:42:00.000Z",
+  "generatedAt": "2026-10-24T15:39:00.000Z",
   "schemaVersion": 2
 }
