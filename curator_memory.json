@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -186,6 +186,10 @@
     {
       "date": "2026-10-25",
       "note": "Latest 6개·5권역, Shifting Connections Focus. 이전 61호와 최신 큐레이터 정책·스키마 메타데이터 보존. 2025 IDFA 표기와 2026 타이베이 발표/10인·약10분, IDFA12분 버전 차이 명시. Escape의 작가 SXSW 소개와 IDFA 초연 표기가 달라 최초 공개 단정 보류; 사진은 공식 SXSW 무대. Monisme 2023/10월27일 예정 상영과 관람 경고 유지. The Subterranean Imprint Archive 2021–23, Listening Air 2019–23 및 종료 코치 전시는 새 제작/현재 전시로 포장하지 않음. 후보 FAIL0/WARN0. 일요일 기존 Signals7개 검토·근거10건 보강·권역 재계산; 실제 과학 장비 추가 근거0건은 임의로 보강하지 않음. Toolkit2장 추가. 공식 작품/참여/설치 사진6장 직접 확인·축소 self-host."
+    },
+    {
+      "date": "2026-10-26",
+      "note": "Latest6개·3권역, In Concert Focus4단락·4공식출처. 이전62호와schemaVersion/루트메타데이터, 최신 mission/editorial_rules/dedup_policy/taste_profile 보존. Cao Fei Dash9.28종료·Mona2022년작2026재전시·LenLye1977/2016소장처표기와12월예정전시 구분. Len의권역은출생국/현재전시장이아닌원작당시뉴욕작업거점으로북미 분류하고 현지제작협업 명시. Yuko공식가이드로세회로구분·월요일휴관·10.8공연종료 유지. Palimpsest2024지원/2026공개와 Noa15분설치/20분풀돔 별도판 구분. 후보FAIL0/WARN0. 개인문서정보가 포함된 자료사진 후보 대신 실제 게임화면을 확인한Palimpsest선정. 이미지6개공식작품/설치기록 직접검증·축소self-host. 월요일회차로기존일요일Signals/Toolkit보존."
     }
   ],
   "source_notes": [
@@ -248,6 +252,10 @@
     {
       "date": "2026-10-25",
       "note": "Shifting Connections: https://www.vmstudio.tw/shifting-connections + IDFA 작품 + TFAM 공식 XR 참여 PDF(5.16–9.20 종료) 대조. 사진 alt에 楊惟中 촬영 명시, 2026 미술관 참여 장면. 계보 Traversing the Mist는 https://www.vmstudio.tw/travering-the-mist 에 2023 IDFA 세계초연과6DoF 다인경험 확인. Color Machine: https://joanielemercier.com/thresholds-at-hek-basel/ 의 해당 작품 소제목 직후 사진과19거울/모터/색광, HEK8.22–11.15, CCCB 작가소개 브뤼셀 기반 확인. Escape: IDFA 작품·스틸과 https://www.lucasrizzotto.com/projects 및 홈의 뉴욕 기반/2026 SXSW 소개 대조, 첫공개 표기 충돌은 단정하지 않고 본문에 남김. Monisme: ACMI 작품별 페이지가115분·2023·2026.10.27 일정·감독대화·성폭력표현경고·©RiarRizaldi 스틸·인도네시아 기반 명시. Subterranean: https://francoisknoetze.com/subterranean-imprint-archive/ 와 Electric South, Vela Projects, 서울미디어시티비엔날레 2023 공식자료로2021/2021–23·6DoF·콜라주설치·작가크레딧 확인. 공식 작가 페이지 사진 메타데이터 ©DavidGallard 보존. Listening Air: RMZ의 코치 공식사진/2025.12.13–2026.3.31 종료, TanyaBonakdar 작품사양2019–2023, Timișoara2023 공식기관의 마이크-스피커/이동/항거노래, 작가공식약력 뭄바이 확인. 실제 과학계측이나 실시간 음성수집을 추정하지 않음. 이미지 저작권은 원 작가·촬영자·기관에 있으며 공식 작품소개 자료의 축소 프리뷰로 출처/크레딧을 보존하고 개방형 라이선스나 소유권을 주장하지 않음."
+    },
+    {
+      "date": "2026-10-26",
+      "note": "Yuko Mohri: https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert + 대형활자가이드 https://www.barbican.org.uk/sites/default/files/documents/2026-10/261006%20Barbican%20Yuko%20Mohri%20large%20print%20guide%20final.pdf + Tanya Bonakdar Gallery 전시보도자료 + 10.8공연공식약력 대조. 회로별전기저항/바람접점/물방울연쇄반응, 연작Decomposition2021–/Moré2017–과사진기록2009–2021 확인. 사진©ThomasAdank/BarbicanCentre, Decomposition전경임명시. Cao Fei: Prada Dash공식프로젝트/2026보도자료/9.20공식대담(베이징거점)·전시종료9.28, 설치사진MartaMarinotti/FedericoFloriani/Prada. Mona: Prada작품페이지+영문가이드로all of a quiver2022·9층큐브·모터·접촉금지·런던거점 확인. 사진RobertoMarossi/Prada의2026설치. Len: https://govettbrewster.com/collection/77-1 작품사진·1977/2016표기·모터/두Twisters와Flip·뉴욕스튜디오/JohnMatthews제작, https://govettbrewster.com/exhibitions/2026/len-lye-energies 12.5개막예정 대조. Palimpsest: IDFA작품·공식게임화면+StudioBiarritz shared-realities+Stimuleringsfonds2024지원기록, Roux공식 https://rouxcoucou.fr/music/ 의네덜란드기반 확인(동명이인유리작가배제). Noa: IDFA15분작품/별도20분풀돔, 작가공식약력과AmsterdamArtsFund의암스테르담기반 확인. 미생물영상·음향을확인된범위로소개하고시식을일상섭취나안전보증으로추천하지않음. 모든사진권리는원권리자에게있으며출처URL·크레딧을보존한공식작품소개용축소프리뷰로사용;소유권이나포괄적개방라이선스를주장하지않음."
     }
   ],
   "dedup_policy": {

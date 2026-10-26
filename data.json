@@ -1,6 +1,327 @@
 {
   "issues": [
     {
+      "date": "2026-10-26",
+      "title": "고장과 붕괴를 지우지 않는 장면 — 물질이 시간을 만드는 여섯 작업",
+      "summary": "썩는 과일과 회수한 가로등, 농업의 기술사, 접히는 금속 탑, 강철의 운동, 변형되는 공통 영화, 흙이 되는 몸. 세 권역의 작업에서 완성된 결과보다 유지·변화·순환의 조건을 읽는다. 현재 전시와 종료·예정 발표, 제작 연도와 재전시를 나눈다.",
+      "crosscurrent": {
+        "note": "In Concert의 과일은 수분과 전기저항의 변화로 빛과 소리를 바꾼다. My Father is Turning into Soil는 흙 속 미생물 기록으로 죽음 이후의 물질적 연속성을 묻는다. 두 작업의 부패는 같은 효과가 아니다. 하나는 작동 회로의 입력이며, 다른 하나는 가족의 상실을 바라보는 관점이다.",
+        "itemIds": [
+          "2026-10-26-01",
+          "2026-10-26-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-26-01",
+          "title": "인 콘서트",
+          "originalTitle": "In Concert",
+          "creator": "Yuko Mohri (毛利悠子)",
+          "url": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert",
+          "imageFallback": "https://www.barbican.org.uk/sites/default/files/styles/hero_constrained_small_jpg/public/images/2026-10/14..jpg?itok=XIg9X_JE",
+          "publishedAt": "2026",
+          "description": "회수한 바비칸 가로등, 과일, 물과 생활 물건으로 빛·소리·움직임의 회로를 만드는 장소 반응형 프로젝트다. Decomposition, Urban Mining, Moré Moré (Leaky)의 2026년 구성이 함께 놓인다. 전시는 2027년 1월 24일까지지만 월요일은 휴관이다. 사진: Decomposition이 보이는 공식 설치 전경, © Thomas Adank / Barbican Centre.",
+          "insight": {
+            "mechanism": "과일의 수분 변화에 따른 전기저항을 빛과 소리로, 통풍구의 바람을 작은 금속 접점과 조명으로 연결한다. 다른 구간에서는 펌프로 순환하는 물방울이 발견한 물건과 악기의 연쇄 반응을 일으킨다.",
+            "whyNow": "건물의 개보수와 맞물린 커미션으로, 폐기될 물건을 완벽한 새 제품처럼 복원하기보다 흔들리고 새는 상태에서 다시 관계 맺게 한다. 10월 8일 별도 공연은 이미 끝났으며 상설 전시와 구분한다.",
+            "directorPoint": "장치의 배선·구멍·팬·펌프를 숨기지 않는다. 관객은 결과의 신비를 느끼면서도 그 결과를 만드는 일상의 부품을 함께 볼 수 있다.",
+            "critique": "우연처럼 보이는 결과도 작가가 만든 회로와 관리 조건 안에서 발생한다. 고장과 누수를 아름다운 효과로만 읽으면 실제 유지·수리 노동과 접근성의 문제는 다시 배경으로 밀릴 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "키네틱·기계장치",
+              "공간음향",
+              "라이트·LED"
+            ],
+            "theme": [
+              "돌봄·치유",
+              "노동·산업",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "도쿄, 일본",
+            "region": "동아시아",
+            "venue": "Barbican The Curve, 런던(10.1–2027.1.24, 월요일 휴관)"
+          },
+          "host": "www.barbican.org.uk",
+          "image": "images/2026-10-26-01.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-26-02",
+          "title": "대시",
+          "originalTitle": "Dash",
+          "creator": "Cao Fei (曹斐)",
+          "url": "https://www.fondazioneprada.org/project/cao-fei-dash/?lang=en",
+          "imageFallback": "https://www.fondazioneprada.org/wp-content/uploads/10-fondazione-pra_2-958x640.jpg",
+          "publishedAt": "2026 (9월 종료 전시 기록)",
+          "description": "중국과 동남아 농업 현장의 장기 리서치를 사진·영상 설치·VR·다큐멘터리·아카이브로 엮은 멀티미디어 프로젝트다. 스마트 농업의 효율과 그 뒤의 지식·노동 변화를 함께 본다. 밀라노 전시는 9월 28일 종료했다. 사진: 공식 영상 설치 전경, Marta Marinotti·Federico Floriani, Courtesy Fondazione Prada.",
+          "insight": {
+            "mechanism": "현장 조사와 인터뷰, 역사 자료를 영상과 가상 서사 옆에 배치한다. 센서와 알고리즘을 새 도구로만 보여주지 않고, 의례·토지·전통 경험과 충돌하는 시간의 층으로 다룬다.",
+            "whyNow": "오늘의 부패·순환·수리 작업과 연결해, 기술이 자연을 통제한다는 단선적 진보 서사를 다시 읽는 올해의 기준작으로 골랐다. 종료된 전시를 새 개막 소식으로 제시하지 않는다.",
+            "directorPoint": "농경을 도시의 반대편에 놓인 목가적 풍경으로 찍지 않고, 위성·데이터·노동·의례가 겹치는 기술적 현장으로 재구성한다.",
+            "critique": "거대한 연구 아카이브와 SF적 세계관이 농민의 서로 다른 이해관계를 하나의 미래상으로 묶을 수 있다. 자동화의 효율과 누가 토지·데이터를 통제하는지는 별개의 질문이다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "XR·AR·VR"
+            ],
+            "theme": [
+              "노동·산업",
+              "기억·아카이브",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "베이징, 중국",
+            "region": "동아시아",
+            "venue": "Fondazione Prada, 밀라노(4.9–9.28, 종료)"
+          },
+          "host": "www.fondazioneprada.org",
+          "image": "images/2026-10-26-02.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-26-03",
+          "title": "온통 떨리다",
+          "originalTitle": "all of a quiver",
+          "creator": "Mona Hatoum",
+          "url": "https://www.fondazioneprada.org/project/mona-hatoum-over-under-and-in-between/?lang=en",
+          "imageFallback": "https://www.fondazioneprada.org/wp-content/uploads/20-Fondazione-Prada_Mona-Hatoum-copy-959x640.jpg",
+          "publishedAt": "2022 (2026 재전시)",
+          "description": "아홉 층의 열린 금속 큐브가 무너질 듯 접혔다가 다시 서는 키네틱 설치다. 알루미늄 관·강철 경첩·전동 모터·케이블이 격자를 흔들리는 몸으로 바꾼다. 밀라노 전시는 11월 9일까지. 사진: 2026 공식 설치 기록, Roberto Marossi, Courtesy Fondazione Prada.",
+          "insight": {
+            "mechanism": "바닥에 선 모듈형 구조가 모터의 구동으로 하강·접힘·재직립을 반복하고 금속의 삐걱거림을 낸다. 실제 붕괴나 관객의 움직임을 추적하는 장치가 아니라 제어된 운동이다.",
+            "whyNow": "2022년작을 올해 Cisterna의 높이와 부피에 다시 놓은 사례다. 정돈된 미니멀리즘의 형태가 어떻게 불안과 취약성의 신체 경험으로 바뀌는지 본다.",
+            "directorPoint": "파괴 장면을 편집해 보여주는 대신, 무너짐과 회복을 한 구조물의 연속된 시간으로 만든다. 소리는 화면 효과가 아니라 재료와 움직임의 존재감을 강화한다.",
+            "critique": "반복되는 회복을 재난 이후의 실제 복구와 동일시할 수는 없다. 위험의 긴장을 즐기는 관람과 안전 관리는 구분해야 하며, 공식 안내는 움직이는 작품을 만지지 말라고 명시한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "신체·정체성",
+              "전쟁·폭력"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "런던, 영국",
+            "region": "유럽",
+            "venue": "Fondazione Prada Cisterna, 밀라노(1.29–11.9)"
+          },
+          "host": "www.fondazioneprada.org",
+          "image": "images/2026-10-26-03.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-26-04",
+          "title": "트릴로지 — 하나의 플립과 두 트위스터",
+          "originalTitle": "Trilogy (A Flip and Two Twisters)",
+          "creator": "Len Lye",
+          "url": "https://govettbrewster.com/collection/77-1",
+          "imageFallback": "https://collection-api.govettbrewster.co.nz/records/images/xlarge/315/a0bf37707ed1d84f074d949e0ac5413ddcfdd880.jpg",
+          "publishedAt": "1977 / 2016 (소장처 표기)",
+          "description": "두 개의 매달린 강철 띠와 중앙의 뒤집히는 루프를 모터로 움직이는 대표적인 금속 운동 조각이다. 1977년 구상·위촉의 역사와 소장처가 함께 적은 2016년을 구분해 표기한다. 12월 5일 개막 예정인 Energies의 중심 작품이다. 사진: 미술관 소장품 공식 기록으로, 예정 전시의 현장 사진이 아니다.",
+          "insight": {
+            "mechanism": "양옆 Twisters의 회전과 급정지, 중앙 Flip의 뒤집힘이 긴장과 이완을 반복한다. 금속 자체의 울림과 움직임이 하나의 시간 기반 구성을 이룬다. 뉴플리머스 제작에 John Matthews가 참여했다.",
+            "whyNow": "12월 전시 예고를 통해, 센서 기반 설치 이전에도 모터·재료·소리만으로 관객의 몸과 관계를 설계했다는 계보를 읽는다. 신작이나 오늘 관람 가능한 전시라고 쓰지 않는다.",
+            "directorPoint": "신체를 닮은 형상을 만드는 대신 재료의 비틀림·반사·정지로 몸의 긴장을 전달한다. 움직임이 멈춘 뒤 남는 잔향도 구성의 일부다.",
+            "critique": "강한 물리적 에너지가 모든 관객에게 같은 쾌감을 주지는 않는다. 소장처의 감정적인 묘사를 실제 체험의 보편적 결과로 받아들이지 않으며, 원작·후대 제작 기록도 하나의 연도로 덮지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "뉴욕, 미국(원작 구상 당시) / 뉴질랜드에서 제작 협업",
+            "region": "북미",
+            "venue": "Govett-Brewster / Len Lye Centre, 뉴플리머스(Energies 12월 개막 예정)"
+          },
+          "host": "govettbrewster.com",
+          "image": "images/2026-10-26-04.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-26-05",
+          "title": "팔림프세스트",
+          "originalTitle": "Palimpsest",
+          "creator": "Guillaume Roux · Johan Delétang",
+          "url": "https://festival.idfa.nl/en/film/f05f65a1-b0e5-49ec-b0d3-cefb5c2edaf8/palimpsest/",
+          "imageFallback": "https://my.idfa.nl/image-transforms/5e0eb977-448d-4179-9cbf-8c5879aac1c7/2500.jpeg",
+          "publishedAt": "2026",
+          "description": "한 플레이어의 조작이 다른 관객들이 보는 영화의 장면과 시청각 상태를 바꾸는 20분 게임·설치·인터랙티브 영화다. 서로 다른 서사에서 떨어져 나온 네 존재가 이야기들을 단일 모델로 흡수하려는 데이터센터 네트워크에 쫓긴다. 11월 IDFA 발표 예정. 이미지: IDFA 공식 게임 화면.",
+          "insight": {
+            "mechanism": "네 캐릭터는 각각 게임 방식과 구술·문자·시각·디지털 서사 전통에 연결된다. 플레이어의 선택에 따라 장면이 나오거나 사라지고 이미지와 소리가 변형될 수 있다.",
+            "whyNow": "모든 이야기를 하나의 모델로 통합하려는 가상의 위협을, 관객 사이의 조작권과 관람권 차이로 체감하게 한다. 2024년 개발 지원 기록과 2026년 공개 표기를 구분한다.",
+            "directorPoint": "조작자의 실패가 조작 화면 안에 머무르지 않고 공통 영화의 상태로 번진다. 주변 관객도 타인의 행동에 결과를 맡긴다는 관계를 만드는 방식이다.",
+            "critique": "한 사람이 조작하고 여러 사람이 보는 구조는 공동 참여보다 권한의 집중이 될 수도 있다. 네 서사 전통을 캐릭터 네 개로 구분하는 도식이 실제 문화의 복잡성을 대신하지는 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "센서·인터랙션",
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "놀이·게임",
+              "AI·저자성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "네덜란드(Guillaume Roux), Johan Delétang 거점 미확인",
+            "region": "유럽",
+            "venue": "IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-26-05.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-26-06",
+          "title": "아버지는 흙이 되어 간다",
+          "originalTitle": "My Father is Turning into Soil",
+          "creator": "Noa Jansma",
+          "url": "https://festival.idfa.nl/en/film/637b5359-00b3-403b-80a8-88180447a5dc/my-father-is-turning-into-soil/",
+          "imageFallback": "https://my.idfa.nl/image-transforms/d8975bb7-c395-4e40-ae5c-7eaa997c2def/2500.jpeg",
+          "publishedAt": "2026",
+          "description": "2023년 아버지의 죽음 이후 무덤의 미생물을 생물학자인 형제 Mas Jansma와 기록해 만든 영상·사운드 설치다. 매트에 누워 흙의 영상을 보고 소리를 듣는다. IDFA의 이 버전은 15분이며 별도 풀돔판은 20분이다. 11월 공개 예정. 이미지: IDFA 공식 작품 스틸.",
+          "insight": {
+            "mechanism": "현미경 영상과 녹음된 소리를 관객이 몸을 눕히는 관람 방식에 연결한다. 프로그램에는 같은 흙에서 자란 작물의 시식도 포함되지만, 본문은 그 행위의 의미를 소개할 뿐 제조법이나 섭취 권장을 제공하지 않는다.",
+            "whyNow": "사후의 삶을 비물질적인 공간보다 지구의 대사와 연결해 묻는다. 11월 예정 프로그램이며, 시식이나 현장 체험을 이미 수행한 관람평으로 쓰지 않는다.",
+            "directorPoint": "슬픔을 인물의 표정으로만 전달하지 않고 미시적 생명과 느린 관람 자세로 옮긴다. 눈에 잘 보이지 않는 변화를 가족의 시간과 같은 장면 안에 놓는다.",
+            "critique": "대사의 연속성이 상실을 쉽게 해소해 주는 것은 아니다. 작품의 시식 제안을 일상적인 식품 안전의 보증으로 확대해서 읽을 수도 없으며, 참여를 원하지 않는 관객의 선택이 중요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "과학장비·실험"
+            ],
+            "theme": [
+              "비인간·생태",
+              "돌봄·치유",
+              "의식·영성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "암스테르담, 네덜란드",
+            "region": "유럽",
+            "venue": "IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-26-06.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "수리는 원래 상태로 돌려놓는 일일까 — In Concert가 만드는 불완전한 회로",
+        "sections": [
+          {
+            "heading": "하나의 신비가 아니라 서로 다른 세 가지 입력",
+            "body": "In Concert를 환경에 반응하는 설치라는 말로만 묶으면 실제 차이가 사라진다. Decomposition은 과일의 수분 변화가 만드는 전기저항을 빛과 소리로 옮긴다. Urban Mining은 통풍구의 바람에 금속 부품이 흔들려 접촉하는 조건으로 조명을 켠다. Moré Moré (Leaky)는 순환하는 물방울이 물건과 악기에 연쇄 반응을 만든다. 세 구간은 같은 생체 센서 시스템이 아니라 서로 다른 인과의 회로다."
+          },
+          {
+            "heading": "건물의 뒤편에서 돌아온 물건들",
+            "body": "이번 커미션은 바비칸 레지던시와 건물의 개보수 맥락에서 만들어졌다. 회수된 가로등과 생활 물건은 새 제품처럼 매끄럽게 복원되지 않는다. 공식 가이드는 팬·구멍·센서·펌프·배선을 노출한다고 설명한다. 보이지 않던 환경을 드러내는 일과 장치의 구조를 보여주는 일이 함께 일어난다. 감춰진 원리로 관객을 놀라게 하기보다, 익숙한 부품 사이의 낯선 연결을 계속 읽게 하는 구성이다."
+          },
+          {
+            "heading": "기념비보다 익명의 수리 기술",
+            "body": "Moré Moré (Leaky)의 배경에는 도쿄 지하철 직원들이 콘·양동이·비닐·호스로 누수를 막은 임시 수리가 있다. 작가는 2009–2021년 그 장면들을 사진으로 기록했고 2017년부터의 설치 연작으로 발전시켰다. 거대한 건물 앞에 작은 물건의 연쇄를 놓는 것은 재난을 장관으로 바꾸는 것과 다르다. 다만 현재 갤러리 안의 누수는 작가가 다시 만들고 운영하는 회로다. 실제 지하철의 고장이나 수리 현장을 그대로 옮겼다고 설명해서는 안 된다."
+          },
+          {
+            "heading": "완벽하지 않게 작동하는 일의 가치와 비용",
+            "body": "작품은 수리를 완벽한 상태로의 복귀보다 계속 관계 맺는 과정으로 읽게 한다. 하지만 우연과 돌봄이라는 언어만으로 전력·물·장비의 관리 노동이 사라지지는 않는다. 무엇을 변수로 허용하고 무엇을 일정하게 유지하는지가 중요하다. 연출적으로 가져갈 것은 무작정 고장 난 외형이 아니라, 입력의 변화가 결과에 남도록 하면서 그 인과를 관객이 볼 수 있게 하는 설계다. 10월 8일 공연은 종료됐고, 현재 전시도 월요일에는 닫힌다는 운영의 시간까지 함께 남겨야 한다."
+          }
+        ],
+        "keywords": [
+          "수리",
+          "불완전한 회로",
+          "물질의 시간",
+          "연쇄 반응",
+          "환경의 입력"
+        ],
+        "sources": [
+          {
+            "label": "Barbican — In Concert 공식 전시·휴관일",
+            "url": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert"
+          },
+          {
+            "label": "Barbican — 공식 대형 활자 가이드, 작품별 회로·연작 연도",
+            "url": "https://www.barbican.org.uk/sites/default/files/documents/2026-10/261006%20Barbican%20Yuko%20Mohri%20large%20print%20guide%20final.pdf"
+          },
+          {
+            "label": "Tanya Bonakdar Gallery — 작가·전시 설명",
+            "url": "https://www.tanyabonakdargallery.com/exhibitions/975-yuko-mohri-in-concert-barbican-centre-the-curve-london/"
+          },
+          {
+            "label": "Barbican — 10월 8일 별도 공연·도쿄 기반 약력",
+            "url": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-and-christian-marclay-performance"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Decomposition",
+            "year": "2021–",
+            "relation": "과일의 수분과 전기저항을 소리·빛의 변화로 연결해 온 연작을, 2026년에는 회수한 바비칸 가로등과 건물의 환경 안에서 새로 구성한다."
+          },
+          {
+            "name": "Moré Moré (Leaky)",
+            "year": "2017–",
+            "relation": "도쿄 지하철의 임시 수리 사진 기록에서 이어진 설치 연작. 2026년 현지에서 모은 물건과 악기로 다시 구성되어 장소와 수리의 관계를 갱신한다."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-25",
       "title": "몸이 모이면 장면의 주인이 바뀐다 — 연결과 목소리의 여섯 형식",
       "summary": "같은 VR 공간을 짜는 몸, 거울에 나뉘는 반사, 극장의 집단 선택, 화산을 둘러싼 세계관, 기술의 광물사, 이동하는 연대의 노래. 다섯 권역의 작업을 통해 참여의 형식과 그 아래 남는 역사적 조건을 함께 읽는다. 현재·예정 전시와 과거 작업 리서치를 구분한다.",
@@ -17059,6 +17380,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-24T15:39:00.000Z",
+  "generatedAt": "2026-10-26T02:01:36.000Z",
   "schemaVersion": 2
 }
