@@ -1,6 +1,323 @@
 {
   "issues": [
     {
+      "date": "2026-10-27",
+      "title": "진동과 빈 방, 낯선 반영 — 보이지 않는 힘을 만나는 여섯 작업",
+      "summary": "삼중 진자와 공명하는 유리, 확대된 규조류, 실직자의 기록, 빈 아파트와 거울 속 몸. 북미·유럽·오세아니아 및 필리핀·독일 협업의 작업에서 보이지 않는 조건이 감각을 바꾸는 방식을 읽는다. 종료된 KIKK, 현재 전시와 11월 예정 발표를 구분한다.",
+      "crosscurrent": {
+        "note": "Organism은 움직임을 데이터로 읽어 공기의 난류를 소리로 만든다. Mapping the Invisible은 연구 데이터를 AR와 사운드로 옮긴다. 하나는 지금 움직이는 물질과의 결합이며 다른 하나는 미세한 생태의 번역이다. 둘을 같은 실시간 센서 체험으로 묶지 않을 때 무엇을 측정하고 무엇을 해석했는지가 보인다.",
+        "itemIds": [
+          "2026-10-27-01",
+          "2026-10-27-02"
+        ]
+      },
+      "items": [
+        {
+          "title": "오르가니즘과 익사이터블 카오스",
+          "originalTitle": "Organism + Excitable Chaos",
+          "creator": "Navid Navab · Garnet Willis",
+          "url": "https://www.navidnavab.com/organism-excitable-chaos",
+          "id": "2026-10-27-01",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/5be3ee94e17ba38b1ec80748/1742159012307-EC9RIZE31VIUMGA85ETT/_85A8443_Photo_Miha_Godec.jpg",
+          "publishedAt": "2024 (2026 KIKK 재전시)",
+          "description": "로봇으로 조절되는 삼중 진자가 백 년 넘은 파이프오르간의 공기 흐름을 이끄는 키네틱 사운드 설치다. 1910년 Casavant 오르간을 재구성한 2024년작으로, KIKK 2026은 10월 25일 종료했다. 사진: 작가 공식 설치 기록, Miha Godec. 이번 KIKK 현장 사진으로 제시하지 않는다.",
+          "insight": {
+            "mechanism": "진자의 운동 데이터를 오르간의 공기역학적 문턱값에 연결한다. 진자의 관절과 무게 조건을 조절하면서 생기는 비선형 운동과 파이프 내부의 난류가 서로 다른 리듬·음색을 만든다.",
+            "whyNow": "직전 주말의 KIKK 발표를 통해, 생성의 원천이 소프트웨어만이 아니라 물리적 물질일 수 있다는 관점을 읽는다. 2025년 수상과 2024년 제작, 2026년 재전시를 구분한다.",
+            "directorPoint": "진자를 무대의 원인으로, 오르간을 소리의 결과로 나란히 드러낸다. 관객은 보이는 움직임과 들리는 변화를 비교하며 둘 사이의 관계를 스스로 찾는다.",
+            "critique": "예측하기 어렵다는 말이 무작위이거나 살아 있다는 뜻은 아니다. 센서·매핑·공기 제어의 선택은 작가에게 있으며, 자연의 자율성이라는 표현이 그 선택을 지워서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "로보틱스",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "몬트리올, 캐나다(Navid Navab); Garnet Willis 세부 거점 미확인",
+            "region": "북미",
+            "venue": "KIKK, 나뮈르(10.22–25, 종료)"
+          },
+          "host": "www.navidnavab.com",
+          "image": "images/2026-10-27-01.jpg",
+          "grounded": true
+        },
+        {
+          "title": "보이지 않는 것의 지도",
+          "originalTitle": "Mapping the Invisible",
+          "creator": "Carlos Martorell · Jaume Vidal · Lauren Moffatt",
+          "url": "https://kikkfestival.be/installations/mapping-the-invisible-art-trail-kikk2026",
+          "id": "2026-10-27-02",
+          "imageFallback": "https://www.spainculture.be/site/assets/files/4641/mapping.jpg",
+          "publishedAt": "2026 발표 (2025 개발 공개 기록 있음)",
+          "description": "규조류의 미세한 구조를 AR·생성 사운드·조각으로 사람의 감각 범위에 옮긴다. Eufònic의 에브로 삼각주 레지던시와 IRTA 연구진의 데이터·자문을 바탕으로 제작됐다. KIKK 발표는 10월 25일 종료. 이미지: 스페인 주벨기에 대사관 문화부가 해당 작품으로 공개한 규조류 시각 자료.",
+          "insight": {
+            "mechanism": "현미경적 생명과 과학 데이터를 공간화한 AR 및 소리로 번역한다. 현장 수질을 실시간 측정하는 센서 시스템이나 살아 있는 미생물을 전시장에 배양하는 장치라고 설명하지 않는다.",
+            "whyNow": "2025년 진행 단계의 공개와 2026년 Eufònic·KIKK 발표가 이어진 프로젝트다. 보이지 않는 생태를 확대하는 일이 어떤 해석과 책임을 동반하는지 묻는다.",
+            "directorPoint": "큰 생명체를 작게 보여주는 대신 작은 생명을 신체·건축의 크기로 바꾼다. 익숙한 장소에 낯선 크기의 존재를 겹쳐 관객의 주의 방향을 돌리는 수법이다.",
+            "critique": "확대된 아름다움이 곧 생태계의 건강을 증명하지는 않는다. 데이터에서 화면과 소리로 옮겨지는 규칙을 모르면 과학적 근거와 예술적 해석을 구별하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "바르셀로나(Carlos Martorell)·암포스타(Jaume Vidal)·발렌시아(Lauren Moffatt), 스페인",
+            "region": "유럽",
+            "venue": "KIKK Art Trail, 나뮈르(10.22–25, 종료)"
+          },
+          "host": "kikkfestival.be",
+          "image": "images/2026-10-27-02.jpg",
+          "grounded": true
+        },
+        {
+          "title": "차임",
+          "originalTitle": "CHIME",
+          "creator": "Jeanine Verloop",
+          "url": "https://jannetjejeanine.nl/chime/",
+          "id": "2026-10-27-03",
+          "imageFallback": "https://jannetjejeanine.nl/wp-content/uploads/2025/11/0000-251018_philara_076_7748_diesner_web.jpg",
+          "publishedAt": "2024 (2026 KIKK 재전시)",
+          "description": "붕규산 유리의 가늘고 유연한 나선이 진동하며 서로 부딪혀 소리를 낸다. 2024년 Rewire에서 초연된 설치이며, 2025년 고속 촬영 영화 CHIME – An Extended View와는 매체가 다르다. KIKK는 종료됐다. 사진: 2025년 Philara 설치 기록, Susanne Diesner, 작가 공식 제공 자료.",
+          "insight": {
+            "mechanism": "KIKK 설명의 구성은 유리 조각 20개·스테레오 모듈 10개다. 스피커에 연결한 유리를 2–26Hz로 구동하고, 모듈별 주파수·쉼·타이밍을 알고리즘으로 조절해 공명과 충돌음을 만든다.",
+            "whyNow": "전날 소개한 금속의 운동과 비교해, 쉽게 깨질 수 있는 재료가 소리의 지속 조건까지 바꾸는 사례를 읽는다. 현재 상영 중인 신작 영화처럼 포장하지 않는다.",
+            "directorPoint": "움직임을 크게 과장하지 않고 거의 보이지 않는 떨림을 소리와 함께 감지하게 한다. 멀리서 본 얇은 선과 가까이서 들리는 충돌 사이의 차이를 구성에 쓴다.",
+            "critique": "유리의 파손 가능성은 낭만적인 취약성만이 아니라 교체·유지의 조건이다. 재료의 소모를 감추거나 관객에게 파손을 시도하게 하는 참여형 작업으로 오해해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "로테르담·헤이그, 네덜란드",
+            "region": "유럽",
+            "venue": "KIKK, 나뮈르(10.22–25 종료); 사진은 Philara 2025"
+          },
+          "host": "jannetjejeanine.nl",
+          "image": "images/2026-10-27-03.jpg",
+          "grounded": true
+        },
+        {
+          "title": "희망의 부재 — 협동조합, 새로운 미래",
+          "originalTitle": "Lack of hope: Co-op a new future",
+          "creator": "Darcy Lange · John Miller",
+          "url": "https://www.ngataonga.org.nz/search-use-collection/search/F39295/",
+          "id": "2026-10-27-04",
+          "imageFallback": "https://govettbrewster.com/media/3vregn5a/_dsf1664web.jpg",
+          "publishedAt": "1987 (현 전시 표기; 아카이브는 1985)",
+          "description": "실직 노동자와 자조·협동 조직의 목소리를 기록한 다큐멘터리 비디오다. 현재 Economies of Deferral에서는 U-matic을 디지털로 옮긴 2시간 27초 판으로 제시한다. 전시는 11월 15일까지. 사진: 실제 2026 영상 설치 전경, Samuel Hartnett, Courtesy Darcy Lange Archive.",
+          "insight": {
+            "mechanism": "인터뷰·현장 풍경·공동체 활동의 기록을 통해 구조조정의 결과를 당사자의 목소리로 들려준다. 주된 장치는 영상의 지속 시간과 발언의 배치이며, 관객 반응에 따라 내용이 바뀌는 설치는 아니다.",
+            "whyNow": "1980년대 기록이 에너지 산업의 전환과 지연을 다루는 올해 전시의 중심으로 돌아왔다. Ngā Taonga 목록의 1985년과 미술관의 1987년 표기가 달라 제작 시점을 하나로 단정하지 않는다.",
+            "directorPoint": "정책의 영향을 그래픽 지표로만 요약하지 않고, 제도와 부딪히는 사람들이 말할 시간을 남긴다. 변화의 비용을 추상적인 총량에서 구체적인 생활로 옮기는 방식이다.",
+            "critique": "두 시간이 넘는 기록을 갤러리의 짧은 체류로 만날 때 증언이 단편화될 수 있다. 디지털 전환이 완전한 공개를 뜻하지도 않는다. 아카이브 원본은 온라인에서 재생할 수 없다고 안내돼 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "노동·산업",
+              "기억·아카이브",
+              "도시·공동체"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "뉴질랜드(당시 노동·공동체 기록 활동; 현 거주지 의미 아님)",
+            "region": "오세아니아",
+            "venue": "Govett-Brewster, 뉴플리머스(8.8–11.15)"
+          },
+          "host": "www.ngataonga.org.nz",
+          "image": "images/2026-10-27-04.jpg",
+          "grounded": true
+        },
+        {
+          "title": "바디 카운트",
+          "originalTitle": "Body Count",
+          "creator": "Cris Bringas · Sönke Kirchhof",
+          "url": "https://festival.idfa.nl/en/film/21fcd60e-ea3f-4e5c-b6aa-a540898ef2fe/Body-Count/",
+          "id": "2026-10-27-05",
+          "imageFallback": "https://my.idfa.nl/image-transforms/3236258d-a97b-4f23-b96c-0b0bae18838e/2500.jpeg",
+          "publishedAt": "2026",
+          "description": "아무도 보이지 않는 베를린 아파트의 가상 공간을 돌아다니며 실제 친밀한 만남에서 녹음한 두 남자의 대화를 듣는 20분 VR이다. 한 사람의 가족 상실과 다른 사람의 전쟁 참여가 겹친다. IDFA 11월 발표 예정. 성적 대화와 전쟁·죽음에 관한 증언을 포함한다. 이미지: IDFA 공식 VR 공간 스틸.",
+          "insight": {
+            "mechanism": "빛·소리·바닥의 발자국이 빈 복도와 방 사이의 이동을 안내한다. 인물의 시각적 재현보다 남겨진 공간과 목소리를 통해 만남을 구성한다. 별도 17분 2D판과 이 20분 VR판을 혼동하지 않는다.",
+            "whyNow": "2025년 개발 지원·수상 기록에서 2026년 VR 공개로 이어진 작업이다. 11월 예정 발표를 실제로 체험한 리뷰처럼 쓰지 않고 공식 공개 범위에서 읽는다.",
+            "directorPoint": "증언자를 얼굴의 클로즈업으로 붙잡지 않는다. 빈 방을 탐색하는 관객의 몸과 친밀한 음성의 거리가, 사건을 아는 위치와 엿듣는 위치 사이의 불편함을 만든다.",
+            "critique": "몰입의 강도가 당사자의 동의나 맥락 이해를 대신하지 않는다. 퀴어한 친밀감이 서로 다른 국가 폭력을 화해시키는 장치로 읽히거나, 관객의 탐색이 관음으로 바뀌는 경계를 살펴야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "공간음향"
+            ],
+            "theme": [
+              "전쟁·폭력",
+              "신체·정체성",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "마닐라(Cris Bringas, 2022년 공개 약력) / 베를린(INVR.SPACE, Sönke Kirchhof)",
+            "region": null,
+            "venue": "IDFA DocLab VR Gallery, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-27-05.jpg",
+          "grounded": true
+        },
+        {
+          "title": "헬로 유",
+          "originalTitle": "Hello You",
+          "creator": "May Abdalla · Barry Gene Murphy (Anagram)",
+          "url": "https://festival.idfa.nl/en/film/eac6077c-7500-4a2f-909e-b31fc2525646/Hello-You/",
+          "id": "2026-10-27-06",
+          "imageFallback": "https://my.idfa.nl/image-transforms/58df5017-8a6c-4e80-82ac-d3f1e9bc45b8/2500.jpeg",
+          "publishedAt": "2026",
+          "description": "어두운 방에서 자신의 반영을 빛·소리·착시로 낯설게 만나는 15분 설치다. 기억과 기대가 자기 모습을 읽는 방식을 어떻게 바꾸는지 묻는다. Anagram이 제작했으며 IDFA에서 11월 공개 예정이다. 이미지: IDFA 공식 작품 프리뷰. 현장 관람 결과나 치료 효과를 주장하지 않는다.",
+          "insight": {
+            "mechanism": "거울을 보는 짧은 자기 인식의 순간을 빛과 소리로 늘이고 흔든다. 공식 설명은 지각의 변화를 다루지만 얼굴 점수화 AI나 특정 추적 센서의 사용은 명시하지 않는다.",
+            "whyNow": "2024년 DocLab Playroom의 공개 실험과 개발 지원을 거쳐 2026년 작품으로 돌아온다. 완성 이미지를 평가하는 기술 대신 자신을 바라보는 기준 자체에 관심을 돌린다.",
+            "directorPoint": "새로운 가상 인물보다 누구나 아는 거울 보기를 출발점으로 삼는다. 익숙한 행위가 어긋나는 순간을 길게 유지해 관객이 스스로의 해석을 관찰하게 한다.",
+            "critique": "자기 수용이라는 의도가 모두에게 편안한 체험을 보장하지는 않는다. 몸과 지각의 낯설음을 체험하는 설치와 임상적 치료·진단은 구분해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "신체·정체성",
+              "돌봄·치유"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "런던·브리스틀, 영국(Anagram)",
+            "region": "유럽",
+            "venue": "IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-10-27-06.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "카오스는 임의 재생이 아니다 — Organism이 소리의 원인을 무대 위에 놓는 법",
+        "sections": [
+          {
+            "heading": "연주할 음표보다 공기의 조건을 바꾼다",
+            "body": "이 설치의 출발점은 1910년 Casavant 오르간이다. Navab는 음을 안정시키던 공기 구조를 변형해 파이프의 난류를 드러낸다고 설명한다. 기존 악기에 전자음을 덧붙이는 것과는 다르다. 소리를 만드는 물질의 조건을 다시 설계하는 일이다. 버려질 위험에 놓였던 악기를 구한 행위와, 원래의 안정된 음색으로 복원하는 행위 역시 구분된다."
+          },
+          {
+            "heading": "보이는 원인과 들리는 결과 사이",
+            "body": "Excitable Chaos의 세 팔은 위치·운동 에너지를 주고받으며 움직인다. 관절과 추의 조건을 바꾸면 운동의 관계도 달라지고, 그 데이터를 오르간의 공기 제어에 매핑한다. 핵심은 난수를 재생하는 화면이 아니라 실제 물질의 운동을 다른 물질의 소리와 연결했다는 점이다. 관객은 진자와 오르간을 함께 보며 자신이 듣는 변화의 원인을 추적할 수 있다."
+          },
+          {
+            "heading": "2024년 설치, 2025년 수상, 2026년 재전시",
+            "body": "작가 페이지는 설치를 2024년작으로 명시하고, 같은 해 초기 진자와 이후 조정 가능한 진자의 버전을 나눈다. 2025년 Ars Electronica 인터뷰에서는 악기를 이해하는 관계가 계속 깊어진다고 말한다. 이를 매번 완전히 새로운 작품이 탄생한다는 주장으로 읽지 않는다. KIKK의 2026년 발표는 10월 25일 끝났으며, 이 호의 사진도 작가가 공개한 기존 설치 기록이다."
+          },
+          {
+            "heading": "살아 있는 듯하다는 말의 다음 질문",
+            "body": "우리의 연출적 해석에서 가져갈 것은 장치의 기괴한 외형보다 인과관계를 볼 수 있게 하는 구성이다. 다만 움직임에서 소리로 가는 길은 작가가 고른 센서와 매핑을 거친다. 무엇을 통과시키고 무엇을 억제했는지에 따라 관객이 경험하는 자율성도 달라진다. 물질에 생명의 감각을 느끼는 것과 기계가 실제로 살아 있음을 증명하는 것은 별개의 일이다."
+          }
+        ],
+        "keywords": [
+          "물리적 생성",
+          "난류",
+          "삼중 진자",
+          "매체 고고학",
+          "보이는 인과"
+        ],
+        "sources": [
+          {
+            "label": "Navid Navab — 공식 작품·2024년·버전·크레딧",
+            "url": "https://www.navidnavab.com/organism-excitable-chaos"
+          },
+          {
+            "label": "KIKK 2026 — 작품 설명·크레딧·종료 일정",
+            "url": "https://kikkfestival.be/installations/organism-excitable-chaos-art-trail-kikk2026"
+          },
+          {
+            "label": "Ars Electronica — 2025년 작가 인터뷰",
+            "url": "https://ars.electronica.art/aeblog/en/2025/07/07/sound-as-a-living-process/"
+          },
+          {
+            "label": "Tallieu Art Office — 몬트리올 기반 공식 약력",
+            "url": "https://www.artoffice.be/artists/navid-navab/"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Aquaphoneia",
+            "year": "2016 / 2018 개정",
+            "relation": "목소리를 물·공기와 연결해 변환하던 선행 설치. Organism에서는 입력의 중심이 인간 음성에서 진자의 물리적 운동으로 옮겨간다."
+          },
+          {
+            "name": "Organism + Excitable Chaos 초기 버전",
+            "year": "2024.2–8",
+            "relation": "작가가 단일 상태 진자의 초기 버전과 2024년 9월 이후의 조정 가능한 버전을 구분한다. 같은 프로젝트의 발전 과정이며 별도 신작 항목으로 나누지 않는다."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-26",
       "title": "고장과 붕괴를 지우지 않는 장면 — 물질이 시간을 만드는 여섯 작업",
       "summary": "썩는 과일과 회수한 가로등, 농업의 기술사, 접히는 금속 탑, 강철의 운동, 변형되는 공통 영화, 흙이 되는 몸. 세 권역의 작업에서 완성된 결과보다 유지·변화·순환의 조건을 읽는다. 현재 전시와 종료·예정 발표, 제작 연도와 재전시를 나눈다.",
@@ -17380,6 +17697,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-26T02:01:36.000Z",
+  "generatedAt": "2026-10-26T15:43:09.000Z",
   "schemaVersion": 2
 }
