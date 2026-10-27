@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -194,6 +194,10 @@
     {
       "date": "2026-10-27",
       "note": "Latest6개·3권역과필리핀/독일복수거점1개, Organism+ExcitableChaos Focus4단락·4출처. 이전63호와루트메타데이터/최신큐레이터정책 보존. KIKK10.25종료·2024작품/2025수상/2026재전시 구분. Mapping2025개발공개/2026발표, CHIME2024설치와2025영화 별도매체 구분. DarcyLange 전시1987/아카이브1985연도충돌 및2:00:27디지털전환/원본온라인비공개 명시. 공유전시URL의중복게이트실패는서로다른작품의공식개별NgāTaonga카탈로그로해결;allowlist수정없음. BodyCount20분VR/17분2D분리,작가복수거점은regionnull. HelloYou치료효과나미확인AI/센서주장없음. 이미지6장공식설치/작품자료직접확인·축소selfhost;기존사진을KIKK현장/11월체험사진으로포장하지않음. 후보FAIL0/WARN0,최종게이트/SHAlease적용. 화요일로일요일Signals/Toolkit유지."
+    },
+    {
+      "date": "2026-10-28",
+      "note": "누락 2026-10-17·10-18과 오늘 2026-10-28을 함께 보충. 각 호 4개, 총 12개 작품과 자체 호스팅 JPEG 12장. 10/17 3권역(아프리카2·동아시아1·오세아니아1), Focus To All Who Live In It; 10/18 4권역, Focus SELF ABSORBED; 10/28 3권역, Focus P for Power: Up Down. 제작·재전시·종료·예정 시점을 구분하고, 이미지가 자료사진/초상/작업중 사진인 경우 본문에 명시. Gurat Lara는 기존 Fabric of the Earth와 같은 전시 URL로 후보 gate가 중복 판정해 작품별 심층 기사 URL로 교정. 후보·세 날짜별·전체 audit 모두 FAIL 0, 각 호 4편 count 경고만 확인."
     }
   ],
   "source_notes": [
@@ -264,6 +268,10 @@
     {
       "date": "2026-10-27",
       "note": "Organism: https://www.navidnavab.com/organism-excitable-chaos (2024·진자버전·공기안정화변형·매핑·MihaGodec사진), https://kikkfestival.be/installations/organism-excitable-chaos-art-trail-kikk2026 (10.22–25종료·크레딧), Ars2025.7.7공식작가인터뷰, https://www.artoffice.be/artists/navid-navab/ 의몬트리올거점, Aquaphoneia공식2016/2018작품페이지 교차검증. Mapping: KIKK개별설명/거점+ https://www.carlosmartorell.net/live 의2026.7.18발표+Eufonic2025공식PDF진행공개;사진은 https://www.spainculture.be/es/region/valonia/marc-vilanova-en-el-kikk-2026/ 에해당작품으로실린공식시각자료의원본파일 mapping.jpg(규조류형태,현장사진아님). CHIME: https://jannetjejeanine.nl/chime/ 의2024제작·Philara2025/SusanneDiesner사진·별도2025영화1000fps구분, KIKK2026의20유리/10스테레오모듈·2–26Hz. Darcy: https://govettbrewster.com/exhibitions/2026/economies-of-deferral 의Lackofhope실제영상설치사진/1987/2:00:27·SamuelHartnett, https://www.ngataonga.org.nz/search-use-collection/search/F39295/ 의1985표기와재생비공개충돌 명시. Slought공식기획자의약력으로귀국이후뉴질랜드활동확인. BodyCount: IDFA공식20분VR스틸·공동감독·빈아파트/실제녹음, GoetheKinofest17분2D안내, FEST2022공식약력마닐라·GCES/VRHAM베를린INVR거점(복수권역null). HelloYou: IDFA공식15분/11월예정스틸·Anagram공식about런던/브리스틀·IDFA10.15개발인터뷰. 사진권리는원작가·촬영자·기관에있으며공식공개작품소개자료의축소프리뷰로출처URL·크레딧을보존한다. 포괄적개방라이선스/소유권을주장하지않음."
+    },
+    {
+      "date": "2026-10-28",
+      "note": "신규·재검증 출처: futurespast.co.za/IFAS는 남부 아프리카 아카이브 기반 XR 프로젝트의 제작단계·Fak’ugesi 부분 공개·향후 본전시를 구분하기 좋음. NTU Museum On the cusp는 신작 사양·기간·작가 기반과 공식 이미지를 제공. FILE 2025 개별 설치 페이지는 OUVIR/Veillance 설치사진과 설명이 안정적이나 같은 호 최대 2개 원칙 유지. New Museum+Hyundai 공식 발표는 P for Power: Up Down의 버튼 입력·실시간 AI 이미지 생성 범위를 교차 확인 가능. KIKK 개별 설치 페이지의 공식 Supabase 이미지는 안정적. Design Anthology의 Bagus Pandega 인터뷰는 Gurat Lara 메커니즘을 별도 URL로 상세 설명해 전시 공용 URL 중복을 피할 수 있음."
     }
   ],
   "dedup_policy": {

@@ -1,6 +1,226 @@
 {
   "issues": [
     {
+      "date": "2026-10-28",
+      "title": "버튼과 자석, 강물과 금속이 장면을 쓰는 방식",
+      "summary": "엘리베이터 버튼이 호출하는 아이의 질문, 자석을 따라 일어서는 철가루, 강의 소리를 입은 몸, 니켈이 덧입혀지는 얼굴. 네 작업은 화면 밖의 이동과 물질 변화를 이미지와 소리의 시간으로 바꾼다.",
+      "crosscurrent": {
+        "note": "P for Power: Up Down과 Gurat Lara는 완성된 영상을 반복하기보다 작동 중인 시스템을 화면에 연결한다. 전자는 관객의 층 선택을 새로운 이미지 시퀀스의 계기로 삼고, 후자는 금속이 얼굴을 덮는 물리적 시간을 생중계한다. 버튼을 누르는 짧은 시간과 채굴의 긴 시간이 서로 다른 권력의 리듬을 드러낸다.",
+        "itemIds": [
+          "2026-10-28-01",
+          "2026-10-28-04"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-28-01",
+          "title": "층을 누르면 권력이 말을 건다",
+          "originalTitle": "P for Power: Up Down",
+          "creator": "Ho Tzu Nyen",
+          "publishedAt": "2026",
+          "url": "https://www.newmuseum.org/exhibition/hyundai-translocal-series-ho-tzu-nyen/",
+          "host": "www.newmuseum.org",
+          "description": "뉴뮤지엄 엘리베이터의 층 버튼을 누르면 실물 크기의 디지털 어린이가 나타나 권력에 관한 질문과 수수께끼, 주문 같은 문장을 건넨다. 버튼 입력마다 AI 시스템이 실시간으로 새로운 이미지 시퀀스를 생성하며, 전시장 사이를 이동하는 짧은 틈이 작품의 상영 시간이 된다. 2026년 9월 공개되어 현재 전시 중이다.",
+          "image": "images/2026-10-28-01.jpg",
+          "imageFallback": "https://www.hyundaimotorgroup.com/image/upload/asset_library/MDA00000000000084837/76b0989718094a83ad0dec8dff0798b4.jpg",
+          "insight": {
+            "mechanism": "엘리베이터 층 버튼의 활성화를 입력으로 받아 AI 시스템이 새로운 이미지 시퀀스를 실시간 생성한다. 엘리베이터 내부 화면의 어린이 인물이 짧은 텍스트를 전달한다.",
+            "whyNow": "2026년 뉴뮤지엄의 신작 커미션으로 공개됐다. 10월 22일 울산시립미술관에서 개막한 별도 작업 Double Life of P와 병행되지만, 두 작품의 장비와 입력 구조는 구별해야 한다.",
+            "directorPoint": "사람을 별도 체험실로 부르지 않고 이미 누르려던 버튼에 서사를 연결한다. 짧고 반복되는 이동 시간을 문장 단위의 장면으로 설계하는 방식이다.",
+            "critique": "공식 설명은 실시간 이미지 생성까지 밝히지만 사용 모델, 응답 지연, 문장의 생성 여부와 선택 규칙은 공개하지 않는다. 관객의 선택이 서사를 얼마나 바꾸는지는 단정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "생성AI",
+              "센서·인터랙션",
+              "영상·필름"
+            ],
+            "theme": [
+              "권력·감시",
+              "AI·저자성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "싱가포르",
+            "region": "동남·남아시아",
+            "venue": "New Museum, 뉴욕, 미국"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-28-02",
+          "title": "자석이 갈퀴질하는 철의 정원",
+          "originalTitle": "Earthscapes / 35°2′4.34″N, 135°43′5.51″E",
+          "creator": "Anna Godzina",
+          "publishedAt": "2026년 KIKK 전시",
+          "url": "https://kikkfestival.be/installations/earthscapes-35-2-4-34-n-135-43-5-51-e-art-trail-kikk2026",
+          "host": "kikkfestival.be",
+          "description": "녹슨 방파제에서 얻어 곱게 간 철가루가 직사각형 플랫폼 위에 펼쳐진다. 그 아래에서 강한 자석을 단 기계 팔이 천천히 회전하면 입자가 곤두서고 동심원이 남는다. 교토 료안지의 돌섬과 갈퀴 자국을 자기장의 움직임으로 옮긴 설치로, 10월 22일부터 25일까지 KIKK 2026에 소개됐다.",
+          "image": "images/2026-10-28-02.jpg",
+          "imageFallback": "https://himwmqovpohyivdytgkh.supabase.co/storage/v1/render/image/public/gallery/media-library/1785164309051-1cj0cbq3fpb.jpg?width=900&quality=75&resize=contain",
+          "insight": {
+            "mechanism": "플랫폼 아래 회전하는 기계 팔의 자석이 표면의 미세 철가루를 끌어당긴다. 자석이 통과할 때 입자가 서고 연속 회전이 원형 무늬를 만든다.",
+            "whyNow": "사흘 전 막을 내린 KIKK 2026의 설치를 돌아본다. 공식 페이지는 제작 연도를 명시하지 않으므로 2026년 신작이나 세계 초연으로 규정하지 않는다.",
+            "directorPoint": "구동 장치는 표면 아래 숨기고 물질의 반응만 드러낸다. 정지된 정원처럼 보이는 화면에 아주 느린 변화를 넣어 관객의 관찰 속도를 낮춘다.",
+            "critique": "교토 정원과 방파제의 재료를 연결하지만, 공개 설명만으로는 철가루의 물성과 자기 반응을 재현할 수 있는 혼합비나 구동 속도를 알 수 없다. 환경 연구의 맥락이 장관 뒤에 가려질 위험도 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "안트베르펜, 벨기에",
+            "region": "유럽",
+            "venue": "KIKK 2026, 나뮈르, 벨기에"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-28-03",
+          "title": "강의 소리를 입는 몸",
+          "originalTitle": "CAUTÍN LEWFÜ",
+          "creator": "Seba Calfuqueo · Eli Wewentxu (사운드)",
+          "publishedAt": "2026",
+          "url": "https://tba21.org/cautin-lewfu",
+          "host": "tba21.org",
+          "description": "세바 칼푸케오의 몸과 흰 드레스 위로 파란 아크릴 물감이 분사되고, 카우틴강 현장 녹음에 바이올린과 트롬페를 결합한 엘리 웨웬추의 사운드가 흐른다. 마푸체 직물의 물 무늬를 신체 위에 다시 그리는 사운드 퍼포먼스다. 10월 7일과 9일 마드리드에서 공연됐으며, 연계 전시 CAUTÍN은 계속 열린다.",
+          "image": "images/2026-10-28-03.jpg",
+          "imageFallback": "https://tba21.org/items/uploads/images/1790244494_evXX3YDnDWoj.jpg",
+          "insight": {
+            "mechanism": "에어브러시로 몸과 흰 의상에 파란 아크릴 물감을 분사하고, 강의 필드 레코딩과 전통 악기를 혼합한 오리지널 사운드 구성을 결합한다. 센서나 실시간 합성 사용은 공식 설명에 없다.",
+            "whyNow": "10월 새로 공개된 2026년 공연을 다룬다. 공연은 종료됐지만 이를 둘러싼 신작 커미션 전시 CAUTÍN은 2027년 1월 17일까지 이어진다.",
+            "directorPoint": "풍경을 뒤쪽 스크린에 놓는 대신 피부와 옷을 변화하는 표면으로 삼는다. 기록된 강물 소리와 현장에서 생기는 색의 흔적이 서로 다른 장소의 시간을 겹친다.",
+            "critique": "사운드의 채널 수와 재생 방식은 공개되지 않았다. 따라서 몰입형 공간음향이나 관객 반응형 공연으로 확대 해석할 수 없다. 제공 이미지는 공연 기록이 아니라 공식 소개용 작가 초상이다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "신체·정체성",
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": "산티아고, 칠레",
+            "region": "중남미",
+            "venue": "Museo Nacional Thyssen-Bornemisza 정원, 마드리드, 스페인"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-28-04",
+          "title": "니켈이 덮는 얼굴을 생중계하다",
+          "originalTitle": "Gurat Lara (Scars)",
+          "creator": "Bagus Pandega",
+          "publishedAt": "2026",
+          "url": "https://design-anthology.com/story/bagus-pandega",
+          "host": "design-anthology.com",
+          "description": "작업장 폭력을 겪은 니켈 광산 노동자 바그자의 얼굴을 본뜬 구리 코팅 조각이 전해액 수조 속에서 니켈층을 얻는다. 세 채널의 라이브 영상은 수면으로 오르는 수소 기포를 거꾸로 보여 주어 비나 눈물처럼 보이게 한다. 올해 싱가포르아트뮤지엄에서 선보인 작업으로, 전시는 5월 31일 종료됐다.",
+          "image": "images/2026-10-28-04.jpg",
+          "imageFallback": "https://www.singaporeartmuseum.sg/-/media/SAM/Images/Material-Intelligence-3/1920-x-1440-Visuals/Gurat-Lara--1920-x-1440.png?w=1920&hash=F48103C58285B6C16B82B165BC73E143",
+          "insight": {
+            "mechanism": "수조 속 구리 코팅 조각에 니켈이 축적되는 변화를 세 채널 라이브 영상으로 전송한다. 영상의 상하를 뒤집어 올라가는 수소 기포를 아래로 흐르는 흔적으로 바꾼다.",
+            "whyNow": "10월 현재 진행 중인 작업이 아니라 2026년 상반기 신작을 보충 선정했다. 전기차 공급망의 물질이 노동자의 얼굴과 디스플레이를 동시에 구성한다는 구조가 이번 호의 권력과 재료라는 질문을 연결한다.",
+            "directorPoint": "큰 특수효과 없이 카메라의 방향을 뒤집는 것만으로 화학 반응을 감정적 이미지로 바꾼다. 시간에 따라 실제로 변하는 피사체를 생중계하여 영상과 오브젝트를 분리할 수 없게 한다.",
+            "critique": "기관은 니켈이 쌓이는 과정과 라이브 피드를 설명하지만 전압·전류나 용액 조성은 공개하지 않는다. 노동자의 얼굴이 아름다운 표면 변화로 소비되지 않도록 인물의 경험을 함께 전달해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "과학장비·실험"
+            ],
+            "theme": [
+              "노동·산업",
+              "신체·정체성",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "반둥, 인도네시아",
+            "region": "동남·남아시아",
+            "venue": "Singapore Art Museum at Tanjong Pagar Distripark, 싱가포르"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "전시장 사이의 이동을 권력의 인터페이스로 바꾸기",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "호 추 니엔의 P for Power: Up Down은 관객이 작품을 보러 가는 통로부터 다시 설계한다. 뉴뮤지엄의 유리 전면 엘리베이터에는 층 버튼과 화면, 짧은 대기 시간이 있다. 작가는 그 일상적 장치에 권력에 관한 어린이의 발화를 끼워 넣는다. 2026년 가을 시작된 뉴욕과 울산의 공동 커미션은 같은 질문이 서로 다른 건축과 산업 환경에서 어떻게 변형되는지 묻는다. 뉴욕에서는 버튼을 누르는 관객이 장면을 호출하고, 울산의 별도 작업은 24대의 프로젝터와 다채널 사운드로 산업 도시의 자료를 펼친다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "공식 발표에 따르면 층 버튼이 활성화될 때 실물 크기의 어린이 인물이 화면에 등장하고, AI 시스템은 매번 새로운 이미지 시퀀스를 실시간 생성한다. 인물은 질문, 수수께끼, 주문 같은 짧은 문장으로 권력의 여러 의미를 건드린다. 이때 확인할 수 있는 기술적 범위는 버튼이라는 입력, 이미지 시퀀스의 실시간 생성, 엘리베이터 화면이라는 출력까지다. 대사가 즉석에서 생성되는지, 미리 쓴 텍스트에서 선택되는지, 승객의 얼굴이나 목소리를 수집하는지는 공개되지 않았다. 입력이 분명하다고 해서 모든 서사 요소까지 관객이 통제한다고 말할 수는 없다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "작품은 P for Power라는 연작의 새로운 장소 특정적 버전이다. 같은 해 울산의 Double Life of P가 도시의 산업·기술·재료·사운드스케이프에서 가져온 데이터를 공간 전체로 펼친다면, Up Down은 건물 안에서 위아래로 움직이는 신체에 집중한다. 두 작업은 동일한 영상의 이동 전시가 아니라 장소마다 권력의 조건을 다시 번역하는 사례로 읽을 수 있다. 이 차이를 유지해야 엘리베이터의 버튼 반응과 울산 XR Lab의 24대 프로젝터가 하나의 장비 목록으로 섞이지 않는다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "응용할 만한 핵심은 새로운 제스처를 가르치지 않는다는 점이다. 이미 누르려던 버튼, 이미 기다려야 하는 시간, 이미 함께 탄 사람들을 장면의 조건으로 삼는다. 전시 동선이나 상업 공간에서도 이동의 틈을 작은 서사 단위로 설계할 수 있다. 다만 관객에게 선택권을 주었다는 표현과 실제 선택이 바꾸는 범위는 구분해야 한다. 모델과 선택 규칙이 비공개인 지금, 이 작품에서 확실한 것은 버튼이 장면을 호출한다는 사실이지 관객이 서사를 공동 집필한다는 선언은 아니다."
+          }
+        ],
+        "keywords": [
+          "엘리베이터",
+          "버튼입력",
+          "실시간생성",
+          "장소특정성",
+          "권력"
+        ],
+        "sources": [
+          {
+            "label": "뉴뮤지엄 전시 소개",
+            "url": "https://www.newmuseum.org/exhibition/hyundai-translocal-series-ho-tzu-nyen/"
+          },
+          {
+            "label": "공동 커미션 공식 발표와 작동 원리",
+            "url": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-announces-opening-of-hyundai-translocal-series-ho-tzu-nyen-in-new-york-and-ulsan"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Ho Tzu Nyen, P for Power: Double Life of P",
+            "year": "2026",
+            "relation": "같은 연작의 울산 커미션. 산업 도시의 자료를 24대 프로젝터와 다채널 사운드로 번역하며 엘리베이터 버전과 장소 특정적 구조를 대비한다."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-27",
       "title": "진동과 빈 방, 낯선 반영 — 보이지 않는 힘을 만나는 여섯 작업",
       "summary": "삼중 진자와 공명하는 유리, 확대된 규조류, 실직자의 기록, 빈 아파트와 거울 속 몸. 북미·유럽·오세아니아 및 필리핀·독일 협업의 작업에서 보이지 않는 조건이 감각을 바꾸는 방식을 읽는다. 종료된 KIKK, 현재 전시와 11월 예정 발표를 구분한다.",
@@ -2772,6 +2992,460 @@
             "name": "사브사비, khalil",
             "year": "2026",
             "relation": "같은 비엔날레 아르세날레관에서 동시에 선보인 자매작으로, 바깥의 자아와 안의 자아를 짝 지은 철학적 구조를 공유한다"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "title": "바람을 연기하고, 노래를 배우며, 몸을 다시 읽는 네 개의 장치",
+      "summary": "화면 속 선풍기가 현실의 인과를 흔들고, 작은 발음체들이 서로의 노래를 배운다. 관객의 몸을 기록하는 스캐너와 한 사람의 기억을 몸짓으로 탐색하는 AI까지, 입력과 응답의 관계를 다시 설계하는 네 작업을 읽는다.",
+      "crosscurrent": {
+        "note": "Veillance에서 몸짓은 스캔되는 얼굴을 흐트러뜨리는 저항이고, SELF ABSORBED에서는 이미지의 잠재 공간을 여행하는 항법이다. 같은 신체 입력이라도 한쪽은 기록의 정확성을 무너뜨리고 다른 쪽은 정답 없는 이미지를 찾아간다.",
+        "itemIds": [
+          "2026-10-18-03",
+          "2026-10-18-04"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-18-01",
+          "title": "바람 없이 커튼을 흔드는 화면",
+          "originalTitle": "Turn On",
+          "creator": "Tromarama",
+          "publishedAt": "2026",
+          "url": "https://www.ntu.edu.sg/life-at-ntu/museum/exhibitions/featured/on-the-cusp",
+          "host": "ntu.edu.sg",
+          "description": "싱가포르 NTU의 통행로에 놓인 LED 화면에서 여러 선풍기가 돌아간다. 가상의 바람은 화면을 커튼처럼 펄럭이게 하고 일상의 사물들을 움직이지만, 원인과 결과는 점차 익숙한 물리 법칙에서 벗어난다. 2026년 1월 21일부터 4월 2일까지 열린 《On the cusp》의 신작으로, 14분 42초의 단채널 영상과 소리를 반복 재생한다.",
+          "image": "images/2026-10-18-01.jpg",
+          "imageFallback": "https://www.ntu.edu.sg/media/images/default-source/ntu-museum/on-the-cusp/turn-on/on-the-cusp-turn-on-fans-motion.jpg?sfvrsn=f580bc06_1",
+          "insight": {
+            "mechanism": "선풍기와 주변 환경의 움직임을 안무한 단채널 영상·사운드 루프를 LED 화면에 재생한다. 실제 풍속이나 관객의 움직임을 감지하는 장치로 소개된 작업은 아니다.",
+            "whyNow": "2026년 NTU Museum의 신규 커미션은 동남아시아의 생활용품인 선풍기를 통해, 몸으로 겪은 기억과 디지털 표상이 충돌하는 순간을 공공 통행로로 가져왔다.",
+            "directorPoint": "처음에는 선풍기와 커튼이라는 이해하기 쉬운 인과를 제시한 뒤 그 연결을 어긋나게 한다. 익숙한 물건의 반응 규칙을 조금씩 바꾸면 복잡한 설명 없이도 관객의 지각을 흔들 수 있다.",
+            "critique": "14분이 넘는 고정 루프를 분주한 통행로에서 모두 보기 어렵다. 짧게 스쳐 보는 관객에게는 인과의 교란보다 유쾌한 선풍기 애니메이션으로만 남을 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "라이트·LED"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "인간-기계 관계"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "반둥·자카르타, 인도네시아",
+            "region": "동남·남아시아",
+            "venue": "NTU Museum, On the cusp, North Spine Plaza INDEX, 싱가포르"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-18-02",
+          "title": "서로 듣고 배우며 방을 채우는 노래",
+          "originalTitle": "OUVIR",
+          "creator": "Craca (Felipe Julián)",
+          "publishedAt": "2025 전시",
+          "url": "https://file.org.br/installation_2025/craca-ouvir-brasil/",
+          "host": "file.org.br",
+          "description": "멜로디를 내는 여러 가상 생명체가 물리적 네트워크에 분산되어 전시장 건축을 점유한다. 이들은 서로와 관객 사이의 모방적 교환으로 어휘를 만들며 전시 기간 동안 소통을 배운다. FILE 상파울루 2025 《Synthetika》가 소개한 사운드 설치로, 작품을 위해 처음부터 제작한 기초적인 AI 체계를 사용한다.",
+          "image": "images/2026-10-18-02.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2025/07/Site-Craca-OUVIR-FILE-SAO-PAULO-2025-SYNTHETIKA-Creditos-Camila-Picolo8-scaled.jpg",
+          "insight": {
+            "mechanism": "공간에 퍼진 발음체들이 관객 및 이웃 개체와 멜로디를 교환하고, 작품 전용의 기초 AI 시스템으로 집단적 어휘를 형성한다. 공식 설명은 이를 밈적 교환을 통한 학습으로 규정한다.",
+            "whyNow": "FILE 2025는 생성 시스템과 인간의 공진화를 주제로 이 작업을 소개했다. 이미지 생성의 규모 대신 작은 개체들이 서로 배우는 과정을 들려준다는 점이 중요하다.",
+            "directorPoint": "하나의 음원에 관객을 모으기보다 여러 소리의 근원 사이를 걷게 한다. 개별 반응보다 그 반응이 이웃으로 퍼지는 구조가 공간의 주인공이 된다.",
+            "critique": "공식 자료는 학습을 명시하지만 입력 센서, 업데이트 규칙, 기억의 지속 기간은 공개하지 않는다. 공동체의 학습이라는 해석과 실제 알고리즘의 범위를 동일시해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "공간음향"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "언어·번역",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2025: Synthetika, Centro Cultural FIESP, 상파울루, 브라질"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-18-03",
+          "title": "나를 기록하는 스캔을 몸짓으로 흐트러뜨리기",
+          "originalTitle": "Veillance",
+          "creator": "Louis-Philippe Rondeau",
+          "publishedAt": "2023 제작 · 2025 재전시",
+          "url": "https://file.org.br/installation_2025/louis-philippe-rondeau-veillance-canada/",
+          "host": "file.org.br",
+          "description": "대형 화면에서 앞선 관객의 초상을 살피는 동안 장치는 지금의 관객을 실물 크기로 스캔해 모자이크 아카이브에 더한다. 그러나 촬영 중 몸을 움직이면 시간에 따라 외형이 달라져 기록을 교란할 수 있다. 2023년 제작된 이 인터랙티브 설치는 FILE 상파울루 2025에서 다시 전시되며, 보는 행위와 감시받는 행위를 하나의 상황으로 겹친다.",
+          "image": "images/2026-10-18-03.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2025/08/Site-Louis-Philippe-Rondeau-%E2%80%93-Veillance-FILE-SP-2025-SYNTHETIKA-Credits-Camila-Picolo6-scaled.jpg",
+          "insight": {
+            "mechanism": "카메라와 컴퓨터가 관객의 실물 크기 스캔 이미지를 생성해 대형 화면의 누적 모자이크에 추가한다. 시간에 걸쳐 진행되는 스캔 중 몸을 움직이면 이미지의 형태가 변한다.",
+            "whyNow": "2025년 FILE의 재전시는 감시 장치의 입력이 되는 신체에 주목한다. 새 AI 모델을 과시하는 대신 수집되는 사람이 기록의 모양을 바꿀 수 있는 좁은 틈을 보여준다.",
+            "directorPoint": "다른 사람의 기록을 보려는 호기심을 자기 기록이 시작되는 계기로 삼는다. 화면을 보는 자리와 촬영되는 자리를 겹치면 관객은 안내문보다 먼저 시스템의 관계를 체험한다.",
+            "critique": "초상을 왜곡하는 것이 기록 자체를 거부하는 것은 아니다. 이미지의 보관 기간이나 삭제 절차가 공식 작품 설명에 명시되지 않아, 참여와 수집에 대한 동의 문제가 남는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "권력·감시",
+              "신체·정체성",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "몬트리올, 캐나다",
+            "region": "북미",
+            "venue": "FILE São Paulo 2025: Synthetika, Centro Cultural FIESP, 상파울루, 브라질"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-18-04",
+          "title": "한 사람의 기억 속을 몸으로 이동하는 AI",
+          "originalTitle": "SELF ABSORBED",
+          "creator": "Tim Murray-Browne",
+          "publishedAt": "2023 공개 · 2025 재전시",
+          "url": "https://timmb.com/self-absorbed/",
+          "host": "timmb.com",
+          "description": "작가 자신의 움직임, 사진, 녹음으로 학습한 세 AI 모델이 신체 입력을 이미지와 소리로 번역한다. 움직임 모델이 몸의 상태를 표현하면 그것이 시청각 생성 모델을 제어하고, 관객은 작가의 기억과 닮았지만 일치하지 않는 장면을 탐색한다. 2023년 공개된 작업으로, FILE 상파울루 2025 설치 프로그램에 포함되었다.",
+          "image": "images/2026-10-18-04.jpg",
+          "imageFallback": "https://timmb.com/_astro/Tim_Murray-Browne_-_SELF_ABSORBED_-_Work_in_progress_2023-03-15.h2EgVjlE_Z10dDH4.webp",
+          "insight": {
+            "mechanism": "개인 동작 데이터로 학습한 비지도 모델의 신체 표현을 시각·청각 생성 모델의 제어값으로 연결한다. 이미지 모델은 작가가 20년에 걸쳐 찍은 사진으로 훈련한 StyleGAN이며, 움직임에 따라 잠재 공간을 탐색한다.",
+            "whyNow": "FILE 2025에서 소개된 이 작업은 대규모 타인의 데이터를 수집하는 방식과 달리 개인이 자신의 데이터와 모델을 보유하는 AI의 다른 규모를 제시한다.",
+            "directorPoint": "특정 포즈에 정해진 효과를 붙이는 버튼식 인터랙션을 피한다. 몸이 연속적으로 움직일 때 이미지도 연속적으로 바뀌게 해, 조작법을 외우기보다 감각적으로 관계를 익히게 한다.",
+            "critique": "작가의 신체로 학습한 모델이 다른 신체를 얼마나 풍부하게 수용하는지는 별도 검증이 필요하다. 또한 생성된 사진 같은 장면은 되돌아갈 수 있는 실제 기억이나 의미 공간이 아니다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "생성AI",
+              "머신러닝·비전",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "AI·저자성",
+              "기억·아카이브",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "글래스고, 영국",
+            "region": "유럽",
+            "venue": "FILE São Paulo 2025: Synthetika, Centro Cultural FIESP, 상파울루, 브라질"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 3,
+        "headline": "명령어 대신 몸을 넣고, 빅데이터 대신 한 사람을 학습하기",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "《SELF ABSORBED》는 2023년에 공개되어 2025년 FILE 상파울루에서 다시 소개된 작업이다. 이를 2025년 신작으로 부르기보다 생성 AI를 몸으로 다루는 다른 설계의 재등장으로 읽는 편이 정확하다. 작가는 다른 사람들의 창작물을 큰 통계로 합치는 대신 자신의 움직임, 사진, 녹음을 모델의 재료로 삼았다. 핵심은 더 많은 데이터를 확보하는 일이 아니라 데이터와 모델을 개인이 직접 관리할 때 어떤 관계가 가능한지 묻는 데 있다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "구조의 출발점은 작가 자신의 동작으로 학습한 비지도 모델이다. 이 모델은 입력된 움직임을 자신이 학습한 신체의 표현으로 변환하고, 그 결과가 이미지와 소리 생성 모델을 제어한다. 이미지 쪽에는 작가가 20년 동안 찍은 사진을 학습한 StyleGAN이 사용된다. 따라서 손을 들면 특정 사진이 재생되는 사전 편집 목록이 아니라, 움직임에 따라 이미지의 잠재 공간에서 다른 위치로 이동하는 연속적인 관계가 만들어진다. 공개 설명은 세 모델의 연결을 확인해 주지만 모든 센서와 실행 환경의 세부 사양까지 제공하지는 않는다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "이 작업의 가까운 출발점은 작가가 파나기오티스 티가스와 함께 만든 《Sonified Body》의 신체 분석 모델이다. 소리를 다루던 몸의 인터페이스가 사진과 녹음이라는 개인 아카이브로 확장되었다. 작가는 이 시스템이 의미를 이해하는 공간은 아니라고 강조한다. 사진처럼 보이는 이미지 안으로 더 깊이 들어가 당시의 사건을 재경험할 수 있는 것은 아니다. 기억을 복원하는 장치보다 익숙한 자료를 왜곡하는 AI의 성질을 몸으로 관찰하는 장치에 가깝다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "응용할 만한 지점은 몸짓마다 효과를 하나씩 붙이지 않는다는 점이다. 신체의 여러 움직임을 연속적인 생성 파라미터와 연결하면 관객은 정답 포즈를 찾는 대신 자신만의 리듬을 발명할 수 있다. 다만 열린 인터랙션은 누구에게나 같은 접근성을 뜻하지 않는다. 특정 개인의 동작으로 학습한 모델을 다른 체형이나 운동 범위를 가진 관객에게 적용할 때는 편향과 반응의 폭을 시험해야 한다. 개인 데이터라는 윤리적 선택과 다양한 신체가 사용할 수 있는 설계는 별개의 검증 과제다."
+          }
+        ],
+        "keywords": [
+          "신체인터페이스",
+          "비지도학습",
+          "StyleGAN",
+          "개인데이터",
+          "잠재공간"
+        ],
+        "sources": [
+          {
+            "label": "작가의 작품·작동 원리 설명",
+            "url": "https://timmb.com/self-absorbed/"
+          },
+          {
+            "label": "FILE 2025 공식 설치 프로그램",
+            "url": "https://file.org.br/highlight/file-instalacoes-sao-paulo-2025-arte-e-tecnologia/"
+          },
+          {
+            "label": "작가의 2023년 개발 기록",
+            "url": "https://timmb.com/self-absorbed-a-self-portrait-in-neural-networks"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Tim Murray-Browne · Panagiotis Tigas, Sonified Body",
+            "year": "2022",
+            "relation": "몸의 움직임으로 소리를 제어하던 신체 분석 모델이 SELF ABSORBED의 시청각 생성 모델을 탐색하는 인터페이스로 이어진다."
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "title": "기록을 둘러보고, 판화의 목소리를 듣고, 시선과 숲을 다시 만나는 네 공간",
+      "summary": "아파르트헤이트의 필름을 수공 무대로 다시 촬영한 360도 영상, 산 공동체 판화를 빛과 목소리로 되돌려 놓는 설치, 관객을 기록하고 재투사하는 기계의 복안, 터널과 휴대전화에 겹쳐 자라는 생태 이미지. 이미지를 크게 보여주는 대신 이미지 앞에서 우리가 차지하는 자리를 바꾸는 네 작업이다.",
+      "crosscurrent": {
+        "note": "To All Who Live In It과 We Are What Remains는 아카이브를 살아 움직이게 하지만 출발점은 다르다. 전자는 국가가 촬영한 필름의 시선을 수공 무대와 재촬영으로 드러내고, 후자는 강제 이주를 겪은 산 작가들의 판화와 목소리를 당사자 협업으로 공간에 돌려놓는다. 몰입은 과거를 사실적으로 복제하는 기술보다 기록의 저자와 관객 사이의 거리를 다시 정하는 방식이 된다.",
+        "itemIds": [
+          "2026-10-17-01",
+          "2026-10-17-02"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-17-01",
+          "title": "국가의 필름 안으로 들어가 프레임을 되묻다",
+          "originalTitle": "To All Who Live In It",
+          "creator": "Amy Louise Wilson · Francois Knoetze · Kaelo Molefe · Nomandla Vilakazi",
+          "publishedAt": "2026",
+          "url": "https://www.futurespast.co.za/exhibitions/to-all-who-live-in-it",
+          "host": "futurespast.co.za",
+          "description": "1960년대 남아프리카의 노동과 여가, 일상을 기록한 35mm 필름을 콜라주와 수공 무대, 라이브 스코어링을 사용하는 연극적 촬영으로 다시 구성한 360도 영상 설치다. 국가가 남긴 기록을 투명한 역사 창문으로 쓰지 않고, 무엇을 보이게 하고 지웠는지 함께 노출한다. 10월 14~17일 Fak’ugesi의 Futures_Past 부스에서는 이 프로젝트의 VR 체험을 소개한다.",
+          "image": "images/2026-10-17-01.jpg",
+          "imageFallback": "https://static.wixstatic.com/media/361b9b_9f7dc62712fc4ce290ff6a6b1cb53dd8~mv2.jpg",
+          "insight": {
+            "mechanism": "NFVSA의 Moolman Opnames 35mm 필름 자료를 바탕으로 콜라주·수제 무대·라이브 스코어링을 결합한 연극적 장면을 촬영하고 360도 몰입 영상으로 구성한다. 실시간 생성이나 관객의 선택에 따른 분기는 공개 자료에서 확인되지 않는다.",
+            "whyNow": "Fak’ugesi 2026의 10월 14~17일 쇼케이스가 남아프리카 아카이브 협업의 중간 결과를 공개한다. 12월 5일 시작 예정인 Apartheid Museum 본전시와 지금의 부스 체험을 구분해 볼 필요가 있다.",
+            "directorPoint": "과거 필름을 배경으로 숨기지 않고 손으로 만든 소품과 배우의 몸에 겹친다. 기록의 내용뿐 아니라 기록을 현재에 재현하는 손길까지 같은 장면에 드러내는 방식이다.",
+            "critique": "몰입 영상의 설득력이 기록의 편향을 가릴 수 있다. 공식 자료는 문제의식을 밝히지만 개별 원본 장면의 선택 기준과 편집 내역, 부스에서 공개한 분량은 제시하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "XR·AR·VR"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "남아프리카공화국; Kaelo Molefe는 요하네스버그 기반",
+            "region": "아프리카",
+            "venue": "Futures_Past 부스, Fak’ugesi 2026, Tshimologong Digital Innovation Precinct, 요하네스버그"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-17-02",
+          "title": "떠나온 땅의 판화가 목소리와 그림자를 얻다",
+          "originalTitle": "We Are What Remains",
+          "creator": "Indigene Corefio Harris (N!hunkxa) · Xabiso Vili · Inka Kendzia · Faye Kabali-Kagwa · Thando Mthembu",
+          "publishedAt": "2026",
+          "url": "https://www.futurespast.co.za/exhibitions/we-are-what-remains",
+          "host": "futurespast.co.za",
+          "description": "아파르트헤이트 시기 강제 이주를 겪은 !Xun·Khwe 산 작가들의 리놀륨 판화를 애니메이션, 프로젝션, 노래와 목소리로 옮긴다. 원작자 중 생존 작가 7명과 공동체가 제작에 참여하며, 겹쳐진 투사와 매달린 판화 사이로 관객이 이동하는 환경을 계획했다. 10월 14~17일 Fak’ugesi에서는 Pepper’s Ghost 방식의 일부 설치를 선보이며, !Khwa ttu 본전시는 10월 31일 개막 예정이다. 사진은 프로젝트의 판화 자료다.",
+          "image": "images/2026-10-17-02.jpg",
+          "imageFallback": "https://static.wixstatic.com/media/361b9b_67488f1e04e744c297dd22df1b5b3476~mv2.jpeg",
+          "insight": {
+            "mechanism": "판화 이미지를 애니메이션과 프로젝션 매핑으로 확장하고 원작자들의 목소리·노래를 공간에 결합한다. IFAS는 Fak’ugesi 공개 형식을 Pepper’s Ghost 설치로 명시한다. 전체 전시의 투사·판화 배치와 부스의 부분 구현은 동일하다고 단정하지 않는다.",
+            "whyNow": "10월의 Fak’ugesi 부분 공개와 10월 31일 !Khwa ttu 전시 개막을 연결하는 작업이다. 디지털 복원이 원본의 보존을 넘어 살아 있는 원작자의 재등장을 돕는지 질문한다.",
+            "directorPoint": "판화의 검은 윤곽을 화면 한 장 안에 가두지 않고, 실제 인쇄물·빛·그림자와 음성의 층으로 분해한다. 관객의 이동이 각 층을 다시 겹쳐 읽는 편집 행위가 되도록 설계한다.",
+            "critique": "기관은 생존 작가와의 협업을 밝히지만 공개 소개만으로는 개별 판화의 크레딧, 음성 편집 권한과 수익 배분을 확인하기 어렵다. 디지털 연출팀의 이름이 원작자들의 이름을 앞서지 않도록 추가 표기가 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "아프리카",
+            "venue": "Futures_Past 부스, Fak’ugesi 2026, 요하네스버그; !Khwa ttu, Yzerfontein 본전시 예정"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-17-03",
+          "title": "나를 뒤쫓는 카메라가 기억을 잘게 나눌 때",
+          "originalTitle": "Desire of Codes",
+          "creator": "MIKAMI Seiko",
+          "publishedAt": "2010/11; 2025–2026 ICC 재전시",
+          "url": "https://www.ntticc.or.jp/en/archive/works/desire-of-codes-2025/",
+          "host": "ntticc.or.jp",
+          "description": "벽의 90개 장치와 천장의 여섯 로봇 팔이 관객을 감지하고 촬영한다. 현재의 얼굴과 몸, 이전에 기록한 장면, 세계 각지의 감시카메라 이미지가 61개 육각형 셀로 이루어진 복안형 스크린에 섞인다. 2010/11년 작품으로, 도쿄 ICC의 2025년 12월 13일~2026년 3월 8일 전시에 다시 소개됐다. 신작이 아닌 재전시 사례다.",
+          "image": "images/2026-10-17-03.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/006/45320.6951.large.jpg",
+          "insight": {
+            "mechanism": "벽 장치의 카메라와 천장 로봇 팔이 관객의 움직임을 추적하고 촬영·투사를 반복한다. 데이터베이스는 실시간 영상과 서로 다른 시점의 기록을 61개 화면 셀에 배분하며, 지향성 마이크 입력과 장치 상태에 따라 음향 자료를 선택한다.",
+            "whyNow": "2025~2026년 ICC 재전시는 생성형 이미지 이전의 상호작용 설치가 이미 제기했던 데이터 수집과 신체의 문제를 다시 보여줬다. 최신 기계학습을 탑재한 작품이라는 설명 대신 카메라·기록·피드백의 구조를 살핀다.",
+            "directorPoint": "관객에게 버튼을 주는 대신 기계가 먼저 관객을 알아보고 따라오게 한다. 촬영하는 장치와 재생되는 영상이 동시에 보이므로 참여의 즐거움과 감시의 불편함이 같은 동선에서 발생한다.",
+            "critique": "2010년 제작기관의 상세 설명이 오늘의 모든 하드웨어와 데이터 운용을 보증하지는 않는다. ICC 재전시에서 보존·교체한 부품이나 관객 영상의 보관·삭제 정책은 확인한 소개 페이지에 명시되지 않았다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "로보틱스",
+              "프로젝션"
+            ],
+            "theme": [
+              "권력·감시",
+              "인간-기계 관계",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "NTT InterCommunication Center [ICC], 도쿄; 2026년 3월 8일 전시 종료"
+          },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-17-04",
+          "title": "터널의 숲과 손안의 꽃가루가 겹치다",
+          "originalTitle": "Bloom",
+          "creator": "Eggpicnic (Camila De Gregorio · Christopher Macaluso), Ann Jones · Corey Hague",
+          "publishedAt": "2025",
+          "url": "https://www.vividsydney.com/event/light/bloom-2025",
+          "host": "vividsydney.com",
+          "description": "시드니 Argyle Cut 터널의 벽과 천장을 새, 균류, 식물과 밤하늘의 움직이는 이미지가 덮는다. 물방울과 포자 등 자연의 필드 레코딩을 바탕으로 만든 사운드가 흐르고, QR 코드를 휴대전화로 스캔하면 떨어지는 꽃가루와 터지는 버섯 포자를 AR로 볼 수 있다. 캔버라의 Eggpicnic이 Vivid Sydney 2025에 발표한 작업으로, 행사는 2025년 6월 14일 종료됐다.",
+          "image": "images/2026-10-17-04.jpg",
+          "imageFallback": "https://eggpicnic.com/wp-content/uploads/2025/07/%C2%A9Eggpicnic_Bloom_1-scaled.jpg",
+          "insight": {
+            "mechanism": "터널 표면에 생태 애니메이션을 투사하고 자연 녹음으로 만든 사운드스케이프를 함께 재생한다. QR 코드로 접속하는 AR 층은 휴대전화 화면에 꽃가루와 포자를 더한다. 휴대전화가 공공 프로젝션 전체를 제어한다는 근거는 없다.",
+            "whyNow": "2025년 공공 미디어아트 사례를 다시 살피며, 개인 기기와 공동 공간을 나눠 쓰는 참여 설계를 본다. 2026년 재상영이나 현재 운영 중인 작품으로 소개하지 않는다.",
+            "directorPoint": "공동으로 올려다보는 대형 투사와 각자 들여다보는 작은 AR 창을 겹쳐 같은 생태계를 서로 다른 크기로 경험하게 한다. 터널의 거친 표면은 일러스트레이션에 촉각적인 깊이를 더한다.",
+            "critique": "생물다양성 보전의 메시지는 풍부한 시각적 생명력과 충돌할 수 있다. 이미지의 풍요로움이 실제 서식지 감소의 긴박함을 희석할 수 있고, AR 경험은 휴대전화 사용과 화면 접근성에 의존한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "캔버라, 호주",
+            "region": "오세아니아",
+            "venue": "Argyle Cut, Vivid Sydney 2025, 시드니; 전시 종료"
+          },
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "360도로 펼쳐도 국가의 기록은 투명해지지 않는다",
+        "sections": [
+          {
+            "heading": "왜 지금 이 작업인가",
+            "body": "Fak’ugesi 2026의 마지막 날인 10월 17일, Futures_Past 부스는 남아프리카·레소토·말라위의 아카이브를 다루는 다섯 프로젝트의 체험을 소개한다. To All Who Live In It은 그중 국가의 영상 기록을 다루는 작업이다. IFAS는 완성된 요소와 개발 중인 작업을 함께 공개한다고 밝혔으므로 이 부스를 최종 전시의 완성형으로 읽어서는 안 된다. 12월 5일 시작 예정인 Apartheid Museum 전시와도 구분된다. 지금 주목할 것은 완성도에 대한 관람평이 아니라 국가가 만든 기록을 다른 몸과 매체로 다시 읽는 제작 방식이다."
+          },
+          {
+            "heading": "매체는 어떻게 작동하는가",
+            "body": "원천은 프리토리아의 National Film, Video and Sound Archives가 보존한 Moolman Opnames 컬렉션이다. 1960년대 35mm 필름은 아파르트헤이트 아래의 노동, 여가와 생활을 담았지만 국가의 감시와 선전이라는 조건에서도 자유롭지 않다. 팀은 이 필름을 단순히 넓은 화면에 늘리지 않는다. 콜라주, 손으로 만든 무대와 라이브 스코어링을 동원한 연극적 제작을 촬영하고, 이를 360도 몰입 영상으로 구성한다. 공식 프로젝트 사진에서도 과거 필름의 투사와 손으로 만든 소품, 현재의 인물이 한 프레임 안에 겹친다. 다만 공개 자료는 카메라 모델, 스티칭 방식, 헤드셋 사양이나 실시간 인터랙션을 명시하지 않는다."
+          },
+          {
+            "heading": "계보와 참조",
+            "body": "이 작업의 직접적인 출발점은 몰입 기술의 발전사가 아니라 아파르트헤이트 영상 아카이브의 재독해다. Moolman Opnames를 사실의 완결된 저장소로 놓는 대신, 그 안에 남은 일상과 그것을 규정한 시선을 함께 다룬다. 같은 Futures_Past의 We Are What Remains가 살아 있는 산 작가들과 판화의 기억을 다시 공간화한다면, 이 작업은 국가가 이미 구성해 놓은 영상의 권위를 흔드는 쪽에 선다. 두 프로젝트 모두 과거를 되살린다고 말할 수 있지만, 원작자와 자료를 만든 기관의 권력 관계는 서로 다르다."
+          },
+          {
+            "heading": "디렉터의 노트",
+            "body": "수공 무대의 이음새와 필름의 표면을 매끄럽게 지우지 않는 선택이 중요하다. 관객이 과거 안으로 순간 이동했다고 믿게 하기보다, 누군가 과거를 현재의 몸으로 다시 구성하고 있음을 보이게 한다. 광고나 전시 연출에서도 아카이브를 배경 장식으로 쓰는 대신 소품, 신체, 소리가 기록의 권위와 충돌하도록 배치할 수 있다. 그러나 360도라는 형식만으로 기록의 정치가 해소되지는 않는다. 어떤 인물의 장면을 고르고 무엇을 제외했는지, 관객이 원본과 새로 촬영한 요소를 구별할 수 있는지에 대한 설명이 몰입만큼 중요하다."
+          }
+        ],
+        "keywords": [
+          "아카이브",
+          "360도영상",
+          "수공무대",
+          "콜라주",
+          "기록의정치"
+        ],
+        "sources": [
+          {
+            "label": "Futures_Past 공식 프로젝트·아카이브·제작팀",
+            "url": "https://www.futurespast.co.za/exhibitions/to-all-who-live-in-it"
+          },
+          {
+            "label": "French Institute of South Africa: Fak’ugesi 2026 공개 일정과 형식",
+            "url": "https://frenchinstitute.org.za/arts-and-creative-industries/creative-industries/digital-arts/futures_past-conversations-and-immersive-works-coming-to-fakugesi-2026"
+          },
+          {
+            "label": "Futures_Past: We Are What Remains 비교 사례",
+            "url": "https://www.futurespast.co.za/exhibitions/we-are-what-remains"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Moolman Opnames Collection",
+            "year": "1960년대",
+            "relation": "NFVSA가 보존한 아파르트헤이트 시기 35mm 필름 컬렉션. 노동·여가·생활 기록을 수공 무대와 360도 영상으로 재해석하는 직접적인 원천이다."
           }
         ]
       }
@@ -17697,6 +18371,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-26T15:43:09.000Z",
+  "generatedAt": "2026-10-27T22:10:10.724Z",
   "schemaVersion": 2
 }
