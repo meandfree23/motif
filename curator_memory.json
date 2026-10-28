@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -202,6 +202,10 @@
     {
       "date": "2026-10-28",
       "note": "오전재점검:원본·라이브동일하나오늘호4편으로최소6미달확인.원발행4편·Focus·다른66호그대로보존하고Cascade와1DROP1000YEARS두작품추가,오늘6편/4권역으로보강.후보FAIL0/WARN0. Cascade작가공식2023년/2026KIKK재전시·10.25종료및사진2023MoisMulti분리. Messier2024공연기록과2026.11.12밴쿠버예정구분,실시간해양자료연결/일률천년수치미주장.신규2사진직접확인·축소selfhost.기존CAUTÍNLEWFÜ사진은공식페이지에서도MilaBelén작가초상으로명시,실제공연사진아님을기존본문대로유지;공식실연사진미확보라는품질경고기록.다른작품사진/AI생성이미지로대체하지않음.최신mission/editorial_rules/dedup_policy/taste_profile/allowlist보존."
+    },
+    {
+      "date": "2026-10-29",
+      "note": "KST 새날호6편/3개확인권역(유럽2·북미1·동아시아2·기반미확인1), Focus Plum Road Tea Dream 5단락/4공식출처.67개기존호와편집규칙/allowlist보존.공연·게임·전시를한작품으로묶고2월공연초연과11월IDFA표기를구별.다른버전의WARPED기술설명이혼재해후보제외,공식사진·자료가명확한ComputationalCompost로교체.6작품이미지직접확인·축소selfhost.같은장소teamLab2작품은서로다른제목/공식작품페이지/연도·메커니즘을확인.후보gateFAIL0/WARN0.10.28CAUTÍNLEWFÜ의기존초상품질경고는유지."
     }
   ],
   "source_notes": [
@@ -280,6 +284,10 @@
     {
       "date": "2026-10-28",
       "note": "보강근거: https://marcvilanova.com/Cascade 의2023·128채널/스피커/광섬유/레이저·스피커가재생못하는초저주파진동설명, KIKK개별Cascade페이지의바르셀로나거점·10.22–25종료. 작가Freight자산403을우회하지않고동일작품사진을공식 https://www.spainculture.be/es/region/valonia/marc-vilanova-en-el-kikk-2026/ 공개원본에서확보(파일명MoisMultiQuebecCity2023/CharlineClavier,실제광섬유참여장면확인). https://martinmessier.art/1-drop-1000-years.html 의15장치/해양자료/크레딧및기존공연사진직접확인, https://www.alliancefrancaise.ca/event-rsvp/1-drop-1000-years-dc4ea6/ 의2026.11.12예정, MUTEK칠레공식작가소개몬트리올, 퀘벡정부2024공식문화브로슈어로2024공연기록확인. CAUTÍNLEWFÜ는 https://tba21.org/cautin-lewfu 및 https://www.museothyssen.org/actividades/cautin-lewfu 의이미지모두초상이라기존캡션/이미지를실연기록으로바꾸지않음. 신규사진은원권리자의공식작품소개자료를출처와크레딧을보존한축소프리뷰로사용하며개방라이선스나소유권을주장하지않음."
+    },
+    {
+      "date": "2026-10-29",
+      "note": "Plum:https://plum-road-tea-dream.com/ 의7피난처/일기/3형식·2026.2공연초연·W139전시9.4–11.1, https://www.vai.be/en/press/plumroadteadream-2 의개인기억/치유의예술적의도, MORPHO공식약력안트베르펜, IDFA개별작품150분/공동연출FranVincent/11월예정을교차검증.사진은작품공식게임화면God-Generator-3000_1이며IDFA타이틀로고이미지로대체하지않음. Apocalypse:IDFA개별페이지2026/웹+11월설치예정/공개전용기집계·과거동시간비교·1–5지표, NTTICC약력LA.공식화면엔개인식별기나항공편ID없음;통계적가설을실제핵공격경보로추천하지않음. Arsenic:https://www.ctm-festival.de/magazine/2026/is-my-lipstick-a-semiconductor 의133립스틱/7FM방송·안테나·회로·작가낭독/사진courtesyIoanaVremeMoser, 작가공식ivm의베를린, KIKK10.22–25종료교차검증.현대화장품일반의성분이나실제YL통신원음으로확대하지않음. Compost:KIKK개별작품+ https://dipc.ehu.eus/en/whats-new/news/tabakalera-presentabakalera-presents-maquinas-de-ingenio-jakintzen-bidegurutzean 의2023첫전시/프로토타입/폐열·지렁이및미생물, https://triennale.org/eventi/marina-otero-verzier 의Tabakalera제공실제작품사진.현재거점의최신확정근거미흡하여origin base/region null유지. Megaliths와MasslessSuns:teamlababudhabi.com 각각공식작품페이지/실제사진/HideakiTakahashi사운드/2019/2025·2025연도를확인,후자는손뻗기반응·비물질적빛구체,전자는공중뿌리와거석영상.센서사양이나생태성과추정하지않음.도쿄거점은teamLab공식뉴스및AsianArtMuseum공식보도자료기반,아부다비전시장으로중동권역을추정하지않음.모든이미지는원권리자의공식공개작품소개자료를축소프리뷰로사용하고출처URL·크레딧보존,소유권/포괄적개방라이선스를주장하지않음."
     }
   ],
   "dedup_policy": {

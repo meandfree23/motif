@@ -1,6 +1,323 @@
 {
   "issues": [
     {
+      "date": "2026-10-29",
+      "title": "머물 곳, 새어 나오는 신호, 보이지 않는 연결",
+      "summary": "기억을 걷는 게임부터 전용기의 운항량, 립스틱 라디오, 계산기의 폐열과 빛의 구체까지. 여섯 작업이 피난처와 경보, 생태적 연결을 만드는 서로 다른 방법을 살핀다.",
+      "crosscurrent": {
+        "note": "바이드오가 기억에 머무는 공간을 만든다면 맥도널드는 숫자를 불안의 징후로 바꾼다. 립스틱과 컴퓨터의 열은 사물의 숨은 이력을 드러내고, 두 teamLab 작품은 보이는 연결과 몸이 지각하는 존재 사이의 간격을 벌린다. 연결을 보여주는 일과 연결이 실제로 성립함을 입증하는 일은 서로 다른 과제다.",
+        "itemIds": [
+          "2026-10-29-01",
+          "2026-10-29-02",
+          "2026-10-29-03",
+          "2026-10-29-04",
+          "2026-10-29-05",
+          "2026-10-29-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-29-01",
+          "title": "일곱 개의 기억에 머물 곳을 만드는 게임",
+          "originalTitle": "Plum Road Tea Dream",
+          "creator": "Samuel Baidoo",
+          "url": "https://plum-road-tea-dream.com/",
+          "host": "plum-road-tea-dream.com",
+          "imageFallback": "https://plum-road-tea-dream.com/processed_images/Plum-Road-Tea-Dream_God-Generator-3000_1.144b2a5955734bc5.jpg",
+          "publishedAt": "2026 (게임·공연·전시; IDFA 11월 소개 예정)",
+          "description": "사무엘 바이드오가 퀴어 유색인으로 살아온 기억을 아바타 S의 가상 피난처로 만든다. 일곱 공간을 자신의 속도로 거닐고 일기에 생각을 남기는 게임은 공연과 전시로도 이어진다. W139 전시는 11월 1일까지, IDFA 소개는 11월에 예정돼 있다. 이미지: 작품 공식 사이트의 실제 게임 화면, Samuel Baidoo 제공.",
+          "insight": {
+            "mechanism": "가상 공간 탐색과 일기 쓰기를 중심에 둔 게임이다. 공연에서는 작가와 처음 접하는 게스트가 함께 플레이하고 대화하며, 전시에서는 게임의 공간을 조각·이미지·텍스트와 연결한다.",
+            "whyNow": "현재 암스테르담 전시와 다음 달 IDFA 프로그램을 잇는 작업이다. 공식 사이트의 2월 공연 초연과 IDFA의 11월 World Premiere 표기는 서로 다른 발표 맥락이므로 프로젝트 전체가 11월 처음 공개된다고 쓰지 않는다.",
+            "directorPoint": "게임의 진행을 더 빠른 성취로만 만들지 않고 머무름과 재방문의 권한으로 설계한다. 같은 세계를 혼자 걷기, 다른 사람과 플레이하기, 전시에서 만지듯 읽기로 옮기는 방식이 핵심이다.",
+            "critique": "개인의 기억에 접근하도록 초대하는 형식이 모든 관객에게 같은 안전감이나 치유 효과를 보장하지는 않는다. 세 형식의 체류 시간과 참여 조건도 동일하지 않으며, IDFA의 150분을 모든 버전의 고정 길이로 적용할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "신체·정체성",
+              "기억·아카이브",
+              "돌봄·치유"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "안트베르펜, 벨기에",
+            "region": "유럽",
+            "venue": "W139, 암스테르담(9.4–11.1); IDFA DocLab(11월 예정)"
+          },
+          "image": "images/2026-10-29-01.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-29-02",
+          "title": "전용기의 숫자로 징후를 읽는 화면",
+          "originalTitle": "Apocalypse Early Warning System",
+          "creator": "Kyle McDonald",
+          "url": "https://festival.idfa.nl/en/film/4ea8805f-d3a7-4ebd-89ac-79b814761538/Apocalypse-Early-Warning-System/",
+          "host": "festival.idfa.nl",
+          "imageFallback": "https://my.idfa.nl/image-transforms/353f97df-6382-4e78-92e2-f9aa18cac885/2500.jpeg",
+          "publishedAt": "2026 (IDFA 11월 설치 예정)",
+          "description": "공개된 전용기 운항 자료를 과거 같은 시기의 수치와 비교해 1부터 5까지의 위협 수준으로 표시하는 웹 작업이다. 권력층이 재난을 먼저 안다면 먼저 떠날 것이라는 가정을 대시보드의 논리로 바꾼다. IDFA 설치는 11월 예정이며, 이미지는 기관이 공개한 기존 웹 화면이다. Kyle McDonald / IDFA.",
+          "insight": {
+            "mechanism": "현재 비행 중인 전용기 수를 집계하고 이전 연도의 같은 시간대 자료와 비교해 차이를 단계형 지표로 보여준다. 사이트와 전시 설치가 같은 데이터 기반 가설을 공유한다.",
+            "whyNow": "IDFA 2026 DocLab의 예정작을 미리 살핀다. 평범한 통계 화면이 위험의 징후처럼 읽히는 과정 자체가 불평등한 정보 접근과 재난 상상력을 드러낸다.",
+            "directorPoint": "복잡한 영상 없이 숫자와 지도, 경보 단계의 인터페이스가 이야기를 만든다. 데이터의 선택과 비교 기준이 곧 서사의 편집이라는 점을 보여준다.",
+            "critique": "운항량의 증가가 핵 공격의 예고라는 인과관계는 검증되지 않았다. 계절 행사·자료 누락·수집 지연도 수치에 영향을 줄 수 있어 실제 재난 경보나 대피 판단 도구로 읽을 근거가 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "권력·감시",
+              "전쟁·폭력"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "로스앤젤레스, 미국(NTT ICC 공식 약력)",
+            "region": "북미",
+            "venue": "온라인; IDFA DocLab, 암스테르담(11월 예정)"
+          },
+          "image": "images/2026-10-29-02.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-29-03",
+          "title": "립스틱 안에 숨긴 라디오의 역사",
+          "originalTitle": "Arsenic Ballerinas",
+          "creator": "Ioana Vreme Moser",
+          "url": "https://www.ctm-festival.de/magazine/2026/is-my-lipstick-a-semiconductor",
+          "host": "www.ctm-festival.de",
+          "imageFallback": "https://www.ctm-festival.de/fileadmin/_processed_/c/b/csm_ArsenicBallerinas-1_b2bb23a041.jpg",
+          "publishedAt": "2026년 CTM 전시 기록; KIKK 2026 재소개",
+          "description": "133개의 립스틱 케이스가 작은 FM 수신기로 바뀌어 공중에 매달린다. 왁스 속 안테나와 케이스 안 회로·스피커가 일곱 방송을 받아 여성 무선통신사의 증언과 화장품 광고, 노래를 흩뿌린다. 최근 KIKK는 10월 25일 종료됐다. 이미지: CTM 공식 인터뷰의 설치 전경, courtesy Ioana Vreme Moser.",
+          "insight": {
+            "mechanism": "각 립스틱의 용기와 내용물을 수신 장치의 구조로 재구성한다. 작가가 고른 아카이브 문장과 자신의 낭독, 모르스 신호 등이 일곱 무선 전송을 통해 여러 작은 스피커에서 들린다.",
+            "whyNow": "2026년 CTM 인터뷰와 최근 KIKK 소개를 함께 읽으면 화장품·광물·통신·전쟁의 얽힘을 장식적인 오브젝트 너머로 추적할 수 있다. 현재 전시 중이라는 뜻은 아니다.",
+            "directorPoint": "소리를 한 지점에 모으지 않고 사물들의 작은 발화로 분산한다. 익숙한 물건의 크기와 외형을 남겨둔 채 듣는 기능을 부여해 관객이 가까이 다가가게 한다.",
+            "critique": "실제 YL 무선 대화의 녹음이 아니라 기록에서 고른 증언을 작가가 다시 읽은 부분이 있다. 이를 과거 통신의 원음으로 오인하면 안 되며, 작품의 역사적 재료 연구를 오늘날 모든 화장품의 성분에 대한 주장으로 확대할 수도 없다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "공간음향",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "신체·정체성",
+              "전쟁·폭력"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "베를린, 독일(작가 공식 약력)",
+            "region": "유럽",
+            "venue": "CTM 2026 및 KIKK 2026(종료); 사진은 CTM 공개 기록"
+          },
+          "image": "images/2026-10-29-03.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-29-04",
+          "title": "컴퓨터의 열로 흙을 돌보다",
+          "originalTitle": "Computational Compost",
+          "creator": "Marina Otero Verzier · DIPC (프로토타입), Locument (영화 공동 연출)",
+          "url": "https://kikkfestival.be/installations/computational-compost-art-trail-kikk2026",
+          "host": "kikkfestival.be",
+          "imageFallback": "https://images.prismic.io/triennale/aPIzQp5xUNkB2FxY_ComputationalCompost_2.CreditTabakalera.JPG?auto=format%2Ccompress&fit=max&rect=0%2C0%2C2000%2C1333&w=2560",
+          "publishedAt": "2023년 첫 프로토타입 공개; KIKK 2026 소개",
+          "description": "우주의 기원을 계산하는 컴퓨터의 폐열을 지렁이와 미생물이 유기물을 분해하는 장치로 돌리는 프로토타입이다. 디지털 저장의 물리적 비용을 흙의 생성과 함께 보여 주며 키푸를 다룬 영화가 이어진다. KIKK는 10월 25일 종료됐다. 이미지: Triennale Milano의 공식 작품 소개 사진, Tabakalera 제공, 최근 KIKK 현장 사진은 아니다.",
+          "insight": {
+            "mechanism": "계산 장치에서 생기는 열을 버미컴포스트 시스템으로 연결해 생물의 분해 과정을 돕는다. 프로토타입과 영화는 데이터의 저장·소멸, 물질의 변환을 서로 다른 시간 규모에서 다룬다.",
+            "whyNow": "2023년 Tabakalera·DIPC 협업으로 공개된 연구가 2025년 S+T+ARTS와 2026년 KIKK를 거쳤다. 올해의 신제품으로 포장하기보다 데이터센터 폐열을 다른 생명 과정에 연결하는 누적 연구로 읽는다.",
+            "directorPoint": "클라우드의 비용을 설명하는 도표 옆에 실제로 시간이 흐르는 물질을 둔다. 거대한 기반시설의 계산 시간을 느린 분해와 돌봄의 시간으로 바꾸는 연출이다.",
+            "critique": "작동하는 예술적 프로토타입이 데이터센터 전체의 에너지·물·탄소 문제를 해결했다는 증거는 아니다. 공개 설명에는 대규모 적용의 열 수지, 유지관리 비용, 생물의 적정 조건을 입증할 비교 수치가 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "바이오·생물",
+              "과학장비·실험",
+              "영상·필름"
+            ],
+            "theme": [
+              "기후·환경",
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": null,
+            "venue": "Tabakalera·DIPC 협업; KIKK 2026(종료), 사진은 Triennale 공개 자료"
+          },
+          "image": "images/2026-10-29-04.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-29-05",
+          "title": "뿌리 아래의 거석과 빛",
+          "originalTitle": "Megaliths in the Roots Garden",
+          "creator": "teamLab · Hideaki Takahashi (사운드)",
+          "url": "https://www.teamlababudhabi.com/en/explore/artworks/megaliths-in-the-roots-garden",
+          "host": "www.teamlababudhabi.com",
+          "imageFallback": "https://static.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/megaliths-roots-2-169f.jpg?h=1080&w=1920",
+          "publishedAt": "2019 / 2025 (공식 작품 표기)",
+          "description": "나무 뿌리가 아래층 공중으로 이어지는 공간에 거석 형태의 화면과 꽃의 영상이 놓인다. 흙 없이 자라는 뿌리와 개방된 전경을 통해, 보이는 연결과 균근 네트워크의 부재가 다른 문제임을 묻는다. 아부다비의 상설 작품이며 올해 새로 개막한 전시는 아니다. 이미지: teamLab Phenomena Abu Dhabi 공식 작품 사진.",
+          "insight": {
+            "mechanism": "살아 있는 뿌리가 드러나는 환경과 거석 표면의 영상, 사운드를 함께 구성한 인터랙티브 설치다. 공식 페이지는 뿌리가 흙 없이 공중에서 자라는 환경을 설명하지만 관객 입력의 검출 방식까지 공개하지는 않는다.",
+            "whyNow": "최근의 생태·데이터 작업과 함께 다시 읽는 상설 설치다. 작품 연도는 공식 표기인 2019 / 2025를 유지하고 2026년 신작으로 바꾸지 않는다.",
+            "directorPoint": "자연의 연결을 설명하는 자막보다 공간의 단면을 드러낸다. 뿌리가 보인다는 시각적 개방성과 생태적 연결이 성립한다는 판단 사이에 간격을 만든다.",
+            "critique": "작품의 균근과 도시 수목에 관한 설명을 모든 숲에 적용되는 단순한 법칙으로 일반화할 수 없다. 뿌리를 드러낸 환경의 생태적 성과나 장기 유지 조건도 공개 자료만으로 평가하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "바이오·생물"
+            ],
+            "theme": [
+              "비인간·생태",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "도쿄, 일본(teamLab 공식·미술관 약력)",
+            "region": "동아시아",
+            "venue": "teamLab Phenomena Abu Dhabi, 아부다비, 아랍에미리트"
+          },
+          "image": "images/2026-10-29-05.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-29-06",
+          "title": "손을 뻗으면 번지는 빛의 태양",
+          "originalTitle": "Massless Suns and Dark Suns",
+          "creator": "teamLab · Hideaki Takahashi (사운드)",
+          "url": "https://www.teamlababudhabi.com/en/explore/artworks/massless-suns-and-dark-suns",
+          "host": "www.teamlababudhabi.com",
+          "imageFallback": "https://static.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/massless-suns-and-dark-suns-2-169f.jpg?h=1080&w=1920",
+          "publishedAt": "2025 (공식 작품 표기)",
+          "description": "빛나는 구체가 가득한 공간에서 손을 뻗으면 가까운 빛이 강해지고 주변으로 반응이 이어진다. 자세히 보면 어두운 구체도 지각되지만 단단한 공이 놓인 것은 아니다. 빛과 환경, 몸의 지각이 만드는 '인지적 조각'이다. 아부다비 상설 설치의 공식 작품 사진, teamLab Phenomena Abu Dhabi 제공.",
+          "insight": {
+            "mechanism": "관객이 손을 내미는 동작과 빛의 연쇄 변화가 연결된다. 물리적 구체 대신 빛과 주변 환경의 관계가 구체의 존재감을 만들며 Hideaki Takahashi의 사운드가 결합한다.",
+            "whyNow": "2025년작 상설 설치를 통해, 물체를 늘리지 않고 존재감을 만드는 지각 설계를 살핀다. 같은 장소의 Megaliths와 별도 제목·연도·공식 페이지를 가진 독립 작품이다.",
+            "directorPoint": "관객에게 물건을 쥐게 하기보다 닿을 듯한 순간의 기대를 만든다. 작은 몸짓에서 시작된 밝기 변화가 주변으로 이어지며 개인의 행동을 공간 전체의 사건으로 확장한다.",
+            "critique": "보이지 않는 실체가 있다는 물리학적 주장이나 실제 태양의 재현은 아니다. 공식 소개는 지각의 효과를 설명하지만 센서·광학 장치의 구성과 사람마다 다른 지각 경험의 범위는 밝히지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "도쿄, 일본(teamLab 공식·미술관 약력)",
+            "region": "동아시아",
+            "venue": "teamLab Phenomena Abu Dhabi, 아부다비, 아랍에미리트"
+          },
+          "image": "images/2026-10-29-06.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "진행을 재촉하지 않는 게임: 기억에 머무는 세 가지 형식",
+        "sections": [
+          {
+            "heading": "피난처를 통과하는 대신 머무르기",
+            "body": "Plum Road Tea Dream의 중심에는 작가 자신의 기억과 아바타 S가 있다. 사무엘 바이드오는 퀴어 유색인으로서 경험한 고통과 기쁨, 상실을 가상 공간의 이야기로 옮긴다. 일곱 피난처를 자신의 속도로 탐색하고 일기를 남기는 구조는 장애물을 빨리 넘는 게임의 관습과 다른 시간을 제안한다. 여기서 멈춤은 진행 실패가 아니라 기억에 접근하는 방식이다. 다만 이는 작가가 설계한 예술적 돌봄의 조건이며 검증된 치료 프로그램을 뜻하지 않는다."
+          },
+          {
+            "heading": "같은 세계를 혼자, 둘이, 전시장 안에서",
+            "body": "공식 프로젝트 사이트는 게임·공연·전시를 구별한다. 공연에서는 안내하는 사람과 처음 접하는 게스트가 함께 플레이하고 대화하며, 관객은 그 만남과 게임 화면을 본다. 전시에서는 가상 세계와 조각·이미지·텍스트를 오가게 한다. 이 세 형식은 각각 다른 작품 세 편이라기보다 같은 기억 세계에 들어가는 다른 문이다. 혼자 할 때 남길 수 있는 침묵, 낯선 사람과 함께할 때 생기는 말, 전시장에 놓인 사물 사이의 거리가 경험의 리듬을 바꾼다."
+          },
+          {
+            "heading": "기억을 설명하는 전시에서 기억이 장소가 되는 전시로",
+            "body": "VAi의 전시 소개는 공간을 안정감과 연결, 성찰의 조건으로 읽는다. 화면 안의 장소는 작가의 내면을 그대로 복제한 증거가 아니라 기억을 선택하고 재구성한 장면이다. 그래픽과 분위기가 달라지는 공간들을 하나의 사실적 세계로 매끈하게 통일하지 않는 점도 주목할 만하다. 서로 다른 기억의 결을 시각적 불균질함으로 남기고, 방문자가 자신의 속도와 거리를 정하게 한다는 해석이 가능하다."
+          },
+          {
+            "heading": "서로 다른 발표 날짜를 구별하기",
+            "body": "공식 사이트에는 2026년 2월 공연의 세계 초연과 9월 4일부터 11월 1일까지 W139 전시가 안내돼 있다. 반면 11월 IDFA 페이지는 2026년·150분·World Premiere로 표기하며 Fran Vincent를 공동 연출로 기재한다. 따라서 IDFA의 표기를 프로젝트 전체의 첫 공개로 확대할 수 없다. 오늘은 진행 중인 전시와 예정된 영화제 발표를 함께 소개하되, 한 형식의 길이나 크레딧을 다른 모든 형식에 기계적으로 적용하지 않는다."
+          },
+          {
+            "heading": "디렉터의 노트: 재방문할 권한을 설계하기",
+            "body": "응용할 만한 것은 부드러운 색감 자체보다 체류를 허용하는 규칙이다. 관객을 다음 장면으로 밀어내는 대신 돌아갈 곳, 생각을 적을 곳, 다른 사람의 플레이를 기다릴 시간을 둔다. 동시에 '안전한 공간'이라는 표현만으로 모든 방문자의 경험을 대신 말할 수는 없다. 개인의 기억이 공공의 경험이 될 때 무엇을 공유하고 무엇을 남겨둘지, 관객이 어디까지 물러날 수 있을지를 함께 설계해야 한다."
+          }
+        ],
+        "keywords": [
+          "기억의 공간",
+          "가상 피난처",
+          "느린 탐색",
+          "재방문",
+          "게임과 공연"
+        ],
+        "sources": [
+          {
+            "label": "작품 공식 사이트: 게임·공연·전시와 일정",
+            "url": "https://plum-road-tea-dream.com/"
+          },
+          {
+            "label": "VAi 공식 전시 보도자료",
+            "url": "https://www.vai.be/en/press/plumroadteadream-2"
+          },
+          {
+            "label": "IDFA 2026 작품·크레딧·예정 프로그램",
+            "url": "https://festival.idfa.nl/en/film/a1712820-550c-4816-91e4-efef215be5b9/Plum-Road-Tea-Dream/"
+          },
+          {
+            "label": "MORPHO 공식 작가 소개: 안트베르펜 기반",
+            "url": "https://morphoantwerp.be/en/residenten/samuel-baidoo"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "Plum Road Tea Dream — 공연 형식",
+            "year": "2026년 2월",
+            "relation": "공식 사이트에 안내된 De Brakke Grond 공연 초연. 11월 IDFA 발표보다 앞선 같은 프로젝트의 공연 단계이며 별개 작품으로 중복 수록하지 않는다."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-28",
       "title": "버튼과 자석, 강물과 금속이 장면을 쓰는 방식",
       "summary": "엘리베이터 버튼이 호출하는 아이의 질문, 자석을 따라 일어서는 철가루, 강의 소리를 입은 몸, 니켈이 덧입혀지는 얼굴에 폭포의 진동과 해양 순환의 공연을 더한다. 여섯 작업은 화면 밖의 이동과 물질 변화를 이미지와 소리의 시간으로 바꾼다. 기존 네 작품과 Focus를 보존하고 북미·유럽 사례 두 편을 보강했다.",
@@ -18455,6 +18772,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-28T02:48:59.000Z",
+  "generatedAt": "2026-10-28T15:43:00.294Z",
   "schemaVersion": 2
 }
