@@ -198,6 +198,10 @@
     {
       "date": "2026-10-28",
       "note": "누락 2026-10-17·10-18과 오늘 2026-10-28을 함께 보충. 각 호 4개, 총 12개 작품과 자체 호스팅 JPEG 12장. 10/17 3권역(아프리카2·동아시아1·오세아니아1), Focus To All Who Live In It; 10/18 4권역, Focus SELF ABSORBED; 10/28 3권역, Focus P for Power: Up Down. 제작·재전시·종료·예정 시점을 구분하고, 이미지가 자료사진/초상/작업중 사진인 경우 본문에 명시. Gurat Lara는 기존 Fabric of the Earth와 같은 전시 URL로 후보 gate가 중복 판정해 작품별 심층 기사 URL로 교정. 후보·세 날짜별·전체 audit 모두 FAIL 0, 각 호 4편 count 경고만 확인."
+    },
+    {
+      "date": "2026-10-28",
+      "note": "오전재점검:원본·라이브동일하나오늘호4편으로최소6미달확인.원발행4편·Focus·다른66호그대로보존하고Cascade와1DROP1000YEARS두작품추가,오늘6편/4권역으로보강.후보FAIL0/WARN0. Cascade작가공식2023년/2026KIKK재전시·10.25종료및사진2023MoisMulti분리. Messier2024공연기록과2026.11.12밴쿠버예정구분,실시간해양자료연결/일률천년수치미주장.신규2사진직접확인·축소selfhost.기존CAUTÍNLEWFÜ사진은공식페이지에서도MilaBelén작가초상으로명시,실제공연사진아님을기존본문대로유지;공식실연사진미확보라는품질경고기록.다른작품사진/AI생성이미지로대체하지않음.최신mission/editorial_rules/dedup_policy/taste_profile/allowlist보존."
     }
   ],
   "source_notes": [
@@ -272,6 +276,10 @@
     {
       "date": "2026-10-28",
       "note": "신규·재검증 출처: futurespast.co.za/IFAS는 남부 아프리카 아카이브 기반 XR 프로젝트의 제작단계·Fak’ugesi 부분 공개·향후 본전시를 구분하기 좋음. NTU Museum On the cusp는 신작 사양·기간·작가 기반과 공식 이미지를 제공. FILE 2025 개별 설치 페이지는 OUVIR/Veillance 설치사진과 설명이 안정적이나 같은 호 최대 2개 원칙 유지. New Museum+Hyundai 공식 발표는 P for Power: Up Down의 버튼 입력·실시간 AI 이미지 생성 범위를 교차 확인 가능. KIKK 개별 설치 페이지의 공식 Supabase 이미지는 안정적. Design Anthology의 Bagus Pandega 인터뷰는 Gurat Lara 메커니즘을 별도 URL로 상세 설명해 전시 공용 URL 중복을 피할 수 있음."
+    },
+    {
+      "date": "2026-10-28",
+      "note": "보강근거: https://marcvilanova.com/Cascade 의2023·128채널/스피커/광섬유/레이저·스피커가재생못하는초저주파진동설명, KIKK개별Cascade페이지의바르셀로나거점·10.22–25종료. 작가Freight자산403을우회하지않고동일작품사진을공식 https://www.spainculture.be/es/region/valonia/marc-vilanova-en-el-kikk-2026/ 공개원본에서확보(파일명MoisMultiQuebecCity2023/CharlineClavier,실제광섬유참여장면확인). https://martinmessier.art/1-drop-1000-years.html 의15장치/해양자료/크레딧및기존공연사진직접확인, https://www.alliancefrancaise.ca/event-rsvp/1-drop-1000-years-dc4ea6/ 의2026.11.12예정, MUTEK칠레공식작가소개몬트리올, 퀘벡정부2024공식문화브로슈어로2024공연기록확인. CAUTÍNLEWFÜ는 https://tba21.org/cautin-lewfu 및 https://www.museothyssen.org/actividades/cautin-lewfu 의이미지모두초상이라기존캡션/이미지를실연기록으로바꾸지않음. 신규사진은원권리자의공식작품소개자료를출처와크레딧을보존한축소프리뷰로사용하며개방라이선스나소유권을주장하지않음."
     }
   ],
   "dedup_policy": {

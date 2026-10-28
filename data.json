@@ -3,7 +3,7 @@
     {
       "date": "2026-10-28",
       "title": "버튼과 자석, 강물과 금속이 장면을 쓰는 방식",
-      "summary": "엘리베이터 버튼이 호출하는 아이의 질문, 자석을 따라 일어서는 철가루, 강의 소리를 입은 몸, 니켈이 덧입혀지는 얼굴. 네 작업은 화면 밖의 이동과 물질 변화를 이미지와 소리의 시간으로 바꾼다.",
+      "summary": "엘리베이터 버튼이 호출하는 아이의 질문, 자석을 따라 일어서는 철가루, 강의 소리를 입은 몸, 니켈이 덧입혀지는 얼굴에 폭포의 진동과 해양 순환의 공연을 더한다. 여섯 작업은 화면 밖의 이동과 물질 변화를 이미지와 소리의 시간으로 바꾼다. 기존 네 작품과 Focus를 보존하고 북미·유럽 사례 두 편을 보강했다.",
       "crosscurrent": {
         "note": "P for Power: Up Down과 Gurat Lara는 완성된 영상을 반복하기보다 작동 중인 시스템을 화면에 연결한다. 전자는 관객의 층 선택을 새로운 이미지 시퀀스의 계기로 삼고, 후자는 금속이 얼굴을 덮는 물리적 시간을 생중계한다. 버튼을 누르는 짧은 시간과 채굴의 긴 시간이 서로 다른 권력의 리듬을 드러낸다.",
         "itemIds": [
@@ -170,6 +170,90 @@
             "region": "동남·남아시아",
             "venue": "Singapore Art Museum at Tanjong Pagar Distripark, 싱가포르"
           },
+          "grounded": true
+        },
+        {
+          "id": "2026-10-28-05",
+          "title": "폭포의 저음을 빛의 섬유로 듣다",
+          "originalTitle": "Cascade",
+          "creator": "Marc Vilanova",
+          "url": "https://marcvilanova.com/Cascade",
+          "imageFallback": "https://www.spainculture.be/site/assets/files/4641/cascade-by-marc-vilanova-at-espace-400e--mois-multi--quebec-city--photography_charline-clavier--2023--1_-grande.jpg",
+          "publishedAt": "2023 (작가 표기; 2026 KIKK 재전시)",
+          "host": "marcvilanova.com",
+          "description": "폭포에서 녹음한 초저주파를 작은 스피커의 진동과 발광 광섬유의 움직임으로 옮긴 사운드 조각이다. 작가의 2023년작이 KIKK 2026에 다시 소개됐으며 축제는 10월 25일 종료했다. 사진: Mois Multi, 퀘벡시티의 2023년 설치 기록, Charline Clavier, 작가·스페인 주벨기에 대사관 문화부 공개 자료.",
+          "insight": {
+            "mechanism": "작가가 공개한 구성은 128채널 사운드·스피커 콘·광섬유·레이저다. 스피커가 충분히 재생하지 못하는 낮은 주파수를 진동으로 전달하고, 그 진동이 빛나는 섬유를 흔들어 소리의 움직임을 드러낸다.",
+            "whyNow": "올해 신작이라는 이유보다 최근 KIKK 재전시를 계기로, 강과 폭포의 기록이 서로 다른 감각으로 번역되는 방식을 이번 호에 보강한다. 사진의 2023년과 최근 전시의 2026년을 나누어 읽는다.",
+            "directorPoint": "들리지 않는 것을 더 큰 음량으로 해결하지 않는다. 귀의 한계를 빛·움직임·신체 감각의 통로로 돌려, 같은 자료를 다른 방식으로 만나게 한다.",
+            "critique": "새의 길 찾기라는 생태적 참조가 인간에게 새의 청각을 그대로 체험시킨다는 뜻은 아니다. 광섬유의 아름다운 움직임과 동물 지각의 과학적 재현은 구분해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "공간음향",
+              "라이트·LED"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "바르셀로나, 스페인",
+            "region": "유럽",
+            "venue": "KIKK 2026, 나뮈르(10.22–25 종료); 사진은 Mois Multi 2023"
+          },
+          "image": "images/2026-10-28-05.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-28-06",
+          "title": "한 방울의 긴 순환을 무대의 리듬으로",
+          "originalTitle": "1 DROP 1000 YEARS",
+          "creator": "Martin Messier",
+          "url": "https://martinmessier.art/1-drop-1000-years.html",
+          "imageFallback": "https://martinmessier.art/img/1%20drop%201000%20years%20-%20project%20by%20the%20artist%20Martin%20Messier%20-%20curator%20Jay%20Jaehoon%20Bang%202.jpeg",
+          "publishedAt": "2024년 공연 기록 있음 (2026 순회)",
+          "host": "martinmessier.art",
+          "description": "공중에 매단 장치 15개가 물 입자의 흐름을 빛과 소리의 구성으로 펼치는 라이브 공연이다. 해양 순환과 태평양의 수온·염분 자료를 출발점으로 삼는다. 11월 12일 밴쿠버 공연이 예정돼 있다. 이미지: 작가 공식 페이지의 기존 공연 사진이며, 예정 공연의 현장 사진이 아니다.",
+          "insight": {
+            "mechanism": "실제 물의 운동을 만드는 키네틱 장치와 조명·음악이 함께 작동한다. 해양 자료에 근거한 패턴을 무대 위에서 전개하지만 공식 소개만으로 실시간 해양 관측 데이터가 직접 연결된다고 단정할 수는 없다.",
+            "whyNow": "2024년 공개 공연 기록이 있는 작업의 2026년 순회다. 예정된 밴쿠버 공연을 계기로, 기후의 긴 시간을 수십 분의 시청각 리듬으로 옮기는 사례를 소개한다.",
+            "directorPoint": "흐름을 보여주는 그래프 대신 낙하·점멸·간격이 있는 물질의 리듬을 만든다. 멀리서 보이는 빛의 선과 가까이서 튀는 물의 움직임이 같은 장면을 다른 크기로 읽게 한다.",
+            "critique": "제목의 천 년을 모든 물방울의 정확한 여행 시간이나 기후 예측 수치로 읽어서는 안 된다. 과학 자료를 사용했다는 사실과 그것을 무대의 시간으로 압축·선택한 예술적 규칙은 별도로 검토할 필요가 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": "몬트리올, 캐나다(MUTEK 공식 소개)",
+            "region": "북미",
+            "venue": "Alliance Française Vancouver Théâtre, 밴쿠버(11.12 예정)"
+          },
+          "image": "images/2026-10-28-06.jpg",
           "grounded": true
         }
       ],
@@ -18371,6 +18455,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-27T22:10:10.724Z",
+  "generatedAt": "2026-10-28T02:48:59.000Z",
   "schemaVersion": 2
 }
