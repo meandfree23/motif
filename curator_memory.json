@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-30T15:37:11Z",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -210,6 +210,10 @@
     {
       "date": "2026-10-30",
       "note": "오늘호없음확인후6작품/BENCHES Focus5단락·5출처준비,기존68호/mission/editorial_rules/dedup_policy/taste_profile/allowlist보존.분할돔영화·책/음향공연·맥박설치·웹게임·몰입형SF·방울장치로기록과소멸연결.후보FAIL0/WARN0.동일프로젝트개인/집단AlltheDowntime한항목에통합.2025선행BENCHES공연/2026돔영화/11월국제초연,2024Log최초발표/2026재상영·5분발췌,2021PulseTopology/2024사진/별도2026PulseMap구별.공식작품이미지6장시각검증및축소selfhost.기존10.28초상경고유지.날짜별최종검사FAIL0/WARN1:OneMoreSim은10.20Nostalgia와별개작품이지만동일작가14일경고를기록.금지중복이나Focus반복아님."
+    },
+    {
+      "date": "2026-10-31",
+      "note": "KST 새날호6작품·3권역(유럽4/동아시아1/아프리카1),동일도메인최대2.기존69호/375ID와최신mission/editorial_rules/dedup_policy/taste_profile/allowlist·품질보완규칙보존.신규이미지6장은공식작품자료를직접대조·축소selfhost,출처8필드기록.뜨개장갑/숲접촉/두사람VR/생성프로젝션/돌봄XR/식품풍자동선의작동구조를연결.2025Hands·FEATHERS와2024SweetDreams의제작시점/2026·2025재전시구별,종료전시현재형안내금지.토요관람은남아공현지10.31일정으로명시.추정센서사양·의료효과·관객반응통계추가하지않음."
     }
   ],
   "source_notes": [
@@ -300,6 +304,10 @@
     {
       "date": "2026-10-30",
       "note": "전체 보완: 검색·검사기 공통 규칙, 공식 이미지 교체, 단일 출처 Focus 보강, 원제·크레딧 정규화. Quiver 공식 작품 이미지 미확보, CAUTÍN LEWFÜ 작가 초상은 명시적으로 표시하고 신규 발행 기준 통과로 취급하지 않는다."
+    },
+    {
+      "date": "2026-10-31",
+      "note": "Tea:Ars공식개별페이지공압직물장갑·제어주체·크레딧,JKU상세및LIT연구실/연구원장2026기간·버튼보조·개별손가락구동·예상밖동작질문교차검증.사진은SophieSkach공식장갑시연으로현재전시장전경이아님. Forest:Ars개별페이지착용형/휴대트랜스듀서·sonic-haptic·미에현장기록·도쿄대/NTT소속확인.갤러리2YouyangHu사진은숲현장연구이며식물언어해독·생체전위센서사양을추정하지않음. Hands:FILE2026개별작품두참여자/손/심박·공식실제체험3장면,작가sensorium홈2025작업·BE스튜디오,작가직접2026.2WIP발표교차확인.다른제목HandsWhisperQuietly의홈이미지는쓰지않음. FEATHERS:FILE공식2026실제설치사진과작가 https://www.parseerror.net/portfolio/feathers/ 의2025PRESENCE·모션센서/자율생성/손위치반응교차확인.공식about영문프랑스남부/불문마르세유표기보존. Acts:TwoNameGames공식project의VR/AR/포스터3단계·Enea안내·TAP과GALA기록재구성,visit의2026.9.8–12.1/현지10.31토요10–13시·16세권장확인.사진은공식실제포스터제작UI이며다른연계전시작품/초상/홍보포스터를대신사용하지않음.팀개인크레딧및남아공기반은IFAS공식2026.9.4선정팀기록대조. SweetDreams:MLF공식개별페이지2024출시/60분/FactoryInternational실제공연사진과2025Ars별도발췌8방원작·VR퍼펫/생성형AI제작기록구분.공식information의London주소확인;이미지폴더2023을제작연도로오인하지않음.공식공개축소프리뷰의출처·크레딧만기록하며포괄적라이선스나소유권을주장하지않음."
     }
   ],
   "dedup_policy": {

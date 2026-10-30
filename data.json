@@ -1,6 +1,383 @@
 {
   "issues": [
     {
+      "date": "2026-10-31",
+      "title": "작은 몸짓이 신뢰와 관계를 바꾸는 여섯 장면",
+      "summary": "컵을 잡는 장갑, 숲을 만지는 손, 얼굴 없는 VR 만남과 흐르는 생성 영상. 돌봄의 기록과 달콤한 마스코트까지, 여섯 작업이 감각을 자극하는 데서 나아가 누가 행동하고 해석하는지 묻는다.",
+      "crosscurrent": {
+        "note": "SPILLING THE TEA?가 손을 움직이는 주도권을 묻고 Forest Ecosomatics는 접촉의 감각을 여러 통로로 돌려준다. To Know You by Hand와 FEATHERS는 작은 몸짓이 상대와 환경의 리듬을 바꾸게 한다. Acts of Care는 그 참여를 다음 사람에게 남는 메시지로 잇고, Sweet Dreams는 친근한 안내자가 우리의 욕망까지 이끌 수 있음을 되묻게 한다.",
+        "itemIds": [
+          "2026-10-31-01",
+          "2026-10-31-02",
+          "2026-10-31-03",
+          "2026-10-31-04",
+          "2026-10-31-05",
+          "2026-10-31-06"
+        ]
+      },
+      "items": [
+        {
+          "originalTitle": "SPILLING THE TEA? – A Soft Material Experience",
+          "creator": "Sandra Maria Siedl · Sophie Skach",
+          "title": "내 손을 돕는 장갑, 움직임의 주인은 누구인가",
+          "publishedAt": "2026 (연구 프로젝트·Ars Electronica 전시 기록)",
+          "description": "뜨개질로 만든 로봇 장갑을 끼고 부드러운 찻자리의 소품을 다룬다. 압축 공기로 움직이는 직물 구조가 손가락의 동작을 도우면서, 도움을 받는 감각과 통제권을 넘기는 감각을 함께 묻는다. 2026년 축제 전시 기록이며 현재 진행 중인 전시 안내는 아니다.",
+          "insight": {
+            "mechanism": "장갑의 직물 구조에 통합한 공압 구동기가 손가락이나 손 전체를 움직인다. JKU는 버튼으로 보조 동작을 켜고 컵을 잡거나 차를 따르는 몸짓을 시도하는 방식으로 설명한다.",
+            "whyNow": "2026년 연구에서 몸에 밀착하는 로봇을 기술 시연대 대신 함께 앉는 찻자리로 옮겼다. 기능의 유용성뿐 아니라 착용자의 자기 감각과 옆에서 지켜보는 사람의 판단까지 토론할 조건을 만든다.",
+            "directorPoint": "낯선 장치를 익숙한 의식 속에 넣어 설명보다 행동을 먼저 시작하게 한다. 컵을 잡는 작은 성공과 뜻대로 되지 않는 순간이 기술에 대한 신뢰를 바꾸는 사건이 된다.",
+            "critique": "공개 설명은 체험의 구성과 연구 질문을 제시하며 재활 효과나 안전 성능을 입증한 결과는 아니다. 보조 강도, 중단 권한과 동작의 예측 가능성을 실제 관람 조건에서 따로 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "촉각",
+              "신체·움직임",
+              "시각"
+            ],
+            "tech": [
+              "웨어러블",
+              "로보틱스",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "신체·정체성",
+              "돌봄·치유"
+            ],
+            "scale": "손·웨어러블"
+          },
+          "origin": {
+            "artistBase": "린츠, 오스트리아(Siedl, JKU) · 이탈리아(Skach, SSSA 연구실)",
+            "region": "유럽",
+            "venue": "JKU MED Campus, 린츠 / Ars Electronica 2026 전시 기록"
+          },
+          "id": "2026-10-31-01",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/spilling-the-tea-a-soft-material-experience-38238ddb450c811994dbe058f9a51b03/",
+          "host": "ars.electronica.art",
+          "image": "images/2026-10-31-01.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/spillingthetea-a-sophie-skach_hoch.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://ars.electronica.art/negotiatinghumanity/en/view/spilling-the-tea-a-soft-material-experience-38238ddb450c811994dbe058f9a51b03/",
+            "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/spillingthetea-a-sophie-skach_hoch.jpg",
+            "kind": "artwork",
+            "credit": "Sophie Skach; Sandra Maria Siedl · Sophie Skach / Ars Electronica",
+            "caption": "공압 직물 장갑으로 컵을 잡는 프로젝트 공식 사진. 사진: Sophie Skach / Ars Electronica 공개 자료.",
+            "checkedAt": "2026-10-31T00:37:11+09:00",
+            "usageBasis": "원권리자 또는 공식 전시기관의 작품 소개에서 공개한 자료를 출처·크레딧을 붙인 축소 프리뷰로 기록. 별도 개방 라이선스나 이용허락을 주장하지 않음.",
+            "alt": "파란 뜨개 로봇 장갑을 착용한 손이 작은 컵을 잡고 있는 작품 사진"
+          }
+        },
+        {
+          "originalTitle": "Forest Ecosomatics",
+          "creator": "Youyang Hu · Yating Dai · Shin Chen · Yumi Nishihara · Junji Watanabe · Yasue Kishino · Yasuaki Kakehi",
+          "title": "숲을 바라보는 대신 소리와 진동으로 만지다",
+          "publishedAt": "2026 (Ars Electronica 전시 기록)",
+          "description": "착용형 인터페이스와 휴대형 변환 장치를 통해 강, 나무, 이끼와 식물을 만나는 감각을 소리와 촉각 피드백으로 확장한다. 일본 미에의 숲에서 수행한 현장 연구 기록도 함께 제시한 작업이다. 사진은 공식 공개 현장 연구 기록으로, 린츠 전시장 전경과 구별한다.",
+          "insight": {
+            "mechanism": "착용 장치와 휴대형 트랜스듀서가 접촉 경험을 소리·진동의 피드백과 연결한다. 공식 설명이 밝히는 것은 감각의 매개 방식이며 식물의 생각을 번역하는 언어 해독 시스템은 아니다.",
+            "whyNow": "도쿄대와 NTT의 공동 연구가 2026년 예술 전시에서 감각적 만남의 형식으로 소개됐다. 환경을 멀리서 관찰하는 자료와 몸으로 가까이 만나는 연구를 함께 읽게 한다.",
+            "directorPoint": "대상을 더 선명한 화면으로 보여주는 대신 같은 접촉을 여러 감각으로 되돌려준다. 손이 닿는 위치, 몸이 머무는 시간과 소리의 변화가 장면의 중심이 될 수 있다.",
+            "critique": "사람이 설계한 피드백을 비인간 존재의 직접적인 목소리로 받아들일 수는 없다. 접촉이 숲에 주는 영향과 장치가 선택해 강조하는 신호를 함께 살펴야 한다."
+          },
+          "tags": {
+            "sense": [
+              "촉각",
+              "청각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "웨어러블",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "인간-기계 관계"
+            ],
+            "scale": "손·웨어러블"
+          },
+          "origin": {
+            "artistBase": "도쿄, 일본(도쿄대 소속 연구진) · 교토, 일본(NTT 연구진)",
+            "region": "동아시아",
+            "venue": "Ars Electronica Center 2026 전시; 미에, 일본 현장 연구"
+          },
+          "id": "2026-10-31-02",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/forest-ecosomatics-39638ddb450c814b8f9bf2e1a9441977/",
+          "host": "ars.electronica.art",
+          "image": "images/2026-10-31-02.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/forest-ecosomatics_2ayouyang-hu.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://ars.electronica.art/negotiatinghumanity/en/view/forest-ecosomatics-39638ddb450c814b8f9bf2e1a9441977/",
+            "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/forest-ecosomatics_2ayouyang-hu.jpg",
+            "kind": "documentation",
+            "credit": "Youyang Hu / Forest Ecosomatics; Ars Electronica",
+            "caption": "숲에서 착용형 인터페이스를 사용하는 현장 연구 기록. 사진: Youyang Hu / Ars Electronica 공개 자료.",
+            "checkedAt": "2026-10-31T00:37:11+09:00",
+            "usageBasis": "원권리자 또는 공식 전시기관의 작품 소개에서 공개한 자료를 출처·크레딧을 붙인 축소 프리뷰로 기록. 별도 개방 라이선스나 이용허락을 주장하지 않음.",
+            "alt": "팔에 장치를 착용한 참여자가 숲의 이끼에 손을 대고 있는 현장 연구 사진"
+          }
+        },
+        {
+          "originalTitle": "To Know You by Hand",
+          "creator": "Lawrence Kudria",
+          "title": "얼굴을 지우고 손과 맥박으로 만나는 두 사람",
+          "publishedAt": "2025 (작가 표기); FILE 2026 전시 기록",
+          "description": "두 방문자가 이름과 얼굴 대신 손의 움직임과 심박을 통해 만나는 참여형 VR 작업이다. 어두운 가상 공간에서 말과 외모의 단서를 줄이고 몸짓과 접촉으로 관계의 리듬을 찾게 한다. 작가의 2025년 작업 표기와 2026년 FILE 소개를 구별한다.",
+          "insight": {
+            "mechanism": "두 사람의 손과 심박을 만남의 통로로 삼고 얼굴·이름의 단서를 제거한다. 공식 자료는 이 생체 피드백 기반 구성을 설명하지만 센서 모델이나 심박의 정확한 시청각 매핑까지 공개하지는 않는다.",
+            "whyNow": "2026년 FILE에서 소개된 작업으로, 정교한 아바타를 더하는 대신 식별 단서를 덜어 내는 VR의 가능성을 보여준다. 작가는 2026년 초에도 진행 중인 버전을 전시했다고 기록했다.",
+            "directorPoint": "관계의 정보를 한꺼번에 주지 않고 손의 거리와 움직임 같은 작은 단서에 집중시킨다. 익명의 상대와 타이밍을 맞추는 과정 자체가 서사가 된다.",
+            "critique": "익명이 모든 참여자에게 편안함이나 신뢰를 보장하지는 않는다. 접촉 동의와 중단 방법, 심박 데이터의 처리 조건은 작품의 의도와 별도로 확인할 필요가 있다."
+          },
+          "tags": {
+            "sense": [
+              "촉각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "돌봄·치유"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "벨기에(sensorium studio.lab 공식 표기)",
+            "region": "유럽",
+            "venue": "FILE São Paulo 2026 전시 기록"
+          },
+          "id": "2026-10-31-03",
+          "url": "https://file.org.br/av_reality_2026/lawrence-kudria-to-know-you-by-hand-belgica-ucrania/",
+          "host": "file.org.br",
+          "image": "images/2026-10-31-03.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Lawrence-Kudria-To-know-you-by-Hand-Belgica-Ucrania-FILE-SP-2026-2-trio.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/av_reality_2026/lawrence-kudria-to-know-you-by-hand-belgica-ucrania/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Lawrence-Kudria-To-know-you-by-Hand-Belgica-Ucrania-FILE-SP-2026-2-trio.jpg",
+            "kind": "installation",
+            "credit": "Lawrence Kudria / sensorium studio.lab; FILE Festival 공식 작품 기록",
+            "caption": "두 참여자의 VR 체험을 연속 장면으로 기록한 FILE 공식 사진 자료. 가상 공간 안의 화면이 아니다.",
+            "checkedAt": "2026-10-31T00:37:11+09:00",
+            "usageBasis": "원권리자 또는 공식 전시기관의 작품 소개에서 공개한 자료를 출처·크레딧을 붙인 축소 프리뷰로 기록. 별도 개방 라이선스나 이용허락을 주장하지 않음.",
+            "alt": "VR 헤드셋을 쓴 두 참여자가 마주 서서 손으로 교감하는 세 장면"
+          }
+        },
+        {
+          "originalTitle": "FEATHERS",
+          "creator": "Parse/Error (Fabien Bouchard)",
+          "title": "손의 작은 궤적이 수천 형상의 흐름을 바꿀 때",
+          "publishedAt": "2025 (PRESENCE); 2026 FILE 재전시 기록",
+          "description": "자율적으로 흐르는 수천 개의 기하학 형상에 손의 위치와 움직임이 개입해 형태·속도감·색을 바꾼다. 새 떼와 물고기 무리 같은 움직임에서 출발한 실시간 인터랙티브 프로젝션이다. 2025년 랑데르노에서 발표했고 2026년 FILE에도 소개됐다.",
+          "insight": {
+            "mechanism": "모션 센서가 손의 위치와 몸짓을 받아 생성 영상의 모양·리듬·색에 반영한다. 관객이 없을 때도 스스로 변하는 흐름과 관객이 가하는 변화가 함께 존재한다.",
+            "whyNow": "작가의 2025년 발표와 2026년 재전시를 연결해, 반복 관람에서도 작동하는 인터랙션의 조건을 살핀다. 신작처럼 날짜를 바꾸기보다 반응의 구조를 읽는 사례다.",
+            "directorPoint": "멈춘 화면에 반응을 추가하는 대신 이미 살아 움직이는 배경에 작은 행동이 스며들게 한다. 자신의 흔적을 알아차릴 여지를 주면서 전체 흐름을 끊지 않는 균형이 핵심이다.",
+            "critique": "자연의 군집을 닮은 움직임이 실제 생태계의 모델이나 협력의 효과를 검증하지는 않는다. 여러 사람이 동시에 개입할 때 누구의 행동이 반영되는지도 공개 자료만으로는 알 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "실시간그래픽·게임엔진",
+              "프로젝션"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "프랑스 남부(작가 공식 영문 약력); 프랑스어 약력은 마르세유로 표기",
+            "region": "유럽",
+            "venue": "FILE São Paulo 2026; Galerie de Rohan, 랑데르노 2025"
+          },
+          "id": "2026-10-31-04",
+          "url": "https://file.org.br/installations_2026/parse-error-feathers-franca/",
+          "host": "file.org.br",
+          "image": "images/2026-10-31-04.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Parseerror-FEATHERS-Franca-FILE-SP-2026-2-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/installations_2026/parse-error-feathers-franca/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Parseerror-FEATHERS-Franca-FILE-SP-2026-2-scaled.jpg",
+            "kind": "installation",
+            "credit": "Parse/Error (Fabien Bouchard) / FILE Festival 공식 작품 기록",
+            "caption": "관객의 몸짓과 생성 영상이 함께 보이는 FILE 2026 공식 설치 기록. FILE Festival 공개 자료.",
+            "checkedAt": "2026-10-31T00:37:11+09:00",
+            "usageBasis": "원권리자 또는 공식 전시기관의 작품 소개에서 공개한 자료를 출처·크레딧을 붙인 축소 프리뷰로 기록. 별도 개방 라이선스나 이용허락을 주장하지 않음.",
+            "alt": "어두운 전시 공간에서 관객의 손짓 뒤로 색채의 기하학 패턴이 펼쳐지는 설치 사진"
+          }
+        },
+        {
+          "originalTitle": "Acts of Care",
+          "creator": "Tiisetso Dladla · Kieran Reid · Tim Flusk · Jordan Green · Kirsten Reid",
+          "title": "돌봄의 기록에서 오늘의 포스터를 만드는 자리",
+          "publishedAt": "2026 (9월 공개)",
+          "description": "소웨토 Township AIDS Project의 기록을 VR 상담실, 전신 AR 사진 경험, 참여형 포스터 제작으로 잇는 전시다. 과거를 목격하고 현재의 자신을 비추며 새로운 돌봄의 메시지를 남긴다. 남아공 현지 10월 31일에는 특별 토요 관람이 예정돼 있다.",
+          "insight": {
+            "mechanism": "Enea Motaung의 안내가 있는 VR 상담실에서 시작해, 당시 캠페인의 시각 언어를 활용한 AR와 포스터 제작으로 이어진다. 참여자가 만든 익명 포스터는 함께 자라는 벽에 공개될 수 있다.",
+            "whyNow": "요하네스버그 Latitudes Centre for the Arts에서 12월 1일까지 소개하며 10월 31일 토요 관람을 따로 운영한다. 오래된 기록을 오늘의 발언과 연결하는 구체적인 참여 구조가 있다.",
+            "directorPoint": "회고 영상을 보는 것으로 끝내지 않고 보기·자기 표현·만들기의 순서로 관객의 역할을 바꾼다. 마지막에 남긴 결과물이 다음 방문자의 환경 일부가 되도록 한다.",
+            "critique": "VR로 복원한 방은 당시 공간의 완전한 재현이나 당사자의 경험을 대신하는 증거가 아니다. 애도와 낙인의 역사를 체험의 재미로 단순화하지 않도록 기록의 출처와 전시의 재구성을 구별해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "네트워크·웹",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "돌봄·치유",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "남아프리카공화국(IFAS가 밝힌 현지 기반 창작팀)",
+            "region": "아프리카",
+            "venue": "Latitudes Centre for the Arts, 요하네스버그 / 2026.9.8–12.1; 현지 10.31 토요 10:00–13:00"
+          },
+          "id": "2026-10-31-05",
+          "url": "https://twonamegames.com/actsofcare/",
+          "host": "twonamegames.com",
+          "image": "images/2026-10-31-05.jpg",
+          "imageFallback": "https://twonamegames.com/actsofcare/assets/station-poster-maker.webp",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://twonamegames.com/actsofcare/",
+            "sourceUrl": "https://twonamegames.com/actsofcare/assets/station-poster-maker.webp",
+            "kind": "documentation",
+            "credit": "Two Name Games / Acts of Care; TAP · GALA Queer Archive 자료를 활용한 인터페이스",
+            "caption": "프로젝트 공식 포스터 제작 인터페이스 화면. VR 상담실이나 전시장 현장 사진과 구별한다. Two Name Games 제공.",
+            "checkedAt": "2026-10-31T00:37:11+09:00",
+            "usageBasis": "원권리자 또는 공식 전시기관의 작품 소개에서 공개한 자료를 출처·크레딧을 붙인 축소 프리뷰로 기록. 별도 개방 라이선스나 이용허락을 주장하지 않음.",
+            "alt": "참여자가 기록 자료와 문구를 배치해 포스터를 만드는 Acts of Care 인터페이스 화면"
+          }
+        },
+        {
+          "originalTitle": "Sweet Dreams",
+          "creator": "Marshmallow Laser Feast (Robin McNicholas · Ersin Han Ersin · Barnaby Steel) · Simon Wroe (글) · mcbess (아트 디렉션)",
+          "title": "달콤한 마스코트를 따라가다 만나는 식욕의 공장",
+          "publishedAt": "2024 (맨체스터); 2025 축제 발췌 버전",
+          "description": "가상의 식품회사와 닭 마스코트를 따라 여러 공간을 이동하며 음식·소비·욕망의 모순을 만나는 몰입형 서사다. 실시간 그래픽, 공간 음향, 조각과 애니메이션을 결합한다. 사진은 2024년 Aviva Studios 공연이며 현재 관람 가능한 전시로 안내하지 않는다.",
+          "insight": {
+            "mechanism": "2024년의 약 60분 경험은 여러 방을 통과하는 동선에 장면을 배치한다. 공식 축제 기록은 2D·3D·생성형 AI 영상과 VR 퍼펫 제작 방식을 설명하며 2025년 발췌 버전과 전체 경험을 구별한다.",
+            "whyNow": "최근 신작을 좇는 대신, 귀여운 캐릭터가 불편한 소비 구조로 관객을 안내하는 2024년 사례를 다시 읽는다. 2025년 축제의 짧은 편집을 원래 여덟 방의 경험 전체로 확대하지 않는다.",
+            "directorPoint": "밝고 친근한 안내자를 끝까지 믿게 하기보다 그 친근함의 기능을 돌아보게 한다. 공간 이동에 따라 유쾌함과 불편함이 달라지도록 해 관객이 자신의 욕망을 의심할 시간을 만든다.",
+            "critique": "풍자의 장관 자체가 또 하나의 소비 경험이 될 수 있다. 다양한 제작 기술의 사용이 관객의 식습관 변화로 이어졌다는 근거는 없으며, AI 도구의 사용을 실시간 관객 맞춤 생성으로 오해해서도 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "공간음향",
+              "생성AI",
+              "영상·필름"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "노동·산업",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "런던, 영국(MLF 공식 스튜디오 주소)",
+            "region": "유럽",
+            "venue": "Aviva Studios, 맨체스터 2024.7.11–9.1 종료 / Ars Electronica 2025 발췌"
+          },
+          "id": "2026-10-31-06",
+          "url": "https://marshmallowlaserfeast.com/project/sweet-dreams/",
+          "host": "marshmallowlaserfeast.com",
+          "image": "images/2026-10-31-06.jpg",
+          "imageFallback": "https://marshmallowlaserfeast.com/app/uploads/2023/11/MLF_FI_SweetDreams_DSC01435_2k-1-1024x682.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://marshmallowlaserfeast.com/project/sweet-dreams/",
+            "sourceUrl": "https://marshmallowlaserfeast.com/app/uploads/2023/11/MLF_FI_SweetDreams_DSC01435_2k-1-1024x682.jpg",
+            "kind": "installation",
+            "credit": "Marshmallow Laser Feast / Factory International 공식 프로젝트 자료",
+            "caption": "2024년 Factory International·Aviva Studios의 Sweet Dreams 공연 기록. Marshmallow Laser Feast 공식 공개 사진.",
+            "checkedAt": "2026-10-31T00:37:11+09:00",
+            "usageBasis": "원권리자 또는 공식 전시기관의 작품 소개에서 공개한 자료를 출처·크레딧을 붙인 축소 프리뷰로 기록. 별도 개방 라이선스나 이용허락을 주장하지 않음.",
+            "alt": "관객들이 공간 안에서 가상의 식품 공장을 묘사한 대형 영상을 바라보는 Sweet Dreams 공연 사진"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "손을 돕는 부드러운 로봇이 신뢰를 묻는 방식",
+        "sections": [
+          {
+            "heading": "기계를 설명하기 전에 찻자리를 차린다",
+            "body": "SPILLING THE TEA?는 로봇의 힘을 과시하는 시연대 대신 사람들이 함께 앉을 작은 찻자리를 만든다. 벽과 소품은 부드러운 직물로 둘러싸이고, 컵과 주전자, 뜨개 디저트가 익숙한 행동을 제안한다. JKU 연구진이 밝히는 출발점은 착용 로봇에 대한 상반된 감정이다. 움직임을 도와주는 물건이 동시에 자신의 능력과 통제권을 의심하게 할 수 있다는 긴장을 몸으로 만나게 한다."
+          },
+          {
+            "heading": "압축 공기가 바꾸는 손가락의 동작",
+            "body": "공개된 장치 설명에서 핵심은 직물 구조에 통합한 공압 구동기다. 버튼으로 작동시키면 손가락이나 손 전체의 열고 닫는 동작을 보조하고, 착용자는 직물이 수축하며 힘을 전달하는 감각을 느낀다. 컵을 잡거나 따르는 몸짓이 장치의 작동을 읽는 단위가 된다. 구체적인 압력·응답 속도나 의료적 안전 성능은 공개 소개만으로 확정할 수 없다."
+          },
+          {
+            "heading": "보조와 통제 사이에는 다른 사람이 있다",
+            "body": "Ars Electronica의 작품 설명은 장갑을 착용자 자신이 제어할 수도 있고 잠재적으로 다른 주체가 제어할 수도 있다고 적는다. 이것을 원격 조종 기능이 항상 실행된다는 사양으로 바꾸어 읽어서는 안 된다. 중요한 연출적 질문은 내가 한 움직임과 장치가 만든 움직임을 어떻게 구분하는가다. 함께 앉은 사람의 시선과 대화까지 들어오면서 개인의 촉감이 사회적인 경험으로 넓어진다."
+          },
+          {
+            "heading": "실패한 손짓을 토론의 시작으로 남긴다",
+            "body": "JKU가 제시한 체험 시나리오는 기대와 다른 동작, 잘되지 않는 집기가 신뢰에 어떤 영향을 주는지 묻는다. 이 전시가 모든 관객에게 같은 실패를 연출했다거나 그 반응을 실험 결과로 입증했다고 단정할 근거는 없다. 다만 작은 어긋남을 지워 버리지 않고 참가자가 자신의 판단을 말할 여지를 남긴다는 구성은 읽을 수 있다. 기술을 좋아하거나 싫어하는 결론보다 그 판단이 생기는 순간을 드러내는 방식이다."
+          },
+          {
+            "heading": "연출자가 가져갈 것은 일상의 크기",
+            "body": "이 사례의 유효한 전이는 로봇 장갑을 그대로 복제하는 데 있지 않다. 낯선 매체를 익숙한 행동 안에 놓고, 도움을 받는 순간과 주도권을 잃는 순간을 관객이 구분하게 하는 설계다. 동의와 중단의 권한이 실제로 이해 가능한지도 같은 경험 안에서 확인해야 한다. 이 글은 2026년 전시와 제작진의 공개 설명을 대조한 독해이며, 재활 효과나 관객 반응의 통계를 제시하지 않는다."
+          }
+        ],
+        "keywords": [
+          "직물 로보틱스",
+          "공압 장갑",
+          "촉각과 신뢰",
+          "찻자리",
+          "보조와 통제"
+        ],
+        "sources": [
+          {
+            "label": "Ars Electronica 2026 공식 작품 기록: 장치·제어권·크레딧",
+            "url": "https://ars.electronica.art/negotiatinghumanity/en/view/spilling-the-tea-a-soft-material-experience-38238ddb450c811994dbe058f9a51b03/"
+          },
+          {
+            "label": "JKU 제작진 공식 상세 설명: 공압 구동·공간·체험 시나리오",
+            "url": "https://www.jku.at/en/ars-electronica-2026-future-begins-negotiating-humanity/spilling-the-tea-a-soft-material-experience/"
+          },
+          {
+            "label": "LIT Robopsychology Lab 공식 프로젝트: 연구 기간과 질문",
+            "url": "https://www.jku.at/en/lit-robopsychology-lab/research/projects/spilling-the-tea/"
+          },
+          {
+            "label": "JKU 공식 연구 원장: 프로젝트 기간과 참여 연구실",
+            "url": "https://research.jku.at/en/projects/spilling-the-tea-a-soft-material-experience/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-30",
       "title": "기록을 남기는 몸, 기록에서 벗어나는 시간",
       "summary": "벤치 한 장의 사진과 책장을 넘기는 손, 먼저 온 사람의 맥박, 기억의 웹 세계와 비눗방울. 여섯 작업이 기록을 모으고 흘려보내는 규칙을 서로 다른 감각으로 바꾼다.",
@@ -19375,7 +19752,7 @@
       }
     }
   ],
-  "generatedAt": "2026-10-30T05:05:43Z",
+  "generatedAt": "2026-10-30T15:37:11Z",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
