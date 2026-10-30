@@ -21,7 +21,7 @@ export function checkContent(data, { date = null, candidates = null } = {}) {
     if (!it.image) add('image-null', `${it.id}: no verified artwork image`, [it.id], legacy);
     else if (!/^images\/[\w.-]+\.(jpe?g|png|webp|avif)$/i.test(it.image)) add('image-path', `${it.id}: image must be self-hosted`, [it.id]);
     if (it.grounded === false) add('source-unverified', `${it.id}: source verification pending`, [it.id], legacy);
-    if (provenance && (!it.imageMeta || !nonempty(it.imageMeta.sourcePage) || !nonempty(it.imageMeta.credit) || !nonempty(it.imageMeta.caption) || !nonempty(it.imageMeta.checkedAt) || !nonempty(it.imageMeta.usageBasis) || !['artwork', 'installation', 'performance', 'film-still', 'gameplay', 'documentation'].includes(it.imageMeta.kind))) add('image-provenance', `${it.id}: verified artwork provenance required`, [it.id]);
+    if (provenance && (!it.imageMeta || !['sourcePage', 'sourceUrl', 'credit', 'caption', 'checkedAt', 'usageBasis', 'alt'].every(k => nonempty(it.imageMeta[k])) || !host(it.imageMeta.sourcePage) || !host(it.imageMeta.sourceUrl) || !['artwork', 'installation', 'performance', 'film-still', 'gameplay', 'documentation'].includes(it.imageMeta.kind))) add('image-provenance', `${it.id}: verified artwork provenance required`, [it.id]);
   }
   if (candidates) { candidates.forEach(it => item(it, false, true)); return { fails, warns }; }
   for (const issue of issues) {
