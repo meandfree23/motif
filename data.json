@@ -770,7 +770,16 @@
             "region": "중남미",
             "venue": "Museo Nacional Thyssen-Bornemisza 정원, 마드리드, 스페인"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "kind": "portrait",
+            "caption": "작가 소개용 초상. CAUTÍN LEWFÜ 공연 기록 사진이 아니다.",
+            "credit": "Mila Belén / Seba Calfuqueo; TBA21",
+            "sourcePage": "https://tba21.org/cautin-lewfu",
+            "sourceUrl": "https://tba21.org/items/uploads/images/1790244494_evXX3YDnDWoj.jpg",
+            "checkedAt": "2026-10-30",
+            "alt": "Seba Calfuqueo의 공식 작가 초상"
+          }
         },
         {
           "id": "2026-10-28-04",
@@ -4589,18 +4598,18 @@
           "id": "2026-10-15-04",
           "title": "잠재공간이 그려낸 고향의 얼굴",
           "originalTitle": "Postcards from Latent Space",
-          "creator": "Evans Akanyijuka",
-          "publishedAt": "2026-10-13",
-          "url": "https://www.fakugesi.co.za/sig-immersive.html",
-          "host": "fakugesi.co.za",
-          "description": "우간다 캄팔라를 기반으로 활동하는 아칸이주카가 아카이브 사진과 AI 생성 이미지를 콜라주해 '누가 아프리카를 이미지화할 권리를 갖는가'를 묻는 디지털 전시다. 모잠비크·짐바브웨·케냐 파트너 기관으로 순회할 세 개의 LED 스크린용 작업으로, 기계가 무엇을 물려받고 누구를 배제하는지를 질문한다.",
-          "image": null,
-          "imageFallback": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/832231939_18584239792069340_5321428205544918587_n.jpg",
+          "creator": "Akan",
+          "publishedAt": "2026-10-06 (공식 갤러리 승인일)",
+          "url": "https://conveneo.eu/artprize/gallery/CHA-DD62A9C8",
+          "host": "conveneo.eu",
+          "description": "우간다 작가 Akan이 개인 사진 속 인물을 AI로 구성한 환경에 놓는 연작이다. 실제 경험과 기계가 만든 공간 사이에서 기억, 존재감, 소속의 감각을 살핀다.",
+          "image": "images/2026-10-15-04-verified.jpg",
+          "imageFallback": "https://conveneo.eu/artprize/api/gallery/CHA-DD62A9C8/display",
           "insight": {
-            "mechanism": "우간다·남아공 지역 아카이브 사진과 역사적 자료를 수집해 AI 이미지 생성 모델과 결합한 뒤 하이퍼리얼한 콜라주로 합성하고, 이를 세 대의 LED 스크린에 순차 배치해 순회 가능한 디지털 전시 형태로 완성한다.",
-            "whyNow": "서구 중심 데이터셋으로 학습된 생성 모델이 아프리카를 상상하는 방식에 의문을 제기하며, 작가가 'LoRA as an Archive' 레지던시에서 다양성 결여가 만드는 편향을 직접 실험한 연장선에 있다.",
-            "directorPoint": "실제 가문의 역사(르줌부라 왕국과 카고고 전투)를 다룬 전작의 리서치 방법론을 AI 콜라주에 그대로 적용해, 생성 이미지가 '거의 고향처럼' 보이되 완전히 일치하지는 않는 간극을 의도적으로 남긴다.",
-            "critique": "AI가 생성한 이미지가 실제 역사적 사실과 얼마나 구분되는지 관객이 판별하기 어려운 지점은 작품의 핵심 질문이자 동시에 오독의 위험이기도 하다."
+            "mechanism": "개인 사진의 인물과 AI 생성 환경을 결합한 시각 연작이다. 실제 인물의 존재와 합성된 배경이 한 장면 안에서 만나는 구성이며, 구체 모델이나 학습 방식은 공개 설명에 없다.",
+            "whyNow": "2026년 10월 6일 승인된 공식 출품 기록을 근거로 읽는다. 인간의 저작과 생성 시스템이 함께 이미지를 만드는 상황에서 기억과 장소의 소속이 어떻게 달라지는지 질문한다.",
+            "directorPoint": "인물의 사진적 흔적은 유지하고 주변 공간의 규칙을 바꾸면 익숙한 몸과 낯선 배경의 간극이 생긴다. 배경을 설명으로 채우기보다 인물이 그곳에 속하는지 관객이 판단하도록 남길 수 있다.",
+            "critique": "이미지는 작가가 합성한 시각적 탐구이며 역사적 사실의 기록 사진이 아니다. 모델·데이터·합성 절차의 세부가 공개되지 않아 알고리즘의 구현 방식까지 단정해서는 안 된다."
           },
           "tags": {
             "sense": [
@@ -4617,11 +4626,22 @@
             "scale": "스크린·영상"
           },
           "origin": {
-            "artistBase": "우간다",
+            "artistBase": "우간다(공식 출품 표기 UG)",
             "region": "아프리카",
-            "venue": "요하네스버그, 남아프리카공화국"
+            "venue": "Human After All Art Prize 2026 온라인 갤러리"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://conveneo.eu/artprize/gallery/CHA-DD62A9C8",
+            "sourceUrl": "https://conveneo.eu/artprize/api/gallery/CHA-DD62A9C8/display",
+            "credit": "Akan / Human After All Art Prize 2026 공식 출품 갤러리",
+            "caption": "작가가 제출한 AI 합성 연작 이미지. 역사 기록 사진이 아니다.",
+            "kind": "artwork",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "Postcards from Latent Space — 작가가 제출한 AI 합성 연작 이미지. 역사 기록 사진이 아니다."
+          },
+          "editorialNote": "공식 출품 설명으로 재검증했다. 세 대의 LED 순회 전시·특정 역사 연구·세부 모델의 사용은 확인되지 않아 이전 단정을 정정했다."
         },
         {
           "id": "2026-10-15-05",
@@ -6025,7 +6045,13 @@
             "region": "오세아니아",
             "venue": "멜버른, 호주"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "kind": "pending",
+            "caption": "공식 작품 이미지 확인 중. 다른 게임의 이미지로 대체하지 않았다.",
+            "sourcePage": "https://www.acmi.net.au/whats-on/play-on/",
+            "checkedAt": "2026-10-30"
+          }
         },
         {
           "id": "2026-10-08-02",
@@ -6492,7 +6518,7 @@
           "creator": "Yves Peitzner",
           "publishedAt": "2026-08-20",
           "url": "https://www.yvespeitzner.com/biovolt",
-          "host": "file.org.br",
+          "host": "yvespeitzner.com",
           "description": "뮌헨 기반 작가 이브 파이츠너가 LED 띠로 만든 10미터 길이의 구조물로, 상파울루 FILE 페스티벌 '인터-크리에이티비티'전에 설치됐다. 관객이 다가가거나 손을 뻗으면 그 움직임이 전류처럼 구조물 끝까지 흘러간다.",
           "image": "images/2026-10-06-03.jpg",
           "imageFallback": "https://www.yvespeitzner.com/biovolt",
@@ -6530,7 +6556,7 @@
           "creator": "Seohyo",
           "publishedAt": "2023-03-28",
           "url": "https://www.lerandom.art/artists/seohyo",
-          "host": "file.org.br",
+          "host": "lerandom.art",
           "description": "서울 기반 제너러티브 아티스트 서효정이 코드로 쌓아 올린 타일 패턴 연작으로, FILE 상파울루 2026의 LED 쇼 프로그램에 다시 상영됐다. 원, 십자, 격자 같은 단순 도형이 조수처럼 밀려오고 쌓이며 매번 다른 배색으로 재구성된다.",
           "image": "images/2026-10-06-04.jpg",
           "imageFallback": "https://www.lerandom.art/artists/seohyo",
@@ -7620,7 +7646,7 @@
           "originalTitle": "Human in the Loop",
           "creator": "Ahmad AlAttar",
           "publishedAt": "2026-06-21",
-          "url": "https://www.421.online/whats-on/human-in-the-loop-by-dr-ahmad-alattar",
+          "url": "https://www.421.online/news/421-arts-campus-unveils-human-in-the-loop/",
           "host": "421.online",
           "description": "두바이에서 활동하는 로보틱스 엔지니어 아흐마드 알아타르가 아부다비 421 아츠캠퍼스에서 첫 개인전을 열었다. 천장에 매단 54개의 밧줄과 숨은 알고리즘이 벌이는 숨바꼭질을 통해, 관객이 기술을 조종하는지 기술에 조종당하는지를 몸으로 묻는다.",
           "image": "images/2026-10-01-02.jpg",
@@ -7761,8 +7787,9 @@
         ],
         "sources": [
           {
-            "label": "421 Arts Campus 공식 전시 페이지",
-            "url": "https://www.421.online/whats-on/human-in-the-loop-by-dr-ahmad-alattar"
+            "label": "421 Arts Campus — Human in the Loop 공식 발표",
+            "url": "https://www.421.online/news/421-arts-campus-unveils-human-in-the-loop/",
+            "checkedAt": "2026-10-30"
           },
           {
             "label": "Canvas — The Human Variable 리뷰",
@@ -8522,6 +8549,12 @@
           {
             "label": "Museum MACAN — Riar Rizaldi: Period Piece",
             "url": "https://www.museummacan.org/exhibition/period-piece?lang=en"
+          },
+          {
+            "label": "Museum MACAN — 작가 대담",
+            "url": "https://www.museummacan.org/talk/riar-talk?lang=en",
+            "note": "작품의 기억·영화관 맥락을 설명하는 공식 대담 안내.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -8540,7 +8573,8 @@
             "year": "2025",
             "relation": "판픽티: 화산학을 커미션해 이론적 픽션 형식의 토대를 제공"
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -8925,7 +8959,9 @@
             "region": "유럽",
             "venue": "린츠, 오스트리아"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "project-overview",
+          "projectGroup": "amplify-me"
         },
         {
           "id": "2026-09-26-04",
@@ -8964,7 +9000,8 @@
             "region": "유럽",
             "venue": "린츠, 오스트리아"
           },
-          "grounded": true
+          "grounded": true,
+          "projectGroup": "amplify-me"
         },
         {
           "id": "2026-09-26-05",
@@ -10249,7 +10286,7 @@
         {
           "id": "2026-09-21-01",
           "title": "마르코 바로티 — 코럴 소닉 리질리언스",
-          "originalTitle": "Marco Barotti — Coral Sonic Resilience",
+          "originalTitle": "Coral Sonic Resilience",
           "creator": "Marco Barotti",
           "publishedAt": "2025",
           "url": "https://www.marcobarotti.com/Coral-Sonic-Resilience",
@@ -10287,7 +10324,7 @@
         {
           "id": "2026-09-21-02",
           "title": "베라 게르트너 — 라이브 프롬 플라스티스피어",
-          "originalTitle": "Vera Gärtner — Live from Plastisphere",
+          "originalTitle": "Live from Plastisphere",
           "creator": "Vera Gärtner",
           "publishedAt": "2026",
           "url": "https://www.cityofmediaarts.de/en/kuenstler/vera-gaertner/",
@@ -10324,7 +10361,7 @@
         {
           "id": "2026-09-21-03",
           "title": "앙투안 베르탱 — 555 헤르츠",
-          "originalTitle": "Antoine Bertin — 555 Hz",
+          "originalTitle": "555 Hz",
           "creator": "Antoine Bertin",
           "publishedAt": "2026",
           "url": "https://www.cityofmediaarts.de/en/kuenstler/antoine-bertin/",
@@ -10362,7 +10399,7 @@
         {
           "id": "2026-09-21-04",
           "title": "루실 슈뵈러메르츠 — 메테오 플럭스",
-          "originalTitle": "Lucile Schwörer-Merz — meteo flux – eine Symphonie der Atmosphäre",
+          "originalTitle": "meteo flux – eine Symphonie der Atmosphäre",
           "creator": "Lucile Schwörer-Merz",
           "publishedAt": "2026",
           "url": "https://www.cityofmediaarts.de/en/kuenstler/lucile-schwoerer-merz/",
@@ -10430,6 +10467,12 @@
           {
             "label": "Marco Barotti 공식 사이트 - Coral Sonic Resilience",
             "url": "https://www.marcobarotti.com/Coral-Sonic-Resilience"
+          },
+          {
+            "label": "Science Gallery Melbourne — Coral Sonic Resilience",
+            "url": "https://melbourne.sciencegallery.com/emergencey-exhibits/coral-sonic-resilience",
+            "note": "전시기관의 재료·태양광·음향 설명 및 크레딧.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -10443,7 +10486,8 @@
             "year": "",
             "relation": "작업의 직접적 과학적 근거로 명시되어 연구 결과를 현장 설치로 응용하는 흐름을 보여준다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -10454,7 +10498,7 @@
         {
           "id": "2026-09-20-01",
           "title": "다니엘라 미터베르거 외 — 시빌",
-          "originalTitle": "Daniela Mitterberger et al. — Sybil",
+          "originalTitle": "Sybil",
           "creator": "Daniela Mitterberger · Fabio Scotto · Ruth Sidabutar · Linfeng Zhou 외",
           "publishedAt": "2026.09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3",
@@ -10524,6 +10568,12 @@
           {
             "label": "Ars Electronica - Sybil",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3"
+          },
+          {
+            "label": "Ars Electronica — 로보틱스 큐레이션",
+            "url": "https://ars.electronica.art/negotiatinghumanity/en/view/festival-route-for-robot-enthusiasts-3d438ddb450c80e2ae4fdb7cf94b29ca/",
+            "note": "작품 상세와 별도로 인간 흔적·로봇 동작·성장을 잇는 큐레이션 맥락. 같은 기관 자료다.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -10537,7 +10587,8 @@
             "year": "",
             "relation": "같은 질문에도 매번 다른 예언을 내놓던 오라클처럼 입력한 의미가 여러 단계를 거쳐 달라진다는 제목의 참조다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -10548,19 +10599,19 @@
         {
           "id": "2026-09-19-01",
           "title": "바질 튀야르 — 미러 투 더 소울",
-          "originalTitle": "Basil Thuillard · Laurent Rime — Mirror to the Soul",
+          "originalTitle": "Mirror to the Soul",
           "creator": "Basil Thuillard · Laurent Rime",
           "publishedAt": "2025",
-          "url": "https://www.giff.ch/en/film/mirror-to-the-soul/",
-          "host": "giff.ch",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/mirror-to-the-soul-39638ddb450c81ecbf6dcfe0c08669b2/",
+          "host": "ars.electronica.art",
           "description": "관람객이 자기 안의 여러 페르소나를 통과하도록 설계된 다감각 물리적 경험이다. 정교한 기술적 지원과 효과는 경험을 지배하지 않고 은은하게 보조하는 데 그쳐, 기술보다 자아의 여러 얼굴 자체가 중심에 남는다.",
-          "image": "images/2026-09-19-01.jpg",
-          "imageFallback": "https://www.giff.ch/wp-content/uploads/2026/06/reseaux_2026_1920.webp",
+          "image": "images/2026-09-19-01-verified.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_mirror-to-the-soul-maze-23.550.jpg",
           "insight": {
             "mechanism": "관람객이 자기 안의 여러 페르소나를 순차적으로 통과하도록 설계된 다감각 공간으로, 기술적 지원 효과가 전면에 드러나지 않고 보조 장치로만 개입한다.",
             "whyNow": "스위스 인터랙티브 세션즈처럼 기술을 과시하지 않고 체험 서사에 종속시키는 접근이, 몰입형 설치가 포화된 시장에서 차별화 전략으로 다시 주목받고 있다.",
             "directorPoint": "기술 장치를 화면 전면에 노출하지 않고 조명·음향 변화로만 암시하면, 관객의 시선이 기술이 아니라 자기 내면의 서사에 머물게 유도할 수 있다.",
-            "critique": "'제작 중' 단계로 공개된 작업이라 완성된 기술 구현과 실제 체험 완성도는 아직 검증되지 않았고, 배급 및 추가 투자처를 찾는 초기 단계에 있다."
+            "critique": "공식 소개는 다감각 경험의 방향을 설명하지만 센서 구성과 반응 지연, 관객별 체험 결과를 공개하지 않는다. 현재 이미지는 작품 렌더링이며 현장 사진만으로 구현 완성도가 검증된 것은 아니다."
           },
           "tags": {
             "sense": [
@@ -10582,7 +10633,17 @@
             "venue": "제네바, 스위스"
           },
           "grounded": true,
-          "revisitOf": "2026-09-09-06"
+          "revisitOf": "2026-09-09-06",
+          "imageMeta": {
+            "sourcePage": "https://ars.electronica.art/negotiatinghumanity/en/view/mirror-to-the-soul-39638ddb450c81ecbf6dcfe0c08669b2/",
+            "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/m_mirror-to-the-soul-maze-23.550.jpg",
+            "credit": "Clement Calloud / Basil Thuillard",
+            "caption": "공식 작품 렌더링. 완성된 설치의 현장 사진이 아니다.",
+            "kind": "work-render",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "Mirror to the Soul — 공식 작품 렌더링. 완성된 설치의 현장 사진이 아니다."
+          }
         }
       ],
       "focus": {
@@ -10614,8 +10675,15 @@
         ],
         "sources": [
           {
-            "label": "GIFF - Mirror to the Soul",
-            "url": "https://www.giff.ch/en/film/mirror-to-the-soul/"
+            "label": "Ars Electronica — Mirror to the Soul",
+            "url": "https://ars.electronica.art/negotiatinghumanity/en/view/mirror-to-the-soul-39638ddb450c81ecbf6dcfe0c08669b2/",
+            "checkedAt": "2026-10-30"
+          },
+          {
+            "label": "Mirror to the Soul — 창작진 공식 프로젝트 자료",
+            "url": "https://linktr.ee/MirrorToTheSoul",
+            "note": "Ars 공식 작품 페이지가 연결한 창작진 자료 모음. 프로젝트 소개 영상으로 연결되며 독립 보도와는 구별한다.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -10629,7 +10697,8 @@
             "year": "",
             "relation": "기술 스튜디오와 공간 예술가가 공동 제작하는 최근 몰입형 설치 제작 방식을 그대로 따른다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -10640,7 +10709,7 @@
         {
           "id": "2026-09-18-01",
           "title": "수쉬안 지앙 — 마이크로-나노 랜드스케이프",
-          "originalTitle": "Suxuan Jiang — Micro-Nano Landscape",
+          "originalTitle": "Micro-Nano Landscape",
           "creator": "Suxuan Jiang · Jiangfan Yu",
           "publishedAt": "2026",
           "url": "https://archive.aec.at/prix/320406/",
@@ -10707,6 +10776,12 @@
           {
             "label": "Prix Ars Electronica Archive - Micro-Nano Landscape",
             "url": "https://archive.aec.at/prix/320406/"
+          },
+          {
+            "label": "China Academy of Art — 작가 인터뷰",
+            "url": "https://en.caa.edu.cn/info/1100/15859.htm",
+            "note": "미세 로봇 연구와 영상 제작을 설명하는 작가의 직접 답변.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -10725,7 +10800,8 @@
             "year": "",
             "relation": "작가의 '작은 것을 보아 큰 것을 이해한다'는 사유를 이 연구와 겹쳐 제시한다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -10805,6 +10881,12 @@
           {
             "label": "Ars Electronica - Noise of War",
             "url": "https://ars.electronica.art/negotiatinghumanity/de/view/noise-of-war-39938ddb450c81fc8930d09b0a2ec08e"
+          },
+          {
+            "label": "Wien Modern — Noise of War",
+            "url": "https://www.wienmodern.at/2026-heike-kaltenbrunner-noise-of-war-en-4534",
+            "note": "근접 오르간의 제작·공연 크레딧. 11월 공연 안내이며 9월 현장 기록과 구별한다.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -10818,7 +10900,8 @@
             "year": "",
             "relation": "오래된 악기 구조를 그대로 쓰되 연주자 대신 관객의 근접을 발음 조건으로 재편했다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -10829,7 +10912,7 @@
         {
           "id": "2026-09-16-01",
           "title": "자작무브먼트 — 사바라 오브 블라섬: 레조넌스",
-          "originalTitle": "Jajack Movement — Samsara of Blossom: Resonance",
+          "originalTitle": "Samsara of Blossom: Resonance",
           "creator": "Jajack Movement · Razieh Kooshki · Vahid Qaderi",
           "publishedAt": "2026.09.09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/samsara-of-blossom-resonance-39d38ddb450c8148aa6de01eede743e2",
@@ -10867,7 +10950,7 @@
         {
           "id": "2026-09-16-02",
           "title": "서보람 — 스마트 스킨 팜",
-          "originalTitle": "Boram Soh — Smart Skin Farm",
+          "originalTitle": "Smart Skin Farm",
           "creator": "Boram Soh",
           "publishedAt": "2026.09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/smart-skin-farm-38b38ddb450c8123adb9e450242d00bf",
@@ -10936,6 +11019,12 @@
           {
             "label": "Ars Electronica - Samsara of Blossom: Resonance",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/samsara-of-blossom-resonance-39d38ddb450c8148aa6de01eede743e2"
+          },
+          {
+            "label": "University of Arts Linz — Interface Cultures 2026",
+            "url": "https://www.kunstuni-linz.at/en/aktuelles/arbeiten-projekte/projekte/medien/interface-cultures/2026/ic-ars-electronica-2026",
+            "note": "Resonance의 협업자·공연 장소·전통 움직임과 미디어의 관계를 설명하는 참여기관 자료.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -10949,7 +11038,8 @@
             "year": "2024-2025",
             "relation": "국제적으로 전통무용 재해석을 선보여온 이력이 이번 미디어아트 결합의 바탕이 된다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -10960,11 +11050,11 @@
         {
           "id": "2026-09-15-01",
           "title": "신친 황 — 접촉의 조각들",
-          "originalTitle": "Hsin-Chien Huang — The Sculptures of Touch",
+          "originalTitle": "The Sculptures of Touch",
           "creator": "Hsin-Chien Huang",
           "publishedAt": "2026",
-          "url": "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p0.php?lang=en",
-          "host": "hsinchienhuang.com",
+          "url": "https://archive.aec.at/prix/320418/",
+          "host": "archive.aec.at",
           "description": "대만 백색테러 시기의 바리케이드·구금 벽·구속 장치를 촉각 인터페이스로 바꾼 작업이다. 참가자가 표면을 손으로 더듬으면 모션 캡처가 그 궤적을 3D 조각으로 다시 물질화하며, 역사적 트라우마를 이미지가 아니라 근육 기억으로 보존한다.",
           "image": "images/2026-09-15-01.jpg",
           "imageFallback": "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p15.jpg",
@@ -10999,7 +11089,7 @@
         {
           "id": "2026-09-15-02",
           "title": "사라 로스버그 — 영원한 만남",
-          "originalTitle": "Sarah Rothberg — FOREVER MEETINGS",
+          "originalTitle": "FOREVER MEETINGS",
           "creator": "Sarah Rothberg",
           "publishedAt": "2026",
           "url": "https://sarahrothberg.com/FOREVER-MEETINGS",
@@ -11066,8 +11156,14 @@
         ],
         "sources": [
           {
-            "label": "Hsin-Chien Huang - The Sculptures of Touch",
-            "url": "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p0.php?lang=en"
+            "label": "Prix Ars Electronica Archive — The Sculptures of Touch",
+            "url": "https://archive.aec.at/prix/320418/",
+            "checkedAt": "2026-10-30"
+          },
+          {
+            "label": "National Taiwan Normal University — 작가·작품 발표",
+            "url": "https://www.design.ntnu.edu.tw/?p=18537",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -11092,7 +11188,7 @@
         {
           "id": "2026-09-14-01",
           "title": "헤이르트 뮐 — 흩어진 아카이브로서의 스튜디오",
-          "originalTitle": "Geert Mul — Studio as a Collapsed Archive",
+          "originalTitle": "Studio as a Collapsed Archive",
           "creator": "Geert Mul",
           "publishedAt": "2026",
           "url": "https://vimeo.com/1192311978",
@@ -11130,7 +11226,7 @@
         {
           "id": "2026-09-14-02",
           "title": "웨 화 — 무제 2026",
-          "originalTitle": "Yue Hua — Untitled_2026",
+          "originalTitle": "Untitled_2026",
           "creator": "Yue Hua",
           "publishedAt": "2026",
           "url": "https://vimeo.com/1176625152",
@@ -11168,7 +11264,7 @@
         {
           "id": "2026-09-14-03",
           "title": "시릴 그펠러 — 씨 유",
-          "originalTitle": "Cyril Gfeller — SEE YOU",
+          "originalTitle": "SEE YOU",
           "creator": "Cyril Gfeller",
           "publishedAt": "2026-01-23",
           "url": "https://vimeo.com/1161737761",
@@ -11207,7 +11303,7 @@
         {
           "id": "2026-09-14-04",
           "title": "다니엘 마르틴스·에마 페헤이라 — 프로스테틱 피드백",
-          "originalTitle": "Daniel Martins & Ema Ferreira — Prosthetic Feedback",
+          "originalTitle": "Prosthetic Feedback",
           "creator": "Daniel Martins · Ema Ferreira",
           "publishedAt": "2026-02-07",
           "url": "https://vimeo.com/1186501516",
@@ -11245,7 +11341,7 @@
         {
           "id": "2026-09-14-05",
           "title": "웨이란 야오 — 울트라어라운드",
-          "originalTitle": "Weiran Yao — UltraAround",
+          "originalTitle": "UltraAround",
           "creator": "Weiran Yao",
           "publishedAt": "2026",
           "url": "https://vimeo.com/1218664676",
@@ -11283,7 +11379,7 @@
         {
           "id": "2026-09-14-06",
           "title": "코리 프랜시스 파크스 외 — 스크러폴로지",
-          "originalTitle": "Corrie Francis Parks et al. — SKRFF_ology",
+          "originalTitle": "SKRFF_ology",
           "creator": "Corrie Francis Parks · Daniel Nuderscher · Thom Parks · Sandro Nicolussi",
           "publishedAt": "2026-01-22",
           "url": "https://vimeo.com/1160522342",
@@ -11321,7 +11417,7 @@
         {
           "id": "2026-09-14-07",
           "title": "디스트릭트 — 헬로 피시",
-          "originalTitle": "d'strict — Hello Fish",
+          "originalTitle": "Hello Fish",
           "creator": "d'strict",
           "publishedAt": "2026-07-01",
           "url": "https://vimeo.com/1223266600",
@@ -11388,6 +11484,12 @@
           {
             "label": "d'strict Vimeo - Hello Fish",
             "url": "https://vimeo.com/1223266600"
+          },
+          {
+            "label": "d’strict — Hello Fish 공식 작품 페이지",
+            "url": "https://www.dstrict.com/ART/?bmode=view&idx=173672431",
+            "note": "작가 스튜디오의 공식 작품 및 영상 자료.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -11401,7 +11503,8 @@
             "year": "",
             "relation": "개별 개체가 모여 거대한 흐름을 만드는 설정이 이 시뮬레이션 전통과 닿아 있다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -11412,7 +11515,7 @@
         {
           "id": "2026-09-13-01",
           "title": "캐슬린 보마니 — 디라 월드",
-          "originalTitle": "Kathleen Bomani — Deera World",
+          "originalTitle": "Deera World",
           "creator": "Kathleen Bomani",
           "publishedAt": "2026-01-28",
           "url": "https://transmediale.de/en/2026/artwork/deera-world",
@@ -11451,7 +11554,7 @@
         {
           "id": "2026-09-13-02",
           "title": "니콜 륄리에 — 리허설 룸",
-          "originalTitle": "Nicole L’Huillier — Rehearsal Room",
+          "originalTitle": "Rehearsal Room",
           "creator": "Nicole L’Huillier",
           "publishedAt": "2026-04-24",
           "url": "https://scheringstiftung.de/en/projektraum/nicole-lhuillier-rehearsal-room/",
@@ -11490,7 +11593,7 @@
         {
           "id": "2026-09-13-03",
           "title": "디멘션 플러스 — 무빙 플러스: 프롬프트로서의 세계",
-          "originalTitle": "Dimension Plus — MOVING PLUS: The World as Prompt",
+          "originalTitle": "MOVING PLUS: The World as Prompt",
           "creator": "Dimension Plus · Yi-Chin Lo · Raintree 1969",
           "publishedAt": "2026-11-22",
           "url": "https://tokyo.mutek.org/en/artists/dimension-plus",
@@ -11567,7 +11670,7 @@
         {
           "id": "2026-09-13-05",
           "title": "클라우디아 하트 — 엠파이어 페일러",
-          "originalTitle": "Claudia Hart — Empire Failure",
+          "originalTitle": "Empire Failure",
           "creator": "Claudia Hart",
           "publishedAt": "2026-04-25",
           "url": "https://claudiahart.com/Museum-Boijmans-Van-Beuningen",
@@ -11606,7 +11709,7 @@
         {
           "id": "2026-09-13-06",
           "title": "외즈잔 에르테크 — 어쿠스틱 호라이즌",
-          "originalTitle": "Özcan Ertek — Acoustic Horizon",
+          "originalTitle": "Acoustic Horizon",
           "creator": "Özcan Ertek",
           "publishedAt": "2026-06-21",
           "url": "https://vimeo.com/1149748691",
@@ -11645,7 +11748,7 @@
         {
           "id": "2026-09-13-07",
           "title": "파트리시아 J. 헤이스 — 마사지 체어스 러브 시리즈",
-          "originalTitle": "Patrícia J. Reis — MASSAGE CHAIRS LOVE SERIES",
+          "originalTitle": "MASSAGE CHAIRS LOVE SERIES",
           "creator": "Patrícia J. Reis",
           "publishedAt": "2025-01-01",
           "url": "https://www.patriciajreis.com/portfolio/items/massage-chairs-2024/",
@@ -11716,6 +11819,12 @@
           {
             "label": "Patrícia J. Reis - MASSAGE CHAIRS LOVE SERIES",
             "url": "https://www.patriciajreis.com/portfolio/items/massage-chairs-2024/"
+          },
+          {
+            "label": "Patrícia J. Reis — 공식 작품 영상",
+            "url": "https://vimeo.com/1164307344",
+            "note": "작가 본인이 공개한 인터랙션·시청각 촉각 인터페이스 설명과 기록 영상.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -11729,7 +11838,8 @@
             "year": "",
             "relation": "안마의자라는 일상 가전을 재료 삼은 점이 이 경향과 이어진다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -11740,14 +11850,14 @@
         {
           "id": "2026-09-12-01",
           "title": "대니엘 브래스웨이트-셜리 — 네가 그렇게 생각하는 줄 몰랐어",
-          "originalTitle": "Danielle Brathwaite-Shirley — I DIDNT REALISE YOU THOUGHT LIKE THAT",
+          "originalTitle": "I DIDNT REALISE YOU THOUGHT LIKE THAT",
           "creator": "Danielle Brathwaite-Shirley",
           "publishedAt": "2026-05-21",
           "url": "https://www.serpentinegalleries.org/whats-on/i-didnt-realise-you-thought-like-that/",
           "host": "serpentinegalleries.org",
           "description": "소셜 피드처럼 흐르는 화면에서 방문을 요청하는 인물과 주장에 문을 열지 결정하면, 선택의 연쇄가 서로 다른 관점과 결말을 만든다. 워크숍과 커뮤니티 대화를 새 캐릭터로 더해 계속 자라는 온라인 게임이자 살아 있는 아카이브다.",
-          "image": "images/2026-09-12-01.jpg",
-          "imageFallback": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/05/19dfeddf-2379-49a2-beb0-52b7c4ed91b4.png",
+          "image": "images/2026-09-12-01-verified.jpg",
+          "imageFallback": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/05/Screenshot-2026-05-11-163025-1200x627.png",
           "insight": {
             "mechanism": "소셜 피드 형식의 온라인 게임에서 문을 열지 선택하는 분기 구조가 캐릭터별 결말을 만들고, 워크숍에서 모은 새 캐릭터가 계속 추가된다.",
             "whyNow": "온라인 극화·팬덤 정치가 커지는 가운데 정치적 양극화를 비판적 플레이로 체험하게 하는 아트 게임 흐름과 맞닿는다.",
@@ -11774,16 +11884,26 @@
             "region": "유럽",
             "venue": "온라인"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.serpentinegalleries.org/whats-on/i-didnt-realise-you-thought-like-that/",
+            "sourceUrl": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/05/Screenshot-2026-05-11-163025-1200x627.png",
+            "credit": "Danielle Brathwaite-Shirley / Courtesy the artist; Serpentine",
+            "caption": "2026년 온라인 게임의 공식 공개 스크린샷. 후원사 보드와 구별한다.",
+            "kind": "gameplay",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "I DIDNT REALISE YOU THOUGHT LIKE THAT — 2026년 온라인 게임의 공식 공개 스크린샷. 후원사 보드와 구별한다."
+          }
         },
         {
           "id": "2026-09-12-02",
           "title": "볼복스 랩스 — 아스트랄 트윈",
-          "originalTitle": "Volvox Labs — Astral Twin",
+          "originalTitle": "Astral Twin",
           "creator": "Volvox Labs",
           "publishedAt": "2026-06-18",
-          "url": "https://production-portal.sonar.es/en/activity/volvox-labs",
-          "host": "sonar.es",
+          "url": "https://www.offf.barcelona/post/offf-presents-art-installations-at-the-intersection-of-art-and-technology",
+          "host": "offf.barcelona",
           "description": "대형 수직 LED 화면 앞에서 두 로봇 팔이 정밀한 기계 운동과 유기적 변이를 오가며 움직이고, 액체에 퍼지는 잉크 같은 시각 장면을 그린다. 코드·스크린·기계가 하나의 안무 체계로 이어지는 로보틱 오디오비주얼 설치다.",
           "image": "images/2026-09-12-02.jpg",
           "imageFallback": "https://cdn.volvoxlabs.com/wp-content/uploads/2026/05/30050055/sonar-1.webp",
@@ -11818,11 +11938,11 @@
         {
           "id": "2026-09-12-03",
           "title": "쉬페르브 — 프롬제로",
-          "originalTitle": "Superbe — From0",
+          "originalTitle": "From0",
           "creator": "Superbe",
           "publishedAt": "2026-06-18",
           "url": "https://production-admin-portal.sonar.es/es/actividad/superbe",
-          "host": "sonar.es",
+          "host": "production-admin-portal.sonar.es",
           "description": "관객이 마이크에 남긴 단어나 소리를 열두 조각으로 나누고, 서로 다른 속도의 진자가 각 조각을 반복해 의미 있는 문장을 음악적 혼돈으로 흩뜨린다. 버튼으로 소리를 분리·정지·루프한 뒤 약 3분 30초가 지나면 말이 다시 이해 가능한 형태로 돌아온다.",
           "image": "images/2026-09-12-03.jpg",
           "imageFallback": "https://ars.electronica.art/export/files/2025/12/pluriversal-futures-new_29.jpg",
@@ -11857,7 +11977,7 @@
         {
           "id": "2026-09-12-04",
           "title": "벤 벵글러·토마스 가이슬 — 클랑/리히트 슈트롬",
-          "originalTitle": "Ben Bengler & Thomas Geissl — Klang-/Licht STROM",
+          "originalTitle": "Klang-/Licht STROM",
           "creator": "Ben Bengler · Thomas Geissl",
           "publishedAt": "2026-09-11",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/light-sound-installation-klang-licht-strom-38238ddb450c805ea363dc10366d58f8/",
@@ -11897,7 +12017,7 @@
         {
           "id": "2026-09-12-05",
           "title": "다이토 마나베·일레븐플레이 — 플러스 원 플러스 원 플러스 원 플러스",
-          "originalTitle": "Daito Manabe × ELEVENPLAY — +1+1+1+",
+          "originalTitle": "+1+1+1+",
           "creator": "Daito Manabe · ELEVENPLAY",
           "publishedAt": "2026-09-09",
           "url": "https://prtimes.jp/main/html/rd/p/000000015.000028234.html",
@@ -11937,7 +12057,7 @@
         {
           "id": "2026-09-12-06",
           "title": "맥스 쿠퍼 — 필링 이즈 스트럭처 공간 음향 설치",
-          "originalTitle": "Max Cooper — Feeling Is Structure: A Spatial Audio Installation",
+          "originalTitle": "Feeling Is Structure: A Spatial Audio Installation",
           "creator": "Max Cooper",
           "publishedAt": "2026-09-11",
           "url": "https://maxcooper.net/feeling-is-structure-a-spatial-audio-installation",
@@ -11975,7 +12095,7 @@
         {
           "id": "2026-09-12-07",
           "title": "로넨 탄춤 — 휴먼 애트머스피어스",
-          "originalTitle": "Ronen Tanchum — Human Atmospheres",
+          "originalTitle": "Human Atmospheres",
           "creator": "Ronen Tanchum",
           "publishedAt": "2026-07-22",
           "url": "https://vimeo.com/1185248438",
@@ -12045,6 +12165,12 @@
           {
             "label": "Ronen Tanchum Vimeo - Human Atmospheres",
             "url": "https://vimeo.com/1185248438"
+          },
+          {
+            "label": "Ronen Tanchum — Human Atmospheres",
+            "url": "https://ronentanchum.art/artworks/human-atmospheres.html",
+            "note": "작가의 작품 설명·설치 이미지. 기상과 관객 존재의 관계를 대조했다.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -12058,7 +12184,8 @@
             "year": "",
             "relation": "실시간 날씨 데이터를 대기 이미지로 변환하는 방식이 이 흐름과 맞닿아 있다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -12069,7 +12196,7 @@
         {
           "id": "2026-09-11-01",
           "title": "상하이테크대학교 — 협상되는 현실들",
-          "originalTitle": "ShanghaiTech University — Negotiated Realities",
+          "originalTitle": "Negotiated Realities",
           "creator": "Students of ShanghaiTech University",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/negotiated-realities-37c38ddb450c81e1a7b4cd9821be771f/",
@@ -12109,7 +12236,7 @@
         {
           "id": "2026-09-11-02",
           "title": "하이케 칼텐브루너 — 전쟁의 소음",
-          "originalTitle": "Heike Kaltenbrunner — Noise of War",
+          "originalTitle": "Noise of War",
           "creator": "Heike Kaltenbrunner",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/noise-of-war-39938ddb450c81fc8930d09b0a2ec08e/",
@@ -12147,7 +12274,7 @@
         {
           "id": "2026-09-11-03",
           "title": "아그네스 마이어-브란디스 — 나무 이주 사무소",
-          "originalTitle": "Agnes Meyer-Brandis — Office for Tree Migration (OTM)",
+          "originalTitle": "Office for Tree Migration (OTM)",
           "creator": "Agnes Meyer-Brandis",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/office-for-tree-migration-otm-39138ddb450c81f7a684d4e6111a0e12/",
@@ -12227,7 +12354,7 @@
         {
           "id": "2026-09-11-05",
           "title": "헤바 Y. 아민 — 가라앉은 바다 작전",
-          "originalTitle": "Heba Y. Amin — Operation Sunken Sea",
+          "originalTitle": "Operation Sunken Sea",
           "creator": "Heba Y. Amin",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/operation-sunken-sea-39638ddb450c812d8050dcf97f828d90/",
@@ -12303,7 +12430,7 @@
         {
           "id": "2026-09-11-07",
           "title": "XCEPT — 영속하는 기록",
-          "originalTitle": "XCEPT — Perpetual Records",
+          "originalTitle": "Perpetual Records",
           "creator": "XCEPT",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/perpetual-records-38f38ddb450c81f7850ff2844e7bccd6/",
@@ -14042,6 +14169,12 @@
           {
             "label": "Ars Electronica - Dog's Nose",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/dogs-nose-38f38ddb450c81778164c1b8b95920c4/"
+          },
+          {
+            "label": "Maki Ueda — Olfacto-Politics 프로젝트 아카이브",
+            "url": "https://ueda.nl/?lang=en",
+            "note": "작가가 Dog’s Nose를 연구 단계로 구분해 소개하는 공식 프로젝트 아카이브.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -14055,7 +14188,8 @@
             "year": "",
             "relation": "생물 로깅을 예술적 재현으로 전환하는 이 작업이 이 동시대적 관심과 맞닿는다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -14105,7 +14239,7 @@
         {
           "id": "2026-09-05-02",
           "title": "ASTER+S: Art, Science, Technology, Engineering: Research for + with Society — 아스터스 — 예술과 유전학",
-          "originalTitle": "ASTER+S &gt; ART ^ GENETICS",
+          "originalTitle": "ASTER+S > ART ^ GENETICS",
           "creator": "ASTER+S: Art, Science, Technology, Engineering: Research for + with Society",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/asters-art-genetics-37a38ddb450c81af8650e32a3f67db9b/",
@@ -14365,6 +14499,12 @@
           {
             "label": "Ars Electronica - CHIMERIA",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/chimeria-39438ddb450c81c08484f792653c9a49/"
+          },
+          {
+            "label": "Shin Hanagata — CHIMERIA",
+            "url": "https://www.shinhanagata.com/ja/works/chimeria",
+            "note": "작가의 작품 개념·신체 실험·제작 크레딧.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -14383,7 +14523,8 @@
             "year": "",
             "relation": "작가가 조용히 저항한다고 밝힌 대상으로, 두 주간의 공동생활 실험의 배경이 된다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -14616,7 +14757,8 @@
             "region": "유럽",
             "venue": "린츠, 오스트리아"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "exhibition"
         },
         {
           "id": "2026-09-04-07",
@@ -14690,6 +14832,12 @@
           {
             "label": "Ars Electronica - Amphibious Humanity",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/amphibious-humanity-37b38ddb450c81f09a51dbb6f4ca3a33/"
+          },
+          {
+            "label": "ZHdK Interaction Design — Amphibious Humanity",
+            "url": "https://interactiondesign.zhdk.ch/en/news/amphibious-humanity-iad-at-ars-electronica-09-13-september-2026/",
+            "note": "프로젝트를 제작한 교육기관의 설명. 여러 프로젝트를 포함한 전시다.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -14708,7 +14856,8 @@
             "year": "2023-2028",
             "relation": "네 편의 작업이 모두 나온 장기 연구 기반으로, 이 계보를 뚜렷하게 한다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -14719,7 +14868,7 @@
         {
           "id": "2026-09-03-01",
           "title": "볼루스파 하르파 — 저항의 대항 지도",
-          "originalTitle": "Voluspa Jarpa — Counter-Cartographies of Resistance",
+          "originalTitle": "Counter-Cartographies of Resistance",
           "creator": "Voluspa Jarpa",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/counter-cartographies-of-resistance-39138ddb450c81178bf7da8c0f89b83a/",
@@ -14757,7 +14906,7 @@
         {
           "id": "2026-09-03-02",
           "title": "궈정난 — 조립된 얼굴들",
-          "originalTitle": "Guo Zhengnan — Assembled Faces",
+          "originalTitle": "Assembled Faces",
           "creator": "Guo Zhengnan",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/assembled-faces-38138ddb450c81119303f1046691c315/",
@@ -14795,7 +14944,7 @@
         {
           "id": "2026-09-03-03",
           "title": "시몬 야노우셰크 외 — 맘라스-1",
-          "originalTitle": "Simon Janousek et al. — MAMLAS-1",
+          "originalTitle": "MAMLAS-1",
           "creator": "Simon Janousek · Jakub Vranek · Alzbeta Volhejnova · Alexandra Verzier",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/mamlas-1-37b38ddb450c814c9e04ca5268db3b95",
@@ -14870,7 +15019,7 @@
         {
           "id": "2026-09-03-05",
           "title": "바오양 천 — 에어리",
-          "originalTitle": "Baoyang Chen — Airy: Machine Intent in Motion",
+          "originalTitle": "Airy: Machine Intent in Motion",
           "creator": "Baoyang Chen",
           "publishedAt": "2026-09-10",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/airy-39c38ddb450c8107b135f97abec9b273/",
@@ -14908,7 +15057,7 @@
         {
           "id": "2026-09-03-06",
           "title": "SCA DIV 랩·BioMed I2 랩 — 뉴럴 니고시에이팅",
-          "originalTitle": "SCA DIV Lab & BioMed I2 Lab — Neural Negotiating",
+          "originalTitle": "Neural Negotiating",
           "creator": "SCA DIV Lab · BioMed I2 Lab",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/neural-negotiating-37c38ddb450c81a18f77f7566c524632",
@@ -14946,7 +15095,7 @@
         {
           "id": "2026-09-03-07",
           "title": "알리사 마르티노바 — 불협화음의 입체시",
-          "originalTitle": "Alisa Martynova — Dissonant Stereoscopy",
+          "originalTitle": "Dissonant Stereoscopy",
           "creator": "Alisa Martynova",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/dissonant-stereoscopy-3a438ddb450c8093b831d6c2812fe11a/",
@@ -15013,6 +15162,12 @@
           {
             "label": "Ars Electronica - Airy: Machine Intent in Motion",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/airy-39c38ddb450c8107b135f97abec9b273/"
+          },
+          {
+            "label": "Bounded Space — AIRY",
+            "url": "https://www.boundedspace.cn/works/754?lang=en",
+            "note": "작품을 소개하는 기관의 재료·규격·로봇 동작 설명.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -15026,7 +15181,8 @@
             "year": "",
             "relation": "무용수의 신체를 매개해 기계와 인간이 상호 해석하는 계열에 속하되 물질과 리듬으로 부분적으로만 읽히게 한다는 점에서 구분된다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -15037,7 +15193,7 @@
         {
           "id": "2026-09-02-01",
           "title": "안드레아스 레프스고르·소피 부르고스토르센 — 위키드 미러",
-          "originalTitle": "Andreas Refsgaard & Sofie Burgos-Thorsen — Wicked Mirror",
+          "originalTitle": "Wicked Mirror",
           "creator": "Andreas Refsgaard · Sofie Burgos-Thorsen",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/wicked-mirror-39838ddb450c81b0931ee838bd5d6102/",
@@ -15076,7 +15232,7 @@
         {
           "id": "2026-09-02-02",
           "title": "다니엘라 미터베르거 외 — 시빌",
-          "originalTitle": "Daniela Mitterberger et al. — Sybil",
+          "originalTitle": "Sybil",
           "creator": "Daniela Mitterberger · Fabio Scotto · Ruth Sidabutar · Linfeng Zhou 외",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/sybil-38938ddb450c816db093e78c21f4f4e3/",
@@ -15154,7 +15310,7 @@
         {
           "id": "2026-09-02-04",
           "title": "BSC 크리에이티브 인텔리전스 랩 — 퀀텀 컴퍼스",
-          "originalTitle": "BSC Creative Intelligence Lab — Quantum Compass",
+          "originalTitle": "Quantum Compass",
           "creator": "BSC Creative Intelligence Lab",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/quantum-compass-38138ddb450c8182b1bfffa11ce35911/",
@@ -15230,7 +15386,7 @@
         {
           "id": "2026-09-02-06",
           "title": "나탈리 크론베르거 — 누가 움직이는 잭인가?",
-          "originalTitle": "Nathalie Kronberger — Who is jumping, Jack?",
+          "originalTitle": "Who is jumping, Jack?",
           "creator": "Nathalie Kronberger",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/who-is-jumping-jack-3a438ddb450c8128b29ced964e56832b/",
@@ -15370,7 +15526,7 @@
         {
           "id": "2026-09-01-01",
           "title": "데니스 홍 — 서브미션의 가벼움",
-          "originalTitle": "Dennis Hong — The Lightness of Submission",
+          "originalTitle": "The Lightness of Submission",
           "creator": "Dennis Hong",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/the-lightness-of-submission-38838ddb450c8118a666fd0af73e5e86/",
@@ -15409,7 +15565,7 @@
         {
           "id": "2026-09-01-02",
           "title": "자로 가니 외 — 내셔널 갤러리 드리밍",
-          "originalTitle": "Jaron Ghani, Lawrence Chiles & John Stack — National Gallery Dreaming",
+          "originalTitle": "National Gallery Dreaming",
           "creator": "Jaron Ghani · Lawrence Chiles · John Stack",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/NationalGalleryDreaming-39e38ddb450c81dba105e4ee1ac2b004/",
@@ -15482,12 +15638,13 @@
             "region": "유럽",
             "venue": "린츠, 오스트리아"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "exhibition"
         },
         {
           "id": "2026-09-01-04",
           "title": "마르코스 케이·미하엘 빌헬름 — 퀀텀 줌: 첫 번째 장",
-          "originalTitle": "Markos Kay & Michael Wilhelm — Quantum Zoom: The First Chapter",
+          "originalTitle": "Quantum Zoom: The First Chapter",
           "creator": "Markos Kay · Michael Wilhelm",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/quantum-zoom-the-first-chapter-39038ddb450c8017aa13f8d29d50a69a/",
@@ -15525,7 +15682,7 @@
         {
           "id": "2026-09-01-05",
           "title": "스푸트니코! — 무한한 소원의 하늘",
-          "originalTitle": "Sputniko! — A Sky of Infinite Wishes",
+          "originalTitle": "A Sky of Infinite Wishes",
           "creator": "Sputniko!",
           "publishedAt": "2026-09-11",
           "url": "https://ars.electronica.art/negotiatinghumanity/de/view/a-sky-of-infinite-wishes-38238ddb450c815fa272d74c73cd62e0/",
@@ -15563,7 +15720,7 @@
         {
           "id": "2026-09-01-06",
           "title": "프란체스카 브리간디 — 플러터링 컬러스",
-          "originalTitle": "Francesca Brigandi — Fluttering Colours",
+          "originalTitle": "Fluttering Colours",
           "creator": "Francesca Brigandi",
           "publishedAt": "2026-09-09",
           "url": "https://ars.electronica.art/negotiatinghumanity/en/view/care-action-arts-of-change-change-of-arts-37b38ddb450c8103ac2ce2ef785984e8/",
@@ -15602,7 +15759,7 @@
         {
           "id": "2026-09-01-07",
           "title": "다니엘 하이스·마르크 쉬체 — 에이전트 프로보카퇴르",
-          "originalTitle": "Daniel Heiss & Marc Schütze — Agent Provokateur",
+          "originalTitle": "Agent Provokateur",
           "creator": "Daniel Heiss · Marc Schütze",
           "publishedAt": "2026-04-15",
           "url": "https://zkm.de/en/daniel-heiss-marc-schutze-agent-provokateur",
@@ -15672,6 +15829,12 @@
           {
             "label": "Ars Electronica - House of Negotiated Selves",
             "url": "https://ars.electronica.art/negotiatinghumanity/en/view/house-of-negotiated-selves-37d38ddb450c818fb3d5fbde83f5a1ff/"
+          },
+          {
+            "label": "Estonian Academy of Arts — Campus 전시",
+            "url": "https://www.artun.ee/en/calendar/eka-team-at-the-ars-electronica-campus-exhibition/",
+            "note": "참여기관의 전시 개념 및 참여자 설명.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -15690,7 +15853,8 @@
             "year": "",
             "relation": "반영의 무너짐을 오늘날 AI가 개인을 읽고 대신 말하는 문제로 계보를 연장한다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -15701,7 +15865,7 @@
         {
           "id": "2026-08-31-01",
           "title": "아르스 일렉트로니카 퓨처랩 — 헬로 월즈!",
-          "originalTitle": "Ars Electronica Futurelab — Hello Worlds!",
+          "originalTitle": "Hello Worlds!",
           "creator": "Ars Electronica Futurelab",
           "publishedAt": "2026-07-29",
           "url": "https://ars.electronica.art/futurelab/en/hello-worlds/",
@@ -15735,7 +15899,8 @@
             "region": "유럽",
             "venue": "린츠, 오스트리아"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "exhibition"
         },
         {
           "id": "2026-08-31-02",
@@ -15779,7 +15944,7 @@
         {
           "id": "2026-08-31-03",
           "title": "매슈 가디너 외 — 신택트",
-          "originalTitle": "Matthew Gardiner et al. — SynTact",
+          "originalTitle": "SynTact",
           "creator": "Matthew Gardiner · Peter Holzkorn · Susanne Kiesenhofer · Nicolas Naveau · Hideaki Ogawa · Simon Schmid · Cyntha Wieringa",
           "publishedAt": "2026-07-28",
           "url": "https://ars.electronica.art/futurelab/en/syntact/",
@@ -15857,7 +16022,7 @@
         {
           "id": "2026-08-31-05",
           "title": "프리드리히 바힝거 외 — 버블 토크",
-          "originalTitle": "Friedrich Bachinger et al. — Bubble Talk",
+          "originalTitle": "Bubble Talk",
           "creator": "Friedrich Bachinger · Kerstin Blätterbinder · Matthew Gardiner · Ali Nikrang · Cyntha Wieringa",
           "publishedAt": "2026-07-08",
           "url": "https://ars.electronica.art/futurelab/en/bubble-talk/",
@@ -15895,7 +16060,7 @@
         {
           "id": "2026-08-31-06",
           "title": "아르스 일렉트로니카 퓨처랩 — 오랑주리 잘츠부르크",
-          "originalTitle": "Ars Electronica Futurelab — Orangerie Salzburg: Panorama Welterbe",
+          "originalTitle": "Orangerie Salzburg: Panorama Welterbe",
           "creator": "Ars Electronica Futurelab",
           "publishedAt": "2026-06-25",
           "url": "https://ars.electronica.art/futurelab/en/orangerie-salzburg-panorama-welterbe/",
@@ -15934,7 +16099,7 @@
         {
           "id": "2026-08-31-07",
           "title": "아르스 일렉트로니카 퓨처랩 — 최후의 심판 삼면화",
-          "originalTitle": "Ars Electronica Futurelab — The Last Judgment Triptych",
+          "originalTitle": "The Last Judgment Triptych",
           "creator": "Ars Electronica Futurelab",
           "publishedAt": "2026-06-26",
           "url": "https://ars.electronica.art/futurelab/en/the-last-judgment-triptych/",
@@ -16001,6 +16166,12 @@
           {
             "label": "Ars Electronica Futurelab - SynTact",
             "url": "https://ars.electronica.art/futurelab/en/syntact/"
+          },
+          {
+            "label": "Ricoh — SynTact 공식 발표",
+            "url": "https://www.ricoh.com/info/2026/0901_1",
+            "note": "협업사의 프로토타입·감지·환경 설계 설명.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -16019,7 +16190,8 @@
             "year": "2023",
             "relation": "개념 단계에서 2026년 구체적 프로토타입 단계로 발전한 출발점이다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -16030,7 +16202,7 @@
         {
           "id": "2026-08-30-01",
           "title": "Jenn Mong & Trevor Van de Velde — 콕핏",
-          "originalTitle": "Jenn Mong & Trevor Van de Velde — COCKPIT",
+          "originalTitle": "COCKPIT",
           "creator": "Jenn Mong · Trevor Van de Velde",
           "publishedAt": "2026-08-30",
           "url": "https://montreal.mutek.org/en/artists/jenn-mong-trevor-van-de-velde",
@@ -16107,7 +16279,7 @@
         {
           "id": "2026-08-30-03",
           "title": "Alice Jarry 외 — 포실레이션",
-          "originalTitle": "Alice Jarry, Marie-Pier Boucher, Samuel Bianchini et al. — FOSSILATION",
+          "originalTitle": "FOSSILATION",
           "creator": "Alice Jarry · Marie-Pier Boucher · Samuel Bianchini 외",
           "publishedAt": "2026-08-20",
           "url": "https://village-numerique.mutek.org/en/circuit/fossilation",
@@ -16145,7 +16317,7 @@
         {
           "id": "2026-08-30-04",
           "title": "Brigita Gedgaudas — 이름도 다리도 없이: 흔적",
-          "originalTitle": "Brigita Gedgaudas — Be Vardų, Be Kojų: Traces",
+          "originalTitle": "Be Vardų, Be Kojų: Traces",
           "creator": "Brigita Gedgaudas",
           "publishedAt": "2026-08-20",
           "url": "https://village-numerique.mutek.org/en/circuit/be-vardu-be-koju-traces-by-brigita-gedgaudas-co-presente-par-interaccess",
@@ -16184,19 +16356,19 @@
         {
           "id": "2026-08-30-05",
           "title": "Ottomata — 솔스티스",
-          "originalTitle": "Ottomata — SOLSTICE",
+          "originalTitle": "SOLSTICE",
           "creator": "Ottomata",
           "publishedAt": "2026-08-20",
-          "url": "https://village-numerique.mutek.org/en/circuit/solstice-par-ottomata",
-          "host": "village-numerique.mutek.org",
-          "description": "관객의 움직임과 춤이 LED 소용돌이의 밝기와 흐름을 깨운다. 불과 태양의 색채가 개인의 제스처에서 집단적 에너지로 축적되는 인터랙티브 설치.",
-          "image": "images/2026-08-30-05.jpg",
-          "imageFallback": "https://village-numerique.mutek.org/uploads/2026/_1200x630_crop_center-center_82_none/VN_1920X1080.png?mtime=1783966382",
+          "url": "https://vimeo.com/1231070699",
+          "host": "vimeo.com",
+          "description": "관객의 움직임과 춤에 반응하는 방사형 LED 구조물이 불과 태양을 닮은 색으로 변한다. 작가가 공개한 영상에서 실제 설치의 반응을 확인할 수 있다. 몸짓을 에너지에 빗댄 표현과 실제 전력 생산은 구별한다.",
+          "image": "images/2026-08-30-05-verified.jpg",
+          "imageFallback": "https://i.vimeocdn.com/video/2206155398-e934fbf1dd32edd2fa720df0e67a34e787e5df35f059bbf6a7302708bda38844-d?f=webp&region=us",
           "insight": {
-            "mechanism": "관객의 움직임과 춤을 센서로 감지해 도시 공공 공간에 설치된 LED 소용돌이 구조물의 밝기와 흐름을 바꾸는 참여형 라이트 설치다.",
+            "mechanism": "관객의 움직임과 춤에 반응하는 방사형 LED 설치다. 작가는 붉은 불씨에서 금빛으로 이어지는 밝기와 색의 곡선을 프로그래밍해 불과 태양의 움직임을 닮은 빛을 만든다고 설명한다.",
             "whyNow": "빌라주 뉴메리크가 강조하는 '관객이 직접 빛·음악·움직임을 만드는' 참여형 프로그램의 일환으로, 겨울 설치에서 여름 순회작으로 확장된 사례다.",
             "directorPoint": "개인의 작은 제스처가 집단적 에너지로 축적되는 구조를 이용해, 초반 롱숏에서 클로즈업 군중 리액션으로 점층하는 컷 리듬을 설계할 수 있다.",
-            "critique": "공개된 원문 정보가 제한적이라 센서와 LED의 구체적 작동 방식은 확인되지 않았고, 설명은 대체로 홍보성 요약에 머문다."
+            "critique": "공식 영상은 움직임과 빛의 관계를 보여주지만 센서 모델이나 제어 지연은 공개하지 않는다. 관객의 몸짓이 에너지라는 표현을 실제 발전이나 열 회수 기술로 해석할 근거는 없다."
           },
           "tags": {
             "sense": [
@@ -16218,12 +16390,22 @@
             "region": "북미",
             "venue": "몬트리올, 캐나다"
           },
-          "grounded": false
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://vimeo.com/1231070699",
+            "sourceUrl": "https://i.vimeocdn.com/video/2206155398-e934fbf1dd32edd2fa720df0e67a34e787e5df35f059bbf6a7302708bda38844-d?f=webp&region=us",
+            "credit": "Ottomata",
+            "caption": "작가 공식 영상의 설치 기록 스틸.",
+            "kind": "performance",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "SOLSTICE — 작가 공식 영상의 설치 기록 스틸."
+          }
         },
         {
           "id": "2026-08-30-06",
           "title": "Myriam Bleau — 언폴드",
-          "originalTitle": "Myriam Bleau — UNFOLD",
+          "originalTitle": "UNFOLD",
           "creator": "Myriam Bleau",
           "publishedAt": "2026-08-20",
           "url": "https://village-numerique.mutek.org/en/circuit/unfold-par-myriam-bleau",
@@ -16260,7 +16442,7 @@
         {
           "id": "2026-08-30-07",
           "title": "Après Minuit — 퍼스펙티브",
-          "originalTitle": "Après Minuit — Perspectives",
+          "originalTitle": "Perspectives",
           "creator": "Après Minuit",
           "publishedAt": "2026-08-20",
           "url": "https://village-numerique.mutek.org/en/circuit/perspectives-by-apres-minuit",
@@ -16329,6 +16511,12 @@
           {
             "label": "MUTEK Montréal - Jenn Mong & Trevor Van de Velde",
             "url": "https://montreal.mutek.org/en/artists/jenn-mong-trevor-van-de-velde"
+          },
+          {
+            "label": "MUTEK — PLAY 2 프로그램",
+            "url": "https://montreal.mutek.org/en/shows/2026/play-2",
+            "note": "COCKPIT의 공연 편성·악기와 기계의 관계에 관한 공식 프로그램 맥락.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -16347,7 +16535,8 @@
             "year": "",
             "relation": "조이스틱·MIDI 컨트롤러를 결합하는 기술적 기반이 이 실천에서 나온다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -16435,7 +16624,7 @@
         {
           "id": "2026-08-29-03",
           "title": "Estelle Schorpp & charline dally — 드리머신",
-          "originalTitle": "Estelle Schorpp & charline dally — dreamachine",
+          "originalTitle": "dreamachine",
           "creator": "Estelle Schorpp · charline dally",
           "publishedAt": "2026-08-29",
           "url": "https://montreal.mutek.org/en/artists/estelle-schorpp-charline-dally",
@@ -16512,7 +16701,7 @@
         {
           "id": "2026-08-29-05",
           "title": "Rival Consoles & David Sydiongco — 기억의 풍경",
-          "originalTitle": "Rival Consoles + David Sydiongco — Landscape from Memory",
+          "originalTitle": "Landscape from Memory",
           "creator": "Rival Consoles · David Sydiongco",
           "publishedAt": "2026-08-29",
           "url": "https://montreal.mutek.org/en/artists/rival-consoles",
@@ -16550,7 +16739,7 @@
         {
           "id": "2026-08-29-06",
           "title": "Fennesz & Lillevan — 엔드리스 서머 25년",
-          "originalTitle": "Fennesz & Lillevan — 25 Years of Endless Summer",
+          "originalTitle": "25 Years of Endless Summer",
           "creator": "Fennesz · Lillevan",
           "publishedAt": "2026-08-29",
           "url": "https://montreal.mutek.org/en/artists/fennesz-lillevan",
@@ -16655,6 +16844,12 @@
           {
             "label": "MUTEK Montréal - pliq",
             "url": "https://montreal.mutek.org/en/artists/pliq"
+          },
+          {
+            "label": "Jean-Philippe Jullin — Fixate",
+            "url": "https://www.jeanphilippejullin.com/work/",
+            "note": "창작자의 촉각 인터페이스·적외선 추적·실시간 시청각 시스템 설명.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -16668,7 +16863,8 @@
             "year": "",
             "relation": "아날로그와 디지털 사이 변환을 탐구해온 지역 신의 흐름 위에 두 실천이 합류한다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -16717,7 +16913,7 @@
         {
           "id": "2026-08-28-02",
           "title": "Cheng Daoyuan & Huang Wei — INNERSTAR-01",
-          "originalTitle": "Cheng Daoyuan & Huang Wei — INNERSTAR-01",
+          "originalTitle": "INNERSTAR-01",
           "creator": "Cheng Daoyuan · Huang Wei",
           "publishedAt": "2026",
           "url": "https://montreal.mutek.org/en/artists/cheng-daoyuan-huang-wei",
@@ -16755,7 +16951,7 @@
         {
           "id": "2026-08-28-03",
           "title": "BelleyFERRIS — 공연장을 만드는 빛",
-          "originalTitle": "BelleyFERRIS — Scenographer",
+          "originalTitle": "Scenographer",
           "creator": "Arnaud Belley-Ferris",
           "publishedAt": "2026",
           "url": "https://montreal.mutek.org/en/artists/belleyferris",
@@ -16786,12 +16982,13 @@
             "region": "북미",
             "venue": "몬트리올, 캐나다"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "portfolio"
         },
         {
           "id": "2026-08-28-04",
           "title": "con secuencias + Milo Reinhardt — (An)ecumene time",
-          "originalTitle": "con secuencias + Milo Reinhardt — (An)ecumene time",
+          "originalTitle": "(An)ecumene time",
           "creator": "con secuencias · Milo Reinhardt",
           "publishedAt": "2026",
           "url": "https://montreal.mutek.org/en/artists/con-secuencias-milo-reinhardt",
@@ -16867,7 +17064,7 @@
         {
           "id": "2026-08-28-06",
           "title": "Abulzooz — Infisal",
-          "originalTitle": "Abulzooz — Infisal",
+          "originalTitle": "Infisal",
           "creator": "Abulzooz",
           "publishedAt": "2026",
           "url": "https://montreal.mutek.org/en/artists/zaid-bustami",
@@ -16935,6 +17132,12 @@
           {
             "label": "MUTEK Montréal - BelleyFERRIS",
             "url": "https://montreal.mutek.org/en/artists/belleyferris"
+          },
+          {
+            "label": "MUTEK — 2026 전체 프로그램 발표",
+            "url": "https://montreal.mutek.org/en/news/mutek-montreal-announces-full-2026-lineup",
+            "note": "BelleyFERRIS가 설계한 무대의 역할을 명시하는 공식 프로그램 자료. 독립 작품명으로 취급하지 않는다.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -16953,7 +17156,8 @@
             "year": "",
             "relation": "이 투어 경력이 벨리-페리스의 실무 계보를 뒷받침한다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -16964,7 +17168,7 @@
         {
           "id": "2026-08-27-01",
           "title": "Nelly-Eve Rajotte — 나무들은 220헤르츠로 소통한다",
-          "originalTitle": "Nelly-Eve Rajotte — Les arbres communiquent entre eux à 220 Hertz",
+          "originalTitle": "Les arbres communiquent entre eux à 220 Hertz",
           "creator": "Nelly-Eve Rajotte",
           "publishedAt": "2026-08-27",
           "url": "https://montreal.mutek.org/en/artists/nelly-eve-rajotte",
@@ -17040,7 +17244,7 @@
         {
           "id": "2026-08-27-03",
           "title": "Korea Town Acid & Ajeebsir — 제로 그래비티",
-          "originalTitle": "Korea Town Acid & Ajeebsir — Zero Gravity",
+          "originalTitle": "Zero Gravity",
           "creator": "Korea Town Acid · Ajeebsir",
           "publishedAt": "2026-08-27",
           "url": "https://montreal.mutek.org/en/artists/korea-town-acid-ajeebsir",
@@ -17078,7 +17282,7 @@
         {
           "id": "2026-08-27-04",
           "title": "Noémi Büchi — 엑수비",
-          "originalTitle": "Noémi Büchi — Exuvie",
+          "originalTitle": "Exuvie",
           "creator": "Noémi Büchi · Brigitte Faessler · Rebeka Mondovics",
           "publishedAt": "2026-08-27",
           "url": "https://montreal.mutek.org/en/artists/noemi-buchi",
@@ -17156,7 +17360,7 @@
         {
           "id": "2026-08-27-06",
           "title": "Zora Jones — 사운드에 반응하는 새 라이브 쇼",
-          "originalTitle": "Zora Jones — World Premiere Live Show",
+          "originalTitle": "World Premiere Live Show",
           "creator": "Zora Jones",
           "publishedAt": "2026-08-27",
           "url": "https://montreal.mutek.org/en/artists/zora-jones",
@@ -17266,7 +17470,7 @@
         {
           "id": "2026-08-26-01",
           "title": "Weidi Zhang & Weilu Ge — 웨이페어러.돔",
-          "originalTitle": "Weidi Zhang & Weilu Ge — Wayfarer.dome",
+          "originalTitle": "Wayfarer.dome",
           "creator": "Weidi Zhang · Weilu Ge",
           "publishedAt": "2026-08-26",
           "url": "https://montreal.mutek.org/en/artists/weidi-zhang-weilu-ge",
@@ -17304,7 +17508,7 @@
         {
           "id": "2026-08-26-02",
           "title": "mesocosm — 레조넌스",
-          "originalTitle": "mesocosm — Resonance",
+          "originalTitle": "Resonance",
           "creator": "mesocosm",
           "publishedAt": "2026-08-26",
           "url": "https://montreal.mutek.org/en/artists/mesocosm",
@@ -17343,7 +17547,7 @@
         {
           "id": "2026-08-26-03",
           "title": "Guillaume Coutu Dumont & Line Katcho — 제국들",
-          "originalTitle": "Guillaume Coutu Dumont & Line Katcho — Les Empires",
+          "originalTitle": "Les Empires",
           "creator": "Guillaume Coutu Dumont · Line Katcho",
           "publishedAt": "2026-08-26",
           "url": "https://montreal.mutek.org/en/artists/guillaume-coutu-dumont-line-katcho",
@@ -17381,7 +17585,7 @@
         {
           "id": "2026-08-26-04",
           "title": "France Jobin & Markus Heckmann — 양자 빛",
-          "originalTitle": "France Jobin & Markus Heckmann — Lueurs Quantiques",
+          "originalTitle": "Lueurs Quantiques",
           "creator": "France Jobin · Markus Heckmann",
           "publishedAt": "2026-08-26",
           "url": "https://montreal.mutek.org/en/artists/france-jobin",
@@ -17457,7 +17661,7 @@
         {
           "id": "2026-08-26-06",
           "title": "Debit — 데사셀레라다스",
-          "originalTitle": "Debit — Desaceleradas",
+          "originalTitle": "Desaceleradas",
           "creator": "Debit",
           "publishedAt": "2026-08-26",
           "url": "https://montreal.mutek.org/en/artists/debit",
@@ -17526,6 +17730,12 @@
           {
             "label": "MUTEK Montréal 아티스트 페이지",
             "url": "https://montreal.mutek.org/en/artists/france-jobin"
+          },
+          {
+            "label": "France Jobin — Lueurs Quantiques",
+            "url": "https://www.francejobin.com/?page_id=7153",
+            "note": "작가의 모듈러 사운드·빛·헤이즈와 반물질 참조 설명.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -17539,7 +17749,8 @@
             "year": "",
             "relation": "Heckmann의 실시간 제너레이티브 그래픽이 이 계보의 연장선에 있다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -17550,7 +17761,7 @@
         {
           "id": "2026-08-25-01",
           "title": "Ida Toninato — 하우스 오브 러브",
-          "originalTitle": "Ida Toninato — House of Love",
+          "originalTitle": "House of Love",
           "creator": "Ida Toninato",
           "publishedAt": "2026-08-25",
           "url": "https://montreal.mutek.org/en/artists/ida-toninato",
@@ -17588,7 +17799,7 @@
         {
           "id": "2026-08-25-02",
           "title": "Honeydrip — 바이브레이션",
-          "originalTitle": "Honeydrip — v i b r a t i o n",
+          "originalTitle": "v i b r a t i o n",
           "creator": "Honeydrip · Yasmeen Hitti · Salim Lounis",
           "publishedAt": "2026-08-28",
           "url": "https://montreal.mutek.org/en/artists/honeydrip",
@@ -17664,7 +17875,7 @@
         {
           "id": "2026-08-25-04",
           "title": "Paul Vivien — 우리의 부재가 만든 조화",
-          "originalTitle": "Paul Vivien — L’Harmonie De Notre Absence",
+          "originalTitle": "L’Harmonie De Notre Absence",
           "creator": "Paul Vivien",
           "publishedAt": "2026-08-30",
           "url": "https://montreal.mutek.org/en/artists/paul-vivien",
@@ -17702,7 +17913,7 @@
         {
           "id": "2026-08-25-05",
           "title": "Sarah Rossy — 목소리와 투사 이미지의 자전적 공간",
-          "originalTitle": "Sarah Rossy — Live A/V",
+          "originalTitle": "Live A/V",
           "creator": "Sarah Rossy",
           "publishedAt": "2026-08-30",
           "url": "https://montreal.mutek.org/en/artists/sarah-rossy",
@@ -17809,6 +18020,12 @@
           {
             "label": "MUTEK Montréal 아티스트 페이지",
             "url": "https://montreal.mutek.org/en/artists/super-galaxy-meow-meow"
+          },
+          {
+            "label": "MUTEK — PLAY 2 프로그램",
+            "url": "https://montreal.mutek.org/en/shows/2026/play-2",
+            "note": "Reciprocity의 레이저-음향 공연 편성과 프로그램 맥락.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -17827,7 +18044,8 @@
             "year": "",
             "relation": "반복 샘플링으로 질감을 바꾸는 병행 실천이 이 작업의 사운드 축을 이룬다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -17838,8 +18056,8 @@
         {
           "id": "2026-08-24-01",
           "title": "acropora sensory dive art and exhibition design",
-          "originalTitle": "",
-          "creator": "abduzeedo.com",
+          "originalTitle": "Acropora",
+          "creator": "Laura García · Saúl Osuna (아트디렉션·그래픽)",
           "publishedAt": "2024-03-04T15:11:16.000Z",
           "url": "https://abduzeedo.com/acropora-sensory-dive-art-and-exhibition-design",
           "host": "abduzeedo.com",
@@ -17870,12 +18088,13 @@
             "region": "중남미",
             "venue": "멕시코 (순회전)"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "exhibition"
         },
         {
           "id": "2026-08-24-02",
           "title": "processing… Art and Advanced Technologies at Serpentine",
-          "originalTitle": "",
+          "originalTitle": "processing… Art and Advanced Technologies at Serpentine",
           "creator": "Serpentine Arts Technologies",
           "publishedAt": "2026-07-20",
           "url": "https://www.serpentinegalleries.org/about/press/exhibition-processing-art-and-advanced-technologies-at-serpentine/",
@@ -17907,12 +18126,13 @@
             "region": "유럽",
             "venue": "런던, 영국"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "exhibition"
         },
         {
           "id": "2026-08-24-03",
           "title": "COLDPLAY — A Film For The Future Immersive 360° Experience",
-          "originalTitle": "",
+          "originalTitle": "COLDPLAY — A Film For The Future Immersive 360° Experience",
           "creator": "Clara Bacou",
           "publishedAt": "2025-04-06",
           "url": "https://vimeo.com/1073051677",
@@ -17950,7 +18170,7 @@
         {
           "id": "2026-08-24-04",
           "title": "MUTEK Market 2026 — 19 artists, 14 projects",
-          "originalTitle": "",
+          "originalTitle": "MUTEK Market 2026",
           "creator": "MUTEK Market artists",
           "publishedAt": "2026",
           "url": "https://forum.mutek.org/en/market-artists",
@@ -17982,12 +18202,13 @@
             "region": "북미",
             "venue": "온라인"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "programme"
         },
         {
           "id": "2026-08-24-05",
           "title": "Sammy Lee & M. J. Harding — SONG",
-          "originalTitle": "",
+          "originalTitle": "SONG",
           "creator": "Sammy Lee · M. J. Harding",
           "publishedAt": "2026",
           "url": "https://montreal.mutek.org/en/artists/sammy-lee-m-j-harding",
@@ -18026,7 +18247,7 @@
         {
           "id": "2026-08-24-06",
           "title": "Yoshi Sodeoka — immersive video and generative systems",
-          "originalTitle": "",
+          "originalTitle": "Yoshi Sodeoka Selected Works",
           "creator": "Yoshi Sodeoka",
           "publishedAt": "2026",
           "url": "https://tokyo.mutek.org/en/artists/yoshi-sodeoka",
@@ -18058,24 +18279,25 @@
             "region": "동아시아",
             "venue": "도쿄, 일본"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "portfolio"
         },
         {
           "id": "2026-08-24-07",
           "title": "Robert Borghesi",
-          "originalTitle": "",
-          "creator": "lapa.ninja",
+          "originalTitle": "Robert Borghesi Portfolio",
+          "creator": "Robert Borghesi",
           "publishedAt": "2024-01-22T04:23:25.000Z",
-          "url": "https://www.lapa.ninja/video/post/robertborghesi/",
-          "host": "lapa.ninja",
-          "description": "Hey there. I'm Robert and I'm a creative developer. I've been in the industry since 2018 and I work in the intersection between generative art and creative coding with some sparkles of web3 on top. I've been working with top notch clients in the likes of Gucci, Google, Adidas, Longines, Valentino, LG, Sap, MaxMara, Metamask, Blitz and creative agencies as Immersive Garden, OddCommon, Demodern, Outpost, Wildlife, DotD",
-          "image": null,
-          "imageFallback": "https://cdn.lapa.ninja/assets/videos-poster/robertborghesi-thumb.webp",
+          "url": "https://robertborghesi.is/",
+          "host": "robertborghesi.is",
+          "description": "경제학에서 크리에이티브 코딩으로 옮겨온 로버트 보르게시의 포트폴리오다. WebGL과 몰입형 웹 경험을 중심으로 브랜드 작업과 개인 실험을 모은다. 단일 작품이 아니라 개발자의 작업 방식과 웹 내비게이션을 살피는 자료로 분류한다.",
+          "image": "images/2026-08-24-07-verified.jpg",
+          "imageFallback": "https://www.robertborghesi.is/share.jpg",
           "insight": {
-            "mechanism": "3D 웹 기술과 생성형 크리에이티브 코딩을 결합한 개인 포트폴리오 웹사이트로, 브랜드 클라이언트 프로젝트를 웹GL 기반 인터랙티브 씬으로 구성한다.",
+            "mechanism": "WebGL 기반의 몰입형 웹 경험과 크리에이티브 코딩 프로젝트를 보여주는 개인 포트폴리오다. 각 프로젝트의 구현은 서로 다르므로 사이트 전체를 하나의 생성 알고리즘으로 설명하지 않는다.",
             "whyNow": "웹3 요소를 가미한 생성 아트 개발자가 구찌, 구글, 아디다스 같은 대형 브랜드와 일하는 사례는 크리에이티브 코딩이 브랜드 디지털 캠페인의 표준 도구가 된 흐름을 보여준다.",
             "directorPoint": "포트폴리오를 풀스크린 3D 씬 전환 방식으로 구성해 페이지 이동을 카메라 무빙처럼 체감시키는 내비게이션 설계가 브랜드 사이트 연출에 참고된다.",
-            "critique": "랜딩페이지 큐레이션 사이트의 짧은 소개라 실제 작업의 기술적 구현 방식은 구체적으로 확인되지 않는다."
+            "critique": "포트폴리오는 결과를 선별해 제시하는 형식이다. 소개 화면만으로 각 클라이언트 프로젝트의 성능이나 구체적인 렌더링 구조까지 확인할 수는 없다."
           },
           "tags": {
             "sense": [
@@ -18095,7 +18317,18 @@
             "region": null,
             "venue": "온라인"
           },
-          "grounded": true
+          "grounded": true,
+          "entryType": "portfolio",
+          "imageMeta": {
+            "sourcePage": "https://robertborghesi.is/",
+            "sourceUrl": "https://www.robertborghesi.is/share.jpg",
+            "credit": "Robert Borghesi",
+            "caption": "개발자 본인의 포트폴리오 공식 미리보기. 독립 작품 사진이 아니다.",
+            "kind": "portfolio",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "Robert Borghesi Portfolio — 개발자 본인의 포트폴리오 공식 미리보기. 독립 작품 사진이 아니다."
+          }
         },
         {
           "id": "2026-08-24-08",
@@ -18242,6 +18475,12 @@
           {
             "label": "Moment Factory 프로젝트 페이지",
             "url": "https://momentfactory.com/products/incheon-international-airport"
+          },
+          {
+            "label": "Moment Factory — 공식 프로젝트 영상",
+            "url": "https://vimeo.com/1088849807",
+            "note": "제작 스튜디오가 공개한 인천공항 프로젝트 기록 영상.",
+            "checkedAt": "2026-10-30"
           }
         ],
         "lineage": [
@@ -18255,7 +18494,8 @@
             "year": "",
             "relation": "고정 객석 없이 동선을 따라 경험하는 구조가 이 형식과 접점을 이룬다."
           }
-        ]
+        ],
+        "reviewedAt": "2026-10-30"
       }
     },
     {
@@ -18311,8 +18551,8 @@
           "url": "https://refikanadol.com/works/machine-hallucinations-sphere/",
           "host": "refikanadol.com",
           "description": "Sphere의 초대형 외피를 AI 데이터 조각으로 전환한 퍼블릭 미디어 아트 프로젝트.",
-          "image": "images/2026-08-23-02.jpg",
-          "imageFallback": "https://refikanadol.com/wp-content/themes/refikanadol/img/ra-og.png",
+          "image": "images/2026-08-23-02-verified.jpg",
+          "imageFallback": "https://refikanadol.com/wp-content/uploads/2023/10/RefikAnadolStudio-X-TheSphere_Page_11-2400x1350.jpg",
           "insight": {
             "mechanism": "스페이스·자연 이미지 아카이브로 학습한 GAN 계열 생성 모델이 유휴 상태에서도 새로운 색과 패턴을 스스로 생성해, 구형 스크린 Sphere 외피 전체에 실시간으로 투사한다.",
             "whyNow": "2016년 구글 AMI 레지던시에서 시작한 '데이터 조각' 개념이 라스베가스 스피어라는 초대형 상업 스크린과 결합해 퍼블릭 아트의 스케일을 재정의하는 사례다.",
@@ -18337,7 +18577,17 @@
             "region": "북미",
             "venue": "라스베가스, 미국"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://refikanadol.com/works/machine-hallucinations-sphere/",
+            "sourceUrl": "https://refikanadol.com/wp-content/uploads/2023/10/RefikAnadolStudio-X-TheSphere_Page_11-2400x1350.jpg",
+            "credit": "Refik Anadol Studio",
+            "caption": "작가 스튜디오의 작품 비주얼·설명 자료. 현장 사진과 구별한다.",
+            "kind": "documentation",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "Machine Hallucinations — Sphere — 작가 스튜디오의 작품 비주얼·설명 자료. 현장 사진과 구별한다."
+          }
         },
         {
           "id": "2026-08-23-03",
@@ -18460,11 +18710,11 @@
           "originalTitle": "Light Barrier",
           "creator": "Kimchi and Chips",
           "publishedAt": null,
-          "url": "https://www.kimchiandchips.com/",
+          "url": "https://www.kimchiandchips.com/works/lightbarrier3",
           "host": "kimchiandchips.com",
           "description": "수백 개의 빛줄기를 교차시켜 공중에 입체적인 형태를 만들어내는 볼류메트릭 설치.",
-          "image": "images/2026-08-23-06.jpg",
-          "imageFallback": "https://pub-def9ab096473429692fa64ce0ae78d6d.r2.dev/media/106b7d27ac1dcaaa/320.avif",
+          "image": "images/2026-08-23-06-verified.jpg",
+          "imageFallback": "https://pub-def9ab096473429692fa64ce0ae78d6d.r2.dev/media/e19ebd2e6cad8f2c/2400.jpeg",
           "insight": {
             "mechanism": "오목·볼록 거울과 헤이즈(연무) 속을 통과하는 다수의 프로젝션 광선을 스캐닝 방식으로 교차시켜, 실체 없는 빛만으로 공중에 입체 형상을 맺히게 한다.",
             "whyNow": "2014년 첫 발표 이후 광주 아시아문화전당 등에서 재구현되며, 물성 없는 볼류메트릭 조각이라는 개념이 라이트아트의 한 갈래로 자리잡는 데 기여했다.",
@@ -18490,7 +18740,17 @@
             "region": "동아시아",
             "venue": "광주, 대한민국"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.kimchiandchips.com/works/lightbarrier3",
+            "sourceUrl": "https://pub-def9ab096473429692fa64ce0ae78d6d.r2.dev/media/e19ebd2e6cad8f2c/2400.jpeg",
+            "credit": "Kimchi and Chips",
+            "caption": "Light Barrier Third Edition 공식 작품 페이지의 설치 이미지.",
+            "kind": "installation",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "Light Barrier — Light Barrier Third Edition 공식 작품 페이지의 설치 이미지."
+          }
         },
         {
           "id": "2026-08-23-07",
@@ -18578,11 +18838,11 @@
           "originalTitle": "Artificial Botany",
           "creator": "fuse*",
           "publishedAt": null,
-          "url": "https://www.fuseworks.it/artworks",
+          "url": "https://www.fuseworks.it/series/artificial-botany",
           "host": "fuseworks.it",
           "description": "역사적 식물 삽화를 머신러닝으로 학습해 새로운 식물 이미지를 생성한 프로젝트.",
-          "image": null,
-          "imageFallback": "https://cdn.fuseworks.it/cdn-cgi/image/h=630,q=80/https://admin.fuseworks.it/uploads/Luna_Verona_3.jpg",
+          "image": "images/2026-08-23-09-verified.jpg",
+          "imageFallback": "https://cdn.fuseworks.it/cdn-cgi/image/w=1200,h=630,fit=cover,q=80/https://admin.fuseworks.it/uploads/Artificial-Botany_Marignana_10.jpg",
           "insight": {
             "mechanism": "마리아 지빌라 메리안, 피에르조제프 르두테 등 사진 발명 이전 시대 식물 삽화 공공 도메인 이미지를 머신러닝으로 학습시켜, 실재하지 않는 새로운 식물 형태를 생성한다.",
             "whyNow": "2019년부터 이어진 장기 프로젝트로, 과학적 기록 도구였던 식물 삽화의 전통을 AI 시대에 재해석하려는 미디어아트계의 아카이브 재활용 흐름과 맞닿아 있다.",
@@ -18609,7 +18869,17 @@
             "region": "유럽",
             "venue": "파르마, 이탈리아"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.fuseworks.it/series/artificial-botany",
+            "sourceUrl": "https://cdn.fuseworks.it/cdn-cgi/image/w=1200,h=630,fit=cover,q=80/https://admin.fuseworks.it/uploads/Artificial-Botany_Marignana_10.jpg",
+            "credit": "fuse*",
+            "caption": "Artificial Botany 공식 시리즈 페이지의 전시 전경.",
+            "kind": "installation",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "Artificial Botany — Artificial Botany 공식 시리즈 페이지의 전시 전경."
+          }
         },
         {
           "id": "2026-08-23-10",
@@ -18656,11 +18926,11 @@
           "originalTitle": "WILD: A Safari Experience",
           "creator": "Illuminarium",
           "publishedAt": null,
-          "url": "https://www.illuminarium.com/",
+          "url": "https://www.illuminarium.com/atlanta-experiences/wild-a-safari-experience",
           "host": "illuminarium.com",
           "description": "벽과 바닥의 대형 프로젝션·공간 음향·감각 효과로 구성한 몰입형 사파리 경험.",
-          "image": "images/2026-08-23-11.jpg",
-          "imageFallback": "https://cdn.prod.website-files.com/63509b507fd4515d9fa6570e/664df440bfb380701b0a1365_662fe3ebb2c1cf690b8c4633_Illuminarium-Experiences-Outside-Venue-scaled.avif",
+          "image": "images/2026-08-23-11-verified.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/6368f829ff42b11757bcc358/6542d2626bc3db8aa55e0c14_63686d0e62c38ac89c8b8564_Lumin_0006_Untitled-4-1.avif",
           "insight": {
             "mechanism": "대형 벽면·바닥 프로젝션과 공간음향, 바람·향기 등 감각 효과 장치를 동시 가동해, 스크린 앞이 아니라 동물 서식지 한가운데 서 있는 듯한 시네마틱 체험을 만든다.",
             "whyNow": "애틀랜타에서 시작한 일루미나리움이 라스베가스·토론토로 확장하며, 극장식 좌석 없이 걸어 다니는 몰입형 다큐멘터리 상영관이라는 새 포맷을 제시한 사례다.",
@@ -18687,7 +18957,17 @@
             "region": "북미",
             "venue": "애틀랜타, 미국"
           },
-          "grounded": true
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.illuminarium.com/atlanta-experiences/wild-a-safari-experience",
+            "sourceUrl": "https://cdn.prod.website-files.com/6368f829ff42b11757bcc358/6542d2626bc3db8aa55e0c14_63686d0e62c38ac89c8b8564_Lumin_0006_Untitled-4-1.avif",
+            "credit": "Illuminarium",
+            "caption": "WILD 공식 체험 페이지의 공간 투사 이미지.",
+            "kind": "documentation",
+            "checkedAt": "2026-10-30",
+            "usageBasis": "공식 공개 작품·프로젝트 소개의 출처를 표시한 축소 비평 미리보기. 별도 이용허락이 명시된 것으로 표시하지 않는다.",
+            "alt": "WILD: A Safari Experience — WILD 공식 체험 페이지의 공간 투사 이미지."
+          }
         },
         {
           "id": "2026-08-23-12",
@@ -18885,11 +19165,11 @@
         },
         {
           "id": "2026-08-23-17",
-          "title": "Lisa Mizuno & MISOLA: 사운드에 반응하는 즉흥 비주얼",
-          "originalTitle": "Lisa Mizuno & MISOLA",
-          "creator": "Lisa Mizuno · MISOLA",
+          "title": "Liza Mizuno & MISOLA: 사운드에 반응하는 즉흥 비주얼",
+          "originalTitle": "Liza Mizuno & MISOLA",
+          "creator": "Liza Mizuno · MISOLA",
           "publishedAt": null,
-          "url": "https://tokyo.mutek.org/en/artists/lisa-mizuno-misola",
+          "url": "https://tokyo.mutek.org/en/projects/reflex-4",
           "host": "tokyo.mutek.org",
           "description": "글리치, 프리즘, 유기적 디지털 질감을 실시간으로 조정하며 공간과 관객에 반응하는 신인 VJ의 시청각 퍼포먼스.",
           "image": "images/2026-08-23-17.jpg",
@@ -19096,5 +19376,13 @@
     }
   ],
   "generatedAt": "2026-10-30T05:05:43Z",
-  "schemaVersion": 2
+  "schemaVersion": 2,
+  "editorialPolicy": {
+    "strictFrom": "2026-10-20",
+    "imageProvenanceFrom": "2026-10-31",
+    "latestMin": 6,
+    "latestMax": 8,
+    "legacyNote": "현행 일간 기준 도입 전의 수록 개수·권역·출처 편중은 경고로 보존한다. 과거 날짜나 ID를 바꿔 기준을 맞추지 않는다."
+  },
+  "lastEditorialReview": "2026-10-30"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-30",
   "rule": "하루 한 출처(도메인) 최대 2개, 한 이슈에 최소 3개 권역, 30일 기준 한 권역 50% 이하",
   "sources": [
     {
@@ -137,7 +137,7 @@
     },
     {
       "name": "SAT (Société des arts technologiques)",
-      "url": "https://sat.qc.ca/en",
+      "url": "https://sat.qc.ca/",
       "region": "북미",
       "place": "몬트리올, 캐나다",
       "type": "기관"

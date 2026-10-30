@@ -6,9 +6,10 @@
 <title>MOTIF — Media Art Journal</title>
 <meta name="description" content="An independent journal of contemporary media art, read from around the world."/>
 <link rel="stylesheet" href="./style.css?v=3"/>
-<link rel="stylesheet" href="./motif2.css?v=4"/>
+<link rel="stylesheet" href="./motif2.css?v=5"/>
 </head>
 <body>
+<a class="skip-link" href="#mainContent">본문으로 바로가기</a>
 <div class="read-progress" id="readProgress"></div>
 <div class="site-frame">
   <header class="journal-header">
@@ -30,12 +31,13 @@
       <button type="button" class="board-btn" id="boardBtn" aria-label="담아 둔 작업">Board <i>0</i></button>
     </div>
   </header>
-  <main id="mainContent"></main>
+  <main id="mainContent" tabindex="-1"></main>
   <footer>
     <span>MOTIF</span>
     <span>Seoul · read worldwide · <span id="yearSpan"></span></span>
   </footer>
 </div>
-<script src="./app.js?v=4"></script>
+<script src="./search.js?v=1"></script>
+<script src="./app.js?v=5"></script>
 </body>
 </html>

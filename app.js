@@ -89,8 +89,8 @@
     const host = esc(item.host || '');
     const src = item.image ? esc(item.image) : '';
     const fb = item.imageFallback ? esc(item.imageFallback) : '';
-    if (!src) return `<div class="image-fallback"><span>${host}</span></div>`;
-    return `<img src="${src}" data-fallback="${fb}" data-host="${host}" data-step="0" alt="" referrerpolicy="no-referrer" decoding="async" loading="${eager ? 'eager' : 'lazy'}" onerror="window.__motifImgError && window.__motifImgError(this)"/>`;
+    if (!src) return `<div class="image-fallback"><span>작품 이미지 확인 중</span><small>${host}</small></div>`;
+    return `<img src="${src}" data-fallback="${fb}" data-host="${host}" data-step="0" alt="${esc(item.imageMeta && item.imageMeta.alt || item.originalTitle || item.title)}" referrerpolicy="no-referrer" decoding="async" loading="${eager ? 'eager' : 'lazy'}" onerror="window.__motifImgError && window.__motifImgError(this)"/>`;
   }
   window.__motifImgError = function (img) {
     const step = Number(img.getAttribute('data-step') || '0');
@@ -112,6 +112,10 @@
     const orig = item.revisitOf && ITEM_BY_ID[item.revisitOf];
     if (!orig) return '';
     return `<p class="revisit-note">다시 보기 · 이 작업은 <a href="${itemHref(orig)}" data-go-item="${esc(orig._id)}">${esc(fmtDate(orig._issue.date))} 호</a>에서 처음 소개했다.</p>`;
+  }
+  function renderImageCredit(item) {
+    const m = item.imageMeta; if (!m) return '';
+    return `<p class="image-credit">${esc(m.caption || '')}${m.credit ? ` · ${esc(m.credit)}` : ''}</p>`;
   }
   function renderStoryMeta(item) {
     const o = item.origin || {};
@@ -135,6 +139,7 @@
   }
   function stateBadges(item) {
     const b = [];
+    if (item.entryType && item.entryType !== 'work') b.push('<span class="badge">' + esc({ exhibition: '전시', programme: '프로그램', portfolio: '포트폴리오', 'project-overview': '프로젝트 소개' }[item.entryType] || '자료') + '</span>');
     if (item.revisitOf) b.push('<span class="badge revisit">다시 보기</span>');
     if (isNew(item)) b.push('<span class="badge new">New</span>');
     if (readSet.has(item._id)) b.push('<span class="badge read">읽음</span>');
@@ -157,7 +162,7 @@
           <p class="source-name">${esc(item.host || '')} ${stateBadges(item)}</p>
           <h2><a href="${href}" data-go-item="${esc(item._id)}">${esc(item.title)}</a></h2>
           ${item.originalTitle ? `<p class="original-title">${esc(item.originalTitle)}</p>` : ''}
-          ${renderStoryMeta(item)}
+          ${renderStoryMeta(item)}${renderImageCredit(item)}
           ${item.description ? `<p class="story-description">${esc(item.description)}</p>` : ''}
           ${renderTags(item)}
           <div class="card-actions">
@@ -183,7 +188,7 @@
           <p class="source-name">${esc(item.host || '')}${o.showDate && item._issue ? ` · ${esc(fmtDate(item._issue.date))}` : ''} ${stateBadges(item)}</p>
           <h2><a href="${href}" data-go-item="${esc(item._id)}">${esc(item.title)}</a></h2>
           ${item.originalTitle ? `<p class="original-title">${esc(item.originalTitle)}</p>` : ''}
-          ${renderStoryMeta(item)}
+          ${renderStoryMeta(item)}${renderImageCredit(item)}
           ${item.description ? `<p class="story-description">${esc(item.description)}</p>` : ''}
           ${ins.directorPoint ? `<p class="card-point"><b>연출 포인트</b>${esc(ins.directorPoint)}</p>` : ''}
           ${o.why ? `<p class="match-why">${esc(o.why)}</p>` : ''}
@@ -232,7 +237,7 @@
       <aside class="intro-strip">
         <div>
           <p class="intro-kicker">처음 오셨다면</p>
-          <p class="intro-lead">MOTIF는 매일 아침 세계 곳곳의 미디어아트 5~8편을 고르고, 그중 1편을 깊게 읽는 저널이다.</p>
+          <p class="intro-lead">MOTIF는 매일 아침 세계 곳곳의 미디어아트 6~8편을 고르고, 그중 1편을 깊게 읽는 저널이다.</p>
         </div>
         <ol>
           <li><b>Latest</b>오늘의 작업. 제목을 누르면 작동 원리부터 한계까지 네 갈래 인사이트가 열린다.</li>
@@ -346,7 +351,7 @@
             <p class="source-name">${esc(it.host || '')} ${stateBadges(it)}</p>
             <h1>${esc(it.title)}</h1>
             ${it.originalTitle ? `<p class="original-title">${esc(it.originalTitle)}</p>` : ''}
-            ${renderStoryMeta(it)}
+            ${renderStoryMeta(it)}${renderImageCredit(it)}
             ${o.venue ? `<p class="item-venue">공개 · ${esc(o.venue)}</p>` : ''}
             ${it.description ? `<p class="item-desc">${esc(it.description)}</p>` : ''}
             ${renderTags(it)}
@@ -380,7 +385,7 @@
     const issues = DATA.issues;
     main.innerHTML = `
       <section class="archive-view">
-        <header class="page-title"><p>MOTIF · ${issues.length} issues · ${WORKS.length} works</p><h1>Archive</h1></header>
+        <header class="page-title"><p>MOTIF · ${issues.length} issues · ${WORKS.length} records</p><h1>Archive</h1></header>
         <div class="archive-list rich">
           ${issues.map((issue, i) => {
             const items = issue.items || [];
@@ -486,7 +491,7 @@
             <p class="source-name">${esc(it.host || '')}</p>
             <h2><a href="${itemHref(it)}" data-go-item="${esc(it._id)}">${esc(it.title)}</a></h2>
             ${it.originalTitle ? `<p class="original-title">${esc(it.originalTitle)}</p>` : ''}
-            ${renderStoryMeta(it)}
+            ${renderStoryMeta(it)}${renderImageCredit(it)}
             ${it.description ? `<p class="story-description">${esc(it.description)}</p>` : ''}
             ${(f.keywords && f.keywords.length) ? `<p class="focus-keywords">${f.keywords.map(k => `<span>${esc(k)}</span>`).join('')}</p>` : ''}
             ${renderTags(it)}
@@ -622,7 +627,7 @@
             <details class="facet-wrap" ${active.length ? '' : 'open'}><summary>필터 ${active.length ? `(${active.length})` : ''}</summary>${facetHtml}</details>
           </aside>
           <div class="explore-results">
-            <p class="result-count">${results.length}개 작업 · 최신순</p>
+            <p class="result-count">${results.length}개 항목 · 최신순</p>
             <div class="story-grid compact-grid">${results.slice(0, limit).map(it => renderStoryCard(it, { showDate: true })).join('')}</div>
             ${results.length > limit ? `<button type="button" class="more-btn" data-more="${limit + 24}">${Math.min(24, results.length - limit)}개 더 보기 (${results.length - limit}개 남음)</button>` : ''}
           </div>
@@ -634,6 +639,9 @@
   function renderWorldView() {
     setTitle('World');
     const all = WORKS.filter(it => it.origin && it.origin.region);
+    const monthly = itemsWithin(30, 0).filter(it => it.origin && it.origin.region);
+    const monthCounts = regionCounts(monthly);
+    const monthShare = monthly.length ? Math.max(...Object.values(monthCounts)) / monthly.length : 0;
     const recent = itemsWithin(14, 0).filter(it => it.origin && it.origin.region);
     const ca = regionCounts(all), cr = regionCounts(recent);
     const maxA = Math.max(1, ...Object.values(ca));
@@ -646,8 +654,8 @@
       <section class="world-view">
         ${sectionHead('World', '어디에서 온 작업을 읽고 있는가', 'MOTIF는 한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽으려 한다. 아래 수치는 작가의 주 활동 권역 기준이며, 편향을 스스로 점검하기 위해 공개한다. 권역을 누르면 그 권역의 작업이 열린다.')}
         <div class="world-stats">
-          <div><span>권역 태그가 붙은 작업</span><strong>${all.length}</strong><em>전체 ${WORKS.length}</em></div>
-          <div><span>최근 14일 최대 권역 비중</span><strong>${Math.round(topShare * 100)}%</strong><em>목표 50% 이하</em></div>
+          <div><span>권역 태그가 붙은 항목</span><strong>${all.length}</strong><em>전체 ${WORKS.length}</em></div>
+          <div><span>최근 30일 최대 권역 비중</span><strong>${Math.round(monthShare * 100)}%</strong><em>목표 50% 이하 · 권역 확인 ${monthly.length}편</em></div>
           <div><span>최근 14일 최다 출처</span><strong>${topHost ? topHost[1] : 0}</strong><em>${esc(topHost ? topHost[0] : '')}</em></div>
           <div><span>최근 14일 공백 권역</span><strong>${gaps.length}</strong><em>${esc(gaps.join(', ') || '없음')}</em></div>
         </div>
@@ -677,7 +685,7 @@
     const shown = cat ? cards.filter(c => c.category === cat) : cards;
     main.innerHTML = `
       <section class="toolkit-view">
-        ${sectionHead('Toolkit', '작업에서 꺼낸 연출 도구', 'Focus의 디렉터 노트에서 반복해 쓸 수 있는 수법만 뽑아 카드로 정리했다. 각 카드는 출처가 된 작업으로 돌아간다.')}
+        ${sectionHead('Toolkit', '작업에서 꺼낸 연출 도구', '아카이브의 인사이트에서 반복해 쓸 수 있는 수법만 뽑아 카드로 정리했다. 각 카드는 출처가 된 작업으로 돌아간다.')}
         <div class="tool-cats">
           <button type="button" class="facet-chip${!cat ? ' on' : ''}" data-go-toolcat="">전체 <i>${cards.length}</i></button>
           ${cats.map(c => `<button type="button" class="facet-chip${cat === c ? ' on' : ''}" data-go-toolcat="${esc(c)}">${esc(c)} <i>${cards.filter(x => x.category === c).length}</i></button>`).join('')}
@@ -726,8 +734,8 @@
     '거울': ['신체·정체성'], '한국': ['동아시아'], '일본': ['동아시아'], '중국': ['동아시아'], '아시아': ['동아시아', '동남·남아시아'], '아프리카': ['아프리카'], '남미': ['중남미'], '중동': ['중동'], '유럽': ['유럽'], '미국': ['북미'], '캐나다': ['북미'], '호주': ['오세아니아']
   };
   function briefSearch(q) {
-    const tokens = [...new Set(q.toLowerCase().split(/[\s,.;·/]+/).filter(t => t.length >= 2 || /^[a-z]{2,}$/.test(t)))];
-    const tokenTags = tokens.map(t => { const s = new Set(); Object.keys(SYN).forEach(k => { if (t === k || (k.length >= 2 && t.includes(k))) SYN[k].forEach(v => s.add(v)); }); return s; });
+    const tokens = window.MotifSearch.tokenize(q);
+    const tokenTags = tokens.map(t => { const s = new Set(); Object.keys(SYN).forEach(k => { if (window.MotifSearch.matchesSynonym(t, k)) SYN[k].forEach(v => s.add(v)); }); return s; });
     const score = (it) => {
       const t = itemTags(it);
       const allTags = [...t.region, ...t.sense, ...t.tech, ...t.theme, ...t.scale];
@@ -765,13 +773,15 @@
     if (!q) { main.innerHTML = `<section class="brief-view">${sectionHead('Brief', '브리프로 레퍼런스 찾기', '만들려는 장면이나 캠페인을 짧게 적으면 태그, 연출 포인트, 작동 원리를 함께 읽어 관련 작업과 도구를 모은다.')}${exampleChips()}</section>`; return; }
     const { works, tools, sigs, tokens } = briefSearch(q);
     const full = works.filter(w => w.hit === tokens.length), part = works.filter(w => w.hit < tokens.length);
-    const top = full.length >= 6 ? full : full.concat(part).slice(0, Math.max(full.length, 12));
+    const top = full.concat(part);
+    const limit = Math.max(24, Math.min(ITEMS.length, Number(state.params.get('n')) || 24));
     const regionSpread = new Set(top.slice(0, 12).map(w => w.it.origin && w.it.origin.region).filter(Boolean));
     main.innerHTML = `
       <section class="brief-view">
         ${sectionHead('Brief', q, `모든 단어에 맞는 작업 ${full.length}편${tokens.length > 1 ? `, 일부만 맞는 작업 ${part.length}편` : ''}. 상위 결과의 권역 ${regionSpread.size}곳.`)}
         ${exampleChips()}
-        ${top.length ? `<div class="story-grid compact-grid">${top.slice(0, 24).map(w => renderStoryCard(w.it, { showDate: true, why: (w.hit === tokens.length ? '모두 일치 · ' : '일부 일치 · ') + w.why.join(', ') })).join('')}</div>` : '<div class="empty-state"><p>맞는 작업이 없습니다. 감각(촉각, 청각), 기술(AI, 프로젝션), 주제(기후, 기억) 같은 단어로 다시 찾아보세요.</p></div>'}
+        ${top.length ? `<div class="story-grid compact-grid">${top.slice(0, limit).map(w => renderStoryCard(w.it, { showDate: true, why: (w.hit === tokens.length ? '모두 일치 · ' : '일부 일치 · ') + w.why.join(', ') })).join('')}</div>` : '<div class="empty-state"><p>맞는 작업이 없습니다. 감각(촉각, 청각), 기술(AI, 프로젝션), 주제(기후, 기억) 같은 단어로 다시 찾아보세요.</p></div>'}
+        ${top.length > limit ? `<button type="button" class="more-btn" data-more="${limit + 24}">${Math.min(24, top.length - limit)}개 더 보기 (${top.length - limit}개 남음)</button>` : ''}
         ${tools.length ? `<section class="focus-tools"><header><p>Toolkit</p><h2>꺼내 쓸 연출 도구</h2></header><div class="tool-grid">${tools.map(x => toolkitCard(x.c)).join('')}</div></section>` : ''}
         ${sigs.length ? `<section class="related"><header><p>Signals</p><h2>관련 신호</h2></header><div class="signal-list">${sigs.map((s, i) => `
           <button type="button" class="signal-row" data-go-signal="${esc(s.id)}"><span>${String(i + 1).padStart(2, '0')}</span><div><strong>${esc(s.title)}</strong><em>${esc(s.thesis)}</em></div><small></small><b>→</b></button>`).join('')}</div></section>` : ''}
@@ -897,7 +907,8 @@
 
   // Unique query string busts the GitHub Pages CDN cache (max-age=600), not just the browser cache.
   const bust = '?v=' + Date.now();
-  const getJson = (u, fb) => fetch(u + bust, { cache: 'no-store' }).then(r => r.ok ? r.json() : fb).catch(() => fb);
+  const loadFailures = [];
+  const getJson = (u, fb) => fetch(u + bust, { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).catch(() => { loadFailures.push(u.replace('./', '').replace('.json', '')); return fb; });
   Promise.all([
     fetch('./data.json' + bust, { cache: 'no-store' }).then(r => r.json()),
     getJson('./signals.json', { signals: [] }),
@@ -906,6 +917,11 @@
   ]).then(([data, sig, tk, src]) => {
     DATA = data; SIGNALS = sig || { signals: [] }; TOOLKIT = tk || { cards: [] }; SOURCES = src || { sources: [] };
     indexData();
+    if (loadFailures.length) {
+      const status = document.createElement('p'); status.className = 'load-warning'; status.setAttribute('role', 'status');
+      status.textContent = loadFailures.join(' · ') + ' 자료를 불러오지 못했습니다. 잠시 후 새로고침해 주세요.';
+      main.before(status);
+    }
     updateBoardBtn();
     initFromUrl();
     render();

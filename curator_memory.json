@@ -296,12 +296,16 @@
     {
       "date": "2026-10-30",
       "note": "BENCHES:IDFA개별38ca6e29-4cfc-4f3a-84b5-5103f060ac9d의12분/분할돔/11.14·17예정·ClareRichards/SamuelDLoveless·Tim사진스틸. BritishCouncil영화원장2026완성·360필름, https://prxludes.net/2026/02/16/samuel-d-loveless/ 작곡가직접인터뷰로2025.12CoMA/2026.1전시·공동사진선정/다른악보진입로확인;composerBandcamp2026.3.28사진별Tim오디오,TrinityLaban공식약력런던확인. AlltheDowntime:IDFA집단74분/개인69분·AI이미지/음향책공연·실제공연사진; https://kanal.brussels/en/calendar/ant-hampton 의2026.12.9예정및AI이미지가실제증거아님확인.공식UK/DE는국적/거점의구별불명확하여origin null유지. PulseTopology:작가공식pulse_topology.php2021·센서·기록교체/2026Madrid순회,사진상세showimage_emb.php?proj=pulse_topology&img=rome_2024&idproj=362&type=artwork&id=19가Rome2024·AntimodularStudio촬영·CCBY-NC-SA4.0명시,축소JPEG귀속/동일조건보존.상세사진의2024와원장의제작2021분리.2026Georgetown은주최공식이PulseMap으로명명하므로보도기사의PulseTopology혼동을전재하지않음.10.27CaixaResearch직접대담의Merchante참조작으로선정,Pace공식Montrealstudio확인. OneMoreSim:작가공식one-more-sim.html2026/9세계·ViennaDigitalCultures커미션·실제게임시각자료;about.html최신Berlin거점명시.기존Nostalgia와별개. Log:MontrealMUTEK공식motia-nait-saves의SF/기존공간연출/Argentina기반,MUTEKAR2026.10.11fulldomescreening, https://www.mediales.art/articulos/arte-digital-fulldome (주최2026.10.17) 원20분중칠레상영5분명시,창작자공식LinkedIn2024avantpremiere및VenusFest2025교차확인.이미지는MUTEK연결작가YouTube mTtQovlwAxI의실제공간투사thumbnail이며2026돔사진으로소개하지않음. OrganforComputer:작가공식Readymag공개HTML본문(홈이참조하는HtmlSnippet-753ac4e1-3bd6-45d2-befd-7cbdc8a89e77.html)의2025/금속·회로·기계·generativebinarymusic·방울/데이터메타포·실제설치사진image-09a85fb7확인.이사진은ConstellationCreatures가아님을시각적으로확인하고해당작품으로만사용.2026Purist기획자PAI32약력London/Madrid.기타5이미지는원권리자의공식공개작품자료축소프리뷰로출처/크레딧보존하며개방라이선스나소유권을주장하지않음."
+    },
+    {
+      "date": "2026-10-30",
+      "note": "전체 보완: 검색·검사기 공통 규칙, 공식 이미지 교체, 단일 출처 Focus 보강, 원제·크레딧 정규화. Quiver 공식 작품 이미지 미확보, CAUTÍN LEWFÜ 작가 초상은 명시적으로 표시하고 신규 발행 기준 통과로 취급하지 않는다."
     }
   ],
   "dedup_policy": {
     "gate": "scripts/check-dedup.mjs (저장소). 후보 확정 전 --candidates, 커밋 직전 --new <오늘> 실행. FAIL이면 커밋 금지.",
     "keys": "url(호스트+경로), 작품명(크레딧 접두사·연도 제거), 전체 원제, 한글 작품명, imageFallback, 유사 제목(자카드≥0.6 + 같은 작가/호스트)",
-    "issue_rules": "같은 host 최대 2개(FAIL), 같은 프로젝트 쪼개기 금지(FAIL), Focus 작품 재선정 금지(FAIL), 외부 핫링크 금지(FAIL); 권역<3·항목<5·이미지 null·14일 내 같은 작가는 WARN",
+    "issue_rules": "같은 host 최대 2개, Latest 6–8개, 최소 3권역, 30일 권역 최대 50%, Focus 4단락/2출처, 인사이트 4항목, 태그·참조 무결성을 공통 검사한다. 2026-10-20 이전 기존 호의 개수·다양성 편차는 경고로 보존한다. 2026-10-31 이후 신규 호는 imageMeta 출처·유형·크레딧·확인일·미리보기 근거를 필수로 기록한다. 14일 내 동일 작가 WARN. 실제 사진/렌더링/초상을 구분하고 작품과 무관한 로고·배너는 사용하지 않는다.",
     "revisit": "이미 소개한 작품을 다시 다룰 이유가 있으면 새 항목이 아니라 revisitOf:<원래 id>를 붙인 재조명 항목으로만 싣는다(사이트에 \"다시 보기\" 표시, 통계에서 제외).",
     "credit_rule": "크레딧은 기관/랩/페스티벌이 아니라 작가 이름으로 쓴다. originalTitle에는 작품명만 쓴다(\"작가 — 작품\" 형식 금지)."
   },
@@ -330,5 +334,12 @@
       ],
       "reason": "ACMI 'Play On' 전시 페이지(acmi.net.au/whats-on/play-on/) 한 곳에 실린 서로 다른 신작 아케이드 게임 3편(Quiver/QIP/Pop-up Crashout) 중 두 편. 작품별 개별 페이지가 없어 url이 같다."
     }
-  ]
+  ],
+  "publication_policy": {
+    "strictFrom": "2026-10-20",
+    "imageProvenanceFrom": "2026-10-31",
+    "latestMin": 6,
+    "latestMax": 8,
+    "legacyNote": "현행 일간 기준 도입 전의 수록 개수·권역·출처 편중은 경고로 보존한다. 과거 날짜나 ID를 바꿔 기준을 맞추지 않는다."
+  }
 }

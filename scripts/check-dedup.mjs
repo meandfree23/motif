@@ -10,6 +10,7 @@
 //   --json                         machine-readable output
 // Exit code 1 when any FAIL is found. WARN never blocks.
 import { readFileSync } from 'node:fs';
+import { checkContent } from './content-rules.mjs';
 
 const args = process.argv.slice(2);
 const opt = (k) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : null; };
@@ -120,19 +121,9 @@ if (candPath) {
     // within the same issue
     for (let x = 0; x < mine.length; x++) for (let y = x + 1; y < mine.length; y++) {
       const why = sameWork(mine[x], mine[y]);
-      if (why.length) F('dup-in-issue', `${label(mine[x])} == ${label(mine[y])} [${why.join(', ')}]`, [mine[x].id, mine[y].id]);
-      const head2 = (t) => String(t || '').toLowerCase().split(/[^\p{L}\p{N}]+/u).filter(Boolean).slice(0, 2).join(' ');
-      const hx = [head2(mine[x].originalTitle), head2(workPart(mine[x].originalTitle))], hy = [head2(mine[y].originalTitle), head2(workPart(mine[y].originalTitle))];
-      if (!why.length && hx.some(h => h.length > 4 && hy.includes(h)) && sameCreator(mine[x], mine[y])) F('same-project-split', `${label(mine[x])} and ${label(mine[y])} look like parts of one project — publish as one item`, [mine[x].id, mine[y].id]);
+      if (why.length && !allowed(mine[x].id, mine[y].id) && !isRevisitPair(mine[x], mine[y])) F('dup-in-issue', `${label(mine[x])} == ${label(mine[y])} [${why.join(', ')}]`, [mine[x].id, mine[y].id]);
+
     }
-    // editorial rules
-    const hosts = {}; mine.forEach(i => { const h = hostOf(i); hosts[h] = (hosts[h] || 0) + 1; });
-    Object.entries(hosts).forEach(([h, n]) => { if (n > 2) F('host-cap', `${n} items from ${h} (max 2 per issue)`, mine.filter(i => hostOf(i) === h).map(i => i.id)); });
-    const regions = new Set(mine.map(i => i.origin && i.origin.region).filter(Boolean));
-    if (regions.size < 3) W('regions', `only ${regions.size} regions (target 3+)`, []);
-    if (mine.length < 5) W('count', `${mine.length} items (target 5-8)`, []);
-    mine.filter(i => !i.image).forEach(i => W('image-null', `${i.id} has no self-hosted image`, [i.id]));
-    mine.filter(i => i.image && /^https?:/i.test(i.image)).forEach(i => F('image-hotlink', `${i.id}.image is an external URL`, [i.id]));
     const recentCreators = items.filter(i => i._date < newDate && daysBetween(newDate, i._date) <= 14);
     mine.forEach(i => { const hit = recentCreators.find(o => sameCreator(i, o)); if (hit && !i.revisitOf) W('creator-recent', `${label(i)} — same creator as ${hit.id} within 14 days`, [i.id, hit.id]); });
     // focus
@@ -159,6 +150,9 @@ if (candPath) {
   }
 }
 function daysBetween(a, b) { return Math.round((new Date(a) - new Date(b)) / 86400000); }
+
+const content = checkContent(data, { date: newDate, candidates: candPath ? (() => { const c = JSON.parse(readFileSync(candPath, 'utf8')); return Array.isArray(c) ? c : c.items || []; })() : null });
+fails.push(...content.fails); warns.push(...content.warns);
 
 const mode = candPath ? 'candidates' : newDate ? `new:${newDate}` : 'audit';
 if (asJson) console.log(JSON.stringify({ mode, ok: !fails.length, fails, warns }, null, 1));
