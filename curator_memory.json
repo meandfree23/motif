@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -206,6 +206,10 @@
     {
       "date": "2026-10-29",
       "note": "KST 새날호6편/3개확인권역(유럽2·북미1·동아시아2·기반미확인1), Focus Plum Road Tea Dream 5단락/4공식출처.67개기존호와편집규칙/allowlist보존.공연·게임·전시를한작품으로묶고2월공연초연과11월IDFA표기를구별.다른버전의WARPED기술설명이혼재해후보제외,공식사진·자료가명확한ComputationalCompost로교체.6작품이미지직접확인·축소selfhost.같은장소teamLab2작품은서로다른제목/공식작품페이지/연도·메커니즘을확인.후보gateFAIL0/WARN0.10.28CAUTÍNLEWFÜ의기존초상품질경고는유지."
+    },
+    {
+      "date": "2026-10-30",
+      "note": "오늘호없음확인후6작품/BENCHES Focus5단락·5출처준비,기존68호/mission/editorial_rules/dedup_policy/taste_profile/allowlist보존.분할돔영화·책/음향공연·맥박설치·웹게임·몰입형SF·방울장치로기록과소멸연결.후보FAIL0/WARN0.동일프로젝트개인/집단AlltheDowntime한항목에통합.2025선행BENCHES공연/2026돔영화/11월국제초연,2024Log최초발표/2026재상영·5분발췌,2021PulseTopology/2024사진/별도2026PulseMap구별.공식작품이미지6장시각검증및축소selfhost.기존10.28초상경고유지.날짜별최종검사FAIL0/WARN1:OneMoreSim은10.20Nostalgia와별개작품이지만동일작가14일경고를기록.금지중복이나Focus반복아님."
     }
   ],
   "source_notes": [
@@ -288,6 +292,10 @@
     {
       "date": "2026-10-29",
       "note": "Plum:https://plum-road-tea-dream.com/ 의7피난처/일기/3형식·2026.2공연초연·W139전시9.4–11.1, https://www.vai.be/en/press/plumroadteadream-2 의개인기억/치유의예술적의도, MORPHO공식약력안트베르펜, IDFA개별작품150분/공동연출FranVincent/11월예정을교차검증.사진은작품공식게임화면God-Generator-3000_1이며IDFA타이틀로고이미지로대체하지않음. Apocalypse:IDFA개별페이지2026/웹+11월설치예정/공개전용기집계·과거동시간비교·1–5지표, NTTICC약력LA.공식화면엔개인식별기나항공편ID없음;통계적가설을실제핵공격경보로추천하지않음. Arsenic:https://www.ctm-festival.de/magazine/2026/is-my-lipstick-a-semiconductor 의133립스틱/7FM방송·안테나·회로·작가낭독/사진courtesyIoanaVremeMoser, 작가공식ivm의베를린, KIKK10.22–25종료교차검증.현대화장품일반의성분이나실제YL통신원음으로확대하지않음. Compost:KIKK개별작품+ https://dipc.ehu.eus/en/whats-new/news/tabakalera-presentabakalera-presents-maquinas-de-ingenio-jakintzen-bidegurutzean 의2023첫전시/프로토타입/폐열·지렁이및미생물, https://triennale.org/eventi/marina-otero-verzier 의Tabakalera제공실제작품사진.현재거점의최신확정근거미흡하여origin base/region null유지. Megaliths와MasslessSuns:teamlababudhabi.com 각각공식작품페이지/실제사진/HideakiTakahashi사운드/2019/2025·2025연도를확인,후자는손뻗기반응·비물질적빛구체,전자는공중뿌리와거석영상.센서사양이나생태성과추정하지않음.도쿄거점은teamLab공식뉴스및AsianArtMuseum공식보도자료기반,아부다비전시장으로중동권역을추정하지않음.모든이미지는원권리자의공식공개작품소개자료를축소프리뷰로사용하고출처URL·크레딧보존,소유권/포괄적개방라이선스를주장하지않음."
+    },
+    {
+      "date": "2026-10-30",
+      "note": "BENCHES:IDFA개별38ca6e29-4cfc-4f3a-84b5-5103f060ac9d의12분/분할돔/11.14·17예정·ClareRichards/SamuelDLoveless·Tim사진스틸. BritishCouncil영화원장2026완성·360필름, https://prxludes.net/2026/02/16/samuel-d-loveless/ 작곡가직접인터뷰로2025.12CoMA/2026.1전시·공동사진선정/다른악보진입로확인;composerBandcamp2026.3.28사진별Tim오디오,TrinityLaban공식약력런던확인. AlltheDowntime:IDFA집단74분/개인69분·AI이미지/음향책공연·실제공연사진; https://kanal.brussels/en/calendar/ant-hampton 의2026.12.9예정및AI이미지가실제증거아님확인.공식UK/DE는국적/거점의구별불명확하여origin null유지. PulseTopology:작가공식pulse_topology.php2021·센서·기록교체/2026Madrid순회,사진상세showimage_emb.php?proj=pulse_topology&img=rome_2024&idproj=362&type=artwork&id=19가Rome2024·AntimodularStudio촬영·CCBY-NC-SA4.0명시,축소JPEG귀속/동일조건보존.상세사진의2024와원장의제작2021분리.2026Georgetown은주최공식이PulseMap으로명명하므로보도기사의PulseTopology혼동을전재하지않음.10.27CaixaResearch직접대담의Merchante참조작으로선정,Pace공식Montrealstudio확인. OneMoreSim:작가공식one-more-sim.html2026/9세계·ViennaDigitalCultures커미션·실제게임시각자료;about.html최신Berlin거점명시.기존Nostalgia와별개. Log:MontrealMUTEK공식motia-nait-saves의SF/기존공간연출/Argentina기반,MUTEKAR2026.10.11fulldomescreening, https://www.mediales.art/articulos/arte-digital-fulldome (주최2026.10.17) 원20분중칠레상영5분명시,창작자공식LinkedIn2024avantpremiere및VenusFest2025교차확인.이미지는MUTEK연결작가YouTube mTtQovlwAxI의실제공간투사thumbnail이며2026돔사진으로소개하지않음. OrganforComputer:작가공식Readymag공개HTML본문(홈이참조하는HtmlSnippet-753ac4e1-3bd6-45d2-befd-7cbdc8a89e77.html)의2025/금속·회로·기계·generativebinarymusic·방울/데이터메타포·실제설치사진image-09a85fb7확인.이사진은ConstellationCreatures가아님을시각적으로확인하고해당작품으로만사용.2026Purist기획자PAI32약력London/Madrid.기타5이미지는원권리자의공식공개작품자료축소프리뷰로출처/크레딧보존하며개방라이선스나소유권을주장하지않음."
     }
   ],
   "dedup_policy": {

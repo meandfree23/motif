@@ -1,6 +1,329 @@
 {
   "issues": [
     {
+      "date": "2026-10-30",
+      "title": "기록을 남기는 몸, 기록에서 벗어나는 시간",
+      "summary": "벤치 한 장의 사진과 책장을 넘기는 손, 먼저 온 사람의 맥박, 기억의 웹 세계와 비눗방울. 여섯 작업이 기록을 모으고 흘려보내는 규칙을 서로 다른 감각으로 바꾼다.",
+      "crosscurrent": {
+        "note": "BENCHES의 반복은 일상의 고유한 리듬을 보존하고, All the Downtime은 효율의 리듬이 멈추는 장면을 만든다. Pulse Topology가 새 맥박에게 오래된 기록의 자리를 내준다면, One More Sim과 Log in to your Life는 기억과 자아를 설정하는 권한을 묻는다. Organ for a Computer는 저장의 반대편에 있는 소멸의 시간을 드러낸다.",
+        "itemIds": [
+          "2026-10-30-01",
+          "2026-10-30-02",
+          "2026-10-30-03",
+          "2026-10-30-04",
+          "2026-10-30-05",
+          "2026-10-30-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-10-30-01",
+          "originalTitle": "BENCHES",
+          "creator": "Clare Richards · Samuel D Loveless · Tim Hart (사진)",
+          "url": "https://festival.idfa.nl/en/film/38ca6e29-4cfc-4f3a-84b5-5103f060ac9d/BENCHES/",
+          "host": "festival.idfa.nl",
+          "title": "한 번 찍은 벤치, 함께 듣는 시간",
+          "imageFallback": "https://my.idfa.nl/image-transforms/0b61c19a-1adc-492b-bddb-f756c59b3dff/2500.jpeg",
+          "publishedAt": "2026 (12분 돔 영상; IDFA 11월 상영 예정)",
+          "description": "팀 하트가 50년 동안 모은 벤치 사진의 습관을 다큐멘터리와 음악으로 함께 만난다. 돔의 한쪽에는 하트의 일상, 다른 쪽에는 조카 사무엘 D 러브리스의 곡을 연주하는 오케스트라가 펼쳐진다. IDFA 상영은 11월 14·17일 예정이다. 이미지: IDFA가 공개한 영화 스틸, 창작진 제공.",
+          "insight": {
+            "mechanism": "돔 영상의 두 영역을 일상의 기록과 오케스트라 연주에 나누어 쓴다. 걸어서 찾고, 한 장 찍고, 잠시 앉는 행위가 음악의 흐름과 나란히 놓여 관객이 관계를 찾게 한다.",
+            "whyNow": "2025년 음악 공연에서 시작해 전시와 2026년 몰입형 영화로 확장된 협업이다. 11월 IDFA의 국제 프리미어를 프로젝트 전체의 최초 공개와 구별한다.",
+            "directorPoint": "한 사람의 지각 방식을 설명하는 진단 문장보다 그가 반복하는 행동의 리듬을 공유한다. 커다란 돔을 작은 일상과 음악가의 몸짓이 만나는 공간으로 바꾼다.",
+            "critique": "한 개인과 조카의 협업이 신경다양성 전체를 대표하지는 않는다. 영상과 음악이 대신 해석하는 범위, 당사자가 사진을 고르고 맥락을 정하는 권한을 함께 살펴야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "프로젝션"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "신체·정체성",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "런던, 영국(Samuel D Loveless; Trinity Laban 공식 약력)",
+            "region": "유럽",
+            "venue": "ARTIS-Planetarium, 암스테르담(IDFA 11.14·17 예정)"
+          },
+          "image": "images/2026-10-30-01.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-30-02",
+          "originalTitle": "All the Downtime",
+          "creator": "Ant Hampton",
+          "url": "https://festival.idfa.nl/en/film/2dd6030a-753a-4d83-a661-98714977239f/all-the-downtime-(collective-experience)/",
+          "host": "festival.idfa.nl",
+          "title": "책장을 넘기며 멈춰 세우는 물류 시스템",
+          "imageFallback": "https://my.idfa.nl/image-transforms/a11571b9-530a-4f4e-9f69-cdab5c774afa/2500.jpeg",
+          "publishedAt": "2026 (IDFA 집단 경험 74분 / 개인 경험 69분)",
+          "description": "사진집처럼 보이는 책과 내레이션·환경음·지시가 관객을 자동화된 물류센터의 이야기로 이끈다. 책 속 인물과 공간은 실제 현장의 증거 사진이 아니라 AI로 만든 이미지다. 집단·개인 형식을 한 프로젝트로 묶어 소개한다. 이미지: IDFA 공식 공개 공연 기록이며 책 안의 가상 장면과 다르다.",
+          "insight": {
+            "mechanism": "소리의 안내에 따라 책장을 넘기는 관객이 인쇄 이미지와 음향을 시간 안에서 연결한다. 집단 형식은 공연자와 관객이 함께하는 라이브 경험이고 개인 형식은 별도의 체류 조건을 갖는다.",
+            "whyNow": "11월 IDFA 프로그램과 12월 9일 KANAL 공연이 예고돼 있다. 자동화 시스템이 멈추는 서사를 효율에 맞춰 움직여 온 몸이 잠시 다른 리듬을 얻는 장치로 읽는다.",
+            "directorPoint": "거대한 디지털 화면 대신 손에 든 책을 무대로 삼는다. 페이지 넘기기라는 작은 동작에 소리와 타이밍을 결합해 관객을 장면을 완성하는 연결점으로 만든다.",
+            "critique": "AI 이미지를 산업 현장의 다큐멘터리 증거로 제시할 수는 없다. 작품이 비판하는 데이터·에너지 체계에 자신의 제작 방식도 기대고 있다는 긴장은 설명만으로 해결되지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "생성AI",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "노동·산업",
+              "AI·저자성",
+              "인간-기계 관계"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": null,
+            "venue": "IDFA DocLab 11월 예정; KANAL, 브뤼셀 12.9 예정"
+          },
+          "image": "images/2026-10-30-02.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-30-03",
+          "originalTitle": "Pulse Topology",
+          "creator": "Rafael Lozano-Hemmer",
+          "url": "https://www.lozano-hemmer.com/pulse_topology.php",
+          "host": "www.lozano-hemmer.com",
+          "title": "먼저 온 사람의 맥박 아래를 걷다",
+          "imageFallback": "https://www.lozano-hemmer.com/image_sets/pulse_topology/rome_2024/pulse_topology_rome_2024_rlh_003.jpg",
+          "publishedAt": "2021 (작품 원장); 사진은 2024년 로마 설치",
+          "description": "높이가 다른 수천 개의 전구가 관객의 맥박을 빛과 소리로 기록한다. 새로운 참여자의 리듬이 들어오면 가장 오래된 기록이 밀려나고, 관객은 앞서 다녀간 사람들의 흔적 아래를 걷는다. 사진: Antimodular Studio, 로마 Balloon Museum 2024 설치, CC BY-NC-SA 4.0, 축소 JPEG.",
+          "insight": {
+            "mechanism": "광혈류 측정 센서가 심박의 리듬을 받아 전구와 오디오 재생에 연결한다. 서로 다른 높이의 전구가 공간의 능선과 골을 만들며 기록의 추가와 교체가 집단적 패턴을 바꾼다.",
+            "whyNow": "10월 27일 CaixaResearch의 작가 대담에서 Isabel Merchante가 이 작업을 자신의 참조로 꼽았다. 올해 새 작품으로 바꾸지 않고, 2026년 재전시 이력이 있는 2021년작의 감각 설계를 함께 읽는다.",
+            "directorPoint": "관객의 데이터를 숫자로 보여주는 대신 지나갈 수 있는 풍경으로 만든다. 기록이 영원히 쌓이지 않고 새 참여자에게 자리를 내준다는 규칙이 장면의 의미를 만든다.",
+            "critique": "맥박의 시각화는 감정 판독이나 의료 진단이 아니다. 사진의 2024년 로마 버전과 2026년 Georgetown의 별도 신작 Pulse Map을 혼합하면 장비와 장소의 차이가 사라진다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "신체·정체성",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "몬트리올, 캐나다(Antimodular Research; Pace 공식 소개)",
+            "region": "북미",
+            "venue": "사진: Balloon Museum, 로마 2024; 2026년 마드리드 순회 기록"
+          },
+          "image": "images/2026-10-30-03.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-30-04",
+          "originalTitle": "One More Sim",
+          "creator": "Joaquina Salgado",
+          "url": "https://www.joaquinasalgado.com/one-more-sim.html",
+          "host": "www.joaquinasalgado.com",
+          "title": "기억이 스스로 움직이는 아홉 세계",
+          "imageFallback": "https://www.joaquinasalgado.com/assets/media/U3000570250880500013001455812443.png",
+          "publishedAt": "2026 (Vienna Digital Cultures 커미션)",
+          "description": "아홉 개의 서로 이어진 가상 세계를 통해 기억이 이미지가 되고 다시 독자적인 환경이 되는 과정을 탐색하는 웹 게임이다. 작가의 텍스트와 함께 공개돼 있으며 이전 작업 Nostalgia Is the Extended Feedback과는 별개의 작품이다. 이미지: 작가 공식 페이지의 실제 게임 시각 자료, Joaquina Salgado.",
+          "insight": {
+            "mechanism": "웹 기반 시뮬레이터와 아홉 기억 단편의 텍스트를 병치한다. 각각의 세계가 독립적인 분위기와 관계를 갖고 연결되며, 방문자는 고정된 회상보다 변화하는 기억의 구조에 들어간다.",
+            "whyNow": "2026년 Vienna Digital Cultures를 위해 제작된 커미션이다. 공개된 게임과 작가 텍스트를 함께 읽을 수 있어 기억을 보존하는 파일과 기억이 계속 바뀌는 경험을 비교하게 한다.",
+            "directorPoint": "한 장의 플래시백으로 기억을 설명하지 않고 들어가 볼 수 있는 여러 환경으로 나눈다. 텍스트가 제안하는 감각과 게임 화면 사이의 간격을 관객의 상상에 남긴다.",
+            "critique": "작가가 말하는 행위성 있는 기억은 실제 자율 에이전트의 구현을 입증하는 기술 명세가 아니다. 개인의 기억을 일반적인 인간 기억 모델로 확대하거나 모든 세계가 멀티플레이를 지원한다고 추정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "인간-기계 관계"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "베를린, 독일(작가 공식 최신 약력)",
+            "region": "유럽",
+            "venue": "온라인 / Vienna Digital Cultures 2026"
+          },
+          "image": "images/2026-10-30-04.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-30-05",
+          "originalTitle": "Log in to your Life",
+          "creator": "Motia (Julia Posada · Gimena Federici) · Nait Saves",
+          "url": "https://montreal.mutek.org/en/artists/motia-nait-saves",
+          "host": "montreal.mutek.org",
+          "title": "살기 위해 나를 설정해야 하는 세계",
+          "imageFallback": "https://i.ytimg.com/vi/mTtQovlwAxI/hqdefault.jpg",
+          "publishedAt": "2024년 발표 기록; 2026년 돔 재상영",
+          "description": "자신의 몸과 감정, 기억까지 설정해야 살아갈 수 있는 기술적 현실을 다룬 몰입형 SF 작업이다. Motia의 영상과 Nait Saves의 음향이 가상 자아를 구성하는 절차를 이야기로 만든다. 10월 MUTEK.AR의 돔 상영은 종료됐다. 이미지: MUTEK이 연결한 작가 공식 영상의 기존 공간 투사 장면으로, 2026년 돔 현장 사진은 아니다.",
+          "insight": {
+            "mechanism": "시네마틱 앰비언트와 초현실적 영상, 공간 연출을 결합한다. MUTEK Montréal의 라이브 A/V 안내와 2026년 부에노스아이레스의 풀돔 상영을 구별하며, 여기서는 같은 작품의 형식 변환을 함께 읽는다.",
+            "whyNow": "2024년 첫 발표 이후 2025년 북미 상영과 2026년 남미 돔 프로그램으로 이어진 작업이다. 칠레의 10월 상영은 원작 20분 중 마지막 5분을 소개하므로 전체 작품과 상영 분량을 혼동하지 않는다.",
+            "directorPoint": "로그인과 아바타 설정을 생활의 조건으로 확대해 익숙한 인터페이스에 낯섦을 만든다. 같은 이야기를 벽면 영상과 돔으로 옮길 때 시선의 중심과 몸의 자세가 어떻게 달라지는지 살필 수 있다.",
+            "critique": "서사를 안내하는 AI의 존재가 실제 공연에서 생성형 모델이 실시간 판단한다는 뜻은 아니다. 작가들의 일반적인 인터랙티브 작업 이력을 이 작품 모든 버전의 실시간 관객 입력 기능으로 옮길 근거도 부족하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "프로젝션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "아르헨티나(Motia의 MUTEK 공식 기반 표기)",
+            "region": "중남미",
+            "venue": "MUTEK.AR Planetario BA, 2026.10.11 종료; 사진은 기존 공간 투사"
+          },
+          "image": "images/2026-10-30-05.jpg",
+          "grounded": true
+        },
+        {
+          "id": "2026-10-30-06",
+          "originalTitle": "Organ for a Computer",
+          "creator": "Isabel Merchante",
+          "url": "https://isabelmerchante.com/",
+          "host": "isabelmerchante.com",
+          "title": "데이터가 비눗방울의 시간을 얻을 때",
+          "imageFallback": "https://i-p.rmcdn.net/61d894f3846338003784db6e/5098181/image-09a85fb7-5270-431b-ac51-914455bc4bfc.jpg?w=2050&cX=193&cY=305&cW=3593&cH=2254",
+          "publishedAt": "2025",
+          "description": "소리를 연주하는 오르간을 닮은 장치가 비눗방울을 내보내며 데이터를 물질과 순간의 형태로 상상한다. 금속 모듈과 전자 회로, 생성 프로그램, 기계 부품을 결합한 설치다. 작가의 2025년 선행 실험을 신작의 언어·신체 연구와 연결해 읽는다. 이미지: 작가 공식 홈페이지의 실제 설치 사진, Isabel Merchante 제공.",
+          "insight": {
+            "mechanism": "작가는 이를 데이터를 물질로 연주하는 장치로 설명한다. 스테인리스 모듈·기계 부품·전자 회로와 생성형 이진 음악 프로그램을 사용하며, 휘발성 있는 방울이 데이터 저장의 다른 은유가 된다.",
+            "whyNow": "최근 2026년 Constellation Creatures가 제기한 기계의 몸과 언어라는 질문을 거슬러 읽는 2025년 작업이다. 올해 발표된 작품으로 날짜를 바꾸거나 종료된 전시를 진행 중이라고 안내하지 않는다.",
+            "directorPoint": "컴퓨터의 내부 작동을 화면의 애니메이션 대신 표면에서 생겨났다 사라지는 물질의 시간으로 바꾼다. 반복되는 작은 사건과 빈 공간만으로 관객이 기다릴 이유를 만든다.",
+            "critique": "방울에 데이터를 담는다는 개념이 복원 가능한 저장 매체의 성능을 입증하지는 않는다. 부호화·판독·오류율이 공개되지 않은 상태에서 새로운 메모리 기술이나 장기 보존 시스템으로 소개할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "인간-기계 관계"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "런던·마드리드(2026 전시 기획자 약력)",
+            "region": "유럽",
+            "venue": "Tirarse es sinónimo de futuro desconocido, CentroCentro, 마드리드 2025 기록"
+          },
+          "image": "images/2026-10-30-06.jpg",
+          "grounded": true
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "사람을 설명하기보다 그의 리듬을 함께 듣는 돔",
+        "sections": [
+          {
+            "heading": "한 벤치에 한 장의 사진",
+            "body": "BENCHES는 거대한 장관을 만들기 위해 대상을 찾지 않는다. 팀 하트가 수십 년간 벤치를 발견하고 한 장의 사진을 찍어 온 습관에서 출발한다. 조카 사무엘 D 러브리스의 음악과 클레어 리처즈의 다큐멘터리가 그 반복을 돔 안으로 옮긴다. '왜 벤치인가'라는 질문에 설명을 더하기보다 찾고, 찍고, 머물고, 떠나는 시간을 함께 경험하게 한다는 점이 이 형식의 강점이다."
+          },
+          {
+            "heading": "돔의 양쪽에 놓인 두 종류의 몸",
+            "body": "IDFA가 소개하는 12분 버전은 분할된 돔의 한쪽에 하트의 일상을, 다른 쪽에 악보를 연주하는 오케스트라를 놓는다. 음악이 영상 뒤로 사라지지 않고 음악가의 행동도 함께 보인다. 관객은 사진 속 장소와 연주자의 몸 사이를 스스로 연결한다. 이를 실시간 센서 연동이나 관객 반응형 영상이라고 부를 근거는 없다. 확인되는 것은 두 영상과 음악을 함께 지각하도록 구성한 상영 형식이다."
+          },
+          {
+            "heading": "사진을 우리 세계로 옮기기 전에",
+            "body": "러브리스는 인터뷰에서 하트의 사진을 기존 미술관의 기준에 맞추기보다 하트의 세계로 사람들이 들어오게 하고 싶었다고 설명한다. 사진의 선택과 전시를 두 사람이 함께 정한다는 말도 중요하다. 낯선 습관을 관객에게 이해시키는 대상화에서 벗어나, 당사자의 선택과 반복을 협업의 조건으로 삼는 것이다. 한 개인의 작업을 모든 자폐인의 지각을 보여주는 표본으로 확대할 수 없는 이유도 여기에 있다."
+          },
+          {
+            "heading": "악보에도 다른 출입구를 만들기",
+            "body": "작곡가는 연주자가 접근할 수 있는 표기 방식을 여러 갈래로 실험했다. 허밍을 듣고 따라 하거나 사물의 마찰을 그림과 말로 안내하는 식이다. 이는 아무 규칙 없는 즉흥 연주와 다르다. 다른 경로로 읽더라도 함께 도달할 시간과 소리의 조건을 정한다. 관객에게 보이는 포용적 주제와 제작 과정에서 실제로 참여할 수 있는 구조가 만나는 지점으로 읽을 수 있다."
+          },
+          {
+            "heading": "서로 다른 공개 시점과 디렉터의 노트",
+            "body": "인터뷰는 2025년 12월 CoMA London 공연과 2026년 전시로 이어지는 과정을 기록하고, British Council은 2026년 완성된 몰입형 영화를 안내한다. 11월 14·17일 IDFA 상영은 예정된 국제 프리미어다. 이 날짜들을 하나의 초연으로 압축하지 않는다. 연출자가 가져갈 것은 '작은 것을 크게 보여주기'보다 한 사람의 반복을 관객의 체류 시간으로 번역하는 방법이다. 충분히 보게 하되, 그 경험을 모두에게 동일한 이해나 공감이 생겼다는 결론으로 닫지 않는 태도도 필요하다."
+          }
+        ],
+        "keywords": [
+          "벤치 아카이브",
+          "신경다양성",
+          "분할 돔",
+          "음악과 몸",
+          "접근 가능한 악보"
+        ],
+        "sources": [
+          {
+            "label": "IDFA 2026 공식 작품·상영 안내",
+            "url": "https://festival.idfa.nl/en/film/38ca6e29-4cfc-4f3a-84b5-5103f060ac9d/BENCHES/"
+          },
+          {
+            "label": "British Council 공식 영화 데이터베이스",
+            "url": "https://filmsandfestivals.britishcouncil.org/projects/benches"
+          },
+          {
+            "label": "작곡가의 2026년 직접 인터뷰: 협업·표기·발표 과정",
+            "url": "https://prxludes.net/2026/02/16/samuel-d-loveless/"
+          },
+          {
+            "label": "작곡가 공식 음원: Tim의 사진별 오디오 설명",
+            "url": "https://samueldloveless.bandcamp.com/album/benches-audio-descriptions-with-tim"
+          },
+          {
+            "label": "Trinity Laban 공식 약력: 런던 기반",
+            "url": "https://www.trinitylaban.ac.uk/junior-trinity/"
+          }
+        ],
+        "lineage": [
+          {
+            "name": "BENCHES — CoMA London 공연",
+            "year": "2025년 12월",
+            "relation": "작곡가 인터뷰가 설명하는 선행 공연 단계. 2026년 돔 영화와 연결되지만 별도 신작 항목으로 중복 수록하지 않는다."
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-29",
       "title": "머물 곳, 새어 나오는 신호, 보이지 않는 연결",
       "summary": "기억을 걷는 게임부터 전용기의 운항량, 립스틱 라디오, 계산기의 폐열과 빛의 구체까지. 여섯 작업이 피난처와 경보, 생태적 연결을 만드는 서로 다른 방법을 살핀다.",
@@ -18772,6 +19095,6 @@
       }
     }
   ],
-  "generatedAt": "2026-10-28T15:43:00.294Z",
+  "generatedAt": "2026-10-30T05:05:43Z",
   "schemaVersion": 2
 }
