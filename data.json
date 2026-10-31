@@ -1,6 +1,376 @@
 {
   "issues": [
     {
+      "date": "2026-11-01",
+      "title": "보이지 않는 규칙을 몸으로 읽는 여섯 작업",
+      "summary": "걷는 위치가 바꾸는 색, 초상에서 자라는 가상 생명, 토양의 기록과 세계의 기원. 금속의 느린 변형과 빛의 시뮬레이션까지, 여섯 작업이 보이는 결과 뒤의 조건과 해석을 드러낸다.",
+      "crosscurrent": {
+        "note": "Digital Forest는 보는 위치가, Memoria Echinus는 이미지 변환 규칙이 결과를 만든다. A Tale of Two Seeds는 기록과 소리화의 차이를 묻고, Ihi는 몸과 건축의 크기로 이야기를 건넨다. Wavering in Warmth의 재료 변화와 Quantum Jungle의 계산된 빛을 나란히 읽으면 실제 물질의 반응과 시뮬레이션을 같은 생명감으로 뭉뚱그리지 않게 된다.",
+        "itemIds": [
+          "2026-11-01-01",
+          "2026-11-01-02",
+          "2026-11-01-03",
+          "2026-11-01-04",
+          "2026-11-01-05",
+          "2026-11-01-06"
+        ]
+      },
+      "items": [
+        {
+          "originalTitle": "Digital Forest",
+          "creator": "David Jeuniaux",
+          "title": "걷는 시선이 바꾸는 색채의 숲",
+          "publishedAt": "2026 (KIKK 프로그램 표기)",
+          "description": "색채가 겹치는 토템 사이를 움직이면 무아레와 간섭에 따라 형상이 나타나고 사라지는 광학적 풍경이다. 화면의 신호보다 보는 위치의 변화가 장면을 만든다. Le Pavillon의 2026년 전시는 10월 25일 종료했고 2027년 1월 6일 재개를 예고한다.",
+          "insight": {
+            "mechanism": "색과 패턴의 중첩·간섭이 관객의 위치 변화와 만나 다른 형상을 보이게 한다. 주최 기관의 설명만으로 카메라 추적이나 실시간 영상 생성 장치를 사용한다고 추정할 수는 없다.",
+            "whyNow": "2026년 Playground 전시를 마친 직후, 디지털처럼 보이는 감각을 어떤 광학 조건이 만드는지 되짚는다. 현재 개관 중이라는 안내와 다음 전시 일정을 혼동하지 않는다.",
+            "directorPoint": "새 장면을 계속 출력하기보다 관객이 한 걸음 옮길 때 기존 패턴의 관계가 달라지게 한다. 걷는 속도와 보는 각도가 편집의 단위가 된다.",
+            "critique": "정지 사진 한 장으로는 변화가 생기는 거리와 각도를 충분히 전달하기 어렵다. 전자 장치의 세부 구성이나 특정 관객에게 동일한 착시가 생기는지도 공개 소개로 확정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "브뤼셀, 벨기에(주최 기관 약력)",
+            "region": "유럽",
+            "venue": "Le Pavillon, 나뮈르 / 2026.10.25 종료; 2027.1.6–4.11 재개 예정"
+          },
+          "id": "2026-11-01-01",
+          "url": "https://www.le-pavillon.be/fr/expositions/pavillon-playground/digital-forest",
+          "host": "www.le-pavillon.be",
+          "image": "images/2026-11-01-01.jpg",
+          "imageFallback": "https://www.le-pavillon.be/assets/images/_1280x1320_crop_center-center_none/TwoView_Le_Pavillon_Expo_Playground-135.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.le-pavillon.be/fr/expositions/pavillon-playground/digital-forest",
+            "sourceUrl": "https://www.le-pavillon.be/assets/images/_1280x1320_crop_center-center_none/TwoView_Le_Pavillon_Expo_Playground-135.jpg",
+            "kind": "installation",
+            "credit": "David Jeuniaux / Le Pavillon 공식 전시 자료",
+            "caption": "Le Pavillon이 공개한 Digital Forest 설치 기록. 작품의 패턴과 토템이 보이는 사진.",
+            "checkedAt": "2026-11-01T00:43:39+09:00",
+            "usageBasis": "원권리자 또는 공식 기관이 작품 소개에 공개한 사진을 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "색채와 반복 패턴이 겹친 세로 토템으로 구성된 Digital Forest 설치 사진"
+          }
+        },
+        {
+          "originalTitle": "Memoria Echinus",
+          "creator": "Christophe Monchalin",
+          "title": "한 장의 초상이 가상의 수중 생명으로 바뀔 때",
+          "publishedAt": "2026 (KIKK 프로그램 표기)",
+          "description": "포토부스처럼 관객의 이미지를 받아 형태·색·움직임이 다른 가상 생명체를 만들고 두 개의 가상 수조에 투사한다. 디지털 정체성을 실제 얼굴의 복제 대신 낯선 생명 형태로 돌려주는 설치다. 2026년 전시 기록이며 다음 공개는 2027년 1월로 안내한다.",
+          "insight": {
+            "mechanism": "촬영 이미지의 데이터를 분석해 고유한 가상 개체의 시각적 특성을 실시간으로 구성한다. 작품의 디지털 DNA는 생성 규칙의 비유이며 실제 유전자 채취나 분자적 DNA 저장을 뜻하지 않는다.",
+            "whyNow": "2026년 전시가 마무리된 시점에, 생체·유전 정보처럼 들리는 표현과 실제 이미지 처리 과정을 분리해 읽는다. 공식 페이지는 생성형 AI 사용 여부나 세부 알고리즘을 밝히지 않는다.",
+            "directorPoint": "내 얼굴을 그대로 보여주는 확인의 순간에서 끝내지 않는다. 익숙한 입력을 낯선 결과로 바꾼 뒤 다른 개체와 같은 환경에 놓아, 자기 인식에서 공존의 관찰로 시선을 옮긴다.",
+            "critique": "공개 설명에는 얼굴 이미지의 보관 기간이나 삭제 방식이 없다. 결과가 나를 닮았다는 느낌과 데이터가 안전하게 처리된다는 판단은 구별해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "데이터·시각화",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "브뤼셀, 벨기에(주최 기관 약력)",
+            "region": "유럽",
+            "venue": "Le Pavillon, 나뮈르 / 2026.10.25 종료; 2027.1.6–4.11 재개 예정"
+          },
+          "id": "2026-11-01-02",
+          "url": "https://www.le-pavillon.be/fr/expositions/pavillon-playground/memoria-echinus",
+          "host": "www.le-pavillon.be",
+          "image": "images/2026-11-01-02.jpg",
+          "imageFallback": "https://www.le-pavillon.be/assets/images/_1280x1320_crop_center-center_none/TwoView_Le_Pavillon_Expo_Playground-132.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.le-pavillon.be/fr/expositions/pavillon-playground/memoria-echinus",
+            "sourceUrl": "https://www.le-pavillon.be/assets/images/_1280x1320_crop_center-center_none/TwoView_Le_Pavillon_Expo_Playground-132.jpg",
+            "kind": "installation",
+            "credit": "Christophe Monchalin / Le Pavillon 공식 전시 자료",
+            "caption": "촬영 이미지와 변환 데이터를 보여주는 Memoria Echinus의 실제 전시 기록. Le Pavillon 제공.",
+            "checkedAt": "2026-11-01T00:43:39+09:00",
+            "usageBasis": "원권리자 또는 공식 기관이 작품 소개에 공개한 사진을 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "관객이 포토부스 형태의 화면에서 촬영 이미지와 코드 표시를 보는 Memoria Echinus 설치 사진"
+          }
+        },
+        {
+          "originalTitle": "A Tale of Two Seeds: Sound and Silence in Latin America’s Andean Plains",
+          "creator": "Juan Cortés · Juan José Lopez · Alejandro Villegas · Jemma Foster · Camilla French (Atractor Estudio + Semantica Productions)",
+          "title": "두 작물의 이름 사이에서 토양의 변화를 듣다",
+          "publishedAt": "2023 (Prix Ars Electronica 전시·수상 기록)",
+          "description": "콜롬비아 농경지의 단작 확대를 토양의 지상·지하 녹음과 식물 전기전도도 자료의 소리화로 살피는 설치다. 콩과 아마란스의 관계를 통해 종자와 땅을 누가 분류하고 소유하는지 묻는다. 2023년 작업을 이번 주 생태·계측 사례의 선행 기준으로 함께 읽는다.",
+          "insight": {
+            "mechanism": "현장 녹음과 접촉 마이크, 식물의 전기전도도 자료를 수집해 소리의 사례 연구로 구성한다. 실제로 녹음된 소리와 데이터를 소리로 바꾸는 규칙은 서로 다른 층이며 식물 언어의 번역으로 단정하지 않는다.",
+            "whyNow": "2026년 신작으로 소개하는 대신, 이번 주에 모인 감각 인터페이스와 생태 아카이브를 비교할 2023년 사례로 선정했다. 채집 장치와 기록의 정치가 한 작품 안에서 만난다.",
+            "directorPoint": "자연의 아름다운 전경보다 채집 위치·조건과 들리는 차이를 앞에 둔다. 같은 장소를 다르게 듣게 하며, 익숙한 작물의 이름에도 서로 다른 이해관계가 실려 있음을 드러낸다.",
+            "critique": "설치의 소리만으로 단작의 영향을 통제 실험처럼 입증할 수는 없다. 표본·계절·녹음 조건과 소리화의 선택이 결과에 개입하며, 작가의 해석과 생태학적 검증을 구별해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "과학장비·실험",
+              "데이터·시각화",
+              "공간음향"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "보고타, 콜롬비아(Atractor Estudio) · 콜롬비아·영국(Semantica 공동 제작)",
+            "region": "중남미",
+            "venue": "POSTCITY, 린츠 / Ars Electronica 2023 전시 기록"
+          },
+          "id": "2026-11-01-03",
+          "url": "https://ars.electronica.art/who-owns-the-truth/en/a-tale-of-two-seeds-sound-and-silence-in-latin-americas-andean-plains/",
+          "host": "ars.electronica.art",
+          "image": "images/2026-11-01-03.jpg",
+          "imageFallback": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53166587153_94e4c3d767_k.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://ars.electronica.art/who-owns-the-truth/en/a-tale-of-two-seeds-sound-and-silence-in-latin-americas-andean-plains/",
+            "sourceUrl": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53166587153_94e4c3d767_k.jpg",
+            "kind": "installation",
+            "credit": "Tom Mesic / Ars Electronica; Atractor Estudio + Semantica Productions",
+            "caption": "2023년 POSTCITY 설치의 영상 구성부가 보이는 공식 기록. 사진: Tom Mesic / Ars Electronica.",
+            "checkedAt": "2026-11-01T00:43:39+09:00",
+            "usageBasis": "원권리자 또는 공식 기관이 작품 소개에 공개한 사진을 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "어두운 전시장에 두 식물 영상 패널이 서 있는 A Tale of Two Seeds 설치 사진"
+          }
+        },
+        {
+          "originalTitle": "Ihi",
+          "creator": "Lisa Reihana",
+          "title": "건물의 높이로 다시 만나는 세계의 탄생",
+          "publishedAt": "2020 (주최 기관의 작품연도 표기)",
+          "description": "오클랜드 Aotea Centre 로비의 두 대형 디지털 화면에 마오리의 세계 기원 서사를 펼친다. 하늘과 땅의 분리, 빛이 들어오는 순간을 인간의 몸과 건축의 크기로 함께 경험하게 한다. 2026년 신작이 아니라 기존 공공 설치를 읽는 사례다.",
+          "insight": {
+            "mechanism": "층고를 채우는 두 디지털 영상면이 로비의 여러 높이와 시선에 걸쳐 작동한다. 주최 기관은 65㎡ 규모의 화면과 세 층에서 바라볼 수 있는 구조를 설명하며 관객 추적 기능은 제시하지 않는다.",
+            "whyNow": "새 전시의 개막보다 공공 건물에 오래 머무는 영상의 조건을 살핀다. 주최 기관은 현재 표시되는 작품으로 소개하지만 로비 운영과 행사 일정까지 항상 같은 접근을 보장하는 것은 아니다.",
+            "directorPoint": "가로 화면 안의 신화를 크게 키우는 데 그치지 않고 인물의 몸과 건축의 높이를 연결한다. 계단과 층 사이를 이동하는 관람자가 같은 이야기를 다른 거리에서 만나게 한다.",
+            "critique": "이 서사를 모든 마오리 전통의 단일한 판본으로 일반화할 수 없다. 공간의 장관이 인물과 문화적 맥락을 지우지 않도록 작품의 작가와 이야기의 출처를 함께 읽어야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "의식·영성",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "오클랜드, 아오테아로아 뉴질랜드(QAGOMA 공식 약력)",
+            "region": "오세아니아",
+            "venue": "Aotea – Te Pokapū / Aotea Centre 로비, 오클랜드"
+          },
+          "id": "2026-11-01-04",
+          "url": "https://www.aucklandlive.co.nz/ihi-by-lisa-reihana",
+          "host": "www.aucklandlive.co.nz",
+          "image": "images/2026-11-01-04.jpg",
+          "imageFallback": "https://cdn.aucklandunlimited.com/live/assets/media/20200130-lisa-reihana-ceremony-35.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.aucklandlive.co.nz/ihi-by-lisa-reihana",
+            "sourceUrl": "https://cdn.aucklandunlimited.com/live/assets/media/20200130-lisa-reihana-ceremony-35.jpg",
+            "kind": "installation",
+            "credit": "Lisa Reihana / Auckland Live · Auckland Unlimited 공식 자료",
+            "caption": "2020년 공개 당시 Aotea Centre의 Ihi 설치 기록. 작가 초상이나 새 공연 사진이 아니다. Auckland Live 제공.",
+            "checkedAt": "2026-11-01T00:43:39+09:00",
+            "usageBasis": "원권리자 또는 공식 기관이 작품 소개에 공개한 사진을 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "로비의 층고를 채운 Ihi 영상 앞에서 관객이 화면을 올려다보는 실제 설치 사진"
+          }
+        },
+        {
+          "originalTitle": "Wavering in Warmth",
+          "creator": "Tianshuo Lu · Yasuaki Kakehi",
+          "title": "따뜻해지는 금속이 평면에서 조각으로 일어설 때",
+          "publishedAt": "2026 (Ars Electronica 공개 기록)",
+          "description": "양방향 형상기억합금으로 만든 사각 틀이 조명의 복사열을 받아 서서히 휘고 솟아오른다. 주변의 열 조건이 바뀌면 형태가 돌아가거나 달라지며 평면과 입체 사이를 오간다. 움직임을 영상으로 흉내 내는 대신 재료 자체가 변하는 설치다.",
+          "insight": {
+            "mechanism": "주변 열에 반응하는 합금의 물성을 조형의 구동 조건으로 쓴다. 공식 설명은 복사열과 형태 변화를 연결하지만 온도 범위·합금 조성이나 별도 제어 장치의 세부 사양까지 밝히지는 않는다.",
+            "whyNow": "2026년 Ambient (Re-)sourcing에서 주변의 열을 추출할 자원보다 이미 재료를 바꾸는 환경으로 다뤘다. 전날 소개한 같은 연구실의 숲 접촉 작업과는 재료·입력·출력이 다른 별개의 작품이다.",
+            "directorPoint": "시작과 끝의 선명한 동작보다 거의 알아차리지 못하는 변화를 기다리게 한다. 빛은 대상을 비추는 역할과 형태를 바꾸는 조건을 동시에 맡는다.",
+            "critique": "느리게 되돌아오는 금속의 형태가 에너지를 쓰지 않는다는 뜻은 아니다. 전시장 열 조건과 반복 작동의 편차, 유지 조건을 모른 채 자율 생명체나 영구 운동 장치로 설명해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "기후·환경"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": "도쿄, 일본(xlab, 도쿄대 공식 전시 소개)",
+            "region": "동아시아",
+            "venue": "Ars Electronica Center, 린츠 / Ambient Resourcing"
+          },
+          "id": "2026-11-01-05",
+          "url": "https://ars.electronica.art/center/en/wavering-in-warmth/",
+          "host": "ars.electronica.art",
+          "image": "images/2026-11-01-05.jpg",
+          "imageFallback": "https://ars.electronica.art/center/files/2026/08/55519003697_c69987e500_k.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://ars.electronica.art/center/en/wavering-in-warmth/",
+            "sourceUrl": "https://ars.electronica.art/center/files/2026/08/55519003697_c69987e500_k.jpg",
+            "kind": "installation",
+            "credit": "Ars Electronica / Birgit Cakir; Tianshuo Lu · Yasuaki Kakehi",
+            "caption": "실제 금속 틀과 조명을 함께 보여주는 공식 설치 기록. 사진: Ars Electronica / Birgit Cakir.",
+            "checkedAt": "2026-11-01T00:43:39+09:00",
+            "usageBasis": "원권리자 또는 공식 기관이 작품 소개에 공개한 사진을 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "어두운 공간의 조명 위에서 금속 사각 틀이 휘어 일어난 Wavering in Warmth 설치 사진"
+          }
+        },
+        {
+          "originalTitle": "Quantum Jungle",
+          "creator": "Robin Baumgarten",
+          "title": "스프링을 건드리며 빛의 간섭을 탐색하는 벽",
+          "publishedAt": "2026 재전시 기록 (제작연도는 판본별 표기 상이)",
+          "description": "수많은 금속 스프링을 건드리면 LED 벽의 빛이 변하며 중첩과 간섭 같은 양자 개념을 탐색하게 한다. 2026년 Le Pavillon 전시와 이전 기관 기록을 함께 읽되, 사진은 Exploratorium SF의 기존 설치 기록이며 현재 전시장의 모습이 아니다.",
+          "insight": {
+            "mechanism": "촉각 입력을 받는 스프링의 배열과 LED의 분산된 출력을 연결해 계산된 패턴을 보이게 한다. 물리적 인터페이스가 시뮬레이션을 탐색하는 통로가 되며 실제 양자 입자를 직접 만지는 것은 아니다.",
+            "whyNow": "2026년 Playground에서 재전시됐고 2027년 1월 재개를 예고한다. MAD Arts의 2025년 전시는 종료됐으며, 서로 다른 기관의 연도와 장치 수를 하나의 고정 사양으로 합치지 않는다.",
+            "directorPoint": "먼저 조작법을 학습하게 하기보다 흔들어 볼 수 있는 익숙한 물체를 입력으로 쓴다. 접촉 지점 주변으로 퍼지는 빛이 나의 행동과 전체 패턴을 연결해 준다.",
+            "critique": "보기 좋은 빛의 변화가 양자 역학을 정확히 이해했다는 증거는 아니다. 어떤 수식과 단순화가 시각화되는지, 교육적 비유와 실제 물리계의 차이를 함께 설명해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "촉각",
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "놀이·게임",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "베를린, 독일(MAD Arts 및 Le Pavillon 공식 약력)",
+            "region": "유럽",
+            "venue": "Le Pavillon 2026.10.25 종료 / 2027.1.6 재개 예정; 사진은 Exploratorium SF"
+          },
+          "id": "2026-11-01-06",
+          "url": "https://www.yeswearemadarts.com/exhibitions/quantum-jungle",
+          "host": "www.yeswearemadarts.com",
+          "image": "images/2026-11-01-06.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/661554c9f128c6fdf3c3ceb2/67c3ace5d2f5e08b4c0ec5fc_RB_article%201.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.yeswearemadarts.com/exhibitions/quantum-jungle",
+            "sourceUrl": "https://cdn.prod.website-files.com/661554c9f128c6fdf3c3ceb2/67c3ace5d2f5e08b4c0ec5fc_RB_article%201.png",
+            "kind": "installation",
+            "credit": "Ida Høyrup, Exploratorium SF / Robin Baumgarten; MAD Arts 공식 자료",
+            "caption": "Exploratorium SF의 기존 설치 기록. 2026년 Le Pavillon 전시장 사진이 아니다. 사진: Ida Høyrup / MAD Arts 공개 자료.",
+            "checkedAt": "2026-11-01T00:43:39+09:00",
+            "usageBasis": "원권리자 또는 공식 기관이 작품 소개에 공개한 사진을 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "참여자가 금속 스프링을 만지자 원형 LED 패턴이 펼쳐지는 Quantum Jungle 설치 사진"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 2,
+        "headline": "식물의 소리를 들려주기 전에, 무엇을 기록했는지 묻기",
+        "sections": [
+          {
+            "heading": "콩과 아마란스를 가르는 기준",
+            "body": "이 작업의 두 씨앗은 단순한 자연의 대립이 아니다. 어떤 작물을 유용한 자원으로, 어떤 식물을 제거할 잡초로 분류하는가라는 인간의 제도와 경제가 함께 놓인다. Atractor와 Semantica는 콜롬비아의 농경지와 단작 확대를 다루며 소리의 사례 연구를 만든다. 2023년 발표 기록을 2026년의 새 연구 결과로 바꾸지 않고, 생태를 기록하는 매체의 선행 사례로 읽는다."
+          },
+          {
+            "heading": "녹음된 소리와 소리로 바꾼 데이터",
+            "body": "공식 작품 기록은 토양의 지상·지하 녹음과 콩·아마란스의 전기전도도 기록을 함께 설명한다. 전자는 마이크가 받은 음향이고 후자는 다른 종류의 수치를 들을 수 있게 구성하는 소리화다. 두 층을 모두 식물이 말하는 목소리라고 부르면, 장치가 무엇을 감지했고 작가가 어떤 변환을 선택했는지가 사라진다. 중요한 것은 신비로운 소리의 인상뿐 아니라 그 소리가 생긴 경로다."
+          },
+          {
+            "heading": "기술 목록에도 시간이 있다",
+            "body": "2023년 작가 인터뷰는 현장 녹음·접촉 마이크를 사용한다고 설명하면서 초음파 감지기와 지표투과레이더를 향후 탐색할 방법으로 구별한다. 공동 제작자의 현재 소개에는 초음파 기록도 언급된다. 서로 다른 시점의 설명을 합쳐 모든 전시에서 같은 장비가 가동됐다고 단정할 수는 없다. 공개 자료로 각 판본의 구성을 확정하기 어려운 부분은 미확인으로 남겨야 한다."
+          },
+          {
+            "heading": "생태의 증거는 선택 없이 만들어지지 않는다",
+            "body": "작가는 달라지는 농경지의 소리를 토지와 종자의 주권이라는 질문과 연결한다. 그러나 어느 계절과 위치에서 얼마나 오래 수집했는지, 어떤 비교 조건을 썼는지에 따라 들리는 차이도 달라진다. 미술관의 설득력 있는 소리 장면은 과학적 인과 검증을 대신하지 않는다. 작업이 강하게 만드는 것은 중립을 가장한 전경보다 기록의 조건과 누가 해석하는지를 묻게 하는 위치다."
+          },
+          {
+            "heading": "연출의 전이는 더 크게 들려주기가 아니다",
+            "body": "연출자가 참고할 것은 작은 신호를 큰 음량으로 키우는 효과만이 아니다. 같은 장소를 다른 통로로 기록한 층을 구분하고, 감각적으로 강한 결과가 어디서 왔는지 관객이 따라갈 실마리를 남기는 방식이다. 소리·영상·자료의 관계를 모두 설명문으로 닫을 필요는 없지만, 실제 기록과 변환 규칙의 경계를 지우지 않는 태도가 중요하다."
+          }
+        ],
+        "keywords": [
+          "토양 녹음",
+          "데이터 소리화",
+          "종자와 주권",
+          "계측과 해석",
+          "생태 아카이브"
+        ],
+        "sources": [
+          {
+            "label": "Ars Electronica 2023 공식 작품·제작 크레딧",
+            "url": "https://ars.electronica.art/who-owns-the-truth/en/a-tale-of-two-seeds-sound-and-silence-in-latin-americas-andean-plains/"
+          },
+          {
+            "label": "Juan Cortés 직접 인터뷰: 사용 장비와 향후 계획 구분",
+            "url": "https://ars.electronica.art/aeblog/en/2023/06/15/soundscapes-of-the-andean-plain/"
+          },
+          {
+            "label": "공동 제작자 Semantica 공식 작품 설명",
+            "url": "https://www.semanticastudios.com/artwork"
+          },
+          {
+            "label": "Juan Cortés 공식 소개: 연구·작품·보고타 거점",
+            "url": "https://www.juancortes.net/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-10-31",
       "title": "작은 몸짓이 신뢰와 관계를 바꾸는 여섯 장면",
       "summary": "컵을 잡는 장갑, 숲을 만지는 손, 얼굴 없는 VR 만남과 흐르는 생성 영상. 돌봄의 기록과 달콤한 마스코트까지, 여섯 작업이 감각을 자극하는 데서 나아가 누가 행동하고 해석하는지 묻는다.",
@@ -19752,7 +20122,7 @@
       }
     }
   ],
-  "generatedAt": "2026-10-30T15:37:11Z",
+  "generatedAt": "2026-10-31T15:43:39Z",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
