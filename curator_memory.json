@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-10-31T15:43:39Z",
+  "updatedAt": "2026-11-02",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -218,6 +218,10 @@
     {
       "date": "2026-11-01",
       "note": "일요일 신규호6작품·4권역(유럽3/중남미1/오세아니아1/동아시아1), 같은도메인최대2,기존70호/381ID·편집규칙/allowlist보존.신규6공식이미지시각확인·축소selfhost·출처8필드기록. Ihi첫후보의행사초상제외후실제대형영상설치사진으로교체.옛작품의연도/2026재전시·2027예정을구별,제작연도불확정인QuantumJungle은판본별차이를명시.같은연구실Kakehi의다른신작은동일작가경고대상이며중복작품은아님.토양기록Focus5단락/4공식출처.일요일기존Signals7개검토·Toolkit기존카드보존후보완. 주간Signals7개검토·신규신호0·기존근거11개추가,AI구동미확인인거울/서사AI/양자시뮬레이션은해당근거수부풀리지않음.기존Toolkit81개모두보존하고중복없는3개추가(총84)."
+    },
+    {
+      "date": "2026-11-02",
+      "note": "신규 6작품·3권역(유럽3/동아시아2/중남미1), 최대 도메인2. 기존71호/387항목·편집규칙 보존. Spiral Focus5단락/3공식출처. 2007 Sonic Body는 선행사례로 명시하고 기존 자료의 날짜를 변경하지 않음. 새 이미지6개 직접 시각 확인, 설치5개/실제 인터페이스1개 구분. 일요일 주간 갱신은11월1일본 보존."
     }
   ],
   "source_notes": [
@@ -316,6 +320,10 @@
     {
       "date": "2026-11-01",
       "note": "DigitalForest/Memoria:LePavillon개별공식페이지무아레·중첩/이동및촬영이미지→가상DNA→두수조실시간생성,각Brussels거점/2026.10.25종료·2027.1.6–4.11재개확인.키네틱세부장치/AI알고리즘/DNA분자저장을추정하지않음.공식사진TwoView파일에서정확한작품페이지이미지만사용하고파일명만으로촬영자크레딧추정하지않음. Seeds:Ars2023개별/제작크레딧·지상지하녹음·전기전도도및TomMesic전시영상구성부사진확인;2023.6.15Juan직접인터뷰의초음파/GPR향후계획과Semantica현행작품소개초음파언급은시점별구분.작가juancortes.net거점Bogota및공동제작자Colombia/UK. Ihi:AucklandLive공식2020작품연도/2대형화면·65sqm/3층관람·Tane/Papatuanuku원전시기확인;QAGOMA공식약력Auckland거점.작가URL검색캐시2019이나직접접속DNS불가여서이를제작연도로확정하지않음.사진ceremony35는실제2020설치전경으로인물초상/행사연설사진과구별. Warmth:ArsCenter공식200응답본문양방향SMA/복사열/형태되돌림·BirgitCakir사진,AmbientResourcing도쿄대xlab거점.합금조성/온도범위/모터사양미공개. Quantum:MADArts공식2025종료전시/촉각스프링LED/IdaHoyrupExploratoriumSF사진·Berlin거점과LePavillon2026/27일정교차검증.실제양자하드웨어동작으로부풀리지않고판본별장치수/연도혼재미확정.예전quantum.garden인증서불일치는우회하지않고정상기관출처사용.공식공개사진의출처·미리보기근거를기록하며법적라이선스를발명하지않음."
+    },
+    {
+      "date": "2026-11-02",
+      "note": "Spiral: 작가/MACBA/FILE 대조, 매시1분·2024.7.17광장/2025.2.11숲·2027.7계획. 오래된 보도자료의10월행사를 실제완료로 단정하지 않음. Hori/Circuit: ICC일본어 설명·제작 크레딧·冨田了平전시사진;여름부스종료와HyperICC11.8까지 구분. Aquarela: FILE개별 실시간 설명과 종합글 과거데이터 설명이 달라 판본별경로미확정;2024선행CCBB자료있어2025초연이라부르지않음. Puppet:1024공식/LEV2026교차,2024초연·2025페이지표기·2026재전시 구분;사진은디지털인형설치이며실물로봇아님. Sonic:공식사이트/People/2007완성블로그·실제직물내부사진,사전녹음과관객실시간생체신호구분. HONME는공식사진직접검증이완료되지않아후보제외;WIND FIELD도참고도판만확인돼제외."
     }
   ],
   "dedup_policy": {

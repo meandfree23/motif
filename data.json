@@ -1,6 +1,377 @@
 {
   "issues": [
     {
+      "date": "2026-11-02",
+      "title": "몸짓과 기록을 다음 장면으로 잇는 여섯 인터페이스",
+      "summary": "한 시간의 한 분, 움직임이 남긴 경로, 표면에서 모은 색, 태양의 기록, 인형의 관절과 부드러운 직물. 여섯 작업이 입력을 결과로 바꾸는 규칙과 관객이 그 사이를 읽는 방식을 보여준다.",
+      "crosscurrent": {
+        "note": "Spiral of Time은 녹음의 간격을, Unknown, But Yours는 몸짓의 경로를 편집한다. Mikan Tree는 수집한 표면을 다음 참여자의 제작으로 돌려보낸다. Aquarela de Íons가 먼 현상의 데이터를 공간으로 옮긴다면, Puppet과 Sonic Body는 익숙한 조작과 접촉으로 소리를 만드는 관계를 연다. 결과의 인상과 함께 무엇을 입력했고 무엇을 미리 정했는지 살필 수 있다.",
+        "itemIds": [
+          "2026-11-02-01",
+          "2026-11-02-02",
+          "2026-11-02-03",
+          "2026-11-02-04",
+          "2026-11-02-05",
+          "2026-11-02-06"
+        ]
+      },
+      "items": [
+        {
+          "originalTitle": "Spiral of Time",
+          "creator": "Edwin van der Heide",
+          "title": "한 시간의 한 분을 이어 듣는 나선형 아카이브",
+          "publishedAt": "2024– (바르셀로나 기록); 2025– (마나우스 기록)",
+          "url": "https://www.edwinvanderheide.com/spiral_of_time/",
+          "description": "매시 한 분씩 채집한 소리를 나선형 시간 인터페이스로 다시 듣는 장기 작업이다. 바르셀로나 MACBA 앞 광장과 마나우스 UFAM 주변 숲의 서로 다른 생활 리듬을 탐색한다. 현재 MACBA는 광장의 기록을 2027년 7월까지 이어갈 계획을 안내한다.",
+          "insight": {
+            "mechanism": "정해진 장소에서 매시 한 분을 녹음하고 축적한다. 관객이 나선 위의 시간 경로와 간격을 선택하며, 떨어진 녹음 사이에서 반복·변화·예외를 발견하도록 구성한다.",
+            "whyNow": "2024년에 시작한 작업이 지금도 시간을 축적하는 방식에 주목한다. 긴 데이터의 양 자체보다 그 안에서 관객이 어떤 비교를 만들 수 있는지가 아카이브의 경험을 바꾼다.",
+            "directorPoint": "같은 장소의 다른 시간을 같은 길이로 나란히 놓는다. 반복되는 기준을 먼저 제시하면 달라진 소리 하나가 별도의 해설 없이 장면의 사건으로 떠오른다.",
+            "critique": "매시 한 분은 그 사이 59분을 담지 않는다. 녹음 지점과 시간 간격의 선택이 결과를 구성하며, 들리는 차이만으로 생태 변화나 도시 변화의 원인을 확정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "데이터·시각화",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "도시·공동체",
+              "비인간·생태"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "로테르담, 네덜란드(작가 스튜디오 공식 주소)",
+            "region": "유럽",
+            "venue": "MACBA, 바르셀로나 / UFAM 주변 숲, 마나우스 / 온라인"
+          },
+          "id": "2026-11-02-01",
+          "host": "www.edwinvanderheide.com",
+          "image": "images/2026-11-02-01.jpg",
+          "imageFallback": "https://archive.file.org.br/wp-content/uploads/tainacan-items/329/476175/file-sao-paulo-2025-edwin-van-der-heide-spiral-of-time-instalacao-interativa-1.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/spiral-of-time/",
+            "sourceUrl": "https://archive.file.org.br/wp-content/uploads/tainacan-items/329/476175/file-sao-paulo-2025-edwin-van-der-heide-spiral-of-time-instalacao-interativa-1.jpg",
+            "kind": "artwork",
+            "credit": "Edwin van der Heide / FILE 공식 작품 자료",
+            "caption": "FILE이 공개한 Spiral of Time의 나선형 인터페이스 기록. 녹음 현장의 전경 사진은 아니다.",
+            "checkedAt": "2026-11-02T00:34:21+09:00",
+            "usageBasis": "작가 또는 공식 전시 기관이 작품 소개에 공개한 이미지를 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "시간 간격 선택과 색채 나선이 보이는 Spiral of Time의 실제 인터페이스"
+          }
+        },
+        {
+          "originalTitle": "Unknown, But Yours",
+          "creator": "堀宏行 (Hori Hiroyuki)",
+          "title": "움직임의 자취가 처음 보는 몸이 될 때",
+          "publishedAt": "2026",
+          "url": "https://www.ntticc.or.jp/ja/archive/works/unknown-but-yours/",
+          "description": "촬영 부스 안에서 몸을 움직이면 시간의 흔적을 포함한 경로가 기록되고, 그 덩어리가 새로운 3D 형태로 나타난다. 익숙한 몸짓을 낯선 형태로 다시 보는 참여 작업이다. 2026년 ICC 키즈 프로그램의 종료된 전시 기록을 읽는다.",
+          "insight": {
+            "mechanism": "촬영 부스에서 몸의 움직임을 시간적 경로로 기록한 뒤 그 경로를 재료로 3D 형상을 만든다. 신체를 한 순간의 윤곽이 아니라 움직임이 누적된 형태로 제시한다.",
+            "whyNow": "2026년의 참여형 제작 사례로, 결과 이미지를 선택하는 행위보다 몸이 지나간 과정 자체를 형태의 재료로 삼는 방법을 살핀다.",
+            "directorPoint": "익숙한 몸짓과 낯선 결과를 번갈아 보여주어 관객이 둘의 관계를 찾아보게 한다. 변환 전후를 연결하는 흔적이 남아 있어야 추상적인 형상에도 자신의 시간이 읽힌다.",
+            "critique": "공개 설명은 센서 구성이나 형상 생성 알고리즘의 세부를 밝히지 않는다. 포착하기 어려운 움직임과 참여자의 신체 조건이 결과에 어떤 차이를 만드는지도 별도 확인이 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "신체·움직임",
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "신체·정체성",
+              "놀이·게임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "ICC, 도쿄 / Kids Program 2026, 7.25–8.30 종료; 작가는 ICC 약력상 일본 나가사키 출생"
+          },
+          "id": "2026-11-02-02",
+          "host": "www.ntticc.or.jp",
+          "image": "images/2026-11-02-02.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/008/3c66b.8131.large.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ntticc.or.jp/ja/archive/works/unknown-but-yours/",
+            "sourceUrl": "https://www.ntticc.or.jp/uploads/assets/008/3c66b.8131.large.jpg",
+            "kind": "installation",
+            "credit": "冨田了平 (Tomita Ryohei) / NTT ICC; 堀宏行",
+            "caption": "2026년 ICC에서 관객의 움직임과 생성된 신체 경로를 함께 보여주는 설치 사진. 촬영: 冨田了平.",
+            "checkedAt": "2026-11-02T00:34:21+09:00",
+            "usageBasis": "작가 또는 공식 전시 기관이 작품 소개에 공개한 이미지를 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "관객이 몸을 움직이는 부스 양쪽 벽에 신체 경로가 투사된 Unknown, But Yours 설치"
+          }
+        },
+        {
+          "originalTitle": "Mikan Tree",
+          "creator": "菊地玄摩 · 坂田晶 (Circuit Lab. / UNIBA)",
+          "title": "방에서 모은 표면이 가상의 과일과 나무로 이어진다",
+          "publishedAt": "2026",
+          "url": "https://www.ntticc.or.jp/ja/archive/works/mikan-tree/",
+          "description": "전시장 표면의 색과 형상을 디지털 점군으로 모아 자신만의 귤을 만드는 워크숍형 작업이다. 결과물은 가상 공간 Hyper ICC 안에서 나무로 자라며 다른 참여자의 새로운 제작으로 이어진다. 사진은 여름 키즈 프로그램의 실제 전시 기록이다.",
+          "insight": {
+            "mechanism": "기기를 통해 보는 방향과 표면의 색을 연동해 점군을 수집한다. 조합한 과일에는 제작 시간과 과정도 저장되고, 가상 공간의 규칙에 따라 나무와 다음 과일로 이어진다.",
+            "whyNow": "Hyper ICC가 2026년 11월 8일까지 소개되는 시점에, 디지털 수집물을 한 번의 결과로 닫지 않고 다음 사람의 제작 조건으로 되돌리는 구조를 살핀다.",
+            "directorPoint": "관객이 보고 고른 주변의 표면을 결과물에 남긴다. 완성된 한 장면을 감상하는 데서 끝내지 않고 그 결과가 다음 참여자의 시작점이 되게 한다.",
+            "critique": "가상 나무의 성장은 작가가 정한 규칙으로 이루어진다. 이를 생물학적 생장으로 설명할 수 없으며, 참가자의 제작 과정이 이후 얼마나 추적·보존되는지는 공개 설명만으로 확정하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "데이터·시각화",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "놀이·게임",
+              "도시·공동체",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "도쿄, 일본(UNIBA 공식 조직 프로필)",
+            "region": "동아시아",
+            "venue": "ICC 키즈 프로그램 2026, 7.25–8.30 종료 / Hyper ICC 9.29–11.8"
+          },
+          "id": "2026-11-02-03",
+          "host": "www.ntticc.or.jp",
+          "image": "images/2026-11-02-03.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/008/5bf57.8124.large.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ntticc.or.jp/ja/archive/works/mikan-tree/",
+            "sourceUrl": "https://www.ntticc.or.jp/uploads/assets/008/5bf57.8124.large.jpg",
+            "kind": "installation",
+            "credit": "冨田了平 (Tomita Ryohei) / NTT ICC; Circuit Lab. / UNIBA",
+            "caption": "Mikan Tree가 전시된 2026년 ICC 키즈 프로그램 공간. 촬영: 冨田了平. 현재 Hyper ICC 화면의 캡처와 구별되는 전시 사진.",
+            "checkedAt": "2026-11-02T00:34:21+09:00",
+            "usageBasis": "작가 또는 공식 전시 기관이 작품 소개에 공개한 이미지를 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "귤 모양과 색채 조형, 작은 화면들이 놓인 Mikan Tree의 전시 공간"
+          }
+        },
+        {
+          "originalTitle": "Aquarela de Íons",
+          "creator": "Arthur Boeira · Gustavo Milward",
+          "title": "태양의 변화를 발밑의 빛과 소리로 번역하기",
+          "publishedAt": "2025 FILE 전시 기록 (2024년 선행 전시 자료 존재)",
+          "url": "https://file.org.br/installation_2025/arthur-boeira-e-gustavo-milward-aquarela-de-ions-brasil/",
+          "description": "위성에서 착안한 조각과 전시장의 소리·빛·영상으로 태양 활동 데이터를 감각화하는 설치다. 관객의 존재도 반응 구조에 들어간다. FILE의 개별 설명은 실시간 자료를, 종합 소개는 과거 수십 년의 자료를 언급하므로 두 시간 층을 구분해 읽는다.",
+          "insight": {
+            "mechanism": "태양 활동 정보를 전시장 속 소리·빛·이미지로 변환하는 데이터 아트다. 기관 자료에 실시간 수집과 과거 기록 활용이 모두 등장하며, 각 판본의 구체적인 데이터 경로는 별도 확인이 필요하다.",
+            "whyNow": "최근의 태양 활동을 다루는 감각적 표현에서 실시간이라는 말과 과거 자료의 재구성을 구분한다. 화면의 역동성과 데이터가 가리키는 시간을 함께 읽는 사례다.",
+            "directorPoint": "거대한 우주 현상을 설명 그래픽에만 가두지 않고 발밑의 변화와 주변의 빛으로 옮긴다. 관객의 위치를 데이터와 공간을 연결하는 접점으로 만든다.",
+            "critique": "공개 설명만으로 데이터 제공자·갱신 주기·반응 매핑을 검증할 수 없다. 시각적으로 강한 변화의 크기가 실제 태양 활동의 위험도나 물리적 힘과 같은 척도라고 볼 수는 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "센서·인터랙션",
+              "프로젝션"
+            ],
+            "theme": [
+              "기후·환경",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "브라질(FILE 공식 작가 소개; 도시 거점 미확인)",
+            "region": "중남미",
+            "venue": "FILE São Paulo 2025 전시 기록"
+          },
+          "id": "2026-11-02-04",
+          "host": "file.org.br",
+          "image": "images/2026-11-02-04.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2025/07/Site-Arthur-Boeira-e-Gustavo-Milward-%E2%80%93-Aquarela-de-Ions-FILE-SAO-PAULO-2025-SYNTHETIKA-Creditos-Camila-Picolo5-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/installation_2025/arthur-boeira-e-gustavo-milward-aquarela-de-ions-brasil/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2025/07/Site-Arthur-Boeira-e-Gustavo-Milward-%E2%80%93-Aquarela-de-Ions-FILE-SAO-PAULO-2025-SYNTHETIKA-Creditos-Camila-Picolo5-scaled.jpg",
+            "kind": "installation",
+            "credit": "Camila Picolo / FILE; Arthur Boeira · Gustavo Milward",
+            "caption": "FILE São Paulo 2025에서 조각과 바닥 영상을 함께 보여주는 실제 설치 기록. 사진: Camila Picolo.",
+            "checkedAt": "2026-11-02T00:34:21+09:00",
+            "usageBasis": "작가 또는 공식 전시 기관이 작품 소개에 공개한 이미지를 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "관객 옆에 빛나는 위성형 조각이 서 있고 바닥에 색채 영상이 투사된 Aquarela de Íons"
+          }
+        },
+        {
+          "originalTitle": "Puppet",
+          "creator": "1024 architecture · Vitalic",
+          "title": "인형의 관절을 움직여 전자음악을 연주하는 관객",
+          "publishedAt": "2024 초연 / 2025 작가 페이지 / 2026 재전시",
+          "url": "https://www.1024architecture.net/projects/puppet/",
+          "description": "인형 같은 캐릭터의 움직임을 멜로디·리듬·효과에 연결해 관객이 트랙을 구성하는 시청각 설치다. 게임의 조작과 신시사이저의 연주가 만난다. 작가는 2024년 초연을, L.E.V.는 2026년 9월 마드리드 전시를 기록한다.",
+          "insight": {
+            "mechanism": "관객이 조작하는 캐릭터의 동작과 제스처가 음악 요소를 발생시킨다. 눈에 보이는 인형의 움직임이 소리의 변화와 연결되며, 관객의 조작은 실시간 구성의 일부가 된다.",
+            "whyNow": "2026년에도 재전시된 이 작업을 통해 게임 조작의 익숙함이 연주 진입 장벽을 어떻게 바꾸는지 살핀다. 숙련된 연주자와 처음 참여하는 관객 사이의 경험 설계가 핵심이다.",
+            "directorPoint": "추상적인 음향 조절값에 몸의 동작을 붙인다. 무엇을 움직였을 때 어떤 소리가 달라지는지 보이게 하면 관객이 자신의 행동을 리듬의 원인으로 읽을 수 있다.",
+            "critique": "조작 가능하다는 사실만으로 음악적 선택의 폭이나 저작 권한이 모두 열리는 것은 아니다. 관절과 소리의 매핑, 제공된 음색의 범위에 따라 관객의 작곡은 제한된다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "놀이·게임",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "파리, 프랑스(1024 architecture 공식 거점)",
+            "region": "유럽",
+            "venue": "La Gaîté Lyrique 2024 초연 / Mapping 2025 / L.E.V. Matadero 2026.9.17–20 종료"
+          },
+          "id": "2026-11-02-05",
+          "host": "www.1024architecture.net",
+          "image": "images/2026-11-02-05.jpg",
+          "imageFallback": "https://cdn.sanity.io/images/fdic53fd/production/a4764e51e0977b9ca311a82946acdb0f01bbf0f0-6000x4000.jpg?auto=format",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.1024architecture.net/projects/puppet/",
+            "sourceUrl": "https://cdn.sanity.io/images/fdic53fd/production/a4764e51e0977b9ca311a82946acdb0f01bbf0f0-6000x4000.jpg?auto=format",
+            "kind": "installation",
+            "credit": "1024 architecture · Vitalic / 1024 architecture 공식 작품 자료",
+            "caption": "1024 architecture가 공개한 Puppet의 설치 사진. 관객이 바라보는 화면 속 인형을 실제 기계 인형으로 혼동하지 않도록 읽는다.",
+            "checkedAt": "2026-11-02T00:34:21+09:00",
+            "usageBasis": "작가 또는 공식 전시 기관이 작품 소개에 공개한 이미지를 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "관객이 앉은 공간 앞 세로 화면에 줄 달린 캐릭터가 나타나는 Puppet 설치"
+          }
+        },
+        {
+          "originalTitle": "Sonic Body",
+          "creator": "Harry Neve · Thomas Michalak · Anna Orliac",
+          "title": "부드러운 내부를 만지며 몸의 소리를 듣는 방",
+          "publishedAt": "2007 (공식 제작·전시 기록)",
+          "url": "https://sonicbody.co.uk/",
+          "description": "원통형 공간의 붉은 내부에서 관객이 직물 조형을 누르거나 쓰다듬으면 신체 내부에서 미리 녹음한 소리가 공간화되어 들린다. 2007년의 작업을 촉각 인터페이스의 선행 사례로 읽는다. 현재 신작이나 의학적 진단 체험으로 소개하지 않는다.",
+          "insight": {
+            "mechanism": "의료 자문을 받아 신체에서 수집한 녹음을 촉각 조형과 연결한다. 누르기·쓰다듬기·흔들기 같은 접촉이 소리를 불러오며, 공간음향이 몸 안에 들어온 듯한 감각을 만든다.",
+            "whyNow": "몸을 인터페이스로 쓰는 최근 사례 옆에서 2007년의 제작 방식을 다시 읽는다. 화면을 잘 다루는 능력보다 익숙한 촉각 행동으로 참여를 시작하게 하는 오래된 설계가 유효하다.",
+            "directorPoint": "외부에서 보이는 중립적인 형태와 내부의 색·질감·소리를 달리해 문턱을 만든다. 손이 먼저 탐색할 수 있는 재료가 공개 참여의 머뭇거림을 줄이는 장치가 된다.",
+            "critique": "소리의 재료는 미리 수집된 녹음이며 관객 자신의 장기를 실시간으로 듣는 것은 아니다. 의학적 관찰에서 출발했어도 그 결과가 진단이나 몸 전체의 대표 표본을 제공하지는 않는다."
+          },
+          "tags": {
+            "sense": [
+              "촉각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "공간음향",
+              "과학장비·실험"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Blank Gallery, 브라이턴, 영국 / 2007년 공식 전시 기록; 현재 작가 거점 미기재"
+          },
+          "id": "2026-11-02-06",
+          "host": "sonicbody.co.uk",
+          "image": "images/2026-11-02-06.jpg",
+          "imageFallback": "https://sonicbody.co.uk/wp-content/uploads/2007/08/SB-Last-Pics-025-1.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://sonicbody.co.uk/",
+            "sourceUrl": "https://sonicbody.co.uk/wp-content/uploads/2007/08/SB-Last-Pics-025-1.jpg",
+            "kind": "installation",
+            "credit": "Harry Neve · Thomas Michalak · Anna Orliac / Sonic Body 공식 아카이브",
+            "caption": "공식 프로젝트 사이트에 공개된 2007년 Sonic Body 내부의 실제 직물 조형 기록. 촬영자 별도 표기 없음.",
+            "checkedAt": "2026-11-02T00:34:21+09:00",
+            "usageBasis": "작가 또는 공식 전시 기관이 작품 소개에 공개한 이미지를 출처·크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "붉은 조명 아래 부드러운 직물 조형이 가득한 Sonic Body의 내부"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "쌓인 소리를 비교할 수 있는 시간으로 바꾸기",
+        "sections": [
+          {
+            "heading": "기록의 단위가 만드는 시간",
+            "body": "Spiral of Time은 매시 한 분이라는 규칙으로 장소를 듣는다. 연속된 모든 시간을 보존하는 대신 일정한 간격을 남기는 선택이다. 이 간격은 저장 용량의 문제가 되기 전에 관객이 비교할 리듬을 만든다. 하루의 같은 시각과 서로 다른 계절을 이어 듣는 순간, 그 장소를 한 번 방문했을 때는 알아차리기 어려운 차이가 모습을 드러낸다."
+          },
+          {
+            "heading": "직선 목록 대신 나선",
+            "body": "작가의 공식 설명과 MACBA는 시간의 나선형 인터페이스를 핵심으로 제시한다. 관객은 녹음 목록을 처음부터 끝까지 재생하는 대신 시간 경로와 간격을 고른다. 여기서 인터페이스는 자료를 보기 좋게 포장하는 표면을 넘어, 어떤 시간들을 서로 이웃하게 할지 결정하는 편집 장치다. 비교를 만드는 관객의 선택이 작품의 진행을 구성한다."
+          },
+          {
+            "heading": "광장과 숲은 별개의 녹음 지점이다",
+            "body": "바르셀로나 광장의 기록은 2024년 7월 17일에, 마나우스 UFAM 주변 숲의 기록은 2025년 2월 11일에 시작됐다. MACBA는 도시 속 광장과 도시로 둘러싸인 숲의 자료를 대화하도록 제시한다. 두 장소를 인간과 자연의 단순한 반대로 정리하기보다, 각 장소에서 서로 다른 활동과 생명이 어떤 리듬으로 들리는지를 비교하는 편이 정확하다."
+          },
+          {
+            "heading": "잘 들린다는 것과 입증한다는 것",
+            "body": "한 녹음은 마이크를 설치한 위치와 그 시각의 조건을 함께 담는다. 매시 한 분이라는 규칙 때문에 기록되지 않은 시간도 남는다. 소리의 변화는 질문을 시작하게 하지만, 원인을 입증하는 통제 실험을 대신하지는 않는다. 아카이브의 설득력은 모든 것을 수집했다고 말하는 데서보다 무엇을 어떤 규칙으로 수집했는지 드러내는 데서 생긴다."
+          },
+          {
+            "heading": "연출로 가져갈 것은 비교의 조건",
+            "body": "연출자가 참고할 방법은 긴 시간을 빠르게 압축하는 효과만이 아니다. 같은 길이와 관찰 위치를 유지한 조각들을 놓고 관객이 변화를 발견할 여지를 주는 방식이다. 반복되는 행동이나 장소를 다룰 때 먼저 비교 기준을 기억시키면, 다음 장면의 작은 어긋남이 충분한 사건이 된다. 원자료를 제시하는 순서와 간격 자체가 의미를 만든다."
+          }
+        ],
+        "keywords": [
+          "소리 아카이브",
+          "시간 간격",
+          "나선형 인터페이스",
+          "비교의 편집",
+          "현장 녹음"
+        ],
+        "sources": [
+          {
+            "label": "작가 공식 작품 설명: 녹음 규칙·두 장소·제작 크레딧",
+            "url": "https://www.edwinvanderheide.com/spiral_of_time/"
+          },
+          {
+            "label": "MACBA 공식 소개: 광장 기록·2027년 계획·시간 탐색",
+            "url": "https://www.macba.cat/en/spiral-of-time-placa-dels-angels/"
+          },
+          {
+            "label": "FILE 공식 기록: 2025년 전시·UFAM 주변 숲·작품 이미지",
+            "url": "https://archive.file.org.br/obras-artisticas/spiral-of-time/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-01",
       "title": "보이지 않는 규칙을 몸으로 읽는 여섯 작업",
       "summary": "걷는 위치가 바꾸는 색, 초상에서 자라는 가상 생명, 토양의 기록과 세계의 기원. 금속의 느린 변형과 빛의 시뮬레이션까지, 여섯 작업이 보이는 결과 뒤의 조건과 해석을 드러낸다.",
@@ -20122,7 +20493,7 @@
       }
     }
   ],
-  "generatedAt": "2026-10-31T15:43:39Z",
+  "generatedAt": "2026-11-01T15:34:21+00:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
