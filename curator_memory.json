@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -234,6 +234,10 @@
     {
       "date": "2026-11-05",
       "note": "2026-11-05 KST 누락 호 복구. 신규 6작품, 3권역(북미, 유럽, 중남미), Focus 4단락. 과거 호와 편집 규칙 보존. 실제 확인 일자는 imageMeta.checkedAt에 기록."
+    },
+    {
+      "date": "2026-11-06",
+      "note": "신규6작품·유럽/북미/동남남아시아3권역, 같은호스트최대2, Focus4단락/2공식출처. 과거75호/411항목 및 편집정책 보존. NAO 2022작품·2023공연사진·2026공연편성 구분. i Light Singapore 6월행사종료 명시."
     }
   ],
   "source_notes": [
@@ -340,6 +344,10 @@
     {
       "date": "2026-11-05",
       "note": "11월 3–5일 누락 복구. 공식 제작자·전시·프로그램 자료 대조. Chronica 2025 프로토타입과 2026 V1, Neon Dance 2024 무대 초연과 2026 순회, A Long Goodbye 2025 작품과 2026 편성 구분. DORAi는 실물 조립 기록으로 표시. 페이지가 공개한 작품·공연·개발 자료를 크레딧과 함께 축소 프리뷰로 사용."
+    },
+    {
+      "date": "2026-11-06",
+      "note": "RESONORA는음향변화와직물투사로설명,정확한색상매핑미공개. 대표이미지는실사진/시각화미명시를표기. NAO는LEV공연소개/IFdigital2022작품/SAW2023아카이브대조. Gora는Matadero공식대표이미지사용. Polyrhythmic은구체의움직임설명과실제기계구조미공개구분. Switch/Grass는생태데이터가아닌비유로표시. Celebration얼굴보관방식미확정."
     }
   ],
   "dedup_policy": {
