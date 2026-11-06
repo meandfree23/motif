@@ -1,6 +1,373 @@
 {
   "issues": [
     {
+      "date": "2026-11-07",
+      "title": "말과 기억이 다른 몸을 얻는 여섯 장치",
+      "summary": "대화가 자라는 인공 유기체, 반환된 유물을 다시 의례에 놓는 VR, 필름의 물질사를 되짚는 영상, 주민의 목소리로 변형되는 도시 모형, 신호의 불확실성을 빛으로 만드는 구조, 접근하는 몸을 반사하는 기둥. 기록이 다른 매체의 몸을 얻는 여섯 방식을 살핀다.",
+      "crosscurrent": {
+        "note": "IMPRINT와 ARCOPARLANTE는 관객의 말이 기억과 도시 모형에 남는 과정을 보여준다. Hɔnmε와 Stories of Celluloid는 유물과 필름 뒤에 가려진 역사적 조건을 다시 움직인다. Signal Mirage와 Continuum은 빛·소리·반사를 통해 정보와 몸의 위치가 얼마나 쉽게 변형되는지 드러낸다.",
+        "itemIds": [
+          "2026-11-07-01",
+          "2026-11-07-02",
+          "2026-11-07-03",
+          "2026-11-07-04",
+          "2026-11-07-05",
+          "2026-11-07-06"
+        ]
+      },
+      "items": [
+        {
+          "originalTitle": "IMPRINT",
+          "creator": "Sasha Sorokina",
+          "title": "여럿의 대화가 한 인공 유기체의 기억과 몸을 키운다",
+          "publishedAt": "2026",
+          "url": "https://sashasorokin.com/projects/imprint",
+          "description": "오래된 아이패드를 감싼 산호 형태의 조각 안에서 인공 유기체 Immy가 관객과 대화한다. 들은 말과 스스로 내린 결론이 색이 다른 몸의 일부로 축적되고, 전시가 닫힌 뒤에는 하루의 대화를 다시 읽는다.",
+          "insight": {
+            "mechanism": "관객의 음성을 받아 텍스트로 바꾸고 공개 모델이 현재 기억을 바탕으로 응답한다. 작가·관객·자체 추론에서 온 생각을 분홍·살구·라벤더색 조직으로 구분하며 화면의 몸에 연결한다.",
+            "whyNow": "생성형 AI를 완성된 도구가 아니라 여러 사람이 함께 양육하는 성격으로 다룬다. 편리한 응답보다 누가 환경과 기억의 규칙을 정했고 결과에 책임지는지를 전시장 안에 남긴다.",
+            "directorPoint": "대화 장면과 성장한 몸의 색 범례를 함께 보여줘 입력의 출처를 잃지 않게 한다. 처음 상태와 전시 마지막 상태를 비교하면 축적이 단순한 장식이 아니라 서사의 변화로 읽힌다.",
+            "critique": "작품은 Immy의 의식이나 생명을 주장하지 않으며 모델 자체도 재학습하지 않는다. 밤의 의견 수정 역시 별도 모델과 설계된 규칙이 수행하므로 자율적 성장과 동일시하면 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "언어"
+            ],
+            "tech": [
+              "생성AI",
+              "음성·언어",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "인간-기계 관계",
+              "돌봄·책임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Gray Area, 샌프란시스코 / 10.28–11.1 종료"
+          },
+          "host": "sashasorokin.com",
+          "imageFallback": "https://sashasorokin.com/images/imprint/gallery-front.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://sashasorokin.com/projects/imprint",
+            "sourceUrl": "https://sashasorokin.com/images/imprint/gallery-front.jpg",
+            "kind": "installation",
+            "credit": "Sasha Sorokina 공식 작품 기록",
+            "caption": "Gray Area 벽면에서 산호 형태의 분홍색 조각이 아이패드를 감싸고 있는 IMPRINT 전시 전경",
+            "checkedAt": "2026-11-07T07:28:00+09:00",
+            "usageBasis": "공식 작가·기관·행사 또는 해당 기관이 제공한 보도 이미지를 출처 및 크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "분홍색 산호 형태의 조각 중앙에 화면이 놓이고 옆에 헤드폰이 걸린 IMPRINT 설치"
+          },
+          "id": "2026-11-07-01",
+          "image": "images/2026-11-07-01.jpg"
+        },
+        {
+          "originalTitle": "Hɔnmε (HONME)",
+          "creator": "Mahoutondji Kinmagbo",
+          "title": "돌아온 왕실 유물을 진열장이 아니라 의례 속에서 다시 깨운다",
+          "publishedAt": "2025",
+          "url": "https://fivars.net/stories/official-selections-2025/h%c9%94nm%ce%b5/",
+          "description": "관객이 베앙쟁 왕의 영혼을 체현해 복원된 성스러운 왕궁을 이동하는 인터랙티브 VR이다. 반환된 왕실 유물을 후손의 즉위와 공동체의 계승을 위한 대상으로 다시 놓는다.",
+          "insight": {
+            "mechanism": "약 20분의 VR 공간에서 관객의 시점과 이동을 왕의 영혼에 연결한다. 왕의 내면 음성과 궁전의 유물 배치를 따라가며 후손 즉위를 위한 축복의 역할을 맡는다.",
+            "whyNow": "약탈 유물의 반환을 소유권 이전으로 끝내지 않고 유물이 원래 수행하던 의례와 기억의 관계를 묻는다. 관객은 박물관의 구경꾼이 아니라 복원을 완결해야 하는 역할 안에 들어간다.",
+            "directorPoint": "유물을 한꺼번에 설명하기보다 왕의 음성, 이동, 축복 행동의 순서로 의미를 열어 준다. 관객이 무엇을 보고 무엇을 해야 하는지 분리하면 역사 설명과 역할 수행이 서로를 가리지 않는다.",
+            "critique": "대체 미래의 왕궁과 의례는 역사적 사실의 단순 재현이 아니라 작가의 추정과 서사적 재구성이다. VR에서 수행한 축복이 실제 공동체의 의례를 대신한다고 해석해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "탈식민·역사",
+              "의례·공동체"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": "베냉(공식 작가 소개)",
+            "region": "아프리카",
+            "venue": "Institut français du Bénin / 2025.11.10–29 종료"
+          },
+          "host": "fivars.net",
+          "imageFallback": "https://fivars.net/wp-content/uploads/2025/06/honme_still03.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://fivars.net/stories/official-selections-2025/h%c9%94nm%ce%b5/",
+            "sourceUrl": "https://fivars.net/wp-content/uploads/2025/06/honme_still03.jpg",
+            "kind": "gameplay",
+            "credit": "Mahoutondji Kinmagbo / FIVARS 공식 작품 갤러리",
+            "caption": "왕궁 내부에서 인물과 왕실 상징물을 바라보는 Hɔnmε의 실제 VR 스틸",
+            "checkedAt": "2026-11-07T07:28:00+09:00",
+            "usageBasis": "공식 작가·기관·행사 또는 해당 기관이 제공한 보도 이미지를 출처 및 크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "금빛 왕궁 내부에 인물과 왕실 상징물이 배치된 Hɔnmε 가상현실 장면"
+          },
+          "id": "2026-11-07-02",
+          "image": "images/2026-11-07-02.jpg"
+        },
+        {
+          "originalTitle": "Stories of Celluloid: The Exhibited Factory of Cinema",
+          "creator": "WU Chi-Yu (吳其育)",
+          "title": "영화 필름의 표면 뒤에 장뇌와 식민 자원 산업을 겹쳐 놓다",
+          "publishedAt": "2025 / 2026 ICC 전시",
+          "url": "https://www.ntticc.or.jp/en/archive/works/stories-of-celluloid-the-exhibited-factory-of-cinema/",
+          "description": "1935년 대만박람회에 전시된 장뇌 증류소 영상을 출발점으로 영화 필름의 원료와 식민지 자원 개발을 연결한다. 기록 영상, 문서, AI 생성 이미지가 무엇을 남기고 지우는지 함께 묻는다.",
+          "insight": {
+            "mechanism": "장뇌 생산 공정을 담은 기록 영상 위에 약품과 필름 원료의 관계를 설명하는 서사를 겹친다. 연작의 다른 영상은 미공개 산업 기록과 재사용 문서를 통해 새로운 이미지가 만들어지는 과정을 드러낸다.",
+            "whyNow": "AI 이미지가 데이터의 출처를 흐리는 현재를 초기 영화의 물질적 기반과 연결한다. 화면을 비물질적인 정보로만 보지 않고 필름·자원·노동·식민 통치의 연쇄로 되돌려 읽게 한다.",
+            "directorPoint": "기록 영상의 표면과 그 영상을 가능하게 한 재료의 경로를 번갈아 제시한다. 설명 자막을 모든 컷에 덮기보다 같은 장면을 다른 맥락에서 다시 보게 하는 반복이 효과적이다.",
+            "critique": "연작 설명에 AI 생성 이미지가 포함되지만 이 개별 영상의 모든 장면이 AI로 만들어졌다는 뜻은 아니다. 작품별 재료와 생성 방식을 구분하지 않으면 비판 대상인 기록의 혼합을 다시 반복하게 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "생성AI",
+              "아카이브 데이터"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "탈식민·역사",
+              "기술·권력"
+            ],
+            "scale": "영상·스크린"
+          },
+          "origin": {
+            "artistBase": "대만(공식 전시 소개)",
+            "region": "동아시아",
+            "venue": "NTT ICC, 도쿄 / 6.20–11.8"
+          },
+          "host": "www.ntticc.or.jp",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/008/5f1ba.8040.large.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ntticc.or.jp/en/archive/works/stories-of-celluloid-the-exhibited-factory-of-cinema/",
+            "sourceUrl": "https://www.ntticc.or.jp/uploads/assets/008/5f1ba.8040.large.jpg",
+            "kind": "installation",
+            "credit": "WU Chi-Yu / NTT InterCommunication Center [ICC] 공식 작품 기록",
+            "caption": "여러 화면과 자료가 배치된 Stories of Celluloid 연작의 ICC 전시 전경",
+            "checkedAt": "2026-11-07T07:28:00+09:00",
+            "usageBasis": "공식 작가·기관·행사 또는 해당 기관이 제공한 보도 이미지를 출처 및 크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "어두운 전시장에 기록 영상과 자료 화면이 나란히 배치된 Stories of Celluloid 설치"
+          },
+          "id": "2026-11-07-03",
+          "image": "images/2026-11-07-03.jpg"
+        },
+        {
+          "originalTitle": "ARCOPARLANTE",
+          "creator": "Almendra Díaz · Cristóbal Parra",
+          "title": "주민의 목소리가 철도 주변의 3D 도시 표면을 바꾼다",
+          "publishedAt": "2025",
+          "url": "https://17.bienaldeartesmediales.cl/obra/arcoparlante/",
+          "description": "산티아고 Quinta Normal의 철도 주변을 포토그래메트리로 만든 3D 모형에 주민들의 구술 증언을 연결한다. 현장 관객의 목소리도 녹음되어 터널과 사라진 역에 관한 공동 저장소에 더해진다.",
+          "insight": {
+            "mechanism": "도시 표면을 촬영해 만든 3D 모델이 재생되는 동안 구술 기록의 음성과 리듬이 모델을 실시간으로 변형한다. 전시장 녹음 장치는 새 증언을 받아 이후의 구술 아카이브에 추가한다.",
+            "whyNow": "도시 인프라를 지도와 행정 기록만으로 설명하지 않고 그 주변에서 살아온 사람들의 소문과 기억으로 다시 그린다. 데이터 모델이 완성된 표면이 아니라 계속 수정되는 공동 기록이 된다.",
+            "directorPoint": "한 사람의 증언이 시작되기 전 기준 모델을 잠시 보여주고 목소리에 따라 달라지는 지점을 강조한다. 녹음 참여와 즉시 변형되는 화면을 분리해 관객이 자신의 말이 언제 저장되고 언제 반응하는지 알게 한다.",
+            "critique": "구술 증언은 공식 기록이 놓친 경험을 남기지만 사실 검증과 개인정보 보관 범위는 별도 문제다. 현장 녹음이 장기 저장되는지, 삭제를 요청할 수 있는지는 공개 설명에서 확인되지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "언어"
+            ],
+            "tech": [
+              "3D스캔·포토그래메트리",
+              "음성·언어",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "도시·공동체",
+              "기억·아카이브",
+              "언어·번역"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "칠레(공식 비엔날레 소개)",
+            "region": "중남미",
+            "venue": "Centro Cultural CEINA, 산티아고 / 2025.10.9–26 종료"
+          },
+          "host": "17.bienaldeartesmediales.cl",
+          "imageFallback": "https://17.bienaldeartesmediales.cl/wp-content/uploads/sites/29/2025/08/Arcoparlante-15-1024x683.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://17.bienaldeartesmediales.cl/obra/arcoparlante/",
+            "sourceUrl": "https://17.bienaldeartesmediales.cl/wp-content/uploads/sites/29/2025/08/Arcoparlante-15-1024x683.jpg",
+            "kind": "installation",
+            "credit": "Almendra Díaz · Cristóbal Parra / 17 Bienal de Artes Mediales de Santiago",
+            "caption": "금속 구조 안팎에 복수의 화면과 스피커가 배치된 ARCOPARLANTE 실제 설치 전경",
+            "checkedAt": "2026-11-07T07:28:00+09:00",
+            "usageBasis": "공식 작가·기관·행사 또는 해당 기관이 제공한 보도 이미지를 출처 및 크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "금속 프레임 주변에 여러 화면과 음향 장치가 놓인 ARCOPARLANTE 전시장"
+          },
+          "id": "2026-11-07-04",
+          "image": "images/2026-11-07-04.jpg"
+        },
+        {
+          "originalTitle": "Signal Mirage",
+          "creator": "Saeed Gebaan",
+          "title": "명료해 보이는 신호가 색과 진동 속에서 계속 다른 뜻으로 지워진다",
+          "publishedAt": "2025",
+          "url": "https://riyadhart.rcrc.gov.sa/en/artworks/signal-mirage/",
+          "description": "어두운 방의 길고 투명한 구조 안에서 굴절광과 반응형 사운드가 색과 진동의 파동을 만든다. 광섬유 케이블을 닮은 형태는 정보를 전달하는 신호가 동시에 왜곡이 될 수 있음을 보여준다.",
+          "insight": {
+            "mechanism": "화학적으로 반응하는 투명 소재에 굴절광을 보내고 사운드를 연결해 색과 진동이 순차적으로 변하게 한다. 한 색이 나타난 뒤 다른 색에 지워지는 과정이 긴 구조를 따라 반복된다.",
+            "whyNow": "연결이 많을수록 정보가 명료해진다는 믿음 대신 신호가 피드백 속에서 의미와 오류를 함께 키우는 장면을 만든다. 정보 과부하를 숫자가 아니라 빛의 불안정한 지속으로 감각화한다.",
+            "directorPoint": "처음에는 한 가지 색의 이동을 충분히 따라가게 한 뒤 다른 색과 음향을 겹친다. 변화의 출발점과 사라지는 지점을 화면 안에 함께 두면 왜곡이 단순한 화려함으로 끝나지 않는다.",
+            "critique": "공식 설명은 반응형 사운드를 언급하지만 관객의 행동을 추적하는 센서나 실시간 데이터 입력은 밝히지 않는다. 작품의 신호를 실제 통신 정보의 시각화로 단정해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED",
+              "공간음향",
+              "반응형 재료"
+            ],
+            "theme": [
+              "언어·번역",
+              "기술·권력",
+              "정보·불확실성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "사우디아라비아(공식 작가 소개)",
+            "region": "중동",
+            "venue": "Noor Riyadh, STC Metro Station / 2025.11.20–12.6 종료"
+          },
+          "host": "riyadhart.rcrc.gov.sa",
+          "imageFallback": "https://media.admiddleeast.com/photos/6921606b9e7d120105a0358b/master/w_1600,c_limit/Saeed%20Gebaan_Signal%20Mirage_Photo_Noor%20Riyadh%202025-19.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.admiddleeast.com/story/noor-riyadh-2025-installations-that-steal-the-show",
+            "sourceUrl": "https://media.admiddleeast.com/photos/6921606b9e7d120105a0358b/master/w_1600,c_limit/Saeed%20Gebaan_Signal%20Mirage_Photo_Noor%20Riyadh%202025-19.jpg",
+            "kind": "installation",
+            "credit": "Photo courtesy Noor Riyadh / AD Middle East",
+            "caption": "어두운 공간에서 길고 투명한 구조가 보라색과 주황색 굴절광으로 빛나는 Signal Mirage 설치",
+            "checkedAt": "2026-11-07T07:28:00+09:00",
+            "usageBasis": "공식 작가·기관·행사 또는 해당 기관이 제공한 보도 이미지를 출처 및 크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "어두운 전시장 바닥의 긴 투명 구조 안에서 보라색과 주황색 빛이 번지는 Signal Mirage"
+          },
+          "id": "2026-11-07-05",
+          "image": "images/2026-11-07-05.jpg"
+        },
+        {
+          "originalTitle": "Continuum",
+          "creator": "illumaphonium",
+          "title": "다가가는 몸이 스물다섯 거울 기둥 사이에 빛과 소리의 파문을 만든다",
+          "publishedAt": "2026 시드니 전시",
+          "url": "https://www.vividsydney.com/event/light/continuum",
+          "description": "높이 2.5미터의 네 면 거울 기둥 25개가 서로 다른 각도로 놓인다. 관객이 다가가면 모션 센서가 빛의 파문과 소나 주파수의 소리를 작동시키고 반사된 도시와 사람을 겹친다.",
+          "insight": {
+            "mechanism": "각 기둥의 모션 센서가 접근을 감지해 가장자리의 빛과 음향 변화를 시작한다. 네 면의 거울은 다른 기둥·관객·주변 풍경을 여러 겹으로 반사해 실제 배열보다 더 큰 공간처럼 보이게 한다.",
+            "whyNow": "상호작용을 화면 속 결과에 가두지 않고 자신의 몸과 도시 풍경이 즉시 재료가 되는 공공 공간으로 넓힌다. 반응의 원인을 찾으려 걷는 행동 자체가 작품의 편집이 된다.",
+            "directorPoint": "입구에서는 정지한 기둥과 한 사람의 첫 접근을 선명하게 보여주고 이후 여러 기둥의 반응으로 확장한다. 넓은 전경과 거울 가까이의 시점을 교차하면 물리적 수와 반사된 수의 차이가 읽힌다.",
+            "critique": "소나 주파수라는 표현은 음향의 형식을 설명하지만 실제 수중 탐지나 거리 측정 데이터를 의미하지 않는다. 거울과 야간 조명은 시각적으로 강하지만 저시력 관객의 이동 동선과 눈부심 안내가 함께 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED",
+              "공간음향"
+            ],
+            "theme": [
+              "도시·공동체",
+              "놀이·게임",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "영국(공식 행사 소개)",
+            "region": "오세아니아",
+            "venue": "Vivid Sydney, Chinese Garden of Friendship forecourt / 5.22–6.13 종료"
+          },
+          "host": "www.vividsydney.com",
+          "imageFallback": "https://www.vividsydney.com/sites/default/files/styles/original_compressed/public/2026-05/Continuum.png?itok=WvPth9eU",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.vividsydney.com/event/light/continuum",
+            "sourceUrl": "https://www.vividsydney.com/sites/default/files/styles/original_compressed/public/2026-05/Continuum.png?itok=WvPth9eU",
+            "kind": "installation",
+            "credit": "illumaphonium / Vivid Sydney · Destination NSW 공식 작품 이미지",
+            "caption": "야간에 관객들이 빛나는 세로 가장자리의 거울 기둥 사이를 걷는 Continuum 설치 전경",
+            "checkedAt": "2026-11-07T07:28:00+09:00",
+            "usageBasis": "공식 작가·기관·행사 또는 해당 기관이 제공한 보도 이미지를 출처 및 크레딧과 함께 축소 프리뷰로 기록. 별도 이용허락이나 개방 라이선스를 주장하지 않음.",
+            "alt": "밤의 공원에서 사람들이 빛나는 거울 기둥 사이를 걷는 Continuum 설치"
+          },
+          "id": "2026-11-07-06",
+          "image": "images/2026-11-07-06.jpg"
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "여럿이 가르친 인공 유기체에게 누가 책임을 지는가",
+        "keywords": [
+          "집단 저작",
+          "기억의 몸",
+          "AI 양육",
+          "출처가 보이는 성장"
+        ],
+        "sections": [
+          {
+            "heading": "완성된 성격 대신 성장 규칙을 전시하다",
+            "body": "IMPRINT의 중심에는 하나의 캐릭터 설정이 아니라 배우고 기억하고 잊는 규칙이 있다. 작가는 개막 직전 어린아이를 흉내 내던 초기 버전을 버리고 나이와 배경 이야기가 없는 인공 유기체로 다시 설계했다고 설명한다. 관객은 완성된 인물과 대화하는 대신 자신이 건넨 말이 어떤 성격의 조건이 되는지 마주한다."
+          },
+          {
+            "heading": "기억의 출처를 색으로 남기다",
+            "body": "화면의 몸은 생각이 늘어날수록 가지를 뻗는다. 작가에게서 온 생각은 분홍, 관객에게서 온 것은 살구, 자체 추론은 라벤더색으로 표시된다. 이 구분은 AI의 응답을 하나의 목소리로 평평하게 만들지 않고 누가 어떤 재료를 보탰는지 시각적으로 남긴다. 기억의 양보다 출처를 비교할 수 있다는 점이 중요하다."
+          },
+          {
+            "heading": "밤의 수정도 설계된 과정이다",
+            "body": "전시가 닫힌 뒤 별도 모델이 하루의 대화를 다시 읽고 의견을 수정한다. 그러나 기본 모델이 관객의 대화로 재학습되는 것은 아니다. 작품은 이 차이를 숨기지 않으며 Immy가 의식이 있다고 주장하지도 않는다. 성장처럼 보이는 장면을 만들 때 연출자가 어떤 규칙과 자동화를 배치했는지 밝히는 태도가 작품의 비평을 지탱한다."
+          },
+          {
+            "heading": "책임은 입력한 사람과 환경을 만든 사람 사이에 있다",
+            "body": "관객은 한 문장을 남기고 떠나지만 그 말은 다음 대화의 환경이 될 수 있다. 작가는 모델, 기억 구조, 밤의 검토 규칙, 조각의 색 체계를 정했다. 작품이 묻는 책임은 사용자 한 사람에게만 있지 않다. 어떤 말을 받을지, 무엇을 오래 남길지, 오해를 언제 고칠지 설계한 사람과 참여한 사람들이 함께 만든 결과로 읽어야 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Sasha Sorokina 공식 작품 설명: 기억 구조·모델·색의 출처",
+            "url": "https://sashasorokin.com/projects/imprint"
+          },
+          {
+            "label": "Gray Area 공식 전시 기록: 커미션·기간·설치 전경",
+            "url": "https://grayarea.org/exhibitions/scaling-intelligence-modal-commissions/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-06",
       "title": "발짓과 소음이 공간의 리듬으로 번질 때",
       "summary": "도시의 소리가 비치는 천, 사람의 발짓에 반응하는 로봇, 기억을 탐색하는 혼합현실, 서로 어긋나는 빛의 주기, 접촉이 전파되는 풀밭, 광장에 모인 얼굴. 여섯 작업의 입력과 결과 사이를 살핀다.",

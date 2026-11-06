@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -238,6 +238,10 @@
     {
       "date": "2026-11-06",
       "note": "신규6작품·유럽/북미/동남남아시아3권역, 같은호스트최대2, Focus4단락/2공식출처. 과거75호/411항목 및 편집정책 보존. NAO 2022작품·2023공연사진·2026공연편성 구분. i Light Singapore 6월행사종료 명시."
+    },
+    {
+      "date": "2026-11-07",
+      "note": "신규6작품·6권역(북미/아프리카/동아시아/중남미/중동/오세아니아), 동일호스트없음, Focus4단락/2공식출처. 과거76호/417항목과 편집정책 보존. IMPRINT는 모델 재학습이 아닌 기억·야간 검토 규칙으로 구분. HONME는2025 VR/베냉 전시, Celluloid는2025작품/ICC 11.8 종료, ARCOPARLANTE와 Signal Mirage는2025 종료작, Continuum은2026 시드니 종료작으로 시제 구분. 신규검사 FAIL0/WARN0."
     }
   ],
   "source_notes": [
@@ -348,6 +352,10 @@
     {
       "date": "2026-11-06",
       "note": "RESONORA는음향변화와직물투사로설명,정확한색상매핑미공개. 대표이미지는실사진/시각화미명시를표기. NAO는LEV공연소개/IFdigital2022작품/SAW2023아카이브대조. Gora는Matadero공식대표이미지사용. Polyrhythmic은구체의움직임설명과실제기계구조미공개구분. Switch/Grass는생태데이터가아닌비유로표시. Celebration얼굴보관방식미확정."
+    },
+    {
+      "date": "2026-11-07",
+      "note": "IMPRINT: sashasorokin.com/projects/imprint와 Gray Area Scaling Intelligence 대조, 공개모델·기억출처색·야간별도모델·비재학습·비의식주장 확인. HONME: FIVARS 실제VR스틸과 Electric South 제작설명, IF Benin 2025현지전시 대조. Stories of Celluloid: NTT ICC 개별작품/Annual 2026로 장뇌-필름-식민자원 연결과 11.8 종료 확인. ARCOPARLANTE: 17BAM/칠레대에서 포토그래메트리3D·구술실시간변형·현장녹음 확인. Signal Mirage: Riyadh Art 공식 광학/반응형사운드 설명과 Noor Riyadh 제공 AD Middle East 고해상도 설치사진 대조, 관객센서·통신데이터 추정금지. Continuum: Vivid Sydney 공식 25개/2.5m/모션센서/빛·소나주파수 설명과 공식사진 사용, 실제 거리측정으로 확대금지. 모든 이미지는 출처·크레딧 보존 축소프리뷰이며 포괄적 라이선스 주장 없음."
     }
   ],
   "dedup_policy": {
