@@ -1,6 +1,362 @@
 {
   "issues": [
     {
+      "date": "2026-11-08",
+      "title": "작은 움직임이 장면의 크기와 시간을 바꾸는 여섯 방식",
+      "summary": "회전하는 광점, 손을 떠난 들꽃의 흔들림, 구멍을 통과한 빛, 지연된 몸의 영상, EEG의 추상 이미지, 회전하며 탐색하는 미시세계. 빛과 신체의 변화가 지각의 조건을 어떻게 설계하는지 읽는다.",
+      "crosscurrent": {
+        "note": "WAVE와 Sliced는 빛을 더하기보다 시간과 가림의 조건으로 공간을 바꾼다. Where the Wildflowers Grow와 MiMicrocosmos는 손의 행동을 탐색의 출발점으로 삼는다. The Machine Remembers You와 Mind Mirror는 몸을 이미지로 돌려주지만, 영상의 시간 지연과 EEG 신호의 변환이라는 서로 다른 원리를 쓴다.",
+        "itemIds": [
+          "2026-11-08-01",
+          "2026-11-08-02",
+          "2026-11-08-03",
+          "2026-11-08-04",
+          "2026-11-08-05",
+          "2026-11-08-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-08-01",
+          "originalTitle": "WAVE",
+          "creator": "Masamichi Shimada",
+          "title": "아홉 광점의 빠른 회전이 광장을 파문의 시간으로 바꾼다",
+          "publishedAt": "2022 / 선행 작품",
+          "url": "https://masamichi-shimada.com/2023/09/01/wave/",
+          "description": "높이 약 6미터의 장치가 회전하며 바닥에 빛의 파문을 만든다. 스톡홀름의 2022년 판본은 중력파 GW150914의 파형에서 리듬을 가져왔다. 과거 전시를 광학 연출의 선행 사례로 읽는다.",
+          "insight": {
+            "mechanism": "아홉 지향성 광원을 분당 700회 이상 회전시키고 바닥을 향하는 각도를 바꾼다. 빠르게 이동하는 광점이 잔상을 통해 넓은 파문으로 지각된다.",
+            "whyNow": "화면에 파문 영상을 더하기보다 작은 광원의 시간 구조로 도시 바닥을 다시 보게 한다. 장면의 크기와 발광체의 수가 같은 비례로 늘어날 필요는 없다는 사례다.",
+            "directorPoint": "바닥의 한 광점, 여러 파문, 그 사이를 걷는 사람을 차례로 비교한다. 영상으로 기록할 때는 촬영 조건에 따라 잔상의 인상이 달라질 수 있으므로 육안 경험과 촬영 결과를 따로 확인한다.",
+            "critique": "파형을 빌린 리듬은 중력파를 현장에서 측정한다는 뜻이 아니다. 작가가 설명한 광학 장치와 2022년 기관이 설명한 리듬의 출처를 구분하며 다른 전시 판본의 입력 방식을 섞지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "지각·반사",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Nobel Week Lights, Raoul Wallenbergs torg, 스톡홀름 / 2022.12.3–11 종료"
+          },
+          "host": "masamichi-shimada.com",
+          "image": "images/2026-11-08-01.jpg",
+          "imageFallback": "https://nobelprizemuseum.se/images//142341-landscape-x-large.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.nobelprizemuseum.se/en/nobel-week-lights/previous-editions/festival-2022/wave/",
+            "sourceUrl": "https://nobelprizemuseum.se/images//142341-landscape-x-large.jpg",
+            "kind": "installation",
+            "credit": "Masamichi Shimada / Photo: Benoît Derrier / Nobel Prize Museum",
+            "caption": "2022년 스톡홀름 광장에서 관객 사이 바닥에 푸른 광점과 파문이 펼쳐진 WAVE 실제 설치 기록",
+            "checkedAt": "2026-11-08T00:36:38+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 이미지를 출처와 크레딧을 보존한 축소 프리뷰로 기록한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "2022년 스톡홀름 광장에서 관객 사이 바닥에 푸른 광점과 파문이 펼쳐진 WAVE 실제 설치 기록"
+          }
+        },
+        {
+          "id": "2026-11-08-02",
+          "originalTitle": "Where the Wildflowers Grow",
+          "creator": "Kester Wong · Tan Shao Qi",
+          "title": "버려진 재료의 들꽃이 손이 떠난 뒤에도 흔들린다",
+          "publishedAt": "2026 행사 기록",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/where-the-wildflowers-grow/",
+          "description": "지역에서 회수한 산업 재료와 금속 자투리, 폐카펫으로 커다란 들꽃을 만든다. 관객의 접촉에 흔들림이 이어지며 여러 사람의 작은 행동이 정원의 움직임을 겹친다.",
+          "insight": {
+            "mechanism": "관객이 꽃 형태의 조형에 접촉하면 흔들리며 움직임이 잠시 남는다. 공식 소개는 구체적인 구동 장치를 밝히지 않으므로 센서·모터의 종류는 단정하지 않는다.",
+            "whyNow": "도시의 잡초를 제거 대상 대신 함께 머무는 존재로 바라보게 한다. 재활용이라는 설명은 재료의 과거와 만지는 현재가 만나는 물리적 표면을 얻는다.",
+            "directorPoint": "손이 닿는 순간만 강조하지 않고 손이 떠난 뒤 남는 흔들림까지 한 장면에 둔다. 서로 다른 꽃을 건드린 두 사람의 움직임을 나란히 보면 집단 참여의 리듬이 드러난다.",
+            "critique": "회수 재료를 사용했다는 사실만으로 제작·운송·운영 전체의 환경 부담이 낮다고 결론 내릴 수 없다. 접촉을 전제로 한 구조에는 만지기 어려운 관객의 관람 경로도 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기후·환경",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "싱가포르(공식 작가 소개)",
+            "region": "동남·남아시아",
+            "venue": "i Light Singapore 2026, Mist Walk / 종료된 행사 기록"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-08-02.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/39b457e0-f183-4beb-a172-ec9bd438144a/Where%20the%20Wildflowers%20Grow.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/where-the-wildflowers-grow/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/39b457e0-f183-4beb-a172-ec9bd438144a/Where%20the%20Wildflowers%20Grow.jpg",
+            "kind": "installation",
+            "credit": "Kester Wong · Tan Shao Qi / i Light Singapore · Urban Redevelopment Authority 공식 작품 이미지",
+            "caption": "관객들이 길게 솟은 줄기와 빛나는 꽃 형태 조형 사이를 걷는 Where the Wildflowers Grow 설치 전경",
+            "checkedAt": "2026-11-08T00:36:39+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 이미지를 출처와 크레딧을 보존한 축소 프리뷰로 기록한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "관객들이 길게 솟은 줄기와 빛나는 꽃 형태 조형 사이를 걷는 Where the Wildflowers Grow 설치 전경"
+          }
+        },
+        {
+          "id": "2026-11-08-03",
+          "originalTitle": "Sliced",
+          "creator": "Encor Studio",
+          "title": "빛을 더 쌓는 대신 어둠에 낸 구멍으로 통로를 편집한다",
+          "publishedAt": "2026 행사 기록",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/sliced/",
+          "description": "두꺼운 직물로 어두운 통로를 만들고 표면의 구멍으로 빛을 통과시킨다. 관객의 위치와 대기 조건이 달라질 때 빛과 그림자의 구성이 바뀐다.",
+          "insight": {
+            "mechanism": "차광하는 천과 구멍이 통로 안에 빛의 경로를 드러낸다. 걸을 때와 멈출 때 다른 패턴이 보이며 관람 각도 자체가 장면을 바꾸는 조건이 된다.",
+            "whyNow": "화려한 출력 장치를 계속 보태는 대신 이미 공간에 있는 빛·공기·소리에 주의를 돌린다. 설치의 규모를 물량보다 지각의 전환으로 읽게 하는 방식이다.",
+            "directorPoint": "입구의 어둠과 구멍을 지난 빛을 같은 동선에서 차례로 만나게 한다. 움직이는 시점과 고정 시점을 비교하면 통로의 변화가 재생 영상이 아니라 보는 위치와 관계한다는 점이 읽힌다.",
+            "critique": "공식 설명은 광원과 대기 효과의 상세 구성을 공개하지 않는다. 적은 개입이라는 미학을 무전력·무장비라고 바꾸어 설명할 수 없고 어두운 동선의 접근성도 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "스위스(공식 작가 소개)",
+            "region": "동남·남아시아",
+            "venue": "i Light Singapore 2026, NTUC Centre 옆 잔디밭 / 종료된 행사 기록"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-08-03.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/55829a9d-8b45-42e7-9514-fb464a885713/Sliced.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/sliced/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/55829a9d-8b45-42e7-9514-fb464a885713/Sliced.jpg",
+            "kind": "installation",
+            "credit": "Encor Studio / i Light Singapore · Urban Redevelopment Authority 공식 작품 이미지",
+            "caption": "구멍이 난 어두운 직물 통로에서 빛줄기와 그림자 사이로 관객이 걷는 Sliced 설치 전경",
+            "checkedAt": "2026-11-08T00:36:39+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 이미지를 출처와 크레딧을 보존한 축소 프리뷰로 기록한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "구멍이 난 어두운 직물 통로에서 빛줄기와 그림자 사이로 관객이 걷는 Sliced 설치 전경"
+          }
+        },
+        {
+          "id": "2026-11-08-04",
+          "originalTitle": "The Machine Remembers You",
+          "creator": "Andrew O'Connor",
+          "title": "지금의 몸 옆에 조금 전의 몸이 남아 시간을 겹친다",
+          "publishedAt": "2026 행사 기록",
+          "url": "https://www.lumenfestival.ca/installations-2026/the-machine-remembers-you",
+          "description": "실시간 카메라 영상 위에 조금 전 움직임을 겹치는 영상 설치다. 관객이 멈추거나 손짓하면 몸의 형상이 늘어나고 흩어졌다 다시 모이며 자신의 과거와 같은 화면에 선다.",
+          "insight": {
+            "mechanism": "현재 카메라 프레임과 직전 움직임의 흔적을 합성해 지연된 초상을 돌려준다. 몸의 동작이 잔상의 형태와 지속을 탐색하는 입력이 된다.",
+            "whyNow": "보이고 싶다는 욕망과 기록되고 싶지 않다는 불안을 같은 장면에 둔다. 기계가 이미지를 다루는 능력과 그 사람을 이해하는 능력은 다르다는 질문을 남긴다.",
+            "directorPoint": "한 동작 뒤에 잠시 멈춰 현재의 몸과 남은 흔적을 비교하게 한다. 합성 효과를 빠르게 바꾸기보다 원인이 된 손짓을 먼저 분명히 보여주면 시간의 어긋남이 읽힌다.",
+            "critique": "공식 설명은 영상 저장과 반복을 말하지만 보관 기간과 삭제 방식은 밝히지 않는다. 실시간 영상 처리라는 사실만으로 생성형 AI나 신원 인식이 쓰였다고 추정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "권력·감시",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "해밀턴, 캐나다(공식 작가 소개)",
+            "region": "북미",
+            "venue": "Lumen 2026, Canadian Clay and Glass Gallery, 워털루 / 공식 설치 기록"
+          },
+          "host": "www.lumenfestival.ca",
+          "image": "images/2026-11-08-04.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/5f578db72db4b0d57290bcf1/6a871078adf58070db0c0865_TheMachineRemembersYou_Andrew%20O%27Connor%201.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.lumenfestival.ca/installations-2026/the-machine-remembers-you",
+            "sourceUrl": "https://cdn.prod.website-files.com/5f578db72db4b0d57290bcf1/6a871078adf58070db0c0865_TheMachineRemembersYou_Andrew%20O%27Connor%201.jpg",
+            "kind": "installation",
+            "credit": "Andrew O'Connor / Lumen 공식 작품 이미지",
+            "caption": "지연·변형된 인물 영상을 네 장면으로 묶어 보여주는 The Machine Remembers You의 공식 작품 이미지 모음",
+            "checkedAt": "2026-11-08T00:36:38+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 이미지를 출처와 크레딧을 보존한 축소 프리뷰로 기록한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "지연·변형된 인물 영상을 네 장면으로 묶어 보여주는 The Machine Remembers You의 공식 작품 이미지 모음"
+          }
+        },
+        {
+          "id": "2026-11-08-05",
+          "originalTitle": "Mind Mirror",
+          "creator": "Eden Schwinghamer",
+          "title": "머리에 쓴 EEG가 추상적인 색과 형태의 입력이 된다",
+          "publishedAt": "2026 행사 기록",
+          "url": "https://www.lumenfestival.ca/installations-2026/mind-mirror",
+          "description": "EEG 헤드셋으로 받은 신호를 실시간 색과 형태로 외부 화면에 펼치는 설치다. 관객은 자신의 몸에서 나온 데이터와 추상 이미지가 만나는 자리에 선다.",
+          "insight": {
+            "mechanism": "EEG 헤드셋이 읽은 실시간 데이터를 시각적 표시로 변환한다. 공식 소개는 신호 전처리나 개별 지표가 어떤 색·형태에 대응하는지까지 설명하지 않는다.",
+            "whyNow": "몸 안의 보이지 않는 활동을 공유 가능한 이미지로 바꿀 때, 무엇을 읽었고 무엇을 연출했는지 구분하는 일이 중요해진다. 제목의 거울도 생각의 충실한 복사본으로 받아들일 수는 없다.",
+            "directorPoint": "헤드셋을 착용한 참여자와 결과 화면을 함께 보여주고 신호와 추상 이미지의 관계를 설명한다. 특정 색을 곧바로 행복·불안 같은 감정으로 부르는 카피는 피한다.",
+            "critique": "EEG 기반 시각화는 마음 읽기나 의료적 진단을 입증하지 않는다. 공개 자료에는 정확도·개인별 보정·데이터 보관 조건이 없으며 빠르게 변하는 빛에 대한 관람 안내도 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "과학장비·실험",
+              "웨어러블",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "신체·정체성",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "토론토, 캐나다(공식 작가 소개)",
+            "region": "북미",
+            "venue": "Lumen 2026, Waterloo City Hall / 공식 설치 기록"
+          },
+          "host": "www.lumenfestival.ca",
+          "image": "images/2026-11-08-05.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/5f578db72db4b0d57290bcf1/6a871f477764e2d659fca02c_Mind%20Mirror_Eden%20Schwinghamer%202.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.lumenfestival.ca/installations-2026/mind-mirror",
+            "sourceUrl": "https://cdn.prod.website-files.com/5f578db72db4b0d57290bcf1/6a871f477764e2d659fca02c_Mind%20Mirror_Eden%20Schwinghamer%202.jpg",
+            "kind": "installation",
+            "credit": "Eden Schwinghamer / Lumen 공식 작품 이미지",
+            "caption": "푸른빛의 투사 화면 앞에서 참여자와 안내자가 서 있는 Mind Mirror 실제 설치 기록",
+            "checkedAt": "2026-11-08T00:36:38+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 이미지를 출처와 크레딧을 보존한 축소 프리뷰로 기록한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "푸른빛의 투사 화면 앞에서 참여자와 안내자가 서 있는 Mind Mirror 실제 설치 기록"
+          }
+        },
+        {
+          "id": "2026-11-08-06",
+          "originalTitle": "MiMicrocosmos",
+          "creator": "Josef Lepša · Jiří Rouš · Marek Volf · Michal Vrba (Lepša Studio)",
+          "title": "회전하는 손동작으로 현미경 밖의 작은 세계를 탐색한다",
+          "publishedAt": "2026 전시 기록",
+          "url": "https://file.org.br/installations_2026/lepsa-studio-mimicrocosmos-republica-tcheca/",
+          "description": "현미경으로 보던 세계에서 착안한 이미지를 물리적으로 놀 수 있는 설치로 옮긴다. 관객의 회전 동작이 추상적인 미시세계와 만나는 방식은 어린이의 놀이처럼 직관적으로 제시된다.",
+          "insight": {
+            "mechanism": "회전시키는 행위를 통해 미시세계에서 착안한 시각 경험을 탐색한다. 전시 사진에는 손을 대는 원형 조작부와 그 뒤의 원형 이미지가 보이지만 센서와 생성 방식의 세부는 공개되지 않았다.",
+            "whyNow": "작은 세계를 설명문으로 확대하는 대신 손의 동작으로 접근할 수 있는 크기에 놓는다. 과학적 이미지의 권위보다 놀며 알아가는 태도가 전면에 온다.",
+            "directorPoint": "회전하기 전의 이미지와 손이 움직이는 동안의 변화를 비교한다. 조작부와 결과 화면을 한 시야에 두면 처음 참여하는 사람도 행동과 결과의 관계를 찾기 쉽다.",
+            "critique": "공식 소개는 현미경 세계에서 영감을 받았다고 말한다. 실제 생물 표본이나 현미경 실측을 보여준다고 명시하지 않으므로 보이는 원형들을 특정 세포나 생물종으로 이름 붙이지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "놀이·게임",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "체코(공식 행사 표기)",
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026 / 공식 전시 기록"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-08-06.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Lepsa-Studio-MiMicrocosmos-Republica-Tcheca-FILE-SP-2026-2-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/installations_2026/lepsa-studio-mimicrocosmos-republica-tcheca/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Lepsa-Studio-MiMicrocosmos-Republica-Tcheca-FILE-SP-2026-2-scaled.jpg",
+            "kind": "installation",
+            "credit": "Lepša Studio / FILE São Paulo 2026 공식 전시 기록",
+            "caption": "관객이 원형 조작부에 손을 대고 여러 색의 원형 이미지가 있는 화면을 바라보는 MiMicrocosmos 실제 설치 전경",
+            "checkedAt": "2026-11-08T00:36:40+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 이미지를 출처와 크레딧을 보존한 축소 프리뷰로 기록한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "관객이 원형 조작부에 손을 대고 여러 색의 원형 이미지가 있는 화면을 바라보는 MiMicrocosmos 실제 설치 전경"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "WAVE: 광원을 늘리는 대신 빛의 시간을 회전시키다",
+        "keywords": [
+          "잔상",
+          "광점의 궤적",
+          "파형의 리듬",
+          "판본의 구분"
+        ],
+        "sections": [
+          {
+            "heading": "물의 이미지를 바닥의 사건으로 옮기다",
+            "body": "작가는 빗방울이 웅덩이에 만드는 파문에서 출발한다. 물을 가득 담은 화면 대신 관객이 걷는 바닥 위에 빛을 놓으면 파문의 크기는 주변 사람과 건축을 기준으로 읽힌다. 작은 현상을 도시의 척도로 바꾸는 연출이다."
+          },
+          {
+            "heading": "아홉 점이 넓은 면으로 보이는 조건",
+            "body": "작가가 밝힌 장치는 아홉 지향성 광원을 분당 700회 이상 회전시키고, 높이 약 6미터에서 바닥을 향하는 각도를 바꾼다. 잔상이 광점의 이동을 파문으로 묶는다. 공간의 넓이는 광원의 개수뿐 아니라 빛이 지나가는 시간과 경로에서 나온다."
+          },
+          {
+            "heading": "2022년 판본의 리듬에는 별도의 출처가 있다",
+            "body": "노벨박물관은 스톡홀름 판본이 GW150914의 파형에서 파문의 리듬을 샘플링했다고 기록한다. 작가의 설명이 광학적 생성 방식을 보여준다면 이 전시 기록은 그 판본의 시간적 참조를 밝힌다. 중력파를 현장에서 검출하거나 환경 진동을 실측하는 장치라는 뜻은 아니다."
+          },
+          {
+            "heading": "닮은 효과와 같은 작동 원리를 구별하다",
+            "body": "파문처럼 보인다는 인상만으로 물, 영상 투사, 회전 광원을 같은 기술로 묶을 수 없다. 이 작업을 응용해 읽을 지점은 움직임을 하나의 장면으로 지각하게 만드는 시간 조건이다. 전시 판본과 촬영 조건을 남겨야 사진의 빛무늬를 실제 관람 경험 전체로 오해하지 않는다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Masamichi Shimada 공식 작품 설명: 회전 광원·잔상·2022년 초연",
+            "url": "https://masamichi-shimada.com/2023/09/01/wave/"
+          },
+          {
+            "label": "Nobel Prize Museum 2022 전시 기록: GW150914 파형 참조·장소·사진",
+            "url": "https://www.nobelprizemuseum.se/en/nobel-week-lights/previous-editions/festival-2022/wave/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-07",
       "title": "말과 기억이 다른 몸을 얻는 여섯 장치",
       "summary": "대화가 자라는 인공 유기체, 반환된 유물을 다시 의례에 놓는 VR, 필름의 물질사를 되짚는 영상, 주민의 목소리로 변형되는 도시 모형, 신호의 불확실성을 빛으로 만드는 구조, 접근하는 몸을 반사하는 기둥. 기록이 다른 매체의 몸을 얻는 여섯 방식을 살핀다.",
@@ -22285,7 +22641,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-05T15:36:34+00:00",
+  "generatedAt": "2026-11-08T00:41:16+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

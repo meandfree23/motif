@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -242,6 +242,10 @@
     {
       "date": "2026-11-07",
       "note": "신규6작품·6권역(북미/아프리카/동아시아/중남미/중동/오세아니아), 동일호스트없음, Focus4단락/2공식출처. 과거76호/417항목과 편집정책 보존. IMPRINT는 모델 재학습이 아닌 기억·야간 검토 규칙으로 구분. HONME는2025 VR/베냉 전시, Celluloid는2025작품/ICC 11.8 종료, ARCOPARLANTE와 Signal Mirage는2025 종료작, Continuum은2026 시드니 종료작으로 시제 구분. 신규검사 FAIL0/WARN0."
+    },
+    {
+      "date": "2026-11-08",
+      "note": "신규 6작품·4권역(유럽/동남·남아시아/북미/중남미), 호스트 최대 2, WAVE Focus 4단락·2공식출처. 2022 선행작과 2026 종료 행사 기록을 구분. 기존 77호/423항목 보존. 일요일 기존 Signals 7개 검토·근거 6개 추가·새 신호 0, Toolkit 3개 추가."
     }
   ],
   "source_notes": [
@@ -356,6 +360,10 @@
     {
       "date": "2026-11-07",
       "note": "IMPRINT: sashasorokin.com/projects/imprint와 Gray Area Scaling Intelligence 대조, 공개모델·기억출처색·야간별도모델·비재학습·비의식주장 확인. HONME: FIVARS 실제VR스틸과 Electric South 제작설명, IF Benin 2025현지전시 대조. Stories of Celluloid: NTT ICC 개별작품/Annual 2026로 장뇌-필름-식민자원 연결과 11.8 종료 확인. ARCOPARLANTE: 17BAM/칠레대에서 포토그래메트리3D·구술실시간변형·현장녹음 확인. Signal Mirage: Riyadh Art 공식 광학/반응형사운드 설명과 Noor Riyadh 제공 AD Middle East 고해상도 설치사진 대조, 관객센서·통신데이터 추정금지. Continuum: Vivid Sydney 공식 25개/2.5m/모션센서/빛·소나주파수 설명과 공식사진 사용, 실제 거리측정으로 확대금지. 모든 이미지는 출처·크레딧 보존 축소프리뷰이며 포괄적 라이선스 주장 없음."
+    },
+    {
+      "date": "2026-11-08",
+      "note": "WAVE:작가 9광원/700rpm이상/약6m/2022초연과 Nobel Museum GW150914리듬·2022.12.3–11·Benoit Derrier 설치사진 대조;다른2026반응형판본의입력방식혼합금지. Wildflowers:iLight 공식 회수산업재료·금속·폐카펫·접촉후흔들림;정확한센서/모터추정금지. Sliced:공식천/구멍/빛/각도/대기조건;무전력으로설명하지않음. Machine:Lumen 공식실시간카메라/지연합성과4장면공식이미지모음;AI/신원인식추정금지. Mind:Lumen 공식EEG/실시간데이터·실제설치전경;감정판독·진단·정확도추정금지. MiMicro:FILE2026 개별/아카이브에서작가4명·체코·회전놀이및2026설치사진확인;실제현미경계측으로소개하지않음. 모든신규이미지공식원문대조·시각검수완료. 출처/크레딧을지킨축소프리뷰이며별도이용허락이나개방라이선스주장없음. 주간근거용Scenocosme/SonicBody/RESONORA/IMPRINT 공식설명재조회."
     }
   ],
   "dedup_policy": {
