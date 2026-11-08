@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -246,6 +246,10 @@
     {
       "date": "2026-11-08",
       "note": "신규 6작품·4권역(유럽/동남·남아시아/북미/중남미), 호스트 최대 2, WAVE Focus 4단락·2공식출처. 2022 선행작과 2026 종료 행사 기록을 구분. 기존 77호/423항목 보존. 일요일 기존 Signals 7개 검토·근거 6개 추가·새 신호 0, Toolkit 3개 추가."
+    },
+    {
+      "date": "2026-11-09",
+      "note": "신규 6작품·북미/오세아니아/중남미 3권역·동일 호스트 최대 2. Empreintes sonores Focus 4단락·2공식출처. 기존 78호/429항목과 편집 규칙 보존. 11월8일 Signals/Toolkit 주간 갱신분 변경 없음."
     }
   ],
   "source_notes": [
@@ -364,6 +368,10 @@
     {
       "date": "2026-11-08",
       "note": "WAVE:작가 9광원/700rpm이상/약6m/2022초연과 Nobel Museum GW150914리듬·2022.12.3–11·Benoit Derrier 설치사진 대조;다른2026반응형판본의입력방식혼합금지. Wildflowers:iLight 공식 회수산업재료·금속·폐카펫·접촉후흔들림;정확한센서/모터추정금지. Sliced:공식천/구멍/빛/각도/대기조건;무전력으로설명하지않음. Machine:Lumen 공식실시간카메라/지연합성과4장면공식이미지모음;AI/신원인식추정금지. Mind:Lumen 공식EEG/실시간데이터·실제설치전경;감정판독·진단·정확도추정금지. MiMicro:FILE2026 개별/아카이브에서작가4명·체코·회전놀이및2026설치사진확인;실제현미경계측으로소개하지않음. 모든신규이미지공식원문대조·시각검수완료. 출처/크레딧을지킨축소프리뷰이며별도이용허락이나개방라이선스주장없음. 주간근거용Scenocosme/SonicBody/RESONORA/IMPRINT 공식설명재조회."
+    },
+    {
+      "date": "2026-11-09",
+      "note": "Empreintes:Lumen2026 공식 파형/측면이동 및 공동제작자 djip.co 공식 상시녹음/리믹스/공간탐색/2022부터전시이력 대조. Cô·Côté 표기는동일작가공식소개를따르며작품을다른크레딧으로분리하지않음. Camila Picolo 크레딧이명시된작가갤러리9사진사용,2026워털루실황으로소개하지않음. Moment:Lumen공식모래시계/별의생애조명시퀀스·토론토거점;눈쌓인공식사진은장소/촬영일미명시,풍속센서추정금지. Optik:Vivid공식10조형/이색성패널/낮밤음향과TheUrbanConga공식15도음전환·순회판본대조;Creos는투어운영으로작가크레딧대체금지. Manawan:Vivid공식7철제기둥3–6.5m/양면세로빛/BardiJawiCountry/작가롬바디나관계확인;문화적치유상징을의료효과로바꾸지않음. Blue:FILE공식한명씩그네/색광과네덜란드거점·실제전시기록;고유수용감각상실을보편적측정결과로주장하지않음. Soft:FILE2026공식실시간게임/물의여신/비선형시간·실제다중화면설치사진과FILE작가아카이브SamTwidale/MarijaAvramovic연결확인;정확한선택분기/센서추정금지. 공식사진6개원문대조와시각검수완료,포괄적라이선스주장없음."
     }
   ],
   "dedup_policy": {

@@ -1,6 +1,368 @@
 {
   "issues": [
     {
+      "date": "2026-11-09",
+      "title": "사라지는 소리와 몸의 감각이 공간에 남는 여섯 방식",
+      "summary": "멈춘 목소리의 파형, 별의 시간을 닮은 빛, 손으로 돌리는 공동 악기, 나무의 기억을 세운 기둥, 색과 그네가 바꾸는 몸의 위치, 순환하는 물의 세계. 흔적을 읽는 관객의 행동이 어떻게 달라지는지 살핀다.",
+      "crosscurrent": {
+        "note": "Empreintes sonores는 소리를 붙잡아 몸이 지나가는 공간으로, Optik은 손의 회전을 함께 듣는 음으로 바꾼다. Moment와 Manawan은 관객이 조작하지 않아도 빛의 시간과 장소의 기억에 머무르게 한다. INEVITABLY BLUE와 Soft Waters는 각각 물리적인 그네와 가상의 물을 통해 일상의 위치·시간 감각을 흔든다.",
+        "itemIds": [
+          "2026-11-09-01",
+          "2026-11-09-02",
+          "2026-11-09-03",
+          "2026-11-09-04",
+          "2026-11-09-05",
+          "2026-11-09-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-09-01",
+          "originalTitle": "Empreintes sonores",
+          "creator": "Victor Drouin-Trempe · Jean-Philippe Cô",
+          "title": "지나간 목소리를 멈춰 세우고 몸으로 가로질러 듣는다",
+          "publishedAt": "2026 행사 기록 / 2022년부터 전시 이력",
+          "url": "https://www.lumenfestival.ca/installations-2026/empreintes-sonores",
+          "description": "관객의 소리를 붙잡아 빛나는 파형으로 펼치고, 그 앞을 이동하며 목소리의 결을 탐색하게 한다. 들리는 소리를 따라가는 대신 몸이 멈춘 소리의 공간을 통과한다. 사진은 작가가 공개한 선행 전시 기록이다.",
+          "insight": {
+            "mechanism": "음성 입력을 포착해 가공·재생하고 눈에 띄는 발성이 감지되면 파형을 시각화한다. 관객은 좌우로 이동하며 정지된 소리의 세부를 다른 위치에서 탐색한다.",
+            "whyNow": "항상 듣는 디지털 비서의 존재는 익숙해졌지만 무엇이 기록되는지는 잘 보이지 않는다. 작품은 저장된 목소리를 통과할 수 있는 풍경으로 드러내 편의와 사생활 사이의 관계를 묻는다.",
+            "directorPoint": "소리를 낸 순간, 파형이 남은 상태, 몸이 그 앞을 지나는 장면을 차례로 보여준다. 같은 파형 앞에서 위치만 바꾸는 비교를 두면 장식적인 음향 그래픽과 공간 탐색의 차이가 읽힌다.",
+            "critique": "공개 설명은 구체적인 보관 기간과 삭제 절차를 밝히지 않는다. 디지털 비서에 대한 작가의 비판을 이 작품이 실제로 클라우드에 음성을 보낸다는 구현 사실로 바꾸어 말해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "음성·언어",
+              "프로젝션",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "권력·감시",
+              "기억·아카이브",
+              "언어·번역"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "퀘벡, 캐나다(공식 작가 소개)",
+            "region": "북미",
+            "venue": "Lumen 2026, CIGI, 워털루 / 종료된 행사 기록"
+          },
+          "host": "www.lumenfestival.ca",
+          "image": "images/2026-11-09-01.jpg",
+          "imageFallback": "https://djip.co/wp-content/uploads/2022/empreintes-sonores/Empreintes-Sonores-Credits_-Camila-Picolo-9-800x533.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://djip.co/fr/art/empreintes-sonores",
+            "sourceUrl": "https://djip.co/wp-content/uploads/2022/empreintes-sonores/Empreintes-Sonores-Credits_-Camila-Picolo-9-800x533.jpg",
+            "kind": "installation",
+            "credit": "Victor Drouin-Trempe · Jean-Philippe Cô / Photo: Camila Picolo / 작가 공식 갤러리",
+            "caption": "작가가 공개한 선행 전시에서 관객이 푸른색과 초록색 음성 파형 앞을 걷는 Empreintes sonores 기록 사진. 2026년 워털루 현장 사진으로 특정하지 않는다.",
+            "checkedAt": "2026-11-09T00:37:46+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 기록을 출처와 크레딧을 보존한 축소 프리뷰로 사용한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "작가가 공개한 선행 전시에서 관객이 푸른색과 초록색 음성 파형 앞을 걷는 Empreintes sonores 기록 사진. 2026년 워털루 현장 사진으로 특정하지 않는다."
+          }
+        },
+        {
+          "id": "2026-11-09-02",
+          "originalTitle": "Moment",
+          "creator": "Melissa Joakim",
+          "title": "별이 밝아졌다 사라지는 시간을 빛의 모래시계로 세운다",
+          "publishedAt": "2026 행사 기록",
+          "url": "https://www.lumenfestival.ca/installations-2026/moment",
+          "description": "구조물에 매달린 모래시계 형태의 빛이 별의 생애를 참조하는 시퀀스를 펼친다. 잠깐 밝아졌다 사라지는 별과 지금 지나가는 순간을 하나의 형상에 겹친다. 사진은 공식 작품 기록이며 촬영 장소·일자는 명시되지 않았다.",
+          "insight": {
+            "mechanism": "모래시계와 별을 연상시키는 발광 구조에 밝기의 변화가 이어진다. 공식 설명은 바람 속의 움직임을 언급하지만 풍속 센서로 조명을 제어한다고 밝히지는 않는다.",
+            "whyNow": "관객에게 즉각적인 조작 결과를 돌려주기보다 이미 흘러가는 빛의 시간을 바라보게 한다. 참여의 강도를 높이는 대신 머무르는 길이가 경험을 바꾸는 사례다.",
+            "directorPoint": "가장 밝은 순간만 모으지 않고 밝아짐과 어두워짐 사이의 시간을 함께 남긴다. 같은 구도 안에서 주변의 정적인 나무와 변화하는 빛을 비교하면 한 주기의 길이가 읽힌다.",
+            "critique": "별의 생애는 작품의 은유이며 천문 관측 자료를 그대로 재생하는 시뮬레이션이라고 명시되지 않았다. 공식 사진에 보이는 계절을 2026년 워털루 행사 시점으로 오인하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "토론토, 캐나다(공식 작가 소개)",
+            "region": "북미",
+            "venue": "Lumen 2026, Waterloo Park Shoreline / 종료된 행사 기록"
+          },
+          "host": "www.lumenfestival.ca",
+          "image": "images/2026-11-09-02.jpg",
+          "imageFallback": "https://cdn.prod.website-files.com/5f578db72db4b0d57290bcf1/6a998a9b21a2323c2d65abbe_Moment_Melissa%20Joakim.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.lumenfestival.ca/installations-2026/moment",
+            "sourceUrl": "https://cdn.prod.website-files.com/5f578db72db4b0d57290bcf1/6a998a9b21a2323c2d65abbe_Moment_Melissa%20Joakim.jpg",
+            "kind": "installation",
+            "credit": "Melissa Joakim / Lumen 공식 작품 기록",
+            "caption": "눈이 남은 나무 사이에서 모래시계 모양의 여러 색 광선이 빛나는 Moment 공식 기록 사진. 2026년 워털루 행사 현장 사진으로 특정하지 않는다.",
+            "checkedAt": "2026-11-09T00:37:45+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 기록을 출처와 크레딧을 보존한 축소 프리뷰로 사용한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "눈이 남은 나무 사이에서 모래시계 모양의 여러 색 광선이 빛나는 Moment 공식 기록 사진. 2026년 워털루 행사 현장 사진으로 특정하지 않는다."
+          }
+        },
+        {
+          "id": "2026-11-09-03",
+          "originalTitle": "Optik",
+          "creator": "The Urban Conga · Serge Maheu · Init",
+          "title": "고리를 돌리는 손이 색을 바꾸고 다른 사람의 악기와 만난다",
+          "publishedAt": "2026 시드니 행사 기록",
+          "url": "https://www.vividsydney.com/event/light/optik",
+          "description": "자이로스코프 같은 고리를 돌리면 중앙의 이색성 패널이 주변 풍경의 색을 바꾸고 음이 발생한다. 2026년 시드니 편성은 열 개의 조형을 거리의 공동 악기처럼 배치했다.",
+          "insight": {
+            "mechanism": "작가 설명에서 회전은 15도마다 다른 음을 발생시키는 입력이다. 낮에는 주변을 반사하고 밤에는 내부 조명이 패널을 통과하며 각 조형이 서로 다른 악기 역할을 맡는다.",
+            "whyNow": "공공 미술을 한 장의 사진으로 소비하는 대신 손을 움직이고 옆 사람의 소리를 듣는 장소로 바꾼다. 같은 조작을 여러 사람이 나누면서 낯선 사람과 합주할 여지를 만든다.",
+            "directorPoint": "한 고리의 작은 회전과 음의 관계를 먼저 보여준 뒤 다른 고리의 응답을 잇는다. 낮의 주변 풍경과 밤의 내부 빛을 비교하면 같은 구조가 다른 시각 조건을 만드는 방식이 선명해진다.",
+            "critique": "같은 장치가 다른 도시로 순회하므로 15도 단위라는 작가의 설명과 특정 현장 설정을 구분해야 한다. 관객 수와 주변 소음이 늘면 자신의 손짓과 다른 사람의 음을 구분하기 어려울 수 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "촉각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "센서·인터랙션",
+              "라이트·LED"
+            ],
+            "theme": [
+              "놀이·게임",
+              "도시·공동체",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "브루클린, 미국 / 퀘벡, 캐나다(공식 참여자 소개)",
+            "region": "오세아니아",
+            "venue": "Vivid Sydney 2026, Loftus Street, Circular Quay / 5.22–6.13 종료"
+          },
+          "host": "www.vividsydney.com",
+          "image": "images/2026-11-09-03.jpg",
+          "imageFallback": "https://www.vividsydney.com/sites/default/files/styles/original_compressed/public/2026-05/Optik.png?itok=WybcQy76",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.vividsydney.com/event/light/optik",
+            "sourceUrl": "https://www.vividsydney.com/sites/default/files/styles/original_compressed/public/2026-05/Optik.png?itok=WybcQy76",
+            "kind": "installation",
+            "credit": "The Urban Conga · Serge Maheu · Init / Vivid Sydney · Destination NSW 공식 작품 기록",
+            "caption": "동심원 형태의 회전 구조와 여러 색을 반사하는 중앙 패널이 야간 조명 속에 놓인 Optik 공식 설치 기록",
+            "checkedAt": "2026-11-09T00:37:45+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 기록을 출처와 크레딧을 보존한 축소 프리뷰로 사용한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "동심원 형태의 회전 구조와 여러 색을 반사하는 중앙 패널이 야간 조명 속에 놓인 Optik 공식 설치 기록"
+          }
+        },
+        {
+          "id": "2026-11-09-04",
+          "originalTitle": "Manawan",
+          "creator": "Darrell Sibosado",
+          "title": "도심의 일곱 빛 기둥에 Bardi Jawi Country의 나무를 다시 세운다",
+          "publishedAt": "2026 시드니 행사 기록",
+          "url": "https://www.vividsydney.com/event/minds/manawan",
+          "description": "서호주 킴벌리 지역의 나무를 높이 3–6.5미터의 철제 기둥 일곱 개로 해석한다. 서로 반대인 두 면의 세로 빛이 낮과 밤의 도시 안에서 다른 존재감을 만든다.",
+          "insight": {
+            "mechanism": "일곱 기둥의 높이와 양면의 세로 조명이 숲을 떠올리는 공간 배열을 만든다. 관객의 행동을 감지하거나 실제 나무의 생체 신호로 구동한다는 설명은 없다.",
+            "whyNow": "전통을 과거의 고정된 문양으로 두지 않고 동시대의 빛 조형으로 발언하게 한다. 작가가 속한 땅과 문화의 구체적인 관계를 도시의 일상적 동선 안에 놓는 작업이다.",
+            "directorPoint": "기둥의 전체 배열과 사람이 지나가는 높이를 함께 보여주고 낮의 표면과 밤의 빛을 나누어 읽는다. 형상을 먼저 추상 패턴으로 차용하기보다 이름과 장소에 담긴 맥락을 연결한다.",
+            "critique": "치유와 생명력은 공식 소개의 상징적 표현이며 설치의 의학적 효과를 뜻하지 않는다. 나무와 문화적 불 사용의 의미를 빛 기둥만으로 모두 전달할 수 없다는 한계도 남는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "롬바디나, 서호주(공식 작가 소개)",
+            "region": "오세아니아",
+            "venue": "Vivid Sydney 2026, Alfred Street·Loftus Street, Circular Quay / 5.22–6.13 종료"
+          },
+          "host": "www.vividsydney.com",
+          "image": "images/2026-11-09-04.jpg",
+          "imageFallback": "https://www.vividsydney.com/sites/default/files/styles/original_compressed/public/2026-05/Manawan.png?itok=QMptg5Gw",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.vividsydney.com/event/minds/manawan",
+            "sourceUrl": "https://www.vividsydney.com/sites/default/files/styles/original_compressed/public/2026-05/Manawan.png?itok=QMptg5Gw",
+            "kind": "installation",
+            "credit": "Darrell Sibosado / Vivid Sydney · Destination NSW 공식 작품 기록",
+            "caption": "낮의 Circular Quay에서 관객 뒤로 높이가 서로 다른 밝은색 기둥들이 솟은 Manawan 실제 설치 기록",
+            "checkedAt": "2026-11-09T00:37:44+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 기록을 출처와 크레딧을 보존한 축소 프리뷰로 사용한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "낮의 Circular Quay에서 관객 뒤로 높이가 서로 다른 밝은색 기둥들이 솟은 Manawan 실제 설치 기록"
+          }
+        },
+        {
+          "id": "2026-11-09-05",
+          "originalTitle": "INEVITABLY BLUE",
+          "creator": "Sophia Bulgakova",
+          "title": "한 사람의 그네와 색광으로 몸의 위치를 가늠하는 감각을 흔든다",
+          "publishedAt": "2026 전시 기록",
+          "url": "https://file.org.br/installations_2026/sophia-bulgakova-inevitably-blue-ucrania/",
+          "description": "한 번에 한 사람씩 그네에 앉아 색의 구성과 떠 있는 듯한 움직임을 경험한다. FILE의 전시 기록을 통해 몸의 위치 감각과 시각적 단서의 관계를 읽는다.",
+          "insight": {
+            "mechanism": "그네의 움직임과 공간을 채우는 색광을 결합한다. 참여자가 일상적인 위치·거리의 참조에서 벗어나 색과 상상에 집중하도록 의도한 구성이며 실제 체감은 관객마다 다를 수 있다.",
+            "whyNow": "몰입을 더 정밀한 가상 풍경의 문제로만 보지 않고 현실의 단서를 줄이는 방식으로 접근한다. 몸이 어디에 있는지 판단하는 감각 자체가 작품의 소재가 된다.",
+            "directorPoint": "체험 전후의 자리와 그네가 움직이는 장면을 비교해 색 변화와 신체 이동의 역할을 나눈다. 참여자의 표정을 일률적인 감정의 증거로 쓰지 않고 각자가 말하는 차이를 남긴다.",
+            "critique": "기관이 설명하는 감각 변화는 모든 참여자의 동일한 효과를 입증한 측정 결과가 아니다. 그네에 앉기 어렵거나 흔들림·빛에 민감한 관객의 선택지도 함께 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "라이트·LED",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "신체·정체성",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "네덜란드(공식 작가 소개)",
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026 / 종료된 전시 기록"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-09-05.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Sophia-Bulgakova-INEVITABLY-BLUE-Ucrania-FILE-SP-2026-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/installations_2026/sophia-bulgakova-inevitably-blue-ucrania/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Sophia-Bulgakova-INEVITABLY-BLUE-Ucrania-FILE-SP-2026-scaled.jpg",
+            "kind": "installation",
+            "credit": "Sophia Bulgakova / FILE São Paulo 2026 공식 전시 기록",
+            "caption": "색광이 채운 방에서 그네에 앉은 참여자 옆에 안내자가 서 있는 INEVITABLY BLUE 실제 전시 전경",
+            "checkedAt": "2026-11-09T00:37:46+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 기록을 출처와 크레딧을 보존한 축소 프리뷰로 사용한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "색광이 채운 방에서 그네에 앉은 참여자 옆에 안내자가 서 있는 INEVITABLY BLUE 실제 전시 전경"
+          }
+        },
+        {
+          "id": "2026-11-09-06",
+          "originalTitle": "Soft Waters",
+          "creator": "Marija Avramović · Sam Twidale (Xenoangel)",
+          "title": "물의 몸을 따라 화산의 과거와 에코 레이브의 미래를 오간다",
+          "publishedAt": "2026 전시 기록",
+          "url": "https://file.org.br/installations_2026/xenoangel-soft-waters-franca-inglaterra-servia/",
+          "description": "고대 화산의 분화구 호수에 사는 물의 여신을 중심으로 한 실시간 인터랙티브 작품이다. 비디오게임의 언어와 에코페미니즘 글쓰기가 화산의 휴면과 가까운 미래의 레이브 이후를 이어 준다.",
+          "insight": {
+            "mechanism": "게임 형식의 실시간 환경에서 물과 신체의 순환을 통해 비선형적인 시간을 탐색한다. 공개 설명은 관객의 구체적인 조작 목록과 선택이 서사에 미치는 범위를 밝히지 않는다.",
+            "whyNow": "물과 인간의 관계를 경고성 정보 화면 대신 함께 거주하는 허구의 세계로 만든다. 과거와 미래를 한 방향으로 정리하기보다 서로 순환하는 감각을 제안한다.",
+            "directorPoint": "같은 물의 형상이 다른 시간대에 나타나는 순간을 연결해 순환을 읽게 한다. 화면 속 신화와 실제 전시의 조작 자리를 함께 제시하면 관객이 어떤 역할로 들어가는지 파악하기 쉽다.",
+            "critique": "수생 세계의 상상은 실제 수질이나 생태 회복을 측정한 자료와 다르다. 실시간으로 움직이는 환경이 곧 관객에게 무한한 선택권을 준다는 뜻도 아니므로 체험의 범위를 구분해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "비인간·생태",
+              "놀이·게임",
+              "의식·영성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026 / 종료된 전시 기록"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-09-06.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Xenoangel-Soft-waters-Franca-Inglaterra-Servia-FILE-SP-2026-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/installations_2026/xenoangel-soft-waters-franca-inglaterra-servia/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/Documentacao-Xenoangel-Soft-waters-Franca-Inglaterra-Servia-FILE-SP-2026-scaled.jpg",
+            "kind": "installation",
+            "credit": "Xenoangel / FILE São Paulo 2026 공식 전시 기록",
+            "caption": "두 관객이 앉아 서로 연결된 여러 화면의 가상 물 풍경을 바라보는 Soft Waters 실제 설치 전경",
+            "checkedAt": "2026-11-09T00:37:46+09:00",
+            "usageBasis": "공식 작가·기관·행사가 공개한 작품 기록을 출처와 크레딧을 보존한 축소 프리뷰로 사용한다. 공개된 자료라는 사실을 별도 이용허락이나 개방 라이선스로 해석하지 않는다.",
+            "alt": "두 관객이 앉아 서로 연결된 여러 화면의 가상 물 풍경을 바라보는 Soft Waters 실제 설치 전경"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "Empreintes sonores: 듣는 장치가 남긴 흔적 안으로 들어가다",
+        "keywords": [
+          "음성의 흔적",
+          "멈춘 소리",
+          "몸으로 듣기",
+          "수집의 가시화"
+        ],
+        "sections": [
+          {
+            "heading": "소리가 지나갈 자리에 몸이 움직인다",
+            "body": "소리는 보통 한 번 울리고 흩어진다. Empreintes sonores는 포착한 발성을 빛나는 파형으로 남겨 그 시간을 가로질러 탐색하게 한다. Lumen의 소개가 강조하는 옆걸음은 단순한 관람 동선이 아니라 이미 지나간 목소리를 다시 만나는 행위다."
+          },
+          {
+            "heading": "작가의 설명은 녹음과 가공을 함께 드러낸다",
+            "body": "공동 제작자 Jean-Philippe Cô는 디지털 비서를 통해 계속 녹음한 소리를 가공·리믹스·재생하고, 특정 발성이 감지되면 시각적으로 드러낸다고 설명한다. 그대로 보존한 원음과 작가가 구성한 재생 경험을 구분해야 한다. 파형은 목소리의 의미를 투명하게 해독하는 자막이 아니다."
+          },
+          {
+            "heading": "보이지 않던 청취 장치를 전경에 놓다",
+            "body": "작가는 집 안의 작은 디지털 비서가 친밀한 공간의 소리를 데이터로 다루는 조건을 질문한다. 작품에서는 그 흔적이 보이고 지나갈 수 있는 장면이 된다. 녹음되는 것을 아는 순간 관객이 무엇을 말하고 얼마나 가까이 갈지 선택하는 태도까지 경험의 일부가 된다."
+          },
+          {
+            "heading": "전시 이력과 데이터 처리의 빈칸을 남겨 두다",
+            "body": "작가 기록에는 2022년부터의 전시 이력과 2026년 워털루 편성이 함께 있다. 이 글의 사진도 선행 전시 기록이며 새 현장의 실황으로 바꾸어 부르지 않는다. 또한 디지털 비서에 대한 비판과 이 설치 자체의 보관·삭제·온라인 전송 방식은 별개다. 공개되지 않은 조건을 채워 넣지 않아야 흔적의 문제를 정확히 다룰 수 있다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Jean-Philippe Cô 공식 작품 기록: 공동 제작·음성 가공·데이터 비평·전시 이력",
+            "url": "https://djip.co/fr/art/empreintes-sonores"
+          },
+          {
+            "label": "Lumen 2026 공식 설치 소개: 파형과 관객 이동·워털루 편성",
+            "url": "https://www.lumenfestival.ca/installations-2026/empreintes-sonores"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-08",
       "title": "작은 움직임이 장면의 크기와 시간을 바꾸는 여섯 방식",
       "summary": "회전하는 광점, 손을 떠난 들꽃의 흔들림, 구멍을 통과한 빛, 지연된 몸의 영상, EEG의 추상 이미지, 회전하며 탐색하는 미시세계. 빛과 신체의 변화가 지각의 조건을 어떻게 설계하는지 읽는다.",
@@ -22641,7 +23003,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-08T00:41:16+09:00",
+  "generatedAt": "2026-11-09T00:41:25+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
