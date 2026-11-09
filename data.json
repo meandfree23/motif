@@ -1,6 +1,363 @@
 {
   "issues": [
     {
+      "date": "2026-11-10",
+      "title": "공간을 바꾸는 여섯 가지 움직임",
+      "summary": "프랭키의 기억을 따라 둘러보고, 폭포의 흐름을 손으로 바꾸고, 올빼미의 눈앞에서 멈춘다. 여섯 작품에서 몸의 이동과 빛, 바람이 어떻게 장면을 만드는지 살핀다.",
+      "crosscurrent": {
+        "note": "LETU와 Cube Graphics는 관객의 위치가 장면의 순서를 정하게 한다. As Water Falls와 Infinite Graffiti에서는 손의 움직임이 빛에 남고, Peekaboo Parliament에서는 빛의 변화가 관객의 다음 행동을 정한다. Waveworm은 공기가 표면을 움직일 때 비로소 형태가 드러나는 경우다.",
+        "itemIds": [
+          "2026-11-10-01",
+          "2026-11-10-02",
+          "2026-11-10-03",
+          "2026-11-10-04",
+          "2026-11-10-05",
+          "2026-11-10-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-10-01",
+          "originalTitle": "LETU: Frankie’s Story",
+          "creator": "Arafa C. Hamadi",
+          "title": "프랭키가 걸어온 자리를 따라 어린 시절을 다시 만난다",
+          "publishedAt": "2023 / Sheffield DocFest 상영 기록",
+          "url": "https://electricsouth.org/prototypes/letu/",
+          "description": "탄자니아의 가수이자 퍼포머인 프랭키가 아루샤에서 보낸 어린 시절을 안내한다. 15분 분량의 이 VR 작품은 학교와 교회를 기억 속의 장소로 구성한다.",
+          "insight": {
+            "mechanism": "3D 공간을 둘러보며 프랭키의 이야기를 따라간다. 제작 지원 기관은 3DoF VR과 PC 경험을 명시하고, 상영 기관은 마을·학교·교회를 거치는 관람 동선을 설명한다.",
+            "whyNow": "한 사람의 퀴어 서사를 사회적 갈등에만 가두지 않는다. 학교에서 안전하다고 느낀 자리와 세례식에서 자신을 표현한 기억을 통해 기쁨과 자기 인식도 이야기의 중심에 놓는다.",
+            "directorPoint": "장소가 바뀔 때마다 설명을 얹기 전에 잠시 둘러볼 시간을 둔다. 같은 공간을 어린 시절의 경험과 지금의 목소리로 읽게 하면 기억을 설명문보다 장면으로 전달할 수 있다.",
+            "critique": "공개 자료는 판본별 조작 방식과 이동 범위를 세부적으로 설명하지 않는다. 관람 동선을 실제 걸음의 추적이나 관객 선택에 따른 서사 분기로 해석할 근거는 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "신체·정체성"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": "케냐·탄자니아(공식 작가 소개)",
+            "region": "아프리카",
+            "venue": "Sheffield DocFest, Site Gallery / Alternate Realities VR Cinema 상영 기록"
+          },
+          "host": "electricsouth.org",
+          "image": "images/2026-11-10-01.jpg",
+          "imageFallback": "https://cdn.sheffdocfest.com/sites/default/files/publication/86761ac6-e83f-4b3b-a58d-8cf72fe3055f.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.sheffdocfest.com/film/letu-frankies-story",
+            "sourceUrl": "https://cdn.sheffdocfest.com/sites/default/files/publication/86761ac6-e83f-4b3b-a58d-8cf72fe3055f.png",
+            "kind": "film-still",
+            "credit": "Arafa C. Hamadi / Sheffield DocFest 공식 작품 스틸",
+            "caption": "Sheffield DocFest가 공개한 LETU의 3D 장면. 물가의 파란 의자와 나무 사이에 인물이 서 있다.",
+            "checkedAt": "2026-11-10T00:34:01+09:00",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "물가의 파란 의자와 단순한 다각형으로 표현된 나무 사이에 서 있는 어린 인물"
+          }
+        },
+        {
+          "id": "2026-11-10-02",
+          "originalTitle": "As Water Falls",
+          "creator": "Iregular",
+          "title": "손을 댄 곳에서 폭포의 방향이 달라진다",
+          "publishedAt": "2026 시드니 행사 기록",
+          "url": "https://www.vividsydney.com/event/light/as-water-falls",
+          "description": "큐브의 네 LED 면을 타고 내려오는 코드의 흐름이 손 주변에서 갈라지고 방향을 바꾼다. 물소리를 닮은 디지털 잡음이 화면의 리듬과 함께 이어진다.",
+          "insight": {
+            "mechanism": "네 면의 LED에 패턴과 색이 계속 달라지는 흐름을 띄운다. Vivid Sydney의 설치 설명에 따르면 관객이 손을 대면 그 자리에서 흐름이 갈라지거나 반대로 움직인다.",
+            "whyNow": "도시의 화면을 지나가며 보는 표면에서 손을 대고 머무는 장소로 바꾼다. 같은 조형물이라도 여러 사람이 서로 다른 순간의 흐름을 만날 수 있다.",
+            "directorPoint": "먼 거리에서 네 면을 잇는 흐름을 먼저 보여주고, 손이 닿는 한 지점의 변화로 좁혀 간다. 손이 없을 때와 있을 때를 같은 구도로 이어 보면 입력이 어디에 영향을 주는지 읽힌다.",
+            "critique": "시드니 행사 자료는 센서 종류와 여러 사람이 동시에 닿았을 때의 처리 방식을 명시하지 않는다. 개별 반응을 설명하되 다른 순회 판본에도 같은 입력 장치가 있다고 가정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "촉각"
+            ],
+            "tech": [
+              "라이트·LED",
+              "센서·인터랙션",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "몬트리올, 캐나다(공식 작가 소개)",
+            "region": "오세아니아",
+            "venue": "Vivid Sydney 2026, George Street Alcove / 종료된 행사 기록"
+          },
+          "host": "www.vividsydney.com",
+          "image": "images/2026-11-10-02.jpg",
+          "imageFallback": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1600x758/public/2026-05/As%20Water%20Falls.png?itok=rYg1C_c1",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.vividsydney.com/event/light/as-water-falls",
+            "sourceUrl": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1600x758/public/2026-05/As%20Water%20Falls.png?itok=rYg1C_c1",
+            "kind": "installation",
+            "credit": "Iregular / Vivid Sydney · Destination NSW 공식 작품 기록",
+            "caption": "Vivid Sydney 작품 페이지의 As Water Falls 설치 사진. 구체적인 촬영 장소와 날짜는 명시되지 않았다.",
+            "checkedAt": "2026-11-10T00:34:00+09:00",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "어두운 야외에서 큐브의 검은 면을 타고 떨어지는 파란 세로 빛과 흰 점 무늬"
+          }
+        },
+        {
+          "id": "2026-11-10-03",
+          "originalTitle": "Peekaboo Parliament",
+          "creator": "Skunk Control",
+          "title": "올빼미 눈이 켜지는 순간 관객이 멈춘다",
+          "publishedAt": "2026 시드니 행사 기록",
+          "url": "https://www.vividsydney.com/event/light/peekaboo-parliament",
+          "description": "올빼미들이 지키는 숲길을 통과하는 야외 놀이 설치다. 올빼미가 눈을 뜨면 관객은 동작을 멈추고, 무사히 지나가면 나무 안쪽의 색채 장면을 만난다.",
+          "insight": {
+            "mechanism": "신호에 맞춰 이동과 정지를 반복하는 놀이를 올빼미의 눈으로 전달한다. 움직이다 들키면 출발점으로 돌아가는 규칙이 관람 동선을 만든다.",
+            "whyNow": "빛이 풍경을 꾸미는 동시에 다음 행동을 알려 준다. 모르는 사람끼리도 눈이 켜지는 순간을 함께 살피며 같은 박자로 움직일 수 있다.",
+            "directorPoint": "관객이 한발 내디디는 장면과 올빼미 눈이 켜지는 장면을 번갈아 둔다. 끝에서만 보이는 색과 반사를 아껴 두면 짧은 동선에도 긴장과 보상이 생긴다.",
+            "critique": "공식 안내는 이동 규칙을 설명하지만 감지 기술이나 판정 방식은 밝히지 않는다. 처음 온 관객에게는 눈의 신호를 알아차릴 거리와 시간이 경험의 난도를 좌우한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "놀이·게임",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "멜버른, 호주(공식 작가 소개)",
+            "region": "오세아니아",
+            "venue": "Vivid Sydney 2026, Walumil Lawns / 종료된 행사 기록"
+          },
+          "host": "www.vividsydney.com",
+          "image": "images/2026-11-10-03.jpg",
+          "imageFallback": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1600x758/public/2026-05/VS26_Barangaroo_PeekabooParliament_CREDITDestinationNSW_KM-81201_WEB.png?itok=nMPNxdGX",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.vividsydney.com/event/light/peekaboo-parliament",
+            "sourceUrl": "https://www.vividsydney.com/sites/default/files/styles/hero_image_1600x758/public/2026-05/VS26_Barangaroo_PeekabooParliament_CREDITDestinationNSW_KM-81201_WEB.png?itok=nMPNxdGX",
+            "kind": "installation",
+            "credit": "Skunk Control / 사진 제공 Destination NSW",
+            "caption": "Walumil Lawns에 설치된 Peekaboo Parliament의 야간 전경.",
+            "checkedAt": "2026-11-10T00:34:00+09:00",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "빛나는 눈을 가진 올빼미 형상 여러 개와 무지갯빛이 내려오는 나무 모양 구조물"
+          }
+        },
+        {
+          "id": "2026-11-10-04",
+          "originalTitle": "Cube Graphics",
+          "creator": "Cyril Lancelin",
+          "title": "멈춘 외벽이 걸어가는 사람에게는 파도처럼 보인다",
+          "publishedAt": "2026 싱가포르 행사 기록",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/cube-graphics/",
+          "description": "공기를 채운 큰 조형물의 바깥에는 반복되는 물결 무늬가 있다. 안으로 들어가면 색이 번지는 방과 무늬가 이어지는 통로가 외부와 다른 깊이를 만든다.",
+          "insight": {
+            "mechanism": "부풀린 모듈 표면에 파형을 반복하고 내부에는 색이 점차 바뀌는 조명을 둔다. 바깥에서 바라보는 각도와 안쪽 통로를 지나는 순서가 체감하는 형태를 바꾼다.",
+            "whyNow": "큰 전시 조형물을 한 방향에서 찍는 대상으로만 두지 않고 여러 방향으로 드나들 수 있는 공간으로 다룬다. 관객의 이동이 화면 전환에 해당하는 역할을 한다.",
+            "directorPoint": "멀리서 모서리를 먼저 보이고 입구를 통과한 뒤 시야를 내부의 좁은 통로로 바꾼다. 바깥의 반복 무늬를 충분히 보여준 다음 안쪽 색을 드러내면 장면의 전환이 분명해진다.",
+            "critique": "외벽에서 느끼는 움직임은 무늬와 시점에서 생기는 시각 효과다. 내부 조명 연출과 구분해야 하며, 한 장의 외부 사진만으로 방과 통로의 관계를 설명하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "프로젝션",
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "프랑스(공식 작가 소개)",
+            "region": "동남·남아시아",
+            "venue": "i Light Singapore 2026, Marina Bay Sands Event Plaza / 종료된 행사 기록"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-10-04.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/63c37abc-29bd-4e06-a088-b88543bd3673/Cube%20Graphics.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/cube-graphics/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/63c37abc-29bd-4e06-a088-b88543bd3673/Cube%20Graphics.jpg",
+            "kind": "installation",
+            "credit": "Cyril Lancelin / i Light Singapore 공식 작품 기록",
+            "caption": "Marina Bay Sands Event Plaza에 설치된 Cube Graphics의 야간 외부 전경.",
+            "checkedAt": "2026-11-10T00:34:00+09:00",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "흑백 물결 무늬가 반복되는 큰 공기 조형물과 꼭대기에서 번지는 초록빛과 보랏빛"
+          }
+        },
+        {
+          "id": "2026-11-10-05",
+          "originalTitle": "Infinite Graffiti",
+          "creator": "Graffiti+",
+          "title": "스프레이를 누르는 손끝이 공동 벽에 빛으로 남는다",
+          "publishedAt": "2026 싱가포르 행사 기록",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/infinite-graffiti/",
+          "description": "스프레이 캔 모양의 도구를 들고 5미터 길이의 벽에 빛으로 그린다. 손의 움직임이 벽에 나타나고, 축제 기간 동안 여러 참여자가 같은 캔버스에 흔적을 보탠다.",
+          "insight": {
+            "mechanism": "캔의 노즐을 누르고 벽을 향해 손을 움직이면 그 움직임이 디지털 선으로 나타난다. 실제 도료를 쓰지 않아도 캔을 쥐고 누르는 익숙한 제스처가 입력으로 남는다.",
+            "whyNow": "공공 미디어를 완성된 그림을 보는 장소에서 주민과 방문자가 손을 보태는 장소로 옮긴다. 참여하려는 사람이 별도 메뉴를 익히기 전에 무엇을 할지 알아볼 수 있다.",
+            "directorPoint": "먼저 빈 벽에 한 획이 생기는 순간을 보여준다. 다음 사람이 그 옆에 획을 더하는 장면을 이어 붙이면 개인의 동작과 공동 이미지가 어떻게 연결되는지 한눈에 들어온다.",
+            "critique": "공동 캔버스라는 형식만으로 결과에 대한 권한까지 공유되는지는 알 수 없다. 공식 소개에는 누가 기존 선을 지울 수 있는지와 행사 뒤 기록 보존 방식이 공개되어 있지 않다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "프로젝션"
+            ],
+            "theme": [
+              "도시·공동체",
+              "놀이·게임"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "밴쿠버, 캐나다(공식 팀 소개)",
+            "region": "동남·남아시아",
+            "venue": "i Light Singapore 2026, Marina Bay Link Mall 입구 / 종료된 행사 기록"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-10-05.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/79aefe32-308c-47a5-92c1-9dec388ae1d2/Infinite%20Graffiti.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/infinite-graffiti/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/79aefe32-308c-47a5-92c1-9dec388ae1d2/Infinite%20Graffiti.jpg",
+            "kind": "installation",
+            "credit": "Graffiti+ / i Light Singapore 공식 작품 기록",
+            "caption": "Infinite Graffiti 현장에서 참여자가 캔 모양 도구로 벽의 투사 그림에 색을 더하는 모습.",
+            "checkedAt": "2026-11-10T00:34:00+09:00",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "어두운 벽에 밝은 글자 그림을 비추고 한 사람이 왼쪽에서 캔 모양 도구로 주황색 획을 긋는 장면"
+          }
+        },
+        {
+          "id": "2026-11-10-06",
+          "originalTitle": "Waveworm",
+          "creator": "Dominic Kießling",
+          "title": "보이지 않는 바람이 얇은 막 위에서 파동으로 드러난다",
+          "publishedAt": "2026 Intervals Festival 전시 기록",
+          "url": "https://intervalsfest.com/en/works/waveworm",
+          "description": "커다란 필름 튜브 안에서 파동이 계속 이동한다. 빛에 비친 주름이 모였다 풀리면서 하나의 조형물이 시시각각 다른 윤곽을 보인다.",
+          "insight": {
+            "mechanism": "공식 작품 기록은 필름·팬·빛을 매체로 명시한다. 공기가 얇은 표면을 움직이면 조명이 그 주름과 변위를 드러낸다.",
+            "whyNow": "가벼운 재료로도 큰 공간을 채우는 움직임을 만들 수 있음을 보여준다. 공기가 만든 변화를 읽는 시간이 작품의 감각적 중심이다.",
+            "directorPoint": "튜브 전경을 한 프레임에 두고 파동이 한쪽에서 다른 쪽까지 가는 시간을 지켜본다. 이후 주름의 가까운 장면을 붙이면 표면의 변화가 큰 형태를 만드는 과정이 읽힌다.",
+            "critique": "사진 한 장은 파동의 이동과 속도 변화를 담지 못한다. 팬의 세부 제어나 반복 주기는 공개 설명에서 확인할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "드레스덴, 독일(작가·갤러리 소개)",
+            "region": "유럽",
+            "venue": "Intervals Festival 2026, MediaHall, 니즈니노브고로드 / 종료된 전시 기록"
+          },
+          "host": "intervalsfest.com",
+          "image": "images/2026-11-10-06.jpg",
+          "imageFallback": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfSk0eM8_QMmwDcQ7R-MyeJZrJylX88P_u7hjI5dsc_rXydAblkv5RwTji_FZSCQbywJxDUqhHYszkpmOegMgTjZGMCM5Ro6EprLNC-uC78smy6D7wmmT7b3KNo51I58c8DW4q__fi3B_j9eIlL4PXMlKhWQ3ZHbNrjhEmNsWnc894ChtxhYwAxaYqr=w1280",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.dominickiessling.net/",
+            "sourceUrl": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfSk0eM8_QMmwDcQ7R-MyeJZrJylX88P_u7hjI5dsc_rXydAblkv5RwTji_FZSCQbywJxDUqhHYszkpmOegMgTjZGMCM5Ro6EprLNC-uC78smy6D7wmmT7b3KNo51I58c8DW4q__fi3B_j9eIlL4PXMlKhWQ3ZHbNrjhEmNsWnc894ChtxhYwAxaYqr=w1280",
+            "kind": "installation",
+            "credit": "Dominic Kießling / 사진 Dmitry Chuntul",
+            "caption": "작가 홈페이지가 Waveworm으로 명시한 2026년 Intervals Festival 설치 사진.",
+            "checkedAt": "2026-11-10T00:34:00+09:00",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "어두운 전시장에 길게 놓인 반투명 필름 튜브와 주름을 비추는 흰빛"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "LETU: Frankie’s Story, 기억을 따라 둘러보는 길",
+        "keywords": [
+          "장소의 기억",
+          "자기표현",
+          "시선과 동선",
+          "퀴어 서사"
+        ],
+        "sections": [
+          {
+            "heading": "프랭키의 기억이 공간의 순서를 정한다",
+            "body": "관객은 아루샤의 마을과 학교, 교회로 이어지는 3D 세계를 프랭키의 이야기에 맞춰 살핀다. 사건을 시간순으로 요약하는 대신 기억이 연결된 장소를 만나게 한다. 공간의 순서가 곧 인물이 자신의 과거를 들려주는 순서다."
+          },
+          {
+            "heading": "일상의 장면이 자기표현을 받쳐 준다",
+            "body": "Electric South는 학교에서 안전하다고 느끼는 자리를 발견한 기억과 세례식에서 자신을 표현한 기억을 첫 에피소드의 축으로 소개한다. 학교와 교회는 인물의 행동이 의미를 갖게 하는 구체적인 환경이다. 그 안에 기쁨과 자기 인식이 함께 놓인다."
+          },
+          {
+            "heading": "둘러보는 시간과 이야기의 진행을 조율한다",
+            "body": "Sheffield DocFest는 작품을 15분 분량의 3D 관람 동선으로 소개하고 Electric South는 3DoF VR과 PC를 명시한다. 연출에 옮긴다면 다음 장소의 설명을 앞당기기 전에 관객이 현재 장면의 방향과 거리감을 읽을 시간을 둔다. 자유롭게 시선을 돌리는 경험과 이야기의 순서를 설계하는 일은 별개의 결정이다."
+          },
+          {
+            "heading": "기억을 구성한 장면과 실재 장소의 관계",
+            "body": "공식 스틸의 다각형 나무와 파란 의자는 제작된 3D 공간의 일부다. 이 글은 그 세계를 프랭키의 회상을 따라 구성한 장면으로 읽는다. 제작 지원 기관과 상영 기관의 기록은 작품의 형식과 구성에 대한 단서를 주지만, 공간의 재현 방법이나 판본별 이동 범위까지 확정해 주지는 않는다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Electric South 공식 제작 지원 기록 · 3DoF와 PC 형식, 학교와 세례 기억",
+            "url": "https://electricsouth.org/prototypes/letu/"
+          },
+          {
+            "label": "Sheffield DocFest 공식 상영 기록 · 작가와 출연자, 러닝타임, 3D 관람 동선",
+            "url": "https://www.sheffdocfest.com/film/letu-frankies-story"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-09",
       "title": "사라지는 소리와 몸의 감각이 공간에 남는 여섯 방식",
       "summary": "멈춘 목소리의 파형, 별의 시간을 닮은 빛, 손으로 돌리는 공동 악기, 나무의 기억을 세운 기둥, 색과 그네가 바꾸는 몸의 위치, 순환하는 물의 세계. 흔적을 읽는 관객의 행동이 어떻게 달라지는지 살핀다.",
@@ -23003,7 +23360,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-09T00:41:25+09:00",
+  "generatedAt": "2026-11-10T00:37:54+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
