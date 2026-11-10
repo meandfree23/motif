@@ -1,6 +1,362 @@
 {
   "issues": [
     {
+      "date": "2026-11-11",
+      "title": "이동과 대화의 조건을 만드는 여섯 작품",
+      "summary": "미니버스 노선과 조수에 맞춰 움직이는 도시, 두 화면의 뉴스와 네 사람의 목소리를 따라간다. 여섯 작품은 공간과 매체가 사람이 보고 듣고 움직이는 방식을 어떻게 바꾸는지 보여 준다.",
+      "crosscurrent": {
+        "note": "《The Daladala Verse》와 《Imaginary Atlas, Amazonia》는 각각 버스 노선과 조수에 도시의 움직임을 맡긴다. 《BLKNWS®》와 《The Listening Table》은 화면 배치와 발언 간격이 매체의 목소리를 바꾸는 방식을 보여 준다. 팀랩의 기둥과 캐서린 스펫의 화면은 공기의 흐름이나 카메라 입력이 있어야 눈앞의 형상이 이어진다.",
+        "itemIds": [
+          "2026-11-11-01",
+          "2026-11-11-02",
+          "2026-11-11-03",
+          "2026-11-11-04",
+          "2026-11-11-05",
+          "2026-11-11-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-11-01",
+          "originalTitle": "The Daladala Verse",
+          "creator": "Aurelio Mofuga",
+          "title": "미니버스의 한 노선에서 다르에스살람을 읽는다",
+          "publishedAt": "2024 프로젝트 전시 / 2026 Raindance 상영 기록",
+          "url": "https://www.raindanceimmersive.com/2026-the-daladala-verse",
+          "description": "탄자니아 다르에스살람의 대중교통을 기록하는 프로젝트다. 2026년 상영한 5분짜리 몰입형 다큐멘터리는 미니버스 안내원 파투마를 따라간다. 한 노선의 일상에서 도시 이동과 여성의 노동이 만난다.",
+          "insight": {
+            "mechanism": "360도 영상으로 미니버스와 거리의 관계를 둘러보게 한다. Raindance는 파투마가 일하는 노선을 이야기의 축으로 소개하고 Meta Quest 상영을 명시한다.",
+            "whyNow": "도시의 교통 체계를 설명할 때 정류장과 노선도에 담기지 않는 일이 있다. 이 영화는 운행을 매일 성립시키는 노동을 한 사람의 하루에서 읽게 한다.",
+            "directorPoint": "이동 장면을 연출할 때 도시의 전경으로 매번 전환하기 전에 출발과 정차 사이에 반복되는 몸짓과 목소리를 남겨 둔다. 같은 동작이 쌓이면 관객은 일의 리듬으로 노선을 기억한다.",
+            "critique": "작가가 소개하는 장기 프로젝트에는 AR과 게임화된 VR도 포함된다. 2026년 상영 기록은 360도 단편을 가리키므로, 해당 상영본의 조작이나 분기를 별도로 추정하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "도시·공동체",
+              "노동·산업"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": "탄자니아(S+T+ARTS 작가 소개)",
+            "region": "아프리카",
+            "venue": "Raindance Immersive 2026, 런던 NEON 194 Piccadilly / 종료된 상영 기록"
+          },
+          "host": "www.raindanceimmersive.com",
+          "image": "images/2026-11-11-01.jpg",
+          "imageFallback": "https://i.ytimg.com/vi/VC_DL07hqSE/maxresdefault.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://aureliomofuga.com/the-daladala-verse/",
+            "sourceUrl": "https://i.ytimg.com/vi/VC_DL07hqSE/maxresdefault.jpg",
+            "kind": "film-still",
+            "credit": "Aurelio Mofuga · OnaStories / 작가가 연결한 공식 예고편",
+            "caption": "작가 프로젝트 페이지가 연결한 2D 다큐멘터리 예고편의 애니메이션 장면이다. Raindance의 360도 상영본과는 판본이 다르다.",
+            "checkedAt": "2026-11-11",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "그림으로 표현한 다르에스살람의 건물 앞 도로를 달리는 작은 버스와 긴 버스"
+          }
+        },
+        {
+          "id": "2026-11-11-02",
+          "originalTitle": "Imaginary Atlas, Amazonia",
+          "creator": "Gabriela Bìlá · Diogo Costa Pinto",
+          "title": "조수에 맞춰 움직이는 2125년의 벨렝",
+          "publishedAt": "2025 / COP30 전시 기록",
+          "url": "https://www.gabrielabila.com/installations/imaginaryatlas",
+          "description": "브라질 벨렝의 100년 뒤를 영화와 인터랙티브 장면, 목조 조형물로 상상한 설치다. 현지 공동체 및 연구자와의 협업을 바탕으로 도시가 물의 변화에 적응하는 모습을 그린다.",
+          "insight": {
+            "mechanism": "숲과 도시를 3D로 스캔해 식물, 표면, 건축 요소를 디지털 자료로 모은다. 전시장에는 그 자료로 구성한 세계를 물리적 모형과 빛, 영상과 함께 배치한다.",
+            "whyNow": "기후 적응을 기술 예측으로만 다루면 그곳의 생활과 지식이 배경이 되기 쉽다. 이 프로젝트는 벨렝의 지형과 생활에서 출발해 미래 도시의 조건을 묻는다.",
+            "directorPoint": "가상 도시의 전경을 보여주기 전에 관객 앞에 도시를 떠받치는 작은 물건 하나를 둔다. 화면의 세계와 실제 재료를 연결해 관객이 미래의 풍경을 구체적인 생활로 상상하도록 돕는다.",
+            "critique": "2125년의 벨렝은 설정된 미래다. 3D 스캔이 실제 환경에 근거하더라도 도시의 적응 방식과 전시가 제시하는 사회적 관계는 검증된 예측으로 볼 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "3D스캔·포토그래메트리",
+              "프로젝션",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "기후·환경",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "Gabriela Bìlá: 브라질 출신, MIT Media Lab 소속(공식 프로필)",
+            "region": "중남미",
+            "venue": "COP30 Fórum Landi, 벨렝 / SESI Lab, 브라질리아"
+          },
+          "host": "www.gabrielabila.com",
+          "image": "images/2026-11-11-02.jpg",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/60a427768306cd37a26059e6/306bee5c-cad0-4f84-be1d-264ef3b5977f/ATLAS+IM_exhibition_Bruno_Carachesti_1.jpg?format=1500w",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.gabrielabila.com/installations/imaginaryatlas",
+            "sourceUrl": "https://images.squarespace-cdn.com/content/v1/60a427768306cd37a26059e6/306bee5c-cad0-4f84-be1d-264ef3b5977f/ATLAS+IM_exhibition_Bruno_Carachesti_1.jpg?format=1500w",
+            "kind": "installation",
+            "credit": "Bruno Carachesti / Gabriela Bìlá 공식 프로젝트 갤러리",
+            "caption": "브루누 카라셰스치가 촬영한 COP30 설치 기록. 나무로 만든 물고기 형태의 구조 위에 색색의 도시 모형이 놓여 있다.",
+            "checkedAt": "2026-11-11",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "푸른 전시장 안에서 관객이 물고기 형태의 목조 구조와 그 위의 도시 모형을 둘러본다"
+          }
+        },
+        {
+          "id": "2026-11-11-03",
+          "originalTitle": "BLKNWS®",
+          "creator": "Kahlil Joseph",
+          "title": "두 화면이 뉴스 편집의 권한을 드러낸다",
+          "publishedAt": "2018 / ACMI 작품 기록",
+          "url": "https://www.acmi.net.au/works/125528--blknws/",
+          "description": "칼릴 조지프가 뉴스 방송의 형식을 빌려 만든 영상 설치다. 기록 영상과 보도, 대중문화와 음악을 이어 붙여 흑인 경험이 어떤 편집을 거쳐 공적 기억으로 남는지 살핀다.",
+          "insight": {
+            "mechanism": "서로 다른 두 화면을 병치하고 음악으로 장면의 관계를 이어 준다. ACMI는 기존 자료와 원본 취재가 하나의 흐르는 방송처럼 엮인다고 설명한다.",
+            "whyNow": "뉴스 화면의 익숙한 구성은 그 안에 놓인 이미지에 사실의 무게를 준다. 무엇을 나란히 두고 얼마나 오래 보여주는지가 해석을 이끄는 과정을 체감하게 한다.",
+            "directorPoint": "한 화면에 발화자를 두고 다른 화면에 그 발화의 맥락을 바꾸는 이미지를 배치한다. 두 화면을 동시에 자르지 않으면 관객이 시선을 옮기는 순간에도 의미가 생긴다.",
+            "critique": "관객이 중간에 들어오면 앞선 맥락과 이미지의 원출처를 놓치기 쉽다. 편집의 힘을 체감시키면서 각 자료의 맥락을 어디까지 돌려줄 것인지가 남는 질문이다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "아카이브 데이터"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "권력·감시"
+            ],
+            "scale": "영상·스크린"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "오세아니아",
+            "venue": "ACMI, The Vinyl Factory: Reverb, 멜버른 / 종료된 전시 기록"
+          },
+          "host": "www.acmi.net.au",
+          "image": "images/2026-11-11-03.jpg",
+          "imageFallback": "https://acmi-website-media-prod.s3.amazonaws.com/media/original_images/Kahlil_Joseph_BLKNWS_2.webp.1200x1200_q85.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.acmi.net.au/works/125528--blknws/",
+            "sourceUrl": "https://acmi-website-media-prod.s3.amazonaws.com/media/original_images/Kahlil_Joseph_BLKNWS_2.webp.1200x1200_q85.jpg",
+            "kind": "installation",
+            "credit": "Kahlil Joseph 제공 / ACMI 공식 작품 이미지",
+            "caption": "ACMI가 작가 제공으로 명시한 BLKNWS®의 두 화면. 발언 장면 옆에 광고 형식의 문구와 상품 이미지가 놓였다.",
+            "checkedAt": "2026-11-11",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "발언 장면과 배터리 광고 형식의 화면이 어두운 공간에서 나란히 빛난다"
+          }
+        },
+        {
+          "id": "2026-11-11-04",
+          "originalTitle": "The Listening Table: A Four-Person Voice Game",
+          "creator": "Nurobodi Labs",
+          "title": "같은 문장을 건네도 듣는 방식이 판을 바꾼다",
+          "publishedAt": "2026 / ACMI + RMIT Audience Lab 시연 기록",
+          "url": "https://www.acmi.net.au/whats-on/acmi-rmit-audience-lab/jul-2026/",
+          "description": "네 사람이 원탁에 앉아 목소리를 주고받는 참여형 게임이다. 말의 내용과 함께 높낮이, 속도, 크기와 다음 사람이 응답하기까지의 간격을 살핀다.",
+          "insight": {
+            "mechanism": "네 자리마다 마이크와 헤드폰을 두고, 안내 카드가 각자 듣고 응답하는 방식을 바꾸도록 이끈다. 작은 음성 변화가 대화 전체의 분위기를 어떻게 움직이는지 관찰한다.",
+            "whyNow": "대화형 기술을 평가할 때 답변의 정확도만 보면 타인의 말을 기다리거나 목소리를 낮추는 행동은 놓치기 쉽다. 게임은 대화의 분위기를 함께 조정하는 행동에 시간을 준다.",
+            "directorPoint": "배우 넷이 같은 대사를 반복하면서 응답 전에 쉬는 길이만 바꿔 본다. 대본을 다시 쓰기 전에 어떤 간격이 발언을 독백이나 대화로 만드는지 들어볼 수 있다.",
+            "critique": "공개 기록에는 녹음 여부와 신호 처리 방식이 명시돼 있지 않다. 전원이 같은 청취 조건으로 참여할 수 있는지와 대체 참여 방식도 별도로 확인할 부분이다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "언어",
+              "시간감"
+            ],
+            "tech": [
+              "음성·언어"
+            ],
+            "theme": [
+              "놀이·게임",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "오세아니아",
+            "venue": "ACMI + RMIT Audience Lab, 멜버른 / 2026년 7월 11일 시연 기록"
+          },
+          "host": "www.acmi.net.au",
+          "image": "images/2026-11-11-04.jpg",
+          "imageFallback": "https://acmi-website-media-prod.s3.amazonaws.com/media/images/The_Listening_Table_Audince_Lab_Ma.2e16d0ba.fill-846x476.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.acmi.net.au/whats-on/acmi-rmit-audience-lab/jul-2026/",
+            "sourceUrl": "https://acmi-website-media-prod.s3.amazonaws.com/media/images/The_Listening_Table_Audince_Lab_Ma.2e16d0ba.fill-846x476.png",
+            "kind": "installation",
+            "credit": "Nurobodi Labs 작품 / ACMI + RMIT Audience Lab 공개 이미지, 개별 촬영자 미표기",
+            "caption": "작품 소개에 실린 원탁의 설치 전경. 좌석 네 곳마다 마이크와 헤드폰이 놓였다.",
+            "checkedAt": "2026-11-11",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "흰 원탁 주위 네 자리에 마이크와 헤드폰이 각각 놓여 있다"
+          }
+        },
+        {
+          "id": "2026-11-11-05",
+          "originalTitle": "Pillars of Constant Flux",
+          "creator": "teamLab",
+          "title": "공기가 지나가는 동안에만 서 있는 기둥",
+          "publishedAt": "2026– / teamLab 작품 기록",
+          "url": "https://www.teamlab.art/en/ew/pillar-constantflux-fukuokacastle/fukuoka-castle/",
+          "description": "후쿠오카성 터에 빛나는 기둥을 세운 야외 설치다. 바람과 비, 습도가 움직임과 높이를 바꾼다. 사운드는 Hideaki Takahashi가 맡았다.",
+          "insight": {
+            "mechanism": "입구와 출구의 크기를 같게 하고 내부로 공기를 계속 통과시킨다. 이 흐름이 유연한 구조를 지탱하므로 흐름이 멈추면 재료는 남아도 서 있던 형상은 사라진다.",
+            "whyNow": "변화하는 조형을 만들 때 움직임을 나중에 더하는 방식과, 움직임이 있어야 형상이 생기는 방식은 다른 경험을 준다. 이 작품에서는 그 차이가 기둥의 높이와 흔들림으로 보인다.",
+            "directorPoint": "세트의 형태를 고정하기 전에 어떤 조건이 구조를 유지할지 정한다. 같은 위치에서 조건이 바뀌기 전후를 이어 보여주면 사물이 서 있는 이유가 장면 속에서 드러난다.",
+            "critique": "작품을 성립시키는 날씨가 관람을 중단시키는 요인이 될 수도 있다. 짧게 방문하거나 특정 시각을 기준으로 기록할 경우 그날의 한 상태만 보게 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "반응형 재료",
+              "라이트·LED"
+            ],
+            "theme": [
+              "비인간·생태",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "일본(teamLab)",
+            "region": "동아시아",
+            "venue": "teamLab: Digitized Fukuoka Castle Ruins 2026–2027, 마이즈루 공원"
+          },
+          "host": "www.teamlab.art",
+          "image": "images/2026-11-11-05.jpg",
+          "imageFallback": "https://prcdn.freetls.fastly.net/release_image/7339/1217/7339-1217-1ef57d503bde4b8f79179fc8a6aafb18-3000x2066.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://prtimes.jp/main/html/rd/p/000001217.000007339.html",
+            "sourceUrl": "https://prcdn.freetls.fastly.net/release_image/7339/1217/7339-1217-1ef57d503bde4b8f79179fc8a6aafb18-3000x2066.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "kind": "installation",
+            "credit": "© teamLab / 작가 보도자료",
+            "caption": "teamLab이 실제 공간 촬영이라고 명시한 후쿠오카성 터의 작품 사진. 보도자료는 AI 또는 CGI를 쓰지 않았다고 표기한다.",
+            "checkedAt": "2026-11-11",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "밤의 석벽 앞에 빛을 띤 여러 기둥이 휘어져 서 있다"
+          }
+        },
+        {
+          "id": "2026-11-11-06",
+          "originalTitle": "(A)I love you, we’re the same",
+          "creator": "Catherine Spet",
+          "title": "데이트 상대의 얼굴에 내 얼굴이 돌아온다",
+          "publishedAt": "2026 / Ars Electronica Festival 전시 기록",
+          "url": "https://ars.electronica.art/negotiatinghumanity/en/view/ai-love-you-were-the-same-39138ddb450c81fc8f17eec2fcaf754f/",
+          "description": "관객이 웹 화면에서 자신을 상대 삼아 데이트하는 설치다. 익숙한 매칭 화면을 통해 타인에게 기대하는 편안함과 통제의 관계를 묻는다.",
+          "insight": {
+            "mechanism": "스마트폰 또는 태블릿의 전면 카메라에서 받은 관객의 얼굴을 작가의 몸에 실시간으로 매핑한다. 관객은 그 합성된 인물을 데이트의 상대로 만난다.",
+            "whyNow": "상대와의 마찰을 줄이는 일이 관계를 더 잘 만든다는 기대를 뒤집어 본다. 화면에 계속 돌아오는 자기 얼굴은 타인의 자리가 어디에 있는지 묻게 한다.",
+            "directorPoint": "첫 화면을 익숙한 프로필 카드처럼 만들어 사용법을 바로 이해시키고, 얼굴 한 요소가 바뀌는 순간을 길게 둔다. 나머지 화면을 그대로 두면 변화가 관계의 변화로 읽힌다.",
+            "critique": "카메라 사용이 어려운 관객을 위한 참여 방식이나 얼굴 영상의 처리와 보존 범위는 공개 기록에서 확인되지 않는다. 실시간 합성이라는 설명만으로 저장 방식을 판단하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "오스트리아(Ars Electronica 작가 표기)",
+            "region": "유럽",
+            "venue": "Ars Electronica Festival 2026, 린츠 JKU MED Campus / 종료된 전시 기록"
+          },
+          "host": "ars.electronica.art",
+          "image": "images/2026-11-11-06.jpg",
+          "imageFallback": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/ajorit_aust_catherine_spet_universitaet_fuer_angewandte_kunst_wien_sommersemester_25_004-min.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://ars.electronica.art/negotiatinghumanity/en/view/ai-love-you-were-the-same-39138ddb450c81fc8f17eec2fcaf754f/",
+            "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/ajorit_aust_catherine_spet_universitaet_fuer_angewandte_kunst_wien_sommersemester_25_004-min.jpg",
+            "kind": "installation",
+            "credit": "Jorit Aust / Ars Electronica 공식 갤러리",
+            "caption": "요리트 아우스트가 촬영한 작품 기록. 붉은 털로 덮인 받침 위 스마트폰에 작품의 데이트 화면이 보인다.",
+            "checkedAt": "2026-11-11",
+            "usageBasis": "공식 작품 자료에 연결된 이미지를 출처와 크레딧을 명시한 축소 프리뷰로 사용한다. 별도 사용 허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "붉은 털 위에 놓인 스마트폰 화면에 데이트 프로필 카드가 떠 있다"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 1,
+        "headline": "벨렝의 미래를 현지의 재료로 상상하는 법",
+        "keywords": [
+          "아마존",
+          "기후 적응",
+          "3D 스캔",
+          "도시 상상"
+        ],
+        "sections": [
+          {
+            "heading": "물의 시간표가 도시의 시간표가 된다",
+            "body": "작가는 2125년 벨렝의 홍수와 가뭄이 더 불규칙해진 상황을 설정한다. 도시가 조수에 따라 움직인다는 설정은 물이 도시의 한계를 정하는 동시에, 교환과 이동을 가능하게 하는 조건임을 보여 준다. 미래를 구체화할 때 먼저 어떤 환경의 주기에 사람들이 맞춰 사는지 정하는 방식이다."
+          },
+          {
+            "heading": "미래를 그릴 때 현재의 표면을 남겨 둔다",
+            "body": "제작진은 지역의 숲과 도시를 3D로 스캔해 식물, 건축 요소, 표면 질감을 모았다. 이 자료를 새로운 도시에 옮겨도 재료가 온 장소와 그곳에서 살아온 사람의 지식은 남는다. 로케이션을 단순한 배경으로 쓰는 대신 상상할 수 있는 형태의 범위를 정하는 자료로 삼는다."
+          },
+          {
+            "heading": "물고기 위의 모형이 영상의 스케일을 바꾼다",
+            "body": "COP30 전시 사진을 보면 관객이 나무 물고기 위에 놓인 도시 모형을 여러 방향에서 둘러본다. 같은 미래를 대형 영상과 손이 닿을 듯한 물체로 접할 때 관객의 거리와 시선이 달라진다. 한 세계의 전체 모습과 사람이 서게 될 자리를 서로 다른 매체에 나눠 주는 연출로 읽을 수 있다."
+          },
+          {
+            "heading": "가상 도시의 답을 열어 둔다",
+            "body": "MIT의 공동 창작 프로그램은 이 작업을 현지 조사와 협업에 기반한 진행형 프로젝트로 설명한다. 공개 자료는 스캔 기록의 개방을 향후 계획으로 제시한다. 어떤 자료가 공개되며 누가 활용과 해석을 결정하는지는 미래 도시를 상상하는 일만큼 중요한 질문으로 남는다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Gabriela Bìlá 공식 프로젝트 · 벨렝의 설정, 3D 스캔, COP30 전시와 제작진",
+            "url": "https://www.gabrielabila.com/installations/imaginaryatlas"
+          },
+          {
+            "label": "MIT Co-Creation Studio 공식 프로그램 · 현지 조사와 공동 창작의 맥락",
+            "url": "https://cocreationstudio.mit.edu/worlding-people-2026/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-10",
       "title": "공간을 바꾸는 여섯 가지 움직임",
       "summary": "프랭키의 기억을 따라 둘러보고, 폭포의 흐름을 손으로 바꾸고, 올빼미의 눈앞에서 멈춘다. 여섯 작품에서 몸의 이동과 빛, 바람이 어떻게 장면을 만드는지 살핀다.",
@@ -23360,7 +23716,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-10T00:37:54+09:00",
+  "generatedAt": "2026-11-11T00:35:47+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
