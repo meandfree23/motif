@@ -1,6 +1,364 @@
 {
   "issues": [
     {
+      "date": "2026-11-12",
+      "title": "보이지 않던 환경을 몸의 크기로 만나는 여섯 작업",
+      "summary": "빛으로 만든 수면과 햇빛의 고리, 비행 기록의 구름, 컨테이너와 게임과 숲의 가상 공간을 읽는다. 여섯 작업은 환경과 역사를 눈높이와 움직임, 목소리의 거리로 옮긴다.",
+      "crosscurrent": {
+        "note": "《WATERLICHT》와 《Halo》는 빛의 형상이 생기는 환경 안에 관객을 세운다. 《Air Conditioning》과 《Container》는 오래 누적되거나 가려진 사건을 길이와 공간의 반복으로 드러낸다. 《Goliath》와 《Awavena》에서는 가상 풍경의 화려함과 함께 누구의 목소리가 관객을 이끄는지 살펴볼 수 있다.",
+        "itemIds": [
+          "2026-11-12-01",
+          "2026-11-12-02",
+          "2026-11-12-03",
+          "2026-11-12-04",
+          "2026-11-12-05",
+          "2026-11-12-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-12-01",
+          "originalTitle": "WATERLICHT",
+          "creator": "Daan Roosegaarde · Studio Roosegaarde",
+          "title": "푸른 수면 아래에 서서 도시의 높이를 다시 본다",
+          "publishedAt": "2015 첫 전시 기록 / 2026년 11월 더블린 전시 예정",
+          "url": "https://www.studioroosegaarde.net/project/waterlicht",
+          "description": "머리 위를 흐르는 푸른빛으로 가상의 홍수를 만드는 야외 설치다. Research Ireland는 2026년 11월 13~14일 더블린 Iveagh Gardens에서 이 작품을 선보인다고 안내한다. 오늘 소개하는 사진은 해당 안내에 실린 작품 참고 이미지다.",
+          "insight": {
+            "mechanism": "LED와 렌즈로 빛의 층을 만들고 바람과 습도 등 현장의 조건을 작품에 끌어들인다. 관객은 빛을 밖에서 바라보는 동시에 그 아래를 걸으며 수면에 잠긴 듯한 높이를 체감한다.",
+            "whyNow": "11월 12일 현재 더블린 전시를 앞두고 있다. 개최기관이 물을 주제로 한 Science Week와 연결한 만큼, 익숙한 공원이 환경 변화의 감각적 질문으로 바뀌는 방식을 살펴볼 수 있다.",
+            "directorPoint": "위험을 설명하는 장면에서 먼저 관객의 눈높이를 고정하고 그 위로 하나의 경계를 통과시킨다. 익숙한 건물과 나무를 남겨 두면 공간 전체를 새로 만들지 않고도 높이의 변화를 읽게 할 수 있다.",
+            "critique": "빛이 만드는 가상 수면의 높이가 그 장소의 구체적인 침수 예측치와 어떻게 대응하는지는 행사 안내에서 확인되지 않는다. 체험 뒤 실제 지역의 연구 자료를 접할 경로가 중요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "기후·환경",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "네덜란드(Research Ireland 작가 소개)",
+            "region": "유럽",
+            "venue": "Iveagh Gardens, 더블린 / 2026년 11월 13~14일 예정"
+          },
+          "host": "www.studioroosegaarde.net",
+          "image": "images/2026-11-12-01.jpg",
+          "imageFallback": "https://media.researchireland.ie/wp-content/uploads/2026/11/Waterlicht_day_2-28-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.researchireland.ie/news/waterlicht/",
+            "sourceUrl": "https://media.researchireland.ie/wp-content/uploads/2026/11/Waterlicht_day_2-28-scaled.jpg",
+            "kind": "installation",
+            "credit": "Studio Roosegaarde 작품 / Research Ireland 공식 안내 이미지, 개별 촬영자 미표기",
+            "caption": "Research Ireland가 더블린 전시 안내에 제공한 작품 이미지. 사람들이 머리 위의 푸른 빛 아래를 걷는다. 촬영 장소는 안내에 명시돼 있지 않다.",
+            "checkedAt": "2026-11-12T00:31:40+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "사람들이 푸른 빛의 물결로 덮인 밤의 풍경 안을 걷는다"
+          }
+        },
+        {
+          "id": "2026-11-12-02",
+          "originalTitle": "Halo",
+          "creator": "Mimi Son · Elliot Woods (Kimchi and Chips)",
+          "title": "햇빛과 물안개가 맞는 순간에만 고리가 나타난다",
+          "publishedAt": "2018 / 서울 2021 전시 기록",
+          "url": "https://kimchiandchips.com/works/halo",
+          "description": "로봇 거울이 태양의 움직임을 따라 반사광을 물안개 속에 모으는 설치다. 공중의 빛 고리는 햇빛과 바람, 물이 맞아떨어질 때 나타난다. 작가 기록은 런던의 첫 발표와 서울 국립현대미술관 전시를 함께 소개한다.",
+          "insight": {
+            "mechanism": "작가 설명에 따르면 99개의 거울을 두 탑과 긴 레일에 나눠 배치한다. 거울이 해바라기처럼 태양을 추적하고 반사광을 계산해 정렬하면서 물안개에 원을 그린다.",
+            "whyNow": "같은 설치도 구름이 해를 가리거나 바람이 안개를 옮기면 모습이 달라진다. 조형이 완성되는 조건을 관객이 기다리는 시간이 작품의 일부가 된다.",
+            "directorPoint": "효과가 가장 또렷한 순간 앞뒤의 기다림도 한 쇼트에 담아 본다. 주변의 밝기와 안개의 이동이 남아 있으면 형상의 출현을 환경과 연결해 읽을 수 있다.",
+            "critique": "방문 시간과 날씨에 따라 관객이 고리를 거의 보지 못할 수 있다. 가장 선명한 순간을 골라 찍은 사진은 관람 중의 긴 공백을 충분히 보여 주기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "로보틱스",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "비인간·생태",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "서울 기반 스튜디오(Somerset House 소개)",
+            "region": "동아시아",
+            "venue": "국립현대미술관 서울, MMCA 다원예술 2021 멀티버스 / Somerset House 2018, 종료된 전시 기록"
+          },
+          "host": "kimchiandchips.com",
+          "image": "images/2026-11-12-02.jpg",
+          "imageFallback": "https://media.kimchiandchips.com/media/106b7d27ac1dcaaa/640.jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://kimchiandchips.com/works/halo",
+            "sourceUrl": "https://media.kimchiandchips.com/media/106b7d27ac1dcaaa/640.jpeg",
+            "kind": "installation",
+            "credit": "Kimchi and Chips 공식 작품 기록, 개별 촬영자 미표기",
+            "caption": "작가 갤러리의 Somerset House 설치 이미지. 거울과 물안개 사이로 둥근 빛이 보이고 앞쪽에 관객이 서 있다.",
+            "checkedAt": "2026-11-12T00:31:39+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "광장에 선 관객 앞에서 거울과 물안개가 공중의 흰 고리를 만든다"
+          }
+        },
+        {
+          "id": "2026-11-12-03",
+          "originalTitle": "Air Conditioning",
+          "creator": "Lawrence Abu Hamdan",
+          "title": "하루의 비행 소음을 1센티미터의 구름으로 읽는다",
+          "publishedAt": "2022 / Mudam 2024 전시 기록",
+          "url": "https://www.mudam.com/whats-on/exhibitions/air-conditioning",
+          "description": "레바논 영공의 군용기 비행 기록을 구름 같은 이미지로 변환한 설치다. Mudam은 15장의 긴 인화물과 2분 42초의 설명 영상을 통해 소리가 사라진 뒤에도 남는 시간의 밀도를 보여 준다고 설명한다.",
+          "insight": {
+            "mechanism": "각 365센티미터 길이의 인화물에 1년을 대응시키고 1센티미터를 하루로 둔다. 비행기 수와 비행 시간은 연기의 높이와 두께로 옮겨지며, 자료는 유엔 디지털 도서관의 기록에 근거한다.",
+            "whyNow": "반복되는 소음은 매번의 사건을 따로 들을 때와 오랜 기간 누적해 볼 때 다르게 드러난다. 조용한 전시장에서 관객이 긴 벽을 따라 읽는 행위가 그 누적을 체감하게 한다.",
+            "directorPoint": "보이지 않는 현상을 형상화할 때 시간과 길이 사이에 먼저 일관된 단위를 정한다. 설명 영상을 짧게 두고 같은 눈금이 이어지는 벽을 보여주면 관객이 작은 차이를 직접 비교할 수 있다.",
+            "critique": "구름의 아름다운 표면을 보고 데이터와의 대응을 놓칠 수 있다. 공개 기록에 남은 사건과 그 밖의 경험을 어느 범위까지 대표하는지도 구분해 읽어야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "아카이브 데이터",
+              "영상·필름"
+            ],
+            "theme": [
+              "권력·감시",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "두바이 거주·활동(Mudam 작가 소개)",
+            "region": "유럽",
+            "venue": "Mudam Luxembourg / 2024년 3월 29일~6월 9일, 종료된 전시 기록"
+          },
+          "host": "www.mudam.com",
+          "image": "images/2026-11-12-03.jpg",
+          "imageFallback": "https://dbf642yz813mr.cloudfront.net/images/_medium/482514/Mudam_L.Abu-Hamdan-Air-Conditioning_28-03-24_1640_2024-05-29-083127_iqvg.webp",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.mudam.com/whats-on/exhibitions/air-conditioning",
+            "sourceUrl": "https://dbf642yz813mr.cloudfront.net/images/_medium/482514/Mudam_L.Abu-Hamdan-Air-Conditioning_28-03-24_1640_2024-05-29-083127_iqvg.webp",
+            "kind": "artwork",
+            "credit": "© Photo: Rémi Villaggi – Metz | Mudam Luxembourg / Lawrence Abu Hamdan 작품",
+            "caption": "Mudam이 공개한 《Air Conditioning》의 부분 이미지. 비행 기록을 변환한 짙고 옅은 구름 층이 수평으로 겹친다.",
+            "checkedAt": "2026-11-12T00:31:39+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "푸른 바탕 위로 짙은 연기와 밝은 구름 같은 층이 길게 겹쳐 있다"
+          }
+        },
+        {
+          "id": "2026-11-12-04",
+          "originalTitle": "Container",
+          "creator": "Meghna Singh · Simon Wood",
+          "title": "컨테이너의 닫힌 문 뒤로 노동의 역사를 잇는다",
+          "publishedAt": "2021 / Electric South 제작 기록",
+          "url": "https://simonwoodfilm.com/container",
+          "description": "화물 컨테이너가 계속 변하는 VR 작업이다. 케이프타운 해안의 노예선 침몰 역사와 오늘날 상품의 이동을 연결하며 소비사회가 드러내지 않는 사람들의 노동을 바라본다.",
+          "insight": {
+            "mechanism": "기록과 구성된 장면을 함께 쓰고, 관객을 컨테이너의 미로로 이끈다. 물에서 시작해 다시 바다로 돌아오는 순환 구조 안에서 과거의 속박과 동시대의 경제적 예속을 연결한다.",
+            "whyNow": "멀리서 도착한 상품의 이동은 보이지만 그것을 만드는 사람의 몸은 쉽게 지워진다. 익숙한 물류의 용기를 사람의 크기와 움직임을 드러내는 공간으로 바꿔 본다.",
+            "directorPoint": "장소를 바꿀 때 같은 문과 벽의 위치를 남겨 두고 그 안의 노동 동작을 바꾼다. 공간의 반복을 통해 서로 다른 시대가 어떻게 한 구조로 묶이는지 보여줄 수 있다.",
+            "critique": "폭력의 역사를 강한 신체 이미지로 전달할 때 관객의 충격이 인물의 구체적인 삶을 덮을 수 있다. 누가 어떤 장면을 구성하고 말하는지 확인할 자료를 함께 두는 일이 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "노동·산업",
+              "탈식민·역사"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": "남아프리카공화국(Electric South 제작 기록)",
+            "region": "아프리카",
+            "venue": "Electric South 2021 제작 아카이브 / 작가 공개 프로젝트 기록"
+          },
+          "host": "simonwoodfilm.com",
+          "image": "images/2026-11-12-04.jpg",
+          "imageFallback": "https://cdn.myportfolio.com/190b0f7ccf42f4a540ba5734e76cf322/9641a5a3-bf28-42fd-bcf8-9370efde915d_rw_3840.jpg?h=0eba1fde166f48fc1a76daf6d1402171",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://simonwoodfilm.com/container",
+            "sourceUrl": "https://cdn.myportfolio.com/190b0f7ccf42f4a540ba5734e76cf322/9641a5a3-bf28-42fd-bcf8-9370efde915d_rw_3840.jpg?h=0eba1fde166f48fc1a76daf6d1402171",
+            "kind": "film-still",
+            "credit": "Meghna Singh · Simon Wood 작품 / Simon Wood 공식 프로젝트 갤러리, 개별 촬영자 미표기",
+            "caption": "작가가 공개한 작품 갤러리 이미지. 식물 사이에 놓인 화물 컨테이너 문 앞에서 한 인물이 몸을 움직인다.",
+            "checkedAt": "2026-11-12T00:31:40+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "식물로 둘러싸인 화물 컨테이너 문 앞에서 한 인물이 두 팔을 뻗는다"
+          }
+        },
+        {
+          "id": "2026-11-12-05",
+          "originalTitle": "Goliath: Playing with Reality",
+          "creator": "May Abdalla · Barry Gene Murphy (Anagram)",
+          "title": "게임 속 목소리가 고립된 사람을 다시 연결한다",
+          "publishedAt": "2021 / 베네치아 국제영화제 발표 기록",
+          "url": "https://weareanagram.co.uk/project/goliath-playing-with-reality/",
+          "description": "정신의료기관에서 오랜 기간 고립돼 지낸 존이 온라인 다인용 게임에서 관계를 찾는 과정을 따라가는 25분짜리 애니메이션 VR 작품이다. 실존 인물의 대화와 목소리에 상징적 상호작용과 변화하는 가상 공간을 결합한다.",
+          "insight": {
+            "mechanism": "인터뷰, 전화 대화, 실제 온라인 게임 녹음을 모아 장면을 만든다. Tilda Swinton이 목소리를 맡은 Echo가 관객을 안내하며, 다듬어진 가상 이미지와 기록된 목소리가 서로 다른 현실감을 만든다.",
+            "whyNow": "온라인 게임을 평가할 때 화면 속 행동만 보면 그 주변에서 만들어지는 관계를 놓치기 쉽다. 작품은 한 사람의 목소리와 경험을 통해 연결이 성립하는 시간을 듣게 한다.",
+            "directorPoint": "공간을 크게 변형하는 장면에서도 인물의 실제 말투와 숨을 남겨 둔다. 시각적 변화가 빠르더라도 반복해서 돌아오는 목소리가 관객이 사람의 이야기를 따라갈 단서가 된다.",
+            "critique": "한 사람의 경험을 감각적으로 구성한 작품이 조현병을 겪는 모든 사람을 대표할 수는 없다. 제작 과정의 협업과 언어 검토를 함께 읽으며 경험의 범위를 구체적으로 볼 필요가 있다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "놀이·게임",
+              "돌봄·치유"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Anagram 공식 프로젝트 / 베네치아 국제영화제 2021 등 종료된 상영 기록"
+          },
+          "host": "weareanagram.co.uk",
+          "image": "images/2026-11-12-05.jpg",
+          "imageFallback": "https://weareanagram.co.uk/wp-content/uploads/2023/12/Goliath_3-768x428.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://weareanagram.co.uk/project/goliath-playing-with-reality/",
+            "sourceUrl": "https://weareanagram.co.uk/wp-content/uploads/2023/12/Goliath_3-768x428.png",
+            "kind": "gameplay",
+            "credit": "Anagram · Floréal 작품 / Anagram 공식 프로젝트 갤러리",
+            "caption": "Anagram이 공개한 VR 작품 이미지. 빛이 퍼지는 가상 풍경 속에 기계적인 형상이 떠 있다.",
+            "checkedAt": "2026-11-12T00:31:40+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "분홍빛 하늘과 보랏빛 지면 사이로 기계 같은 형상이 떠 있는 가상 장면"
+          }
+        },
+        {
+          "id": "2026-11-12-06",
+          "originalTitle": "Awavena",
+          "creator": "Lynette Wallworth (연출) · Hushahu와 Yawanawa 공동체(협업)",
+          "title": "아마존 공동체가 자신의 비전을 나누는 VR",
+          "publishedAt": "2018 / AGWA 2020 전시 기록",
+          "url": "https://lynettewallworth.com/works/awavena",
+          "description": "아마존 Yawanawa 공동체와 협업해 만든 가상현실 작품이다. 공동체 최초의 여성 샤먼 Hushahu의 이야기를 통해 성별 역할의 변화와 숲을 지키는 삶을 전한다. 관람 형식은 앉아서 보는 부분과 몸을 움직이는 부분으로 나뉜다.",
+          "insight": {
+            "mechanism": "AGWA의 전시 안내는 17분의 좌식 경험과 6분의 능동적 경험을 구분한다. 숲에서 포착한 형광 표본을 밝게 빛나는 가상 이미지로 옮기며, Hushahu의 이야기를 감각적 여정으로 구성한다.",
+            "whyNow": "작가에 따르면 공동체는 자신들의 비전 상태를 나누는 방법으로 VR을 택했다. 기술을 고른 주체와 그것으로 전하려는 이야기를 함께 읽으면 협업의 방향이 보인다.",
+            "directorPoint": "새로운 감각적 장면으로 이동하기 전에 인물과 장소를 구체적으로 만나는 시간을 둔다. 실제 목소리와 숲의 풍경이 남아 있어야 이후의 빛과 색이 누구의 경험에 연결되는지 따라갈 수 있다.",
+            "critique": "헤드셋 속 체험이 공동체의 의례나 지식을 온전히 전달한다고 볼 수는 없다. AGWA 안내의 연령·신체 조건처럼 관람 방식이 참여 범위를 정한다는 점도 함께 살펴야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름"
+            ],
+            "theme": [
+              "의례·공동체",
+              "의식·영성",
+              "비인간·생태"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": "Lynette Wallworth: 호주(AGWA 소개) / Yawanawa 공동체: 브라질 아마존(작가 기록)",
+            "region": "오세아니아",
+            "venue": "Art Gallery of Western Australia, Perth Festival / 2020년 2월 7일~3월 2일, 종료된 전시 기록"
+          },
+          "host": "lynettewallworth.com",
+          "image": "images/2026-11-12-06.jpg",
+          "imageFallback": "https://artgallery.wa.gov.au/wp-content/uploads/2024/03/awavena_header.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://artgallery.wa.gov.au/whats-on/exhibitions/awavena-lynette-wallworth/",
+            "sourceUrl": "https://artgallery.wa.gov.au/wp-content/uploads/2024/03/awavena_header.jpg",
+            "kind": "film-still",
+            "credit": "Lynette Wallworth · Yawanawa 공동체 작품 / AGWA 제공 production still, 개별 촬영자 미표기",
+            "caption": "AGWA가 작품의 production still로 명시한 이미지. Hushahu가 강을 건너는 나무다리 앞에 서 있다.",
+            "checkedAt": "2026-11-12T00:31:40+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "강과 숲을 잇는 나무다리 입구에 Hushahu가 서 있는 작품 장면"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "수면의 높이를 관객의 눈높이로 바꾸는 WATERLICHT",
+        "keywords": [
+          "물과 빛",
+          "환경",
+          "공공공간",
+          "눈높이"
+        ],
+        "sections": [
+          {
+            "heading": "가까운 공원에 다른 높이를 겹친다",
+            "body": "Research Ireland는 11월 13~14일 더블린 Iveagh Gardens에서 WATERLICHT를 선보인다고 안내한다. 관객이 아는 공원을 유지하면서 머리 위에 푸른빛의 수면을 겹친다. 익숙한 나무와 건축물이 남아 있어 빛이 놓인 높이를 몸의 위치와 비교할 수 있다."
+          },
+          {
+            "heading": "형상을 지탱하는 조건을 장면에 남긴다",
+            "body": "작가가 밝힌 재료에는 LED, 소프트웨어, 렌즈, 습도와 장소에 맞춘 설계가 포함된다. 바람과 비도 빛의 풍경에 영향을 준다. 연출로 옮길 때는 가장 고른 수면만 고르기보다 흔들림과 흐림이 드러나는 시간을 함께 두면 장소의 조건을 읽게 할 수 있다."
+          },
+          {
+            "heading": "함께 걷는 몸이 수면의 자가 된다",
+            "body": "작가는 이 설치를 함께 경험하는 풍경으로 설명한다. 공식 안내 이미지에서는 크고 작은 몸들이 같은 빛 아래를 걷는다. 관객을 한 자리에 고정하지 않고 빛과의 거리를 바꾸게 하면, 주변 사람의 크기와 움직임도 공간을 판단하는 단서가 된다."
+          },
+          {
+            "heading": "체험에서 지역의 연구로 이어진다",
+            "body": "개최기관은 작품과 함께 해수면 연구, 홍수 예측, 공동체의 기후 적응을 소개한다. 감각적 체험 뒤에 지역의 자료와 질문을 연결하는 구성이다. 전시 안내는 가상의 홍수를 보여 주므로, 특정 장소의 실제 위험을 판단할 때에는 별도의 관측과 예측 자료를 확인해야 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Studio Roosegaarde 공식 작품 기록 · 재료, 작동 조건, 첫 전시와 순회 기록",
+            "url": "https://www.studioroosegaarde.net/project/waterlicht"
+          },
+          {
+            "label": "Research Ireland 공식 전시 안내 · 2026년 더블린 일정과 Science Week 연구 맥락",
+            "url": "https://www.researchireland.ie/news/waterlicht/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-11",
       "title": "이동과 대화의 조건을 만드는 여섯 작품",
       "summary": "미니버스 노선과 조수에 맞춰 움직이는 도시, 두 화면의 뉴스와 네 사람의 목소리를 따라간다. 여섯 작품은 공간과 매체가 사람이 보고 듣고 움직이는 방식을 어떻게 바꾸는지 보여 준다.",
@@ -23716,7 +24074,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-11T00:35:47+09:00",
+  "generatedAt": "2026-11-12T00:34:33+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -258,6 +258,10 @@
     {
       "date": "2026-11-11",
       "note": "Latest 6개, Focus 4단락과 공식 출처 2곳. 아프리카·중남미·오세아니아·동아시아·유럽, 같은 호스트 최대 2개. 작품 이미지 6개를 공식 자료와 시각 대조했다."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "Latest 6개, Focus 4단락과 공식 출처 2곳. 유럽·동아시아·아프리카·오세아니아, 호스트 6곳. 공식 이미지 6개를 실제 작품과 시각 대조했다."
     }
   ],
   "source_notes": [
@@ -388,6 +392,10 @@
     {
       "date": "2026-11-11",
       "note": "The Daladala Verse는 360도 상영 기록과 작가의 2D 예고편 이미지를 구분했다. Imaginary Atlas의 COP30 설치 기록은 Bruno Carachesti, Catherine Spet 작품의 설치 사진은 Jorit Aust 크레딧을 보존했다. teamLab 작품은 실공간 촬영을 명시한 작가 보도자료의 이미지를 사용했다."
+    },
+    {
+      "date": "2026-11-12",
+      "note": "WATERLICHT의 11월 13~14일 더블린 일정은 예정으로 표기하고 안내 이미지는 촬영 장소 미상 참고 이미지로 구분했다. Halo의 99개 거울은 작가 설명을 따랐다. Air Conditioning은 사진 인화물과 설명 영상으로 이뤄진 작품으로, Awavena 이미지는 AGWA가 명시한 production still로 기록했다. 과거 전시와 신규 발표일을 구분했다."
     }
   ],
   "dedup_policy": {
