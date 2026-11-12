@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -262,6 +262,10 @@
     {
       "date": "2026-11-12",
       "note": "Latest 6개, Focus 4단락과 공식 출처 2곳. 유럽·동아시아·아프리카·오세아니아, 호스트 6곳. 공식 이미지 6개를 실제 작품과 시각 대조했다."
+    },
+    {
+      "date": "2026-11-13",
+      "note": "신규 수록 작품 6개와 Focus 4단락·공식 출처 2곳. 아프리카·유럽·북미·오세아니아 4권역, 호스트 6곳. 기존 작가 반복 후보 Pulse Room은 교체하고 공식 아카이브의 새 작품으로 구성했다."
     }
   ],
   "source_notes": [
@@ -396,6 +400,10 @@
     {
       "date": "2026-11-12",
       "note": "WATERLICHT의 11월 13~14일 더블린 일정은 예정으로 표기하고 안내 이미지는 촬영 장소 미상 참고 이미지로 구분했다. Halo의 99개 거울은 작가 설명을 따랐다. Air Conditioning은 사진 인화물과 설명 영상으로 이뤄진 작품으로, Awavena 이미지는 AGWA가 명시한 production still로 기록했다. 과거 전시와 신규 발표일을 구분했다."
+    },
+    {
+      "date": "2026-11-13",
+      "note": "신규 발표로 오인하지 않도록 여섯 항목의 제작·과거 전시 날짜를 명시했다. The Refusal of Time과 공연 Refuse the Hour를 구분하고 28분/30분 표기의 차이는 미확정으로 남겼다. test pattern은 Carriageworks nº5와 그 사진만 사용했다. Bit.Fall의 행사 인물 사진을 제외하고 실제 광장 설치를 선택했다. RE-ANIMATED는 가상 풍경 스틸 대신 전시 전경을 사용했다. 공식 공개와 이용허락은 구분했다."
     }
   ],
   "dedup_policy": {
