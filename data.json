@@ -1,6 +1,362 @@
 {
   "issues": [
     {
+      "date": "2026-11-15",
+      "title": "소리를 짓는 몸, 이미지를 짓는 기계",
+      "summary": "Inhotim의 《The Murder of Crows》 재공개 안내를 계기로 여섯 작품을 읽는다. 꿈을 둘러싸는 스피커, 몸으로 만드는 소리, 나무 화소, 기울어지는 합창단, 생태 음향의 기록과 금속 물방울의 안무를 통해 감각의 위치와 움직임의 주도권을 살펴본다. 최신 재공개와 과거 전시 기록은 구분해 표기했다.",
+      "crosscurrent": {
+        "note": "《The Murder of Crows》는 소리의 이동으로 머릿속 장면을 만들고 《Very Nervous System》은 관객의 움직임을 그 소리의 입력으로 둔다. 《Pendulum Choir》에서는 기계가 움직이는 몸의 조건을 정한다. 《Wooden Mirror》와 《Kinetic Rain》은 작은 물체들의 차이를 하나의 이미지로 묶고, 《The Great Animal Orchestra》는 기록된 소리를 시각적 지형으로 펼친다. 사전 안무·실시간 입력·현장 녹음의 재생은 서로 다른 작동 방식이다.",
+        "itemIds": [
+          "2026-11-15-01",
+          "2026-11-15-02",
+          "2026-11-15-03",
+          "2026-11-15-04",
+          "2026-11-15-05",
+          "2026-11-15-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-15-01",
+          "originalTitle": "The Murder of Crows",
+          "creator": "Janet Cardiff · George Bures Miller",
+          "title": "98개의 스피커가 화면 없는 꿈의 장면을 만든다",
+          "publishedAt": "2008 / Inhotim 2026년 11월 14일 재공개 안내",
+          "url": "https://www.inhotim.org.br/eventos/inauguracoes-especiais-de-20-anos-do-inhotim/",
+          "description": "Inhotim은 개관 20주년을 맞아 Galeria Galpão에서 이 작품을 다시 공개한다고 안내했다. 2008년에 제작된 30분의 사운드 설치로, 여러 위치의 스피커가 목소리와 음악, 효과음으로 관객의 머릿속에 장면을 만든다.",
+          "insight": {
+            "mechanism": "98개의 스피커를 공간에 분산하고 중앙 책상 위 메가폰에서 꿈을 말하는 목소리가 들리게 한다. 공장 소음과 파도, 새의 날갯짓, 악기와 합창이 이어지면서 소리의 위치와 장면이 바뀐다.",
+            "whyNow": "11월 14일 재공개를 알린 기관의 발표와 작가의 2008년 작품 설명을 함께 읽는다. 새 제작물이라는 소개 대신, 오래된 사운드 설치가 다시 관객을 만나는 현재의 계기를 짚는다.",
+            "directorPoint": "이야기의 목소리가 돌아오는 고정 지점을 두고 주변 소리의 방향과 거리를 바꿔 본다. 화면을 채우기 전에 관객이 스스로 떠올리는 장면의 크기와 소리가 이동하는 시간을 설계할 수 있다.",
+            "critique": "설치 사진이나 일반 스테레오 기록만으로 98개 스피커의 실제 공간 경험을 확인할 수는 없다. 공식 재공개 안내와 현장 운영·청취 조건의 확인도 구분해야 한다. 작품의 꿈과 공포를 관객 모두의 동일한 감정으로 일반화하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감",
+              "언어"
+            ],
+            "tech": [
+              "공간음향",
+              "음성·언어"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "전쟁·폭력"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Inhotim Galeria Galpão, 브루마지뉴, 브라질 / 2026년 11월 14일 재공개 공식 안내"
+          },
+          "host": "www.inhotim.org.br",
+          "image": "images/2026-11-15-01.jpg",
+          "imageFallback": "https://www.inhotim.org.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/10/Evento_Janet-Cardiff_PAGINA_Marcela-Christo.png.webp",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.inhotim.org.br/eventos/inauguracoes-especiais-de-20-anos-do-inhotim/",
+            "sourceUrl": "https://www.inhotim.org.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/10/Evento_Janet-Cardiff_PAGINA_Marcela-Christo.png.webp",
+            "kind": "installation",
+            "credit": "Janet Cardiff & George Bures Miller 작품 / Photo: Marcela Christo, Inhotim 공식 행사 자료",
+            "caption": "Inhotim 재공개 안내에 실린 작품 사진. 중앙 책상의 메가폰과 주변 스피커를 보여 주며, 같은 발표의 《A Céu Aberto》 모형 사진과 구분했다.",
+            "checkedAt": "2026-11-15T00:40:22+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "어두운 전시장 책상에 메가폰이 옆으로 놓여 있고 뒤로 서로 다른 높이의 스피커와 의자들이 보인다"
+          }
+        },
+        {
+          "id": "2026-11-15-02",
+          "originalTitle": "Very Nervous System",
+          "creator": "David Rokeby",
+          "title": "빈 방에서 움직이면 내 몸이 소리의 출발점이 된다",
+          "publishedAt": "1980년대 중반부터 발전 / JNAAG 2014–2015 전시 기록",
+          "url": "https://www.jnaag.ca/whats-on/exhibitions/past-exhibitions/david-rokeby-very-nervous-system/",
+          "description": "겉으로는 비어 있는 듯한 공간에서 관객의 움직임을 소리로 바꾸는 인터랙티브 설치다. 여러 시기에 걸쳐 발전한 작업이며, 여기서는 캐나다 Judith & Norman Alix Art Gallery가 공개한 과거 전시 기록을 읽는다.",
+          "insight": {
+            "mechanism": "비디오 카메라와 영상 처리 소프트웨어, 컴퓨터와 사운드 시스템이 움직임을 음악 또는 소리로 옮긴다. 관객은 소리에 맞춰 춤추는 대신 자신의 동작으로 소리를 만들고 그 반응을 다시 듣는다.",
+            "whyNow": "화면의 메뉴를 고르지 않아도 몸을 움직이며 입력과 결과를 탐색할 수 있는 사례다. 공식 기록을 통해 소리를 만드는 동작과 그 소리를 듣고 바뀌는 다음 동작의 순환을 살펴본다.",
+            "directorPoint": "배우가 멈춰 있는 장면에서 시작해 작은 동작 하나와 그에 따른 소리를 연결해 본다. 큰 몸짓을 늘리기보다 멈춤과 움직임을 비교하면 장치의 반응을 관객이 알아차릴 여지가 생긴다.",
+            "critique": "판본에 따라 감도와 음색이 바뀌었다고 RMG는 설명한다. 한 시기의 반응을 모든 버전의 성능으로 단정할 수 없고, 몸을 소리로 바꾼다는 설명이 감정이나 의도를 읽는다는 뜻도 아니다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "공간음향"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Judith & Norman Alix Art Gallery, 사니아, 캐나다 / 2014년 11월 7일~2015년 1월 4일, 종료된 전시 기록"
+          },
+          "host": "www.jnaag.ca",
+          "image": "images/2026-11-15-02.jpg",
+          "imageFallback": "https://media-004-ca.cdn.govstack.com/lambtoncounty-002-ca/media/ph2dpz0r/rokeby-very-nervous-system.jpg?width=1600&height=1200&v=1dd45313403ef10&format=webp",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.jnaag.ca/whats-on/exhibitions/past-exhibitions/david-rokeby-very-nervous-system/",
+            "sourceUrl": "https://media-004-ca.cdn.govstack.com/lambtoncounty-002-ca/media/ph2dpz0r/rokeby-very-nervous-system.jpg?width=1600&height=1200&v=1dd45313403ef10&format=webp",
+            "kind": "documentation",
+            "credit": "David Rokeby 작품 / Judith & Norman Alix Art Gallery 공식 작품 기록, 개별 촬영자 미표기",
+            "caption": "공식 전시 페이지가 제공한 참여 동작의 사진 모음. 한 번의 공연을 동시에 촬영한 단일 전경으로 설명하지 않는다.",
+            "checkedAt": "2026-11-15T00:40:21+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "밝은 설치 공간에서 여러 사람이 몸과 팔을 움직이는 장면들이 격자 모양의 사진 모음으로 배치돼 있다"
+          }
+        },
+        {
+          "id": "2026-11-15-03",
+          "originalTitle": "Wooden Mirror",
+          "creator": "Daniel Rozin",
+          "title": "나무 조각의 기울기가 내 모습의 밝고 어두운 면을 만든다",
+          "publishedAt": "1999 / ICC 2000 전시·bitforms의 1999년 Octagon 판본 기록",
+          "url": "https://www.bitforms.art/artwork/wooden-mirror-1999",
+          "description": "반사하지 않는 작은 나무 조각들이 사람의 모습을 실시간으로 나타내는 기계 거울이다. ICC는 1999년 작품을 2000년 도쿄 전시에서 소개했고, bitforms는 팔각형 판본을 별도의 작품 기록으로 제공한다.",
+          "insight": {
+            "mechanism": "ICC 기록에 따르면 830개 나무 조각마다 모터가 연결돼 카메라가 받은 이미지에 맞춰 움직인다. 조각에 닿는 빛의 차이가 명암을 만들고, 물리적인 표면이 디지털 화소처럼 작동한다.",
+            "whyNow": "자신을 다시 보여 주는 장치에서도 재료와 출력 방식이 경험을 바꾼다. 얼굴 합성이나 AI 모델을 전제하지 않고 카메라·모터·빛으로 이미지가 성립하는 과정을 읽을 수 있다.",
+            "directorPoint": "인물의 윤곽이 읽히는 전경과 나무 한 조각의 각도가 달라지는 근접 장면을 연결해 본다. 결과 이미지와 그 이미지를 만드는 재료의 움직임을 함께 남기는 구성이다.",
+            "critique": "작가와 갤러리는 서로 다른 제작 사양과 판본을 기록하고 있으므로 치수를 하나로 합치지 않는다. 조명과 관람 위치에 좌우되는 명암을 사진의 대비만으로 평가할 수도 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "지각·반사",
+              "신체·정체성"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "NTT InterCommunication Center [ICC], 도쿄 / 2000년 4월 21일~6월 4일 종료 전시 참조. 사용 사진은 bitforms의 팔각형 작품 기록"
+          },
+          "host": "www.bitforms.art",
+          "image": "images/2026-11-15-03.jpg",
+          "imageFallback": "https://www.bitforms.art/wp-content/uploads/2026/08/Img_0057-1024x712.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.bitforms.art/artwork/wooden-mirror-1999",
+            "sourceUrl": "https://www.bitforms.art/wp-content/uploads/2026/08/Img_0057-1024x712.jpg",
+            "kind": "installation",
+            "credit": "Daniel Rozin 작품 / bitforms gallery 공식 작품 사진, 개별 촬영자 미표기",
+            "caption": "bitforms가 Wooden Mirror (Octagon), 1999로 안내한 사진. ICC의 2000년 현장 촬영으로 오인하지 않도록 출처를 구분했다.",
+            "checkedAt": "2026-11-15T00:40:21+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "팔각형 나무 조각 거울 앞에 사람이 서 있고 표면의 밝고 어두운 조각들이 사람의 윤곽을 이룬다"
+          }
+        },
+        {
+          "id": "2026-11-15-04",
+          "originalTitle": "Pendulum Choir",
+          "creator": "Michel Décosterd · André Décosterd (Cod.Act)",
+          "title": "노래하는 아홉 몸의 기울기를 기계가 바꾼다",
+          "publishedAt": "2011 / Cod.Act 포트폴리오·제16회 문화청 미디어예술제 수상 기록",
+          "url": "https://www.bunka.go.jp/j-mediaarts-festival/en/award/single/pendulum-choir/index-2.html",
+          "description": "아홉 명의 아카펠라 가수와 18개의 유압 장치로 구성된 공연이다. 가수들이 서 있는 플랫폼이 기울면서 목소리의 합창과 몸의 움직임이 하나의 장면을 이룬다.",
+          "insight": {
+            "mechanism": "가수는 기울어지는 플랫폼 위에서 노래한다. 전자음이 더해지는 구성 안에서 몸은 서로 가까워지거나 멀어지며 중력에 맞서고, 기계가 정한 자세와 발성하는 사람의 관계가 드러난다.",
+            "whyNow": "기술이 몸을 따라오는 것과 기술이 몸의 조건을 정하는 것은 다르다. 공식 수상 기록을 통해 가창의 표현과 움직임의 주도권을 나란히 읽는 사례로 살펴본다.",
+            "directorPoint": "소리의 변화와 몸의 기울기를 함께 볼 수 있는 넓은 고정 구도를 생각해 본다. 기계를 감추지 않고 몸을 지탱하는 장치를 프레임 안에 두면 아름다움과 긴장이 같은 장면에서 생긴다.",
+            "critique": "이 구성은 공연자와 장치가 정밀하게 준비된 작품이다. 공개 사진으로 하중·제어·비상 중단 사양을 확인할 수 없으므로 효과를 본떠 움직이는 플랫폼에 사람을 올리는 제작법으로 단순화해서는 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "신체·정체성"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "스위스 듀오 Cod.Act 작품 / 문화청 공식 수상 기록의 공연 사진, 촬영 장소 미표기"
+          },
+          "host": "www.bunka.go.jp",
+          "image": "images/2026-11-15-04.jpg",
+          "imageFallback": "https://www.bunka.go.jp/j-mediaarts-festival/wp-content/uploads/sites/2/2022/11/16a_PendulumChoir1-thumb-765xauto-857.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.bunka.go.jp/j-mediaarts-festival/en/award/single/pendulum-choir/index-2.html",
+            "sourceUrl": "https://www.bunka.go.jp/j-mediaarts-festival/wp-content/uploads/sites/2/2022/11/16a_PendulumChoir1-thumb-765xauto-857.jpg",
+            "kind": "performance",
+            "credit": "© Cod.Act / Photo: Xavier Voirol, 문화청 미디어예술제 공식 기록",
+            "caption": "문화청 수상 페이지가 공개한 공연 사진. 창이 높은 공간에서 기울어진 플랫폼 위의 가수들이 노래한다.",
+            "checkedAt": "2026-11-15T00:40:21+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "검은 옷을 입은 여러 가수가 서로 다른 각도로 기울어진 금속 플랫폼 위에 서 있다"
+          }
+        },
+        {
+          "id": "2026-11-15-05",
+          "originalTitle": "The Great Animal Orchestra",
+          "creator": "Bernie Krause · United Visual Artists (UVA)",
+          "title": "현장에서 채집한 동물의 소리가 빛의 지형으로 펼쳐진다",
+          "publishedAt": "2016 커미션 / 제23회 시드니비엔날레 2022 전시 기록",
+          "url": "https://www.biennaleofsydney.art/participants/the-great-animal-orchestra/",
+          "description": "Bernie Krause의 생태 음향 기록과 UVA의 시각화를 결합한 설치다. 2016년 Fondation Cartier의 커미션으로 시작됐으며, 시드니비엔날레는 2022년 Barangaroo의 Stargazer Lawn에서 호주 첫 전시를 선보였다.",
+          "insight": {
+            "mechanism": "채집한 사운드스케이프를 들려주며 그에 맞춘 스펙트로그램을 공간에 투사한다. UVA는 검은 물의 반사가 시각적 지형을 이어 준다고 설명한다. 현재의 생태계를 실시간 감지하는 장치가 아닌 기록의 재구성이다.",
+            "whyNow": "공식 전시 기록에서 자연의 소리를 풍경의 배경음 이상으로 읽는다. 다른 장소와 시간의 울림을 함께 듣는 경험이 생태의 기억을 어떻게 구성하는지 살펴본다.",
+            "directorPoint": "먼저 어떤 장소의 기록을 듣는지 알려 준 뒤 주파수의 층이 나타나게 해 본다. 그래픽이 소리를 대신 설명하지 않도록 듣기만 하는 구간과 자료를 비교하는 구간을 나눌 수 있다.",
+            "critique": "시각화의 밀도만으로 생물 다양성이나 손실의 원인을 확정할 수는 없다. 자료의 채집 시기와 위치, 작가의 해석을 구분해야 하며 과거 현장 녹음을 현재의 자연 상태로 설명하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "아카이브 데이터",
+              "데이터·시각화",
+              "프로젝션",
+              "공간음향"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": "UVA: 런던 기반(시드니비엔날레 소개) / Bernie Krause: 미국(동 소개)",
+            "region": "오세아니아",
+            "venue": "Stargazer Lawn, Barangaroo, 제23회 시드니비엔날레 / 2022년 3월 12일~6월 13일 종료 전시 참조"
+          },
+          "host": "www.biennaleofsydney.art",
+          "image": "images/2026-11-15-05.jpg",
+          "imageFallback": "https://www.biennaleofsydney.art/wp-content/uploads/2022/01/COL-KRA-8379-copy-960x564.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.biennaleofsydney.art/participants/the-great-animal-orchestra/",
+            "sourceUrl": "https://www.biennaleofsydney.art/wp-content/uploads/2022/01/COL-KRA-8379-copy-960x564.jpg",
+            "kind": "installation",
+            "credit": "© Bernie Krause / © UVA / Photo: Luc Boegly, Fondation Cartier 작품 사진·시드니비엔날레 제공",
+            "caption": "공식 캡션은 Fondation Cartier, 파리, 2016년 설치 전경으로 명시한다. 2022년 시드니 현장 사진으로 설명하지 않았다.",
+            "checkedAt": "2026-11-15T00:40:20+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "어두운 방의 벽과 바닥에 푸른 선형 스펙트로그램이 펼쳐지고 한 관객이 그 앞에 앉아 있다"
+          }
+        },
+        {
+          "id": "2026-11-15-06",
+          "originalTitle": "Kinetic Rain",
+          "creator": "Joachim Sauter · Jussi Ängeslevä · Christian Riekoff · Ben Maus (ART+COM)",
+          "title": "두 무리의 금속 물방울이 서로 주고받는 입체 안무",
+          "publishedAt": "2012 / 제작 참여자·Changi Airport 공식 작품 기록",
+          "url": "https://www.changiairport.com/en/experience/attractions-directory/kinetic-rain.html",
+          "description": "싱가포르 Changi Airport 제1터미널의 키네틱 설치다. 구리로 도금한 알루미늄 물방울 총 1,216개가 두 무리로 나뉘어 오르내리며 추상적 형태와 비행을 떠올리는 형상을 만든다.",
+          "insight": {
+            "mechanism": "각 608개로 이루어진 두 배열을 모터와 소프트웨어로 제어한다. 제작 참여자 Jussi Ängeslevä는 15분의 안무 속에서 두 부분이 대화하듯 움직인다고 설명한다. 실제 물이나 관객 추적 영상과 구분되는 물리 조각이다.",
+            "whyNow": "사전 구성된 안무도 여러 사물의 높이 차이를 통해 시간적 이야기를 만들 수 있다. 공항처럼 시선이 계속 이동하는 장소에서 짧게 보는 순간과 긴 순환을 함께 설계한 사례로 읽는다.",
+            "directorPoint": "두 무리가 같은 동작을 하는 장면을 먼저 확보한 뒤 한쪽만 다르게 움직이게 해 본다. 고정된 넓은 구도에서도 일치·응답·엇갈림이 변화의 기준이 될 수 있다.",
+            "critique": "유려한 움직임만으로 자율적 군집이나 실시간 관객 반응을 추정할 수 없다. 천장 구조와 반복 구동의 유지 관리, 실제 공항의 시야 조건은 한 장의 공식 사진으로 판단하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "지각·반사",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동남·남아시아",
+            "venue": "Changi Airport Terminal 1, 싱가포르 / 공식 작품 소개"
+          },
+          "host": "www.changiairport.com",
+          "image": "images/2026-11-15-06.jpg",
+          "imageFallback": "https://www.changiairport.com/content/dam/changiairport/sg/airport/evergreen/directories/attractions/kinetic-rain/hires_kinetic_rain_6649.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.changiairport.com/en/experience/attractions-directory/kinetic-rain.html",
+            "sourceUrl": "https://www.changiairport.com/content/dam/changiairport/sg/airport/evergreen/directories/attractions/kinetic-rain/hires_kinetic_rain_6649.jpg",
+            "kind": "installation",
+            "credit": "ART+COM 작품 / Changi Airport Group 공식 작품 사진, 개별 촬영자 미표기",
+            "caption": "Changi Airport 공식 소개의 《Kinetic Rain》 사진. 제작자 갤러리에서 별도로 렌더링이라고 명시한 자료는 사용하지 않았다.",
+            "checkedAt": "2026-11-15T00:40:21+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "천장에 매달린 구릿빛 물방울 조각 수백 개가 서로 다른 높이에서 물결 모양을 이룬다"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "화면 없이도 장면이 바뀌는 소리의 방",
+        "keywords": [
+          "공간음향",
+          "꿈의 구조",
+          "고정된 목소리",
+          "재공개"
+        ],
+        "sections": [
+          {
+            "heading": "새 작품과 다시 만나는 작품의 날짜를 나눈다",
+            "body": "Inhotim은 20주년 행사에서 2026년 11월 14일 《The Murder of Crows》를 다시 공개한다고 알렸다. 작가의 원본 기록은 제작 연도를 2008년으로, 길이를 30분으로 적는다. 이번에 새로 생긴 것은 작품의 연도가 아니라 관객과 다시 만나는 계기다. 재공개 발표를 현장 방문 보고로 바꾸지 않고 두 시간을 함께 남긴다."
+          },
+          {
+            "heading": "말이 돌아오는 지점과 소리가 이동하는 공간",
+            "body": "작가의 설명에서는 중앙의 작은 책상과 메가폰에서 Janet의 목소리가 꿈을 들려준다. 주변에는 서로 다른 위치의 스피커들이 놓인다. 연출 관점에서는 돌아올 수 있는 목소리의 기준점을 두고 다른 소리가 그 바깥의 공간을 바꾸는 구성으로 읽을 수 있다. 모든 소리가 같은 위치와 강도로 밀려오는 경험과 다른 선택이다."
+          },
+          {
+            "heading": "장면을 보여 주기 전에 전환의 리듬을 만든다",
+            "body": "공장과 파도, 날갯짓에서 악기와 합창으로 이어지는 소리의 병치는 꿈처럼 불연속적인 연결을 만든다. 이 구조에서 가져갈 제안은 효과음을 더 많이 쌓는 방법이 아니다. 한 소리가 다음 소리를 예상하게 하는지, 아니면 이미 떠올린 장면을 흔드는지 구분하고 관객이 상상할 빈 시간을 남기는 편집을 생각해 볼 수 있다."
+          },
+          {
+            "heading": "사진의 중심과 실제 청취의 중심은 다를 수 있다",
+            "body": "사용한 Inhotim 사진은 메가폰이 놓인 책상을 선명하게 보여 준다. 그러나 사진의 중심에 있는 물체가 30분 전체의 공간 경험을 대표하는 것은 아니다. 작가 원문은 음악·연주·녹음·믹싱 협업자를 별도로 기록한다. 작품의 이름과 상징만 읽기보다 어떤 소리들이 어디서 만나도록 만들어졌는지 살피고, 실제 배치와 청취의 확인은 남겨 둔다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Inhotim 공식 재공개 안내 · 2026년 11월 14일 Galeria Galpão, 98개 스피커와 사진 크레딧",
+            "url": "https://www.inhotim.org.br/eventos/inauguracoes-especiais-de-20-anos-do-inhotim/"
+          },
+          {
+            "label": "Cardiff & Miller 공식 작품 설명 · 2008년·30분, 꿈의 연결 구조와 중앙 목소리, 음악·녹음 협업 크레딧",
+            "url": "https://cardiffmiller.com/installations/the-murder-of-crows/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-14",
       "title": "몸과 물질이 소리와 이미지를 만드는 여섯 장면",
       "summary": "공식 작품·전시 기록에서 여섯 작업을 새로 읽는다. 지하의 소리, 팔에 걸리는 문장, 압력에 변하는 표면, 일상 물체의 공명, 새가 만드는 음악과 변형되는 그림자를 통해 감각을 옮기는 장치와 참여의 조건을 살펴본다. 제작 연도와 종료된 전시는 각 항목에 구분했다.",
@@ -24793,7 +25149,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-14T00:40:26+09:00",
+  "generatedAt": "2026-11-15T00:43:41+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

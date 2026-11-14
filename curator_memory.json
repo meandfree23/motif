@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -270,6 +270,10 @@
     {
       "date": "2026-11-14",
       "note": "공식 기록으로 신규 수록 작품 6개와 Focus 4단락·출처 2곳을 구성했다. 중남미·북미·동아시아·유럽 4권역, 출처 호스트 6곳. 기존 이슈와 컬렉션 및 큐레이터 핵심 규칙을 보존했다."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "신규 수록 작품 6개와 Focus 4단락·공식 출처 2곳. 중남미·북미·동아시아·유럽·오세아니아·동남남아시아 6권역, 공식 출처 호스트 6곳. 일요일 기존 Signals 7개와 Toolkit을 검토했다."
     }
   ],
   "source_notes": [
@@ -412,6 +416,14 @@
     {
       "date": "2026-11-14",
       "note": "Sonic Pavilion의 실내 사진과 작가 갤러리의 렌더링을 구분했다. Chroma VIII는 상하이의 234개 단위 판본으로 VII와 혼동하지 않았다. Rainforest V의 구상자와 구현 협업자, Text Rain의 공동 작가를 함께 표기했다. MAAT의 from here to ear v.26은 종료 전시이며 돌봄 설명은 기관의 주장으로 한정했다. Treachery의 사진 촬영 장소는 특정하지 않았다. 모든 사진의 출처·크레딧을 기록하고 공식 공개를 이용허락으로 간주하지 않았다."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "The Murder of Crows는 2008년 제작과 2026년 11월 14일 Inhotim 재공개 안내를 구분했다. 공식 사진에서 같은 행사의 A Céu Aberto 모형을 제외하고 Marcela Christo의 실제 작품 사진을 선택했다. Very Nervous System은 인증서 오류를 우회하지 않고 캐나다 전시기관 자료로 확인, 참여 사진 모음으로 명시했다. Wooden Mirror는 bitforms 팔각형 사진과 ICC의 2000년 전시 이력을 구분하고 판본 치수를 합치지 않았다. Pendulum Choir는 Xavier Voirol 공연 사진, Great Animal Orchestra는 2016년 파리 사진과 2022년 시드니 전시를 구분했다. Kinetic Rain의 실제 설치 사진과 렌더링을 구분하고 사전 안무를 관객 추적이라고 쓰지 않았다."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "일요일 주간 검토: 기존 Signals 7개를 보존하고 근거 6개를 보강했다. AI·과학 장비의 신규 근거가 미확인인 신호는 수를 늘리지 않았다. Toolkit은 기존 87개를 보존하고 공간 음성의 기준점·물질 명암·두 배열 안무의 응용 3개를 추가했다."
     }
   ],
   "dedup_policy": {
