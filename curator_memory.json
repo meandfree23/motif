@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-18",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -274,6 +274,10 @@
     {
       "date": "2026-11-15",
       "note": "신규 수록 작품 6개와 Focus 4단락·공식 출처 2곳. 중남미·북미·동아시아·유럽·오세아니아·동남남아시아 6권역, 공식 출처 호스트 6곳. 일요일 기존 Signals 7개와 Toolkit을 검토했다."
+    },
+    {
+      "date": "2026-11-18",
+      "note": "공식 아카이브에서 기존 호와 중복되지 않는 작품 6개를 신규 수록하고 Boundary Functions Focus 4단락·2출처를 작성했다. 유럽·동아시아·북미 3권역과 출처 호스트 6곳. 제작·종료 전시와 현재 개막을 구분했으며 Counter Void는 네온 재료를 명시했다."
     }
   ],
   "source_notes": [
@@ -424,6 +428,10 @@
     {
       "date": "2026-11-15",
       "note": "일요일 주간 검토: 기존 Signals 7개를 보존하고 근거 6개를 보강했다. AI·과학 장비의 신규 근거가 미확인인 신호는 수를 늘리지 않았다. Toolkit은 기존 87개를 보존하고 공간 음성의 기준점·물질 명암·두 배열 안무의 응용 3개를 추가했다."
+    },
+    {
+      "date": "2026-11-18",
+      "note": "작가·LACMA·Public Art Fund·Pilar Corrias의 공식 사진 6개를 눈으로 대조하고 출처·개별 크레딧·프리뷰 근거를 기록했다. Counter Void의 현재 점등 일정은 미확인. Anywhen은 2016년 전시와 후속 동명 영화를 구분하고 AI로 설명하지 않았다. 11월 15일 Signals·Toolkit 및 기존 큐레이터 규칙은 보존했다."
     }
   ],
   "dedup_policy": {

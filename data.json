@@ -1,6 +1,362 @@
 {
   "issues": [
     {
+      "date": "2026-11-18",
+      "title": "공간의 규칙은 누구의 시간에 바뀌는가",
+      "summary": "오늘은 공식 아카이브에서 여섯 작품을 새로 수록한다. 사람 사이에 생기는 선, 낮밤에 뒤집히는 숫자, 소용돌이치는 수면과 깊이를 지우는 빛, 공중의 배열과 전시의 비선형 시간을 통해 공간의 변화가 무엇에 의해 결정되는지 읽는다. 제작·과거 전시 기록을 오늘의 개막 소식과 구분했다.",
+      "crosscurrent": {
+        "note": "《Boundary Functions》는 다른 관객의 위치가 분할선을 바꾼다. 《Counter Void》의 대비는 낮과 밤에 달라지고 《Descension》의 흐름은 관객과 무관하게 이어진다. 《Breathing Light》는 거리를 읽는 단서를 줄이는 반면 《Deep Web》은 움직이는 점과 선으로 그 단서를 만든다. 《Anywhen》은 개별 장면을 넘어 사건이 나타나는 순서를 바꾼다. 반응·반복·시간 제어를 모두 같은 인터랙션으로 묶지 않는 것이 오늘의 연결점이다.",
+        "itemIds": [
+          "2026-11-18-01",
+          "2026-11-18-02",
+          "2026-11-18-03",
+          "2026-11-18-04",
+          "2026-11-18-05",
+          "2026-11-18-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-18-01",
+          "originalTitle": "Boundary Functions",
+          "creator": "Scott Snibbe",
+          "title": "혼자일 때 없던 선이 다른 사람과 만나 생긴다",
+          "publishedAt": "1998 / 작가 작품 기록·ICC 2006–2007 전시 기록",
+          "url": "https://www.snibbe.com/projections/boundaryfunctions",
+          "description": "바닥의 선들이 관객 사이를 가르면서 움직이는 인터랙티브 설치다. 개인의 영역을 고정된 소유지로 보여 주는 대신, 다른 사람이 어디에 서 있는지에 따라 매번 달라지는 관계로 드러낸다.",
+          "insight": {
+            "mechanism": "위쪽 카메라가 사람의 위치를 추적하고 소프트웨어가 보로노이 다이어그램을 계산해 바닥에 투사한다. 혼자 서면 반응이 없고 두 사람이 들어오면 둘 사이를 나누는 선이 생긴다. 사람이 늘면 각 위치에 가장 가까운 영역들로 바닥이 나뉜다.",
+            "whyNow": "참여자의 수가 달라질 때 관계의 규칙이 어떻게 보이는지 읽는다. 1998년 작품을 신작으로 소개하지 않고, 작가의 기술 설명과 ICC의 과거 전시 기록을 대조한 재발견이다.",
+            "directorPoint": "한 사람만 있는 정적인 장면 뒤에 두 번째 인물의 진입을 배치해 본다. 장치를 설명하는 자막보다, 이전에는 없던 선 하나가 둘 사이에 생기는 순간으로 관계의 시작을 보여 줄 수 있다.",
+            "critique": "기하학적으로 가까운 영역은 심리적으로 편안한 거리와 같지 않다. 누구의 위치를 추적할 수 있고 어떤 움직임이 인식되는지는 별도 운영 조건이며, 공식 설명만으로 모든 신체와 이동 방식에 같은 반응을 보장할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "공간감",
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "프로젝션"
+            ],
+            "theme": [
+              "도시·공동체",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Ars Electronica, 린츠, 오스트리아 / 작가가 명시한 1998년 전시 이력; 사진의 촬영 장소는 미표기"
+          },
+          "host": "www.snibbe.com",
+          "image": "images/2026-11-18-01.jpg",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/6196ff78e26b392cbfa37cff/1772068630982-UGT7MFWHHYNDCGZEME4I/Boundary%2BFunctions%2Bby%2BScott%2BSnibbe.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.snibbe.com/projections/boundaryfunctions",
+            "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6196ff78e26b392cbfa37cff/1772068630982-UGT7MFWHHYNDCGZEME4I/Boundary%2BFunctions%2Bby%2BScott%2BSnibbe.jpg",
+            "kind": "installation",
+            "credit": "Scott Snibbe 작품 / 작가 공식 작품 갤러리, 개별 촬영자 미표기",
+            "caption": "작가가 공개한 설치 전경. 여러 관객의 위치 사이로 바닥의 분할선이 보인다. 사진의 장소를 린츠 전시로 단정하지 않는다.",
+            "checkedAt": "2026-11-18T08:35:09+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "밝은 전시장 바닥 위 여러 사람이 서 있고 그들 사이에 흰 분할선이 투사돼 있다"
+          }
+        },
+        {
+          "id": "2026-11-18-02",
+          "originalTitle": "Counter Void",
+          "creator": "Tatsuo Miyajima",
+          "title": "낮과 밤이 숫자와 배경의 밝기를 뒤집는다",
+          "publishedAt": "2003 / 작가 공식 작품 기록",
+          "url": "https://tatsuomiyajima.com/work-projects/counter-void/",
+          "description": "도쿄 롯폰기의 거대한 숫자 여섯 개가 서로 다른 속도로 9에서 1까지 센다. 작가의 작품 설명은 숫자의 변화와 함께 낮과 밤에 뒤바뀌는 네온 벽의 모습을 다룬다. 현재 점등 일정을 알리는 기사가 아니다.",
+          "insight": {
+            "mechanism": "흰 네온과 유리, 회로, 시간 제어 프로그램으로 만든 카운터다. 낮에는 어두운 바탕에 숫자가 밝고 밤에는 밝은 바탕에 숫자가 어둡게 보이도록 대비가 역전된다. 0을 표시하지 않는 서로 다른 주기가 나란히 놓인다.",
+            "whyNow": "기록 속 공공미술에서 시간은 숫자의 내용뿐 아니라 빛의 배치에도 들어간다. 발광 화면을 계속 더 밝게 만드는 대신, 주변 도시의 낮과 밤에 맞춰 읽는 방식이 달라지는 사례로 살핀다.",
+            "directorPoint": "같은 구도와 같은 대상에서 전경과 배경의 밝기만 반전시키는 두 장면을 설계해 본다. 숫자의 속도를 서로 다르게 두면 한 벽 안에서도 인물마다 다른 시간을 떠올리게 할 수 있다.",
+            "critique": "작가가 제시한 삶과 죽음의 해석이 모든 보행자에게 자동으로 전달되지는 않는다. 이 공식 기록만으로 오늘의 점등 여부나 관람 시간을 확정할 수도 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "의식·영성",
+              "도시·공동체"
+            ],
+            "scale": "건축·파사드"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "TV Asahi 외벽, 롯폰기, 도쿄, 일본 / 2003년 장소 특정적 커미션 기록, 현재 점등 일정 미확인"
+          },
+          "host": "tatsuomiyajima.com",
+          "image": "images/2026-11-18-02.jpg",
+          "imageFallback": "https://tatsuomiyajima.com/wp-content/uploads/D0133-COUNTER-VOID-Others-2003.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://tatsuomiyajima.com/work-projects/counter-void/",
+            "sourceUrl": "https://tatsuomiyajima.com/wp-content/uploads/D0133-COUNTER-VOID-Others-2003.jpg",
+            "kind": "installation",
+            "credit": "Tatsuo Miyajima 작품 / Courtesy TV Asahi Corporation and SCAI THE BATHHOUSE / Photo: Kunihiko Katsumata",
+            "caption": "작가 공식 페이지의 야간 전경. 흰 배경에 어두운 숫자가 보인다. LED 작품 일반론과 달리 이 작품의 명시 재료는 흰 네온이다.",
+            "checkedAt": "2026-11-18T08:39:15+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "밤의 건물 외벽에 여섯 개의 큰 어두운 숫자가 밝은 흰 배경 위로 보이고 앞에 사람들이 서 있다"
+          }
+        },
+        {
+          "id": "2026-11-18-03",
+          "originalTitle": "Descension",
+          "creator": "Anish Kapoor",
+          "title": "수면의 한가운데가 계속 아래로 끌려가는 장면",
+          "publishedAt": "2014 / Public Art Fund의 2017년 브루클린 전시 기록",
+          "url": "https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+          "description": "브루클린 브리지 파크에 설치됐던 원형 수면이 중앙으로 소용돌이친다. Public Art Fund가 기록한 2017년 야외 전시는 종료됐으며, 사진 속 물의 움직임을 실제로 끝없는 구멍이 열린 증거로 설명하지 않는다.",
+          "insight": {
+            "mechanism": "지름 약 26피트의 액체 덩어리가 회전하면서 중심으로 내려가는 듯한 소용돌이를 만든다. 둘레의 고정된 경계와 끊임없이 변하는 수면이 함께 보인다. 공개 전시 설명은 세부 구동 장치나 출력 수치를 제공하지 않는다.",
+            "whyNow": "디지털 합성 없이도 반복되는 물질의 운동이 깊이의 감각을 흔든다. 관객의 동작에 반응하는 시스템과 구분해, 관객과 무관하게 계속되는 흐름 앞에서 시선이 머무는 방식을 읽는다.",
+            "directorPoint": "처음에는 원형 가장자리 전체를 보여 주고 나중에 중심의 움직임을 좁혀 본다. 경계의 안정과 내부의 불안정을 같은 화면에 남기면 깊이를 설명하는 대사 없이도 공간의 긴장을 만들 수 있다.",
+            "critique": "사진은 한순간의 표면만 보여 준다. 실제 소리·운동의 세기와 관객의 신체 반응은 현장 기록 없이 일반화할 수 없고, 시각적 빨려듦과 실제 접근 위험도 별도의 문제다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Brooklyn Bridge Park Pier 1, 뉴욕, 미국 / 2017년 5월 3일~10월 1일, 종료된 전시"
+          },
+          "host": "www.publicartfund.org",
+          "image": "images/2026-11-18-03.jpg",
+          "imageFallback": "https://www.publicartfund.org/wp-content/uploads/2019/06/PAF_Kapoor_JamesEwing-4199.jpg.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+            "sourceUrl": "https://www.publicartfund.org/wp-content/uploads/2019/06/PAF_Kapoor_JamesEwing-4199.jpg.jpg",
+            "kind": "installation",
+            "credit": "Anish Kapoor 작품 / Public Art Fund 공식 전시 자료 / Photo: James Ewing",
+            "caption": "Public Art Fund가 제공한 브루클린 설치 사진. 흰 물결이 도는 원형 수면과 둘레의 난간을 보여 준다.",
+            "checkedAt": "2026-11-18T08:35:09+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "공원의 원형 수조 둘레에 난간이 있고 중앙의 소용돌이 주위로 흰 물결이 회전한다"
+          }
+        },
+        {
+          "id": "2026-11-18-04",
+          "originalTitle": "Breathing Light",
+          "creator": "James Turrell",
+          "title": "색으로 채운 방에서 깊이를 가늠할 단서가 줄어든다",
+          "publishedAt": "2013 / LACMA 과거 전시·소장품 기록",
+          "url": "https://www.lacma.org/art/exhibition/james-turrell-breathing-light",
+          "description": "LED 조명으로 채운 공간이 관객의 깊이 지각을 흔드는 Ganzfeld 설치다. LACMA의 과거 기록을 읽는 항목이며 현재 상시 관람 가능하다는 안내로 사용하지 않는다.",
+          "insight": {
+            "mechanism": "LACMA는 빛의 장 안에서 깊이 지각을 없애도록 설계된 공간으로 설명한다. 경계와 거리의 단서가 줄어들면서 색을 물체에 입힌 표면보다 몸을 둘러싼 환경으로 만나게 한다.",
+            "whyNow": "선명한 화면이나 많은 정보를 더하는 대신 시각적 기준점을 줄여 공간 감각을 바꾸는 사례다. 제작 연도는 2013년 소장품 기록을 따르며, 과거 전시 페이지의 시작일 표기는 작품 연도와 혼동하지 않는다.",
+            "directorPoint": "인물을 화면 가득 채우기 전에 작게 남겨 크기를 가늠할 단서로 써 본다. 벽의 모서리와 바닥의 경계가 얼마나 보이는지 조절하는 것만으로도 같은 색의 공간이 다르게 읽힐 수 있다.",
+            "critique": "사진의 보라색은 실제 현장의 빛 경험 전체를 대표하지 않는다. 화면과 출력 조건에 따라 색이 달라지며, 깊이 단서를 줄인 환경이 모든 사람에게 편안하다고 가정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "신체·정체성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "LACMA Resnick Pavilion, 로스앤젤레스, 미국 / 과거 전시 기록"
+          },
+          "host": "www.lacma.org",
+          "image": "images/2026-11-18-04.jpg",
+          "imageFallback": "https://www-images.lacma.org/s3fs-public/styles/me_full_width_1x/public/primary_image/2018-11/213287_011.jpg.webp?VersionId=84vGFSMpoT41CgH6_i0RnVAYjqDuLRuM&h=bcfb3bc7&itok=vF0hCP1H",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.lacma.org/art/exhibition/james-turrell-breathing-light",
+            "sourceUrl": "https://www-images.lacma.org/s3fs-public/styles/me_full_width_1x/public/primary_image/2018-11/213287_011.jpg.webp?VersionId=84vGFSMpoT41CgH6_i0RnVAYjqDuLRuM&h=bcfb3bc7&itok=vF0hCP1H",
+            "kind": "installation",
+            "credit": "© James Turrell / Photo © Florian Holzherr / LACMA 공식 전시 자료",
+            "caption": "LACMA의 《Breathing Light》 설치 사진. 보라색 빛의 공간에 작은 인물이 보인다. 다른 Turrell 작품의 사진으로 대체하지 않았다.",
+            "checkedAt": "2026-11-18T08:35:09+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "보라색으로 채워져 벽과 바닥의 경계가 희미한 공간 안에 작은 인물 한 명이 보인다"
+          }
+        },
+        {
+          "id": "2026-11-18-05",
+          "originalTitle": "Deep Web",
+          "creator": "Christopher Bauder · Robert Henke",
+          "title": "움직이는 구와 레이저가 공중에 입체 악보를 그린다",
+          "publishedAt": "2016 / CTM 베를린 초연·작가 공식 기록",
+          "url": "https://roberthenke.com/installations/deepweb.html",
+          "description": "175개의 구와 12대의 레이저, 8채널 사운드가 결합된 키네틱 시청각 설치다. 베를린 CTM에서 2016년 초연된 작업으로, 반복 설치판과 두 작가가 직접 제어하는 공연판을 구분한다.",
+          "insight": {
+            "mechanism": "높이가 변하는 구를 레이저가 비추며 공중의 점과 선을 만든다. 운동·빛·음악의 동기화가 배열 전체의 형태를 바꾼다. 공식 설명의 설치판은 약 30분 루프이며 라이브 공연판은 약 60분이다.",
+            "whyNow": "공간을 만드는 작은 단위들의 위치와 시간표를 함께 설계하는 사례다. 관객 추적이나 자율 생성이라는 설명을 보태지 않고, 사전 구성과 공연 중 직접 제어가 각각 만드는 시간을 읽는다.",
+            "directorPoint": "전체 배열의 변화가 읽히는 넓은 구도와 구 하나의 높이가 바뀌는 구도를 짝지어 본다. 소리의 사건 하나에 움직임 하나를 대응시키면 복잡한 장치도 관객에게 읽히는 단위로 나눌 수 있다.",
+            "critique": "정면 영상만으로 8채널 공간음향을 검증할 수는 없다. 레이저와 구의 규모를 축소한 모형이 현장과 같은 경험을 준다고도 볼 수 없으며, 실제 제작에는 별도의 운용·안전 조건이 필요하다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED",
+              "공간음향"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "CTM Festival, 베를린, 독일 / 2016년 2월 초연 기록"
+          },
+          "host": "roberthenke.com",
+          "image": "images/2026-11-18-05.jpg",
+          "imageFallback": "https://roberthenke.com/files_images/concerts/deepweb/deep-web-christopher-bauder-robert-henke-photo-by-ralph-larmann-03-72dpi_4_orig.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://roberthenke.com/installations/deepweb.html",
+            "sourceUrl": "https://roberthenke.com/files_images/concerts/deepweb/deep-web-christopher-bauder-robert-henke-photo-by-ralph-larmann-03-72dpi_4_orig.jpg",
+            "kind": "installation",
+            "credit": "Christopher Bauder · Robert Henke 작품 / Photo: Ralph Larmann / Robert Henke 공식 작품 자료",
+            "caption": "공식 갤러리의 설치 전경. 붉은 레이저와 공중의 구들이 보인다. 사진만으로 해당 순간의 음악이나 공연판 여부를 단정하지 않는다.",
+            "checkedAt": "2026-11-18T08:35:10+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "어두운 실내에 수많은 작은 구가 매달려 있고 붉은 레이저들이 그 사이를 가로지른다"
+          }
+        },
+        {
+          "id": "2026-11-18-06",
+          "originalTitle": "Anywhen",
+          "creator": "Philippe Parreno",
+          "title": "전시장에 들어온 시각에 따라 다른 순서의 장면을 만난다",
+          "publishedAt": "2016 / Tate Turbine Hall 2016–2017 커미션 기록",
+          "url": "https://www.pilarcorrias.com/exhibitions/209-philippe-parreno-anywhen/",
+          "description": "Tate Turbine Hall의 빛·소리·영상·움직이는 요소들이 시간에 따라 달라졌던 전시다. 여기서 다루는 것은 2016년 공간 전체의 커미션이며, 뒤에 나온 같은 이름의 영화와 구분한다.",
+          "insight": {
+            "mechanism": "공식 갤러리 기록에 따르면 소프트웨어가 비선형적인 사건의 순서를 구성하고, 전시장 끝의 바이오리액터 안 미생물이 그 순서의 트리거에 관여했다. 생물의 상태와 각 장치 사이의 세부 대응은 이 설명만으로 확정하지 않는다.",
+            "whyNow": "모든 관객이 동일한 시작과 끝을 공유하지 않는 전시 시간을 살핀다. 움직이는 구나 관객의 위치가 바로 결과를 만드는 다른 사례와 달리, 이 작업은 공간 안 사건의 순서 자체가 달라지는 조건을 제시한다.",
+            "directorPoint": "같은 장소를 서로 다른 시각에 재방문하는 구조를 제안해 본다. 한 장면에서 보였던 화면이 다음에는 꺼져 있는 식으로 누락과 재등장을 두면 관객은 자신이 전체를 다 보았는지 다시 생각하게 된다.",
+            "critique": "비선형 순서와 생물학적 트리거가 곧 AI나 무제한 자율성을 뜻하지는 않는다. 설치에 함께 놓인 개별 작품의 저자도 구분해야 한다. 예컨대 《Another Day with Another Sun》은 Liam Gillick과 Parreno의 공동 작업이다."
+          },
+          "tags": {
+            "sense": [
+              "시간감",
+              "공간감",
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "영상·필름",
+              "바이오·생물",
+              "라이트·LED"
+            ],
+            "theme": [
+              "비인간·생태",
+              "정보·불확실성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Tate Modern Turbine Hall, 런던, 영국 / 2016년 10월~2017년 4월, 종료된 전시"
+          },
+          "host": "www.pilarcorrias.com",
+          "image": "images/2026-11-18-06.jpg",
+          "imageFallback": "https://static-assets.artlogic.net/w_3000,h_2000,c_limit,f_auto,fl_lossy,q_auto:best,dpr_2.0/ws-pilarcorrias/usr/exhibitions/images/exhibitions/209/94.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.pilarcorrias.com/exhibitions/209-philippe-parreno-anywhen/",
+            "sourceUrl": "https://static-assets.artlogic.net/w_3000,h_2000,c_limit,f_auto,fl_lossy,q_auto:best,dpr_2.0/ws-pilarcorrias/usr/exhibitions/images/exhibitions/209/94.jpg",
+            "kind": "installation",
+            "credit": "Philippe Parreno 작품 / Pilar Corrias 공식 전시 갤러리, 해당 사진의 개별 촬영자 미표기",
+            "caption": "Pilar Corrias가 제공한 2016년 《Anywhen》 전시 전경. 영상이 투사된 화면과 주변 공간을 보여 주며 미생물 장치의 사진으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T08:35:09+09:00",
+            "usageBasis": "공식 작품·전시 자료의 이미지를 출처와 크레딧을 표시한 축소 프리뷰로 사용한다. 별도 이용허락이나 공개 라이선스는 확인되지 않았다.",
+            "alt": "높은 어두운 전시장 안 큰 화면에 영상이 투사돼 있고 양옆으로 빛이 닿은 벽면이 보인다"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "두 번째 사람이 들어와야 시작되는 경계",
+        "keywords": [
+          "관계의 입력",
+          "보로노이 다이어그램",
+          "공간의 규칙",
+          "공동 참여"
+        ],
+        "sections": [
+          {
+            "heading": "혼자서는 드러나지 않는 규칙",
+            "body": "작가의 설명에서 가장 선명한 시작점은 한 사람에게는 아무 반응이 없다는 조건이다. 두 번째 사람이 들어와야 바닥에 둘 사이를 나누는 선이 생긴다. 관객은 혼자 장치를 작동시키는 주인이 아니라 다른 사람의 등장으로 자기 영역을 보게 되는 참여자가 된다. 여기서 개인 공간은 혼자 가지고 들어온 크기가 아니라 만남 안에서 계산되는 관계다."
+          },
+          {
+            "heading": "사람을 읽는 일과 기하학을 계산하는 일",
+            "body": "카메라가 얻은 위치들은 보로노이 다이어그램의 기준점이 된다. 바닥의 각 지점은 어느 사람에게 가장 가까운가에 따라 나뉘고, 그 사람들 사이의 경계가 프로젝션으로 나타난다. 이 규칙이 추적하는 것은 위치 관계다. 감정이나 성격을 알아냈기 때문에 영역이 생기는 것은 아니다. 사람이 움직이면 다른 이의 영역까지 바뀐다는 점이 단순한 개인별 이펙트와 다르다."
+          },
+          {
+            "heading": "연출로 옮길 때는 진입의 전후를 남긴다",
+            "body": "응용 제안은 두 번째 인물이 들어오기 전후를 같은 넓은 구도에서 보여 주는 것이다. 비어 있던 바닥에 선이 생기고 둘 중 한 명이 움직일 때 선이 함께 옮겨가는 과정을 끊지 않으면 관객이 관계의 규칙을 스스로 추론할 수 있다. 이후 더 많은 사람의 진입과 이탈을 배치해 개인의 작은 이동이 집단 전체의 모양을 바꾸는 순간을 비교할 수 있다. 이는 작품의 원래 촬영 지침이 아니라 그 구조에서 도출한 연출 제안이다."
+          },
+          {
+            "heading": "제도적 기록과 경험의 한계를 함께 읽기",
+            "body": "작가 페이지는 1998년 작품의 추적·계산·투사 방식을 설명하고 전시 이력을 제시한다. NTT ICC의 별도 작품 기록은 2006–2007년 Open Space에서의 소개와 개인·타인 사이 경계라는 맥락을 확인해 준다. 서로 역할이 다른 공식 자료이며 관객 조사 두 건을 뜻하지 않는다. 수학적으로 분할된 영역은 사회적 권리나 심리적 안전의 측정값이 아니고, 실제 설치에서는 감지 범위와 동선, 참여 가능한 신체 조건을 따로 살펴야 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Scott Snibbe — 작가의 작품 원리·기술 구성·전시 이력",
+            "url": "https://www.snibbe.com/projections/boundaryfunctions"
+          },
+          {
+            "label": "NTT ICC — Boundary Functions, Open Space 2006–2007 기관 기록",
+            "url": "https://www.ntticc.or.jp/en/archive/works/boundary-functions-2/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-15",
       "title": "소리를 짓는 몸, 이미지를 짓는 기계",
       "summary": "Inhotim의 《The Murder of Crows》 재공개 안내를 계기로 여섯 작품을 읽는다. 꿈을 둘러싸는 스피커, 몸으로 만드는 소리, 나무 화소, 기울어지는 합창단, 생태 음향의 기록과 금속 물방울의 안무를 통해 감각의 위치와 움직임의 주도권을 살펴본다. 최신 재공개와 과거 전시 기록은 구분해 표기했다.",
@@ -25149,7 +25505,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-15T00:43:41+09:00",
+  "generatedAt": "2026-11-18T08:41:25+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
