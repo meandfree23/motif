@@ -18,3 +18,9 @@ The publication agent reuses one ongoing conversation. Each check must use Asia/
 8. Update the operational status record in place. Report a new actionable error or its resolution once. Do not create a separate conversation or repeated reports for every unchanged check.
 
 Past-date backfill requires an explicit requested date range. Existing issues must not be deleted or relabeled. Sunday Signals and Toolkit updates follow the evidence thresholds in curator_memory.json.
+
+## Research identity review (2026-11-18)
+
+Read `research_identity_policy` in curator_memory.json and `docs/research-identity-2026-11-18.md` alongside the original mission, editorial_rules, dedup_policy and taste_profile. Preserve those original rules. For newly researched issues, record researchMeta: identity, identityRationale, kind (new-work/reexhibition/archive), workYear (null if unverified), researchedAt, evidence URLs, regionBasis and visible temporalDisclosure. Distinguish production years from exhibition years. An archive item is a rediscovery, not current opening news; keep archive examples to at most two in a six-item issue. Do not fill slots with event lists, portfolios, showreels, unrelated photographs or unverified effects. Judge genre and image correspondence manually against primary sources; structural validation does not establish factual truth.
+
+Run `node scripts/check-research-identity.mjs data.json YYYY-MM-DD` for each newly researched issue, including explicitly requested backfills. Existing published issues without this new evidence packet are preserved rather than silently regenerated. Mark actual research/backfill dates visibly and never claim retroactive original publication. For new records, region means the documented presentation or commissioning context, with artistBase verified separately. The review covers remaining legacy boundary cases without deleting or relabeling existing issue dates.

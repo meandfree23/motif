@@ -357,6 +357,889 @@
       }
     },
     {
+      "date": "2026-11-17",
+      "title": "누구의 몸과 기록이 화면을 움직이는가",
+      "summary": "2026년 11월 18일에 보충한 17일호다. 당시 발행된 원고가 아니다. 2026년 공개작 네 편과 올해 재소개 기록 한 편, 아카이브 사례 한 편을 구분해 몸·목격·환경·건축·컬렉션이 화면의 조건이 되는 방식을 읽는다.",
+      "crosscurrent": {
+        "note": "Being in You는 신체 동작과 남겨진 삶의 기록을 연결하고 Raj’in은 돌아보는 동작과 보지 못한 장면의 관계를 묻는다. Planet Garden은 통치의 가정을 게임 세계로, The Thinking Ocean은 공유 생성 과정을 서로 다른 시점으로 보여 준다. Hidden Order는 건축 표면을 시간의 구조로 삼고 Unsupervised는 컬렉션의 선택을 생성 이미지로 옮긴다. 이 차이를 모두 몰입이라는 말 하나로 지우지 않는다.",
+        "itemIds": [
+          "2026-11-17-01",
+          "2026-11-17-02",
+          "2026-11-17-03",
+          "2026-11-17-04",
+          "2026-11-17-05",
+          "2026-11-17-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-17-01",
+          "originalTitle": "Being in You",
+          "creator": "Michał Stankiewicz · Cat Janice (공동 작업·음성·삶의 기록)",
+          "title": "타인의 눈으로 보는 대신 남겨진 목소리가 내 동작과 만난다",
+          "publishedAt": "2026 / IDFA DocLab 공개 기록",
+          "url": "https://festival.idfa.nl/en/film/665dd14a-69a9-49d1-8c5c-3ed5b7731cee/Being-in-You/",
+          "description": "2024년 세상을 떠난 음악가 Cat Janice와 함께 발전시킨 혼합현실 다큐멘터리다. 기억 속 인물이 관객의 동작과 만나는 방식이며 실제 인물의 생명을 복원했다는 주장이 아니다.",
+          "insight": {
+            "mechanism": "Janice의 음성·영상·음악과 중요한 장소·물건의 3D 스캔을 엮는다. 관객의 손 움직임과 동기화되는 디지털 존재를 통해 타인의 시점을 빌리는 VR과 반대 방향의 만남을 구성한다.",
+            "whyNow": "2026년 IDFA 네덜란드 초연 기록을 통해 디지털 사후 존재의 윤리를 몸의 관계에서 읽는다. 새 기술이라는 말보다 생전의 협업과 남겨진 자료가 어떤 역할을 하는지 살핀다.",
+            "directorPoint": "관객의 작은 손동작을 먼저 보여 주고 기록 속 인물의 동작이 이어지도록 하는 연결을 제안한다. 감정을 미리 설명하는 대신 동작의 동기화와 어긋남이 남기는 여백을 쓸 수 있다.",
+            "critique": "친밀한 만남을 만든다는 설명이 고인의 전체 인격을 재현하거나 애도를 치유한다는 근거는 아니다. 자료의 사용 동의와 협업 범위를 체험의 감동과 별도로 읽어야 한다."
+          },
+          "tags": {
+            "sense": [
+              "신체·움직임",
+              "시각",
+              "청각"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "3D스캔·포토그래메트리",
+              "아카이브 데이터"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "돌봄·책임"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "de Brakke Grond, 암스테르담, 네덜란드 / IDFA 2026"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-11-17-01.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/b9887b38-d3cb-4e50-823e-fc6e0663be7f/2500.jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://festival.idfa.nl/en/film/665dd14a-69a9-49d1-8c5c-3ed5b7731cee/Being-in-You/",
+            "sourceUrl": "https://my.idfa.nl/image-transforms/b9887b38-d3cb-4e50-823e-fc6e0663be7f/2500.jpeg",
+            "kind": "artwork",
+            "credit": "Michał Stankiewicz · Cat Janice 작품 / IDFA 공식 작품 이미지, 개별 촬영자 미표기",
+            "caption": "IDFA가 제공한 디지털 인물의 작품 이미지. 실제 설치 전경이나 살아 있는 인물의 현재 사진으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:46+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "검은 배경 위에서 서로 다른 방향을 향한 디지털 인물의 얼굴들이 반투명하게 겹쳐 있다"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "mixed-reality-documentary",
+            "identityRationale": "Janice의 음성·영상·음악과 중요한 장소·물건의 3D 스캔을 엮는다. 관객의 손 움직임과 동기화되는 디지털 존재를 통해 타인의 시점을 빌리는 VR과 반대 방향의 만남을 구성한다.",
+            "evidence": [
+              "https://festival.idfa.nl/en/film/665dd14a-69a9-49d1-8c5c-3ed5b7731cee/Being-in-You/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / IDFA DocLab 공개 기록"
+          }
+        },
+        {
+          "id": "2026-11-17-02",
+          "originalTitle": "Raj'in",
+          "creator": "Keren Manor · Faiz Abu Rmeleh (연출·촬영) / NowHere Media · B’Tselem (제작)",
+          "title": "360도 기록과 화면의 단절이 관객에게 돌아볼 자리를 만든다",
+          "publishedAt": "2026 / IDFA DocLab 공개 기록",
+          "url": "https://festival.idfa.nl/en/film/50642e1a-fb35-400b-bc45-bc57d44c897b/raj'in/",
+          "description": "팔레스타인 주민 세 사람의 강제 이동과 삶을 다루는 VR 다큐멘터리다. IDFA는 3년간의 기록과 360도 영상·감시카메라·휴대전화 자료의 결합으로 소개한다.",
+          "insight": {
+            "mechanism": "서로 다른 카메라의 기록을 엮고 때로 화면을 검게 전환한다. 관객이 다른 방향을 돌아보면 또 다른 파괴의 장면과 마주하는 공간적 편집이 쓰인다. 관객이 사건을 바꾸는 선택형 게임으로 설명하지 않는다.",
+            "whyNow": "2026년 IDFA 공개를 계기로 몰입이 많은 것을 보여 주는 기술인지, 시선의 한계와 뒤를 돌아봐야 하는 조건을 드러내는 형식인지 묻는다.",
+            "directorPoint": "같은 사건의 다른 방향을 동시에 다 보게 하기보다 고개를 돌리는 데 걸리는 시간을 남겨 보는 연출을 제안한다. 놓친 장면의 존재가 관객의 시선을 다시 움직이게 할 수 있다.",
+            "critique": "위험과 폭력의 기록을 감각적 충격으로만 소비하지 않아야 한다. VR 관람이 당사자의 경험과 같아지는 것은 아니며 기록의 맥락과 관객의 중단 가능성이 중요하다."
+          },
+          "tags": {
+            "sense": [
+              "공간감",
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "영상·필름",
+              "아카이브 데이터"
+            ],
+            "theme": [
+              "전쟁·폭력",
+              "탈식민·역사"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "IDFA VR Gallery, 암스테르담, 네덜란드 / 작품의 배경·주민 정체성을 유럽으로 분류한 뜻이 아님"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-11-17-02.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/2f5da609-d3f8-47d7-a082-299201441bf7/2500.jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://festival.idfa.nl/en/film/50642e1a-fb35-400b-bc45-bc57d44c897b/raj'in/",
+            "sourceUrl": "https://my.idfa.nl/image-transforms/2f5da609-d3f8-47d7-a082-299201441bf7/2500.jpeg",
+            "kind": "film-still",
+            "credit": "Keren Manor · Faiz Abu Rmeleh 작품 / IDFA 공식 스틸, 개별 촬영자 미표기",
+            "caption": "공식 작품 스틸. 한 장의 사진을 360도 전체 체험으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:47+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "언덕의 돌무더기 위에 앉은 사람들이 석양의 풍경을 바라보는 장면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "documentary-vr",
+            "identityRationale": "서로 다른 카메라의 기록을 엮고 때로 화면을 검게 전환한다. 관객이 다른 방향을 돌아보면 또 다른 파괴의 장면과 마주하는 공간적 편집이 쓰인다. 관객이 사건을 바꾸는 선택형 게임으로 설명하지 않는다.",
+            "evidence": [
+              "https://festival.idfa.nl/en/film/50642e1a-fb35-400b-bc45-bc57d44c897b/raj'in/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / IDFA DocLab 공개 기록"
+          }
+        },
+        {
+          "id": "2026-11-17-03",
+          "originalTitle": "Planet Garden",
+          "creator": "Damjan Jovanovic · Lidija Kljakovic (Studio Lifeforms)",
+          "title": "행성의 돌봄을 AI에 맡긴 가정을 게임 세계로 탐색한다",
+          "publishedAt": "제작 연도 미확인 / FILE 2026 재소개 기록",
+          "url": "https://file.org.br/games_2026/studio-lifeforms-planet-garden-estados-unidos-united-states-2/",
+          "description": "행성의 생태계를 AI가 돌본다는 가정을 실시간 게임·시뮬레이션으로 탐색한다. FILE 2026의 전시 사진과 제작 스튜디오의 프로젝트 설명을 대조했다.",
+          "insight": {
+            "mechanism": "가상의 GAIA를 중심에 놓고 AI 이후 지구와 비인간의 공존을 게임 세계로 구성한다. 실제 지구를 관리하는 검증된 AI가 아니라 허구의 세계와 이를 만드는 기술적 제작 구조를 다룬다.",
+            "whyNow": "2026년 재소개에서 기술의 능력을 홍보하는 대신 누가 돌봄과 자원 배분을 결정하는지 읽는다. 환경 데이터 시각화와 미래의 통치 모델을 상상하는 게임을 구분한다.",
+            "directorPoint": "주인공의 행동보다 배경 시스템의 변화가 서사를 이끌게 하는 구성을 제안한다. 자연의 회복이라는 결과만 제시하기 전에 누가 어떤 조건을 정했는지 드러낼 수 있다.",
+            "critique": "풍요로운 미래의 미학이 자원·계산 비용과 통치권의 갈등을 가릴 수 있다. 게임 속 초지능 설정과 실제 제작에 사용된 모델의 능력을 같은 수준의 사실로 취급하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "생성AI"
+            ],
+            "theme": [
+              "기후·환경",
+              "기술·권력"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026, 브라질 / 종료된 재소개 기록"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-17-03.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/09/Studio-Lifeforms-Planet-Garden-Estados-Unidos-_-United-States-Credits-Camila-Picolo-FILE-2026-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/games_2026/studio-lifeforms-planet-garden-estados-unidos-united-states-2/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/09/Studio-Lifeforms-Planet-Garden-Estados-Unidos-_-United-States-Credits-Camila-Picolo-FILE-2026-scaled.jpg",
+            "kind": "installation",
+            "credit": "Studio Lifeforms 작품 / Photo: Camila Picolo, FILE 2026",
+            "caption": "FILE가 공개한 실제 게임 전시 사진. 제작 스튜디오의 다른 게임 ETRE 화면과 구분했다.",
+            "checkedAt": "2026-11-18T10:34:47+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "흰 전시장 안 모니터 앞에서 관객 한 명이 조작 장치를 사용하고 있다"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "speculative-game-simulation",
+            "identityRationale": "가상의 GAIA를 중심에 놓고 AI 이후 지구와 비인간의 공존을 게임 세계로 구성한다. 실제 지구를 관리하는 검증된 AI가 아니라 허구의 세계와 이를 만드는 기술적 제작 구조를 다룬다.",
+            "evidence": [
+              "https://file.org.br/games_2026/studio-lifeforms-planet-garden-estados-unidos-united-states-2/",
+              "https://lifeforms.io/Projects-1"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작 연도 미확인 / FILE 2026 재소개 기록"
+          }
+        },
+        {
+          "id": "2026-11-17-04",
+          "originalTitle": "The Thinking Ocean",
+          "creator": "Memo Akten · Katie Hofstadter / Alexander Whitley (안무·퍼포먼스·모션 캡처) · Paige Emery (음악·사운드)",
+          "title": "여러 화면이 같은 바다의 서로 다른 시점이 된다",
+          "publishedAt": "2026 / Whitney artport 커미션",
+          "url": "https://memo.tv/projects/2026/thinkingocean/",
+          "description": "브라우저에서 실행되는 생성형 시청각 작품이다. Whitney의 artport 커미션으로, 같은 생성 과정에 연결된 화면들이 서로 다른 구도와 움직임을 보여 준다.",
+          "insight": {
+            "mechanism": "WebGPU와 three.js 기반의 실시간 생성 장면을 터치나 트랙패드로 탐색한다. 제작자는 화면들이 색·질감·시각적 분위기를 공유하면서 각자의 카메라 움직임은 다르게 유지된다고 설명한다. 선택적 웹캠 입력도 사용할 수 있다.",
+            "whyNow": "2026년 온라인 커미션에서 생성형 예술을 영상 재생이나 대화형 챗봇과 구분해 읽는다. 공통의 세계와 개인마다 다른 시점을 함께 설계하는 구체적 구조가 있다.",
+            "directorPoint": "여러 화면의 색과 질감은 맞추되 프레이밍은 다르게 두는 연결을 제안한다. 화면마다 다른 이야기를 늘어놓기보다 동일한 사건을 서로 다르게 만나는 공동의 시간을 만들 수 있다.",
+            "critique": "유체 계산을 모티브로 삼는 것과 바다가 의식을 가진다고 입증하는 것은 다르다. 제작자의 철학적 질문과 과학적 결론을 구분해야 하며, 웹캠 기능과 기기 성능 조건도 체험에 영향을 준다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "청각"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "비인간·생태",
+              "인간-기계 관계"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum artport, 뉴욕, 미국 / 온라인 커미션; 작가 국적 분류가 아님"
+          },
+          "host": "memo.tv",
+          "image": "images/2026-11-17-04.jpg",
+          "imageFallback": "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/superradiance/projects/2026/thinkingocean/images/thinkingocean143641.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://memo.tv/projects/2026/thinkingocean/",
+            "sourceUrl": "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/superradiance/projects/2026/thinkingocean/images/thinkingocean143641.jpg",
+            "kind": "artwork",
+            "credit": "Memo Akten · Katie Hofstadter, The Thinking Ocean, 2026 / 작가 공식 프로젝트 스틸",
+            "caption": "작가가 공개한 작품 화면. 설치 사진이나 실물 바다의 과학 관측 영상으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T13:32:48+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "청색과 보라색의 유동적인 입자와 형상 위로 코드와 글자가 겹쳐진 생성형 작품 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "generative-browser-art",
+            "identityRationale": "WebGPU와 three.js 기반의 실시간 생성 장면을 터치나 트랙패드로 탐색한다. 제작자는 화면들이 색·질감·시각적 분위기를 공유하면서 각자의 카메라 움직임은 다르게 유지된다고 설명한다. 선택적 웹캠 입력도 사용할 수 있다.",
+            "evidence": [
+              "https://memo.tv/projects/2026/thinkingocean/",
+              "https://whitney.org/exhibitions/the-thinking-ocean"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / Whitney artport 커미션"
+          }
+        },
+        {
+          "id": "2026-11-17-05",
+          "originalTitle": "Hidden Order",
+          "creator": "Matt Clark · United Visual Artists (UVA)",
+          "title": "건물의 표면을 빛·운동·기하학의 시간표로 바꾼다",
+          "publishedAt": "2026 / Casa Batlló 1월 31일~2월 1일 공개 기록",
+          "url": "https://contemporary.casabatllo.es/en/mapping/hidden-order/",
+          "description": "Casa Batlló의 외벽을 대상으로 한 시청각 프로젝션 매핑이다. 기관이 기록한 2026년 공개는 이미 종료됐으며 현재 진행 중인 행사로 안내하지 않는다.",
+          "insight": {
+            "mechanism": "외벽의 건축적 형상 위에 빛의 선·기하학·움직임을 시간에 맞춰 투사하고 오리지널 사운드와 동기화한다. 관객 추적이나 현장 생성 AI를 사용했다는 근거는 이 소개에 없다.",
+            "whyNow": "2026년 공공 커미션에서 건물을 빈 스크린으로 쓰는 방식과 원래의 곡면·형상을 안무의 조건으로 삼는 방식을 비교한다.",
+            "directorPoint": "배경을 지우고 새 세계를 씌우기 전에 건물 자체의 굴곡과 반복을 하나씩 드러내는 단계를 제안한다. 화면의 변화가 건축물의 구조를 다시 읽게 만들 수 있다.",
+            "critique": "공식 소개가 말하는 자연의 숨은 질서는 작품의 해석이다. 수학적 법칙을 검증했다는 뜻이 아니며, 선택 스틸만으로 건물 전체의 현장 스케일과 음향을 판단할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "영상·필름"
+            ],
+            "theme": [
+              "지각·반사",
+              "도시·공동체"
+            ],
+            "scale": "건축·파사드"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Casa Batlló, 바르셀로나, 스페인 / 2026년 1월 31일~2월 1일, 종료된 공개 기록"
+          },
+          "host": "contemporary.casabatllo.es",
+          "image": "images/2026-11-17-05.jpg",
+          "imageFallback": "https://contemporary.casabatllo.es/wp-content/uploads/2026/01/Contemporary_Web_Hidden-Order-3-3.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://contemporary.casabatllo.es/en/mapping/hidden-order/",
+            "sourceUrl": "https://contemporary.casabatllo.es/wp-content/uploads/2026/01/Contemporary_Web_Hidden-Order-3-3.jpg",
+            "kind": "artwork",
+            "credit": "Matt Clark · UVA 작품 / Casa Batlló Contemporary 공식 작품 자료, 해당 이미지 개별 촬영자 미표기",
+            "caption": "기관이 제공한 작품의 시각 자료. 건물 전체를 한 화면에 담은 설치 전경으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T13:32:49+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "검은 배경과 건축적 패턴 위로 회색과 붉은 기하학 형태가 겹쳐진 작품 이미지"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "projection-mapping-art",
+            "identityRationale": "외벽의 건축적 형상 위에 빛의 선·기하학·움직임을 시간에 맞춰 투사하고 오리지널 사운드와 동기화한다. 관객 추적이나 현장 생성 AI를 사용했다는 근거는 이 소개에 없다.",
+            "evidence": [
+              "https://contemporary.casabatllo.es/en/mapping/hidden-order/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / Casa Batlló 1월 31일~2월 1일 공개 기록"
+          }
+        },
+        {
+          "id": "2026-11-17-06",
+          "originalTitle": "Unsupervised — Machine Hallucinations — MoMA",
+          "creator": "Refik Anadol · Refik Anadol Studio",
+          "title": "미술관의 소장 기록이 흘러가는 생성형 이미지가 된다",
+          "publishedAt": "2021–2023 / MoMA 2022–2023 설치 기록",
+          "url": "https://www.moma.org/calendar/exhibitions/5535/installation_images/51715",
+          "description": "MoMA 컬렉션을 바탕으로 한 생성형 작업의 아카이브 사례다. 2021년 디지털 연작 설명과 2022–2023년 미술관 설치의 시점·사진을 구분한다.",
+          "insight": {
+            "mechanism": "스튜디오는 컬렉션 이미지로 학습한 모델과 잠재 공간을 탐색하는 소프트웨어를 설명한다. 미술관의 설치는 그 자료를 바탕으로 움직이는 추상 이미지의 환경을 제시한다. 오늘 새로 공개된 작품으로 소개하지 않는다.",
+            "whyNow": "기록을 재현하는 아카이브와 기록의 통계적 관계로 다른 이미지를 생성하는 작업을 비교한다. 신작 목록에 고전 사례를 숨기지 않고 생성형 미술의 선행 사례로 읽는다.",
+            "directorPoint": "원본 자료가 보이는 순간과 자료의 연결이 추상 이미지로 변한 순간을 비교하는 구성을 제안한다. 유려한 변형만 나열하기보다 관객이 데이터와 결과의 거리를 생각할 기준점을 둘 수 있다.",
+            "critique": "컬렉션의 선택과 누락은 생성 이미지에도 영향을 준다. 시각적 유동성을 기계의 실제 꿈이나 의식으로 단정할 수 없으며, 공개 데이터와 이미지 재사용 허락은 별도 문제다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "생성AI",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "AI·저자성",
+              "기억·아카이브"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "MoMA, 뉴욕, 미국 / 2022년 11월 19일~2023년 10월 29일, 종료된 설치 기록"
+          },
+          "host": "www.moma.org",
+          "image": "images/2026-11-17-06.jpg",
+          "imageFallback": "https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f1bab10da821d0d0",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.moma.org/calendar/exhibitions/5535/installation_images/51715",
+            "sourceUrl": "https://www.moma.org/d/c/installation_images/W1siZiIsIjUzMjc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f1bab10da821d0d0",
+            "kind": "installation",
+            "credit": "Refik Anadol 작품 / Installation view, MoMA, IN2509.3 / Photo: Robert Gerhardt",
+            "caption": "MoMA가 기록한 실제 설치 전경. 스튜디오의 2021년 NFT 연작 스틸과 구분했다.",
+            "checkedAt": "2026-11-18T10:34:46+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "높은 미술관 로비에서 거대한 생성형 색채 화면 앞에 관객들이 서 있다"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2021,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "generative-data-installation",
+            "identityRationale": "스튜디오는 컬렉션 이미지로 학습한 모델과 잠재 공간을 탐색하는 소프트웨어를 설명한다. 미술관의 설치는 그 자료를 바탕으로 움직이는 추상 이미지의 환경을 제시한다. 오늘 새로 공개된 작품으로 소개하지 않는다.",
+            "evidence": [
+              "https://refikanadol.com/works/unsupervised/",
+              "https://www.moma.org/calendar/exhibitions/5535/installation_images/51715"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2021–2023 / MoMA 2022–2023 설치 기록"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 3,
+        "headline": "같은 생성 세계를 공유하되 같은 화면을 강요하지 않는다",
+        "keywords": [
+          "생성형 웹",
+          "공동 시간",
+          "서로 다른 시점",
+          "유체와 계산"
+        ],
+        "sections": [
+          {
+            "heading": "미리 완성한 영상을 보는 일과 다른 시간",
+            "body": "The Thinking Ocean은 브라우저에서 생성되는 시청각 환경이다. Whitney는 물의 움직임과 코드의 논리 사이를 오가는 장면으로 소개한다. 작품의 바다가 생각한다는 말은 철학적 질문이며, 실제 해양의 의식이 검증됐다는 결론으로 옮길 수 없다. 작품의 은유와 구현을 나누어 읽는 것이 출발점이다."
+          },
+          {
+            "heading": "공통의 세계와 각자의 카메라",
+            "body": "제작자는 여러 기기가 하나의 생성 과정에 연결돼 색과 질감, 시각적 분위기를 공유하면서 프레이밍과 카메라 움직임은 서로 다르다고 설명한다. 차이는 각 화면에 완전히 다른 세계를 보여 주는 것이 아니라 같은 세계를 다른 위치에서 만나는 데 있다. WebGPU와 three.js는 이 실시간 브라우저 경험의 구현 조건이다."
+          },
+          {
+            "heading": "관객에게 주어진 조작의 범위",
+            "body": "터치나 트랙패드는 장면을 탐색하게 하고 선택적 웹캠 입력은 주변을 빛과 색의 관계로 끌어들인다. 이 기능을 대화형 AI가 사람의 의도를 이해하는 것으로 바꿔 설명해서는 안 된다. Whitney가 제공하는 캡션 버전, 장치와 그래픽 지원 조건도 경험의 일부다. 웹캠은 관람의 필수 조건으로 전제하지 않는다."
+          },
+          {
+            "heading": "연출의 응용과 출처 간 차이",
+            "body": "응용 제안은 여러 화면을 동일하게 복제하는 대신 색과 시간의 기준은 함께 두고 각 구도는 다르게 설계하는 것이다. 작가 페이지는 이런 공유·차이의 구현과 제어를, Whitney는 커미션·협업 크레딧과 해석의 맥락을 제공한다. 음성도 두 자료에서 설명 수준이 다르므로 정해진 길이 하나로 환원하지 않고, 반복·절차적 구성이 어떻게 현재의 장면과 관계 맺는지 확인할 과제로 남긴다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Whitney artport — 2026 커미션·협업 크레딧·작품 맥락",
+            "url": "https://whitney.org/exhibitions/the-thinking-ocean"
+          },
+          {
+            "label": "Memo Akten — 공유 생성 과정·상호작용·구현 설명",
+            "url": "https://memo.tv/projects/2026/thinkingocean/"
+          }
+        ]
+      },
+      "backfill": {
+        "researchedAt": "2026-11-18T13:38:55+09:00",
+        "publishedOn": "2026-11-18",
+        "reason": "사용자가 누락 날짜 확인·보충을 요청함",
+        "originalPublicationClaimed": false
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "title": "감각을 바꾸는 입력, 판단을 바꾸는 자리",
+      "summary": "2026년 11월 18일에 보충한 16일호다. 당시 발행된 원고가 아니다. 2026년 공개작 두 편과 올해 재소개 기록 두 편, 아카이브 사례 두 편을 구분해 목소리·도시·서류·질감·생체 신호가 경험을 바꾸는 방식을 읽는다.",
+      "crosscurrent": {
+        "note": "EchoVision은 발성을 시각적 공간의 단서로, Lost Hood는 거리의 위치를 기억의 단서로 바꾼다. The Love Files는 관객에게 판단의 역할을 주며 ipseria는 물질을 가상의 감각으로 옮긴다. Eunoia II와 Pulse Index는 생체 신호를 서로 다른 물리적·시각적 결과로 번역한다. 입력이 같아도 무엇을 측정했고 무엇을 해석했는지는 구분해야 한다.",
+        "itemIds": [
+          "2026-11-16-01",
+          "2026-11-16-02",
+          "2026-11-16-03",
+          "2026-11-16-04",
+          "2026-11-16-05",
+          "2026-11-16-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-16-01",
+          "originalTitle": "EchoVision",
+          "creator": "Jiabao Li · Botao Amber Hu (디렉션) · Danlin Huang · Jianan Johanna Liu · Xiaobo Aaron Hu · Yilan Tao (공동 제작)",
+          "title": "내 목소리가 실제 공간 위의 빛 파동이 된다",
+          "publishedAt": "2024 / FILE 2026 재소개 기록",
+          "url": "https://archive.file.org.br/obras-artisticas/echovision/",
+          "description": "박쥐 모양의 손잡이형 MR 마스크로 주변을 보며 소리를 내는 작업이다. FILE의 2026년 표기는 행사 수록 연도이며 제작팀이 밝힌 작품 연도는 2024다.",
+          "insight": {
+            "mechanism": "마이크 입력과 휴대전화 LiDAR로 재구성한 주변 공간을 결합해 목소리를 표면 위의 시각적 파동으로 옮긴다. 소리의 크기와 높낮이가 시각 효과를 바꾼다. 되돌아온 음향 반사파 자체를 측정하는 박쥐의 생리 기능과는 구분된다.",
+            "whyNow": "2026년 FILE 수록을 계기로 감각 치환의 구체적 설계를 읽는다. 박쥐가 된다는 홍보 표현보다 발성·공간 재구성·시각 피드백이 어떻게 연결되는지에 집중한다.",
+            "directorPoint": "한 사람이 소리를 내고 다른 사람이 그 반응을 옆에서 지켜보는 구도를 제안한다. 착용자 혼자만의 몰입보다 마스크를 내리고 나누는 대화와 다음 사람에게 건네는 동작도 장면으로 삼을 수 있다.",
+            "critique": "이 작품은 다른 종의 주관적 경험을 그대로 재현했다는 증명이 아니다. 공감이나 생태 보전 행동이 향상됐다는 효과도 공식 작품 설명만으로 단정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "3D스캔·포토그래메트리",
+              "음성·언어"
+            ],
+            "theme": [
+              "비인간·생태",
+              "지각·반사"
+            ],
+            "scale": "개인·헤드셋"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026, 브라질 / 종료된 재소개 기록; 사진의 촬영 장소는 미표기"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-16-01.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/04171208/file-sao-paulo-2026-botao-jiabao-danlin-jianan-yilan-xiaobo-echovision-realidades-virtuais.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/echovision/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/04171208/file-sao-paulo-2026-botao-jiabao-danlin-jianan-yilan-xiaobo-echovision-realidades-virtuais.jpg",
+            "kind": "documentation",
+            "credit": "EchoVision 제작팀 / FILE 공식 작품 자료, 개별 촬영자 미표기",
+            "caption": "FILE가 공개한 실제 마스크 사용 사진. 사진의 장소를 상파울루로 단정하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:45+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "야외에서 박쥐 모양의 흰 MR 마스크를 얼굴 앞에 들고 있는 관객"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2024,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "mixed-reality-art",
+            "identityRationale": "마이크 입력과 휴대전화 LiDAR로 재구성한 주변 공간을 결합해 목소리를 표면 위의 시각적 파동으로 옮긴다. 소리의 크기와 높낮이가 시각 효과를 바꾼다. 되돌아온 음향 반사파 자체를 측정하는 박쥐의 생리 기능과는 구분된다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/echovision/",
+              "https://echovision.art/",
+              "https://github.com/realitydeslab/echovision"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2024 / FILE 2026 재소개 기록"
+          }
+        },
+        {
+          "id": "2026-11-16-02",
+          "originalTitle": "Lost Hood",
+          "creator": "Abner Preis",
+          "title": "사라진 도시의 저항을 같은 거리 위에서 다시 만난다",
+          "publishedAt": "2026 / IDFA DocLab 공개 기록",
+          "url": "https://festival.idfa.nl/en/film/6c7c956a-1af7-4889-9d92-ebe3000a896c/Lost-Hood/",
+          "description": "암스테르담 Spuistraat의 점거 운동과 여러 반문화의 기억을 실제 거리에서 만나는 AR 작품이다. IDFA는 2026년 세계 초연으로 소개하며 11월 14~18일 안내 투어를 명시한다.",
+          "insight": {
+            "mechanism": "휴대전화 앱으로 거리의 실제 장소와 시각적 저항의 언어, 당사자의 기억을 겹친다. 실내 화면에서 역사 자료를 훑는 대신 현재의 도시를 걸으며 과거의 기록을 만나는 구조다.",
+            "whyNow": "복구 대상일인 11월 16일에 공식 일정상 공개된 프로젝트다. 도시 재개발의 결과만 촬영하지 않고 지금 눈앞에 보이지 않는 공동체의 기억을 같은 위치로 돌려놓는 방식을 살핀다.",
+            "directorPoint": "현재의 거리 전경을 먼저 보여 준 뒤 같은 구도에 기록이 나타나게 해 본다. 이동 경로를 이야기의 순서로 삼으면 역사 설명을 별도의 회상 장면으로 떼어내지 않아도 된다.",
+            "critique": "공간 위에 기록을 띄웠다고 사라진 공동체가 복원되는 것은 아니다. 휴대전화·배터리·청취 장비와 보행 조건이 참여를 제한하며, 어떤 목소리가 선택됐는지도 따져야 한다."
+          },
+          "tags": {
+            "sense": [
+              "공간감",
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "아카이브 데이터"
+            ],
+            "theme": [
+              "도시·공동체",
+              "탈식민·역사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Spuistraat·Spui, 암스테르담, 네덜란드 / IDFA 2026 공개"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-11-16-02.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/8723da25-3c73-492c-9d99-c5e53b66c0e0/2500.jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://festival.idfa.nl/en/film/6c7c956a-1af7-4889-9d92-ebe3000a896c/Lost-Hood/",
+            "sourceUrl": "https://my.idfa.nl/image-transforms/8723da25-3c73-492c-9d99-c5e53b66c0e0/2500.jpeg",
+            "kind": "artwork",
+            "credit": "Abner Preis 작품 / IDFA 공식 작품 자료, 개별 촬영자 미표기",
+            "caption": "공식 페이지의 AR·도시 이미지 합성 자료. 한순간의 실제 거리 촬영 전경으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:46+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "도시의 건물과 사람, 저항 문화의 이미지들이 여러 구획으로 겹쳐진 작품 시각 자료"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "augmented-reality-art",
+            "identityRationale": "휴대전화 앱으로 거리의 실제 장소와 시각적 저항의 언어, 당사자의 기억을 겹친다. 실내 화면에서 역사 자료를 훑는 대신 현재의 도시를 걸으며 과거의 기록을 만나는 구조다.",
+            "evidence": [
+              "https://festival.idfa.nl/en/film/6c7c956a-1af7-4889-9d92-ebe3000a896c/Lost-Hood/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / IDFA DocLab 공개 기록"
+          }
+        },
+        {
+          "id": "2026-11-16-03",
+          "originalTitle": "The Love Files",
+          "creator": "Sanne De Wilde · Samir Veen",
+          "title": "관객에게 사랑을 증명하는 대신 심사하는 자리를 준다",
+          "publishedAt": "2026 / IDFA DocLab 세계 초연 기록",
+          "url": "https://festival.idfa.nl/en/film/a639a787-4dc9-4174-b675-84899eb53f1f/The-Love-Files/",
+          "description": "국경을 넘는 커플이 거주 허가를 위해 제출하는 사랑의 증거를 소재로 한 인터랙티브 아카이브와 라이브 퍼포먼스다. 기술 설치 일반론보다 관객에게 주어지는 판단 역할이 핵심이다.",
+          "insight": {
+            "mechanism": "사진·메시지·편지 등의 기록을 받은 관객은 심사자의 위치에서 관계가 진실한지 판단하도록 요청받는다. 실제 서류와 공연이 판단의 압박을 만들며, 별도 AI 판정 시스템을 쓴다는 근거는 없다.",
+            "whyNow": "IDFA가 11월 16일 공연 일정을 공개한 2026년 작품이다. 기록을 단순히 보여 주는 것과 관객에게 그 기록을 평가할 권한을 부여하는 것의 차이를 읽는다.",
+            "directorPoint": "같은 자료를 본 뒤 서로 다른 결론을 적도록 하는 역할 전환을 제안한다. 주인공의 사연을 설명하기 전에 관객이 판단하는 자신의 시선을 알아차리게 할 수 있다.",
+            "critique": "사적인 기록을 체험 재료로 삼을 때 당사자의 동의와 공개 범위가 중요하다. 기술 매개가 약한 공연·참여형 아카이브의 경계 사례이며, VR이나 생성형 AI 작품으로 분류하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "언어",
+              "시간감"
+            ],
+            "tech": [
+              "아카이브 데이터",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "권력·감시",
+              "돌봄·책임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "de Brakke Grond, 암스테르담, 네덜란드 / IDFA 2026"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-11-16-03.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/e1d1e2ee-69a9-4f97-9e47-60264f961043/2500.jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://festival.idfa.nl/en/film/a639a787-4dc9-4174-b675-84899eb53f1f/The-Love-Files/",
+            "sourceUrl": "https://my.idfa.nl/image-transforms/e1d1e2ee-69a9-4f97-9e47-60264f961043/2500.jpeg",
+            "kind": "artwork",
+            "credit": "Sanne De Wilde · Samir Veen 작품 / IDFA 공식 작품 자료, 개별 촬영자 미표기",
+            "caption": "공식 페이지가 작품 이미지로 제시한 사진·메시지·문서의 배열. 실제 파일 전체나 개인정보의 원문 열람으로 설명하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:46+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "사진과 문서, 짧은 메시지가 격자 모양으로 배열된 작품 아카이브 이미지"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "participatory-archive-performance",
+            "identityRationale": "사진·메시지·편지 등의 기록을 받은 관객은 심사자의 위치에서 관계가 진실한지 판단하도록 요청받는다. 실제 서류와 공연이 판단의 압박을 만들며, 별도 AI 판정 시스템을 쓴다는 근거는 없다.",
+            "evidence": [
+              "https://festival.idfa.nl/en/film/a639a787-4dc9-4174-b675-84899eb53f1f/The-Love-Files/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / IDFA DocLab 세계 초연 기록"
+          }
+        },
+        {
+          "id": "2026-11-16-04",
+          "originalTitle": "ipseria",
+          "creator": "Isabell Bullerschen (아트·연출) · Florian Baumann (3D 애니메이션) · Sebastiaan Cator (게임 디자인) · Arno Justus (프로그래밍)",
+          "title": "손으로 만든 점액의 세계가 VR의 재료가 된다",
+          "publishedAt": "2023 혼합현실 판본 / FILE 2026 재소개 기록",
+          "url": "https://archive.file.org.br/obras-artisticas/ipseria/",
+          "description": "실제 재료를 스캔한 가상세계와 촉각·후각·소리를 결합한 작품이다. 2020년 동명 영상과 2023년 혼합현실 판본, 후속 2채널 영상을 구분해 읽는다.",
+          "insight": {
+            "mechanism": "조형 재료와 유기적 형태를 3D 스캔하고 Houdini와 Unity로 옮긴다. 작가의 2023년 판본에는 VR과 좌석, 진동 장치, 향, 균사체 향 조각이 포함된다. FILE에서 이 모든 주변 장치가 동일하게 설치됐는지는 확인되지 않았다.",
+            "whyNow": "2026년 재소개 기록에서 작품 제작 연도를 새 연도로 바꾸지 않는 사례다. 디지털 세계가 물질에서 출발하고 다시 몸의 감각과 만나는 왕복 구조를 살핀다.",
+            "directorPoint": "가상 공간의 표면을 먼저 보여 주고 다음 장면에서 그 질감의 실제 재료를 보여 주는 연결을 제안한다. 손으로 만든 흔적을 없애지 않으면 가상세계의 재료감을 이야기로 쓸 수 있다.",
+            "critique": "공식 소개의 디지털 생성이 없다는 표현을 계산 과정이 없다는 뜻으로 읽어서는 안 된다. 스캔·애니메이션·게임 엔진 처리가 있으며, 향과 촉각 경험도 관객마다 다르다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "촉각",
+              "후각·미각"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "3D스캔·포토그래메트리",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "신체·정체성",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026, 브라질 / 종료된 재소개 기록"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-16-04.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/04172727/file-sao-paulo-2026-isabell-bullerschen-ipseria-realidades-aumentadas-.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/ipseria/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/04172727/file-sao-paulo-2026-isabell-bullerschen-ipseria-realidades-aumentadas-.jpg",
+            "kind": "artwork",
+            "credit": "Isabell Bullerschen 및 제작팀 / FILE 공식 작품 자료, 해당 이미지 개별 촬영자 미표기",
+            "caption": "FILE가 제공한 ipseria 가상세계의 이미지. 실물 설치 전경이나 2020년 영상판의 사진으로 단정하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:45+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "분홍색과 반투명한 유기적 형태들이 쌓여 있는 가상세계 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2023,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "multisensory-mixed-reality-art",
+            "identityRationale": "조형 재료와 유기적 형태를 3D 스캔하고 Houdini와 Unity로 옮긴다. 작가의 2023년 판본에는 VR과 좌석, 진동 장치, 향, 균사체 향 조각이 포함된다. FILE에서 이 모든 주변 장치가 동일하게 설치됐는지는 확인되지 않았다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/ipseria/",
+              "https://www.isabellbullerschen.com/works/ipseria-mixed-reality-installation"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2023 혼합현실 판본 / FILE 2026 재소개 기록"
+          }
+        },
+        {
+          "id": "2026-11-16-05",
+          "originalTitle": "Eunoia II",
+          "creator": "Lisa Park (작가) · Colin Harrington (하드웨어·소프트웨어) · Amal Lal (사운드 소프트웨어)",
+          "title": "뇌파 센서의 값을 소리와 수면의 떨림으로 옮긴다",
+          "publishedAt": "2014 / 작가 공식 아카이브",
+          "url": "https://www.thelisapark.com/work/eunoia2",
+          "description": "48개의 스피커와 물을 담은 알루미늄 접시, 상용 뇌파 센서를 사용하는 퍼포먼스·설치다. 새 제작물 대신 생체 신호를 물질적 운동으로 번역하는 아카이브 사례로 수록한다.",
+          "insight": {
+            "mechanism": "Emotiv EPOC가 제공하는 데이터로 녹음된 소리의 속도·패닝·음량을 조절한다. 스피커의 진동이 접시 속 물에 파문을 만든다. 센서 소프트웨어의 상태 분류와 사람의 내면 전체를 같은 것으로 취급하지 않는다.",
+            "whyNow": "감정이 보인다는 결과보다 센서 데이터가 소리의 제어값을 거쳐 수면의 움직임이 되는 연쇄를 읽는다. 오늘의 센서 기반 작업을 비판적으로 비교할 수 있는 선행 사례다.",
+            "directorPoint": "장치 전체를 보여 준 다음 물 한 접시의 미세한 떨림을 비교하는 구도를 제안한다. 데이터 수치보다 소리와 표면이 함께 변하는 시간을 보여 주면 변환 과정을 이해하기 쉽다.",
+            "critique": "상용 장치가 출력한 감정 이름은 감정을 객관적으로 판독했다는 증명이 아니다. 작가의 자기 관찰을 타인의 심리 진단이나 보편적인 감정 측정법으로 확장할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "시각",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "웨어러블"
+            ],
+            "theme": [
+              "신체·정체성",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Mana Contemporary, 미국 / 2014년 공식 기록의 맥락; 선택 사진의 장소는 미표기"
+          },
+          "host": "www.thelisapark.com",
+          "image": "images/2026-11-16-05.jpg",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/5d80747c843cc1282b82d420/1568875481395-QUM5GGTAQFODEMK1XT71/eunoia2-2.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.thelisapark.com/work/eunoia2",
+            "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5d80747c843cc1282b82d420/1568875481395-QUM5GGTAQFODEMK1XT71/eunoia2-2.jpg",
+            "kind": "performance",
+            "credit": "Lisa Park 작품 / 작가 공식 갤러리, 개별 촬영자 미표기",
+            "caption": "물 접시와 스피커의 배열 안에 작가가 있는 공식 사진. 촬영 장소를 단정하지 않는다.",
+            "checkedAt": "2026-11-18T10:34:45+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "검은 스피커와 접시가 원형으로 펼쳐진 전시장 안에 한 사람이 서 있다"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2014,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "biosignal-sound-performance",
+            "identityRationale": "Emotiv EPOC가 제공하는 데이터로 녹음된 소리의 속도·패닝·음량을 조절한다. 스피커의 진동이 접시 속 물에 파문을 만든다. 센서 소프트웨어의 상태 분류와 사람의 내면 전체를 같은 것으로 취급하지 않는다.",
+            "evidence": [
+              "https://www.thelisapark.com/work/eunoia2",
+              "https://vimeo.com/111545385"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2014 / 작가 공식 아카이브"
+          }
+        },
+        {
+          "id": "2026-11-16-06",
+          "originalTitle": "Pulse Index",
+          "creator": "Rafael Lozano-Hemmer",
+          "title": "내 지문이 들어오면 다른 사람의 기록이 한 칸 밀려난다",
+          "publishedAt": "2010 / 사진은 Hirshhorn 2018 설치 기록",
+          "url": "https://lozano-hemmer.com/artworks/pulse_index.php",
+          "description": "지문과 심박을 함께 기록해 사람들의 피부 이미지가 층을 이루는 참여형 설치다. 2010년 작품과 2018년 워싱턴 설치 사진을 구분한 아카이브 항목이다.",
+          "insight": {
+            "mechanism": "디지털 현미경과 심박 센서가 참가자의 손가락을 읽는다. 새 지문은 가장 큰 칸에서 그 사람의 맥박에 맞춰 움직이고, 다른 사람이 참여할수록 이전 기록은 위로 이동하다가 사라진다. 화면판과 대형 투사판의 크기는 다르다.",
+            "whyNow": "신원을 식별하는 생체 이미지가 공동의 임시 기억으로 바뀌는 방식을 살핀다. 익명 데이터라는 말을 붙이는 대신 무엇이 저장·표시·퇴장하는지 구체적으로 읽는다.",
+            "directorPoint": "새 인물의 등장과 이전 인물의 흔적이 밀려나는 순간을 같은 화면에서 연결해 본다. 축적만 보여 주지 않고 사라지는 순서를 설계하면 기록의 유한함을 드러낼 수 있다.",
+            "critique": "지문과 심박은 민감한 생체 정보다. 전시 화면에서 사라지는 것과 저장 데이터가 삭제되는 것은 같지 않으므로 보관·삭제 정책은 별도로 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Hirshhorn Museum and Sculpture Garden, 워싱턴 D.C., 미국 / 2018 설치 사진"
+          },
+          "host": "lozano-hemmer.com",
+          "image": "images/2026-11-16-06.jpg",
+          "imageFallback": "https://lozano-hemmer.com/tifdownload.php?id=image_sets/pulse_index/washington_2018/pulse_index_washington_2018_cc_001.tif&filename=pulse_index_washington_2018_cc_001.tif",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://lozano-hemmer.com/artworks/pulse_index.php",
+            "sourceUrl": "https://lozano-hemmer.com/tifdownload.php?id=image_sets/pulse_index/washington_2018/pulse_index_washington_2018_cc_001.tif&filename=pulse_index_washington_2018_cc_001.tif",
+            "kind": "installation",
+            "credit": "Rafael Lozano-Hemmer 작품 / Photo: Cathy Carver, 2018 / CC BY-NC-SA 4.0, 크기 축소·JPEG 변환",
+            "caption": "작가가 제공한 Hirshhorn 설치 사진. 지문의 격자 화면 앞을 관객이 지나간다.",
+            "checkedAt": "2026-11-18T10:34:45+09:00",
+            "usageBasis": "작가 공식 사진 페이지가 표시한 CC BY-NC-SA 4.0에 따라 출처·촬영자·라이선스 링크를 명시한 축소본을 같은 조건으로 제공한다. 크기 축소 및 JPEG 변환. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "alt": "밝은 지문 격자로 채워진 긴 벽 앞에 관객들이 서 있는 전시장"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2010,
+            "researchedAt": "2026-11-18T13:38:55+09:00",
+            "identity": "biometric-interactive-installation",
+            "identityRationale": "디지털 현미경과 심박 센서가 참가자의 손가락을 읽는다. 새 지문은 가장 큰 칸에서 그 사람의 맥박에 맞춰 움직이고, 다른 사람이 참여할수록 이전 기록은 위로 이동하다가 사라진다. 화면판과 대형 투사판의 크기는 다르다.",
+            "evidence": [
+              "https://lozano-hemmer.com/artworks/pulse_index.php",
+              "https://lozano-hemmer.com/showimage_emb.php?proj=pulse_index&img=washington_2018&idproj=230&type=artwork&id=1"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2010 / 사진은 Hirshhorn 2018 설치 기록"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "박쥐의 감각을 복제하는 대신 목소리와 공간의 관계를 바꾼다",
+        "keywords": [
+          "감각 치환",
+          "목소리",
+          "LiDAR",
+          "공유하는 마스크"
+        ],
+        "sections": [
+          {
+            "heading": "세계를 보는 입력이 내 발성이 된다",
+            "body": "EchoVision에서 관객은 마스크를 들어 얼굴 앞에 놓고 소리를 낸다. 주변 공간 위로 빛의 반응이 나타나면서 평소 보이는 환경을 다르게 탐색하게 된다. 중요한 사건은 헤드셋을 썼다는 사실보다 발성이라는 몸의 행위가 새로운 시각적 단서를 만든다는 관계다. FILE의 작품 기록은 이 참여 방식을 확인해 준다."
+          },
+          {
+            "heading": "빛 파동과 음향 반사파를 구분하기",
+            "body": "제작팀의 설명에서 공간 형상은 휴대전화의 LiDAR로 재구성되고 마이크는 발성을 입력받는다. 음량과 높낮이를 시각 효과에 연결하는 예술적 매핑이 박쥐의 감각을 생각하게 하지만, 마스크가 실제로 돌아오는 음향 반사파를 측정한다는 뜻은 아니다. 다른 종의 감각을 완전히 재현했다는 표현보다 인간의 감각 관계를 바꾸는 시뮬레이션으로 읽는 편이 정확하다."
+          },
+          {
+            "heading": "착용 뒤에 혼자 남지 않는 장치",
+            "body": "손잡이로 들었다 내릴 수 있는 구조는 착용자와 주변 사람 사이의 대화를 남긴다. 장치를 건네는 동작도 참여의 일부가 된다. 연출로 응용한다면 한 사람의 발성과 다른 사람의 관찰을 함께 보여 주고, 같은 공간을 두 사람이 번갈아 탐색하는 차이를 비교할 수 있다. 이는 실제 작품의 관람 효과를 측정한 결과가 아니라 구조에서 도출한 제안이다."
+          },
+          {
+            "heading": "올해의 행사 표기와 제작 연도를 분리하기",
+            "body": "FILE의 2026년은 행사·수록 연도이고 제작팀은 작품을 2024년으로 소개한다. 두 기록을 대조하면 재소개를 신작으로 오인하는 일을 피할 수 있다. 기관 자료는 행사 맥락을, 제작팀과 공개 저장소는 설계·구현의 범위를 설명한다. 생태적 호기심을 유도한다는 의도와 실제 공감·보전 행동의 변화가 입증됐는지는 구분해야 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "FILE — 2026 작품 수록·참여 방식",
+            "url": "https://archive.file.org.br/obras-artisticas/echovision/"
+          },
+          {
+            "label": "Reality Design Lab — 제작 연도·마스크·입력과 시각 매핑",
+            "url": "https://echovision.art/"
+          },
+          {
+            "label": "제작팀 공개 저장소 — 구현·기기 조건",
+            "url": "https://github.com/realitydeslab/echovision"
+          }
+        ]
+      },
+      "backfill": {
+        "researchedAt": "2026-11-18T13:38:55+09:00",
+        "publishedOn": "2026-11-18",
+        "reason": "사용자가 누락 날짜 확인·보충을 요청함",
+        "originalPublicationClaimed": false
+      }
+    },
+    {
       "date": "2026-11-15",
       "title": "소리를 짓는 몸, 이미지를 짓는 기계",
       "summary": "Inhotim의 《The Murder of Crows》 재공개 안내를 계기로 여섯 작품을 읽는다. 꿈을 둘러싸는 스피커, 몸으로 만드는 소리, 나무 화소, 기울어지는 합창단, 생태 음향의 기록과 금속 물방울의 안무를 통해 감각의 위치와 움직임의 주도권을 살펴본다. 최신 재공개와 과거 전시 기록은 구분해 표기했다.",
@@ -25505,7 +26388,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-18T08:41:25+09:00",
+  "generatedAt": "2026-11-18T13:38:55+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
@@ -25514,5 +26397,5 @@
     "latestMax": 8,
     "legacyNote": "현행 일간 기준 도입 전의 수록 개수·권역·출처 편중은 경고로 보존한다. 과거 날짜나 ID를 바꿔 기준을 맞추지 않는다."
   },
-  "lastEditorialReview": "2026-10-30"
+  "lastEditorialReview": "2026-11-18"
 }

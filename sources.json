@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-18",
   "rule": "하루 한 출처(도메인) 최대 2개, 한 이슈에 최소 3개 권역, 30일 기준 한 권역 50% 이하",
   "sources": [
     {
@@ -470,6 +470,20 @@
       "region": "동남·남아시아",
       "place": "뉴델리, 인도",
       "type": "작가 아카이브"
+    },
+    {
+      "name": "Whitney artport",
+      "url": "https://whitney.org/artport",
+      "region": "북미",
+      "place": "뉴욕, 미국 / 온라인 커미션",
+      "type": "기관"
+    },
+    {
+      "name": "Casa Batlló Contemporary",
+      "url": "https://contemporary.casabatllo.es/en/",
+      "region": "유럽",
+      "place": "바르셀로나, 스페인",
+      "type": "기관"
     }
   ]
 }
