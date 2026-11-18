@@ -1,6 +1,450 @@
 {
   "issues": [
     {
+      "date": "2026-11-19",
+      "title": "흩어진 요소들은 언제 하나의 몸처럼 보이는가",
+      "summary": "2026년 공개작과 진행 중인 작업 5개, 현재 전시 맥락이 확인된 기존 작품 1개를 읽는다. 미생물의 식탁, 움직이는 거울, 수열의 빛, 소용돌이의 질서, 감시의 나선과 협동 시뮬레이션을 통해 부분의 관계가 몸과 시선의 주체를 만드는 방식을 살핀다. 초연·현행 전시·작업 중 상태를 구분했다.",
+      "crosscurrent": {
+        "note": "Plural Tastings는 몸을 자율적인 주인만이 아니라 다른 생명의 환경으로 바꿔 읽는다. Seven Suns는 거울의 물리적 배열을, Chôra는 빛의 규칙을 바꾼다. Light Vortex에서는 흐름의 질서가 하나의 존재처럼 보이고 Spiral Reflector에서는 시선을 가진 카메라가 그 중심을 차지한다. Ants는 전체의 의도처럼 보이는 움직임이 작은 힘과 제약에서 나올 수 있음을 시뮬레이션으로 질문한다. 광학·코드·센서·생물학적 은유를 모두 같은 지능으로 묶지 않는다.",
+        "itemIds": [
+          "2026-11-19-01",
+          "2026-11-19-02",
+          "2026-11-19-03",
+          "2026-11-19-04",
+          "2026-11-19-05",
+          "2026-11-19-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-19-01",
+          "originalTitle": "Microbiome Restaurant: Plural Tastings",
+          "creator": "POLYMORF (제작·연출) · Hazal Ertürkan (초기 콘셉트 협업) / Studio Biarritz (공동 제작)",
+          "title": "미생물의 식탁에서 관객의 몸이 손님이자 식사가 된다",
+          "publishedAt": "2026 / IDFA DocLab 세계 초연 기록",
+          "url": "https://festival.idfa.nl/en/film/47415ed0-05fd-4147-8be9-7d45f7922557/Microbiome-Restaurant:-Plural-Tastings/",
+          "description": "여섯 사람이 참여하는 VR·퍼포먼스로 미생물과 공생하는 몸을 식사의 관계로 상상한다. Microbiome Restaurant의 여러 경험 중 Plural Tastings를 다루며 다른 프로그램의 직장 투여 메뉴와 혼동하지 않는다.",
+          "insight": {
+            "mechanism": "제작사에 따르면 VR과 로보틱스·촉각 기술·현미경·음식이 결합된다. IDFA는 여섯 참여자 중 한 명을 무작위로 고르되 동의한 경우에만 인간 크기의 페트리 접시에 눕게 한다고 설명한다. 모두가 같은 자세로 참여한다고 단정하지 않는다.",
+            "whyNow": "11월 IDFA에서 공개되는 2026년 작업이다. 비인간을 바라보는 화면보다 내 몸이 다른 생명에게 어떤 환경인지 묻게 하는 역할 전환에 주목한다.",
+            "directorPoint": "보는 사람과 관찰되는 대상의 자리를 바꾸는 장면을 제안한다. 시점의 높이와 접시라는 공간의 경계를 먼저 제시하면 설명을 늘리지 않고도 몸의 규모가 다르게 읽힐 수 있다.",
+            "critique": "기관이 과학적 검증을 언급하더라도 체험의 감정·건강 효과가 별도로 입증됐다는 뜻은 아니다. 공식 안내의 동의·알레르기 확인 조건을 실제 체험 운영과 분리해서 생략할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "신체·움직임",
+              "촉각",
+              "후각·미각"
+            ],
+            "tech": [
+              "XR·AR·VR",
+              "로보틱스",
+              "바이오·생물"
+            ],
+            "theme": [
+              "비인간·생태",
+              "돌봄·책임"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "@droog, 암스테르담, 네덜란드 / IDFA 2026"
+          },
+          "host": "festival.idfa.nl",
+          "image": "images/2026-11-19-01.jpg",
+          "imageFallback": "https://my.idfa.nl/image-transforms/fd19bcbc-93bb-4b7a-8305-39a683ba8303/2500.jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://festival.idfa.nl/en/film/47415ed0-05fd-4147-8be9-7d45f7922557/Microbiome-Restaurant:-Plural-Tastings/",
+            "sourceUrl": "https://my.idfa.nl/image-transforms/fd19bcbc-93bb-4b7a-8305-39a683ba8303/2500.jpeg",
+            "kind": "artwork",
+            "credit": "POLYMORF · Studio Biarritz / IDFA 공식 작품 이미지, 개별 이미지 제작자 미표기",
+            "caption": "공식 페이지의 페트리 접시형 체험 장치 시각 자료. 현장 설치 사진이나 모든 참가자의 자세를 보여 주는 사진으로 설명하지 않는다.",
+            "checkedAt": "2026-11-19T00:30:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "흰 배경 위 민트색 원형 접시 안에 체험 장치와 연결선이 놓인 작품 이미지"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-19T00:35:09+09:00",
+            "identity": "multisensory-vr-performance",
+            "identityRationale": "제작사에 따르면 VR과 로보틱스·촉각 기술·현미경·음식이 결합된다. IDFA는 여섯 참여자 중 한 명을 무작위로 고르되 동의한 경우에만 인간 크기의 페트리 접시에 눕게 한다고 설명한다. 모두가 같은 자세로 참여한다고 단정하지 않는다.",
+            "evidence": [
+              "https://festival.idfa.nl/en/film/47415ed0-05fd-4147-8be9-7d45f7922557/Microbiome-Restaurant:-Plural-Tastings/",
+              "https://studiobiarritz.nl/project/microbiome-restaurant/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / IDFA DocLab 세계 초연 기록"
+          }
+        },
+        {
+          "id": "2026-11-19-02",
+          "originalTitle": "Seven Suns",
+          "creator": "United Visual Artists (UVA)",
+          "title": "일곱 거울의 움직임이 잠시 하나의 질서를 이룬다",
+          "publishedAt": "2026 / 바르셀로나 커미션 기록",
+          "url": "https://www.uva.co.uk/features/seven-suns",
+          "description": "일곱 개의 거울 요소가 계속 움직이는 키네틱 설치다. Casa Batlló Contemporary가 의뢰한 2026년 작품이며 작가 페이지는 거울·모터·알루미늄·전자장치·코드를 재료로 명시한다.",
+          "insight": {
+            "mechanism": "회전하는 거울의 배열이 때로 정렬됐다가 다시 풀린다. 작가는 일곱이라는 인간의 시간 단위와 점진적이고 고르지 않은 운동을 대비시킨다. 관객을 추적해 움직인다는 설명은 없다.",
+            "whyNow": "2026년 공개 기록에서 자연의 주기를 묘사한 영상과 실제 반사면이 움직이는 설치를 구분한다. 같은 대상도 반사와 배열의 시간에 따라 달라지는 사례다.",
+            "directorPoint": "정렬된 순간만 촬영하기보다 정렬을 기다리는 시간을 남기는 구성을 제안한다. 거울 안팎의 인물을 같은 넓은 구도에 두면 반사 이미지가 일치했다 흩어지는 변화를 읽을 수 있다.",
+            "critique": "사진의 정렬은 전체 움직임의 대표 상태가 아니다. 작품이 시간 감각을 낯설게 한다는 설명과 모든 관객에게 같은 지각 효과가 생긴다는 주장은 구분해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Casa Batlló Contemporary 커미션, 바르셀로나, 스페인 / 2026년 기록"
+          },
+          "host": "www.uva.co.uk",
+          "image": "images/2026-11-19-02.jpg",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1782747085154-PJ30J1RANOLCSWQ2VQ2B/SS03.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.uva.co.uk/features/seven-suns",
+            "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1782747085154-PJ30J1RANOLCSWQ2VQ2B/SS03.jpg",
+            "kind": "installation",
+            "credit": "UVA 작품 / Photo: Eric Yanguas / Commissioned by Casa Batlló Contemporary",
+            "caption": "공식 설치 전경. 거울의 한순간 배열을 보여 주며 고정된 조형물로 설명하지 않는다.",
+            "checkedAt": "2026-11-19T00:30:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "밝은 전시장 안 회전 거울들이 다리 달린 지지대 위에 배열돼 있고 한 관객이 앉아 바라본다"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-19T00:35:09+09:00",
+            "identity": "kinetic-mirror-installation",
+            "identityRationale": "회전하는 거울의 배열이 때로 정렬됐다가 다시 풀린다. 작가는 일곱이라는 인간의 시간 단위와 점진적이고 고르지 않은 운동을 대비시킨다. 관객을 추적해 움직인다는 설명은 없다.",
+            "evidence": [
+              "https://www.uva.co.uk/features/seven-suns"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / 바르셀로나 커미션 기록",
+            "collaborators": {
+              "fabricationAndProgramming": "Vincent de Belleval",
+              "soundDesign": "Daniel Junior Thibault"
+            }
+          }
+        },
+        {
+          "id": "2026-11-19-03",
+          "originalTitle": "Chôra I - III",
+          "creator": "United Visual Artists (UVA)",
+          "title": "눈이 질서를 찾는 순간 빛의 패턴이 다시 달라진다",
+          "publishedAt": "2026 / 바르셀로나 커미션 기록",
+          "url": "https://www.uva.co.uk/features/chora-i-iii",
+          "description": "LED와 코드로 구성된 세 개의 빛 작업을 하나의 작품군으로 읽는다. I·II·III를 각각 별도 신규 작품으로 나눠 항목 수를 늘리지 않았다.",
+          "insight": {
+            "mechanism": "단순한 규칙과 수열에서 생성한 패턴이 반복과 점진적인 변화의 주기로 전개된다. 거울이 물리적으로 회전하는 Seven Suns와 달리 빛의 배열과 변화가 지각의 기준이 된다.",
+            "whyNow": "2026년 공개된 작업으로 생성형이라는 말의 범위를 확인한다. 규칙 기반 패턴 생성에 생성 AI나 관객 추적이라는 기술을 임의로 덧붙이지 않는다.",
+            "directorPoint": "규칙을 알아차릴 만큼 반복을 유지한 뒤 작은 변화를 주는 구성을 제안한다. 매번 전혀 다른 이미지를 제시하는 것보다 관객이 스스로 만든 예상을 수정하는 순간을 드러낼 수 있다.",
+            "critique": "공식 설명은 수열과 규칙의 세부 코드를 제공하지 않는다. 특정 수학 공식이나 무한한 비반복을 추측할 수 없으며, 정지 사진은 시간에 따른 변화를 충분히 보여 주지 못한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Casa Batlló Contemporary 커미션, 바르셀로나, 스페인 / 2026년 기록"
+          },
+          "host": "www.uva.co.uk",
+          "image": "images/2026-11-19-03.jpg",
+          "imageFallback": "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1782998314001-K5Z2P1EV69J7NYJM4AOF/Chora03.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.uva.co.uk/features/chora-i-iii",
+            "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1782998314001-K5Z2P1EV69J7NYJM4AOF/Chora03.jpg",
+            "kind": "installation",
+            "credit": "UVA 작품 / Photo: Eric Yanguas / Commissioned by Casa Batlló Contemporary",
+            "caption": "공식 설치 사진의 빛 패턴과 관객. 세 작업 전체가 같은 화면에 담겼다고 단정하지 않는다.",
+            "checkedAt": "2026-11-19T00:30:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "어두운 방의 수직 화면에 흰 빛의 선들이 펼쳐져 있고 옆으로 관객이 보인다"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-19T00:35:09+09:00",
+            "identity": "generative-light-art",
+            "identityRationale": "단순한 규칙과 수열에서 생성한 패턴이 반복과 점진적인 변화의 주기로 전개된다. 거울이 물리적으로 회전하는 Seven Suns와 달리 빛의 배열과 변화가 지각의 기준이 된다.",
+            "evidence": [
+              "https://www.uva.co.uk/features/chora-i-iii"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / 바르셀로나 커미션 기록",
+            "collaborators": {
+              "programming": [
+                "Jon Skerritt",
+                "Adam Heslop"
+              ]
+            }
+          }
+        },
+        {
+          "id": "2026-11-19-04",
+          "originalTitle": "Light Vortex",
+          "creator": "teamLab / Hideaki Takahashi (사운드)",
+          "title": "흩어진 빛의 흐름이 중심을 가진 존재처럼 보인다",
+          "publishedAt": "2016– / Jeddah 현행 전시 목록에서 재확인",
+          "url": "https://art.team-lab.cn/en/w/lightvortex/",
+          "description": "빛이 흐르며 중심의 질서를 만드는 설치다. 2016년부터의 작품으로 명시하고 현재 공식 관련 전시 목록의 teamLab Borderless Jeddah 맥락에서 읽는다. 2026년 신작으로 날짜를 바꾸지 않았다.",
+          "insight": {
+            "mechanism": "바깥으로 흐르는 빛의 움직임이 중심에 모인 질서를 만든다. 작가는 같은 물질도 배열의 질서가 다르면 하나의 존재처럼 느껴질 수 있다는 질문을 제시한다. 실제 물을 회전시키는 수조나 박쥐 감각 장치와는 다르다.",
+            "whyNow": "진행 중인 전시 목록과 제작 연도를 함께 읽는 기존 작품 재소개다. 빛의 규모보다 분리된 요소가 하나로 지각되는 조건에 집중한다.",
+            "directorPoint": "먼저 전체 흐름을 보여 준 뒤 부분의 이동을 따라가는 구성을 제안한다. 개별 요소를 모두 인물처럼 설명하지 않아도 공통 방향과 중심이 집단의 성격을 만들 수 있다.",
+            "critique": "살아 있는 듯 보인다는 경험과 생물학적 생명이나 의식의 존재는 다르다. 공식 자료만으로 내부 제어 알고리즘·센서 입력·사진의 촬영 장소를 특정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "지각·반사",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중동",
+            "venue": "teamLab Borderless Jeddah, 사우디아라비아 / 공식 관련 전시의 ON VIEW 표기; 선택 사진의 장소는 미표기"
+          },
+          "host": "art.team-lab.cn",
+          "image": "images/2026-11-19-04.jpg",
+          "imageFallback": "https://image.team-lab.cn/unsafe/w:1200/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2FwK2bSnHQhKSoQMDeWGjoHD@jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://art.team-lab.cn/en/w/lightvortex/",
+            "sourceUrl": "https://image.team-lab.cn/unsafe/w:1200/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2FwK2bSnHQhKSoQMDeWGjoHD@jpeg",
+            "kind": "installation",
+            "credit": "© teamLab / Sound: Hideaki Takahashi / 작가 공식 작품 자료, 개별 촬영자 미표기",
+            "caption": "공식 작품 사진. 제다 설치의 촬영 사진이라고 단정하지 않는다.",
+            "checkedAt": "2026-11-19T00:30:33+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "관객의 검은 실루엣 주위로 흰 빛의 흐름이 나선형으로 모여드는 공간"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2016,
+            "researchedAt": "2026-11-19T00:35:09+09:00",
+            "identity": "light-installation",
+            "identityRationale": "바깥으로 흐르는 빛의 움직임이 중심에 모인 질서를 만든다. 작가는 같은 물질도 배열의 질서가 다르면 하나의 존재처럼 느껴질 수 있다는 질문을 제시한다. 실제 물을 회전시키는 수조나 박쥐 감각 장치와는 다르다.",
+            "evidence": [
+              "https://art.team-lab.cn/en/w/lightvortex/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2016– / Jeddah 현행 전시 목록에서 재확인"
+          }
+        },
+        {
+          "id": "2026-11-19-05",
+          "originalTitle": "Spiral Reflector",
+          "creator": "Rafael Lozano-Hemmer",
+          "title": "나선의 빛이 보여 주는 시선과 지워지는 기록",
+          "publishedAt": "2026 / Museo de Arte Moderno 초연 기록",
+          "url": "https://www.lozano-hemmer.com/spiral_reflector.php",
+          "description": "멕시코시티 현대미술관 조각 정원의 지형 안에 설치된 지름 5미터 나선형 LED 디스플레이다. 중심에는 천천히 회전하는 감시 카메라가 놓인다.",
+          "insight": {
+            "mechanism": "길이 300미터의 연속된 흰 LED 선을 관형 확산재에 넣어 나선을 만든다. 카메라가 향하는 방향을 스캔선이 보여 주고, 작가 설명에 따르면 주기적인 spiral flush 때 포착한 이미지가 지워진다.",
+            "whyNow": "2026년 초연된 작품에서 반사·인정의 매력과 측정·감시의 시선을 함께 읽는다. 앞선 Pulse Index의 생체 기록과 다른 장치이며 같은 작품의 크레딧 변경으로 다루지 않는다.",
+            "directorPoint": "카메라가 바라보는 방향을 관객도 읽을 수 있게 만드는 구성을 제안한다. 장치의 시선을 숨기는 대신 보이는 지표로 만들면 관객은 촬영되는 자신의 위치를 의식할 수 있다.",
+            "critique": "작품 설명의 지움과 외부 시스템 전체의 데이터 삭제 보장은 같은 말이 아니다. 누가 무엇을 포착하고 어느 범위에서 지우는지는 운영 정책과 구현을 별도로 확인해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "권력·감시",
+              "기억·아카이브"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Museo de Arte Moderno Sculpture Garden, 멕시코시티, 멕시코 / Unfinished Garden 2026 초연"
+          },
+          "host": "www.lozano-hemmer.com",
+          "image": "images/2026-11-19-05.jpg",
+          "imageFallback": "https://www.lozano-hemmer.com/tifdownload.php?id=image_sets/spiral_reflector/mexico_2026/spiral_reflector_mexico_city_2026_jh_001.tif&filename=spiral_reflector_mexico_city_2026_jh_001.tif",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.lozano-hemmer.com/spiral_reflector.php",
+            "sourceUrl": "https://www.lozano-hemmer.com/tifdownload.php?id=image_sets/spiral_reflector/mexico_2026/spiral_reflector_mexico_city_2026_jh_001.tif&filename=spiral_reflector_mexico_city_2026_jh_001.tif",
+            "kind": "installation",
+            "credit": "Rafael Lozano-Hemmer 작품 / Photo: Jimmy Hamelin, 2026 / CC BY-NC-SA 4.0, 크기 축소·JPEG 변환",
+            "caption": "작가가 제공한 멕시코시티 설치 전경. 작품 중심과 주변 관객의 관계를 보여 준다.",
+            "checkedAt": "2026-11-19T00:30:39+09:00",
+            "usageBasis": "작가의 공식 사진 페이지가 표시한 CC BY-NC-SA 4.0에 따라 출처·촬영자·라이선스를 명시한 축소본을 같은 조건으로 제공한다. 크기 축소 및 JPEG 변환. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "alt": "어두운 정원에 커다란 원형 나선 디스플레이가 놓여 있고 주변에 관객들이 보인다"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-19T00:35:09+09:00",
+            "identity": "camera-light-installation",
+            "identityRationale": "길이 300미터의 연속된 흰 LED 선을 관형 확산재에 넣어 나선을 만든다. 카메라가 향하는 방향을 스캔선이 보여 주고, 작가 설명에 따르면 주기적인 spiral flush 때 포착한 이미지가 지워진다.",
+            "evidence": [
+              "https://www.lozano-hemmer.com/spiral_reflector.php",
+              "https://www.lozano-hemmer.com/showimage_emb.php?proj=spiral_reflector&img=mexico_2026&idproj=437&type=artwork&id=1"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / Museo de Arte Moderno 초연 기록",
+            "collaborators": {
+              "software": "David Robert",
+              "hardware": [
+                "Stephan Schulz",
+                "Proyectos Especiales – Arte Abierto"
+              ]
+            }
+          }
+        },
+        {
+          "id": "2026-11-19-06",
+          "originalTitle": "Ants",
+          "creator": "Memo Akten (공식 프로젝트 페이지의 저자 표기)",
+          "title": "작은 힘들이 합쳐지자 수동적인 몸이 목적을 가진 듯 움직인다",
+          "publishedAt": "2026 / 진행 중인 영상 에세이·퍼포먼스 렉처의 공개 발췌",
+          "url": "https://memo.tv/projects/2026/ants/",
+          "description": "개미의 협동 운반을 참고한 시뮬레이션을 몸과 집단의 관계로 확장하는 작업 자료다. 작가는 완성된 전시 신작이 아니라 진행 중인 영상 에세이·퍼포먼스 렉처의 발췌라고 명시한다.",
+          "insight": {
+            "mechanism": "가상 개미들은 국소적 신호와 물체를 통해 전달되는 힘에 반응한다. 사람이 설계한 단순 규칙과 물체의 형태·관절 제약이 합쳐져 수동적인 인체형 물체가 의도를 가진 듯 움직인다. 실제 개미의 내적 상태를 완전히 규명했다는 설명이 아니다.",
+            "whyNow": "2026년 공개된 작업 과정에서 시뮬레이션의 규칙과 그것을 사회·몸에 연결하는 작가의 은유를 구분한다. 완료된 설치와 진행 중인 연구·예술 자료를 같은 상태로 소개하지 않는다.",
+            "directorPoint": "먼저 작은 힘의 주체들을 보여 주고 다음에 전체 인체형 움직임을 보여 주는 구성을 제안한다. 처음부터 큰 존재의 의도를 설명하지 않으면 관객이 행위의 원인을 다시 묻게 할 수 있다.",
+            "critique": "시뮬레이션의 집단 행동이 인간 사회를 그대로 설명하는 것은 아니다. 경제와 제도에 대한 후반의 해석은 작가의 비유이며, 관객이 모든 규칙을 직접 바꿀 수 있다고도 확인되지 않았다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "정보·불확실성"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": null,
+            "venue": "온라인 공개 작업 자료 / 전시·커미션 장소 미확인"
+          },
+          "host": "memo.tv",
+          "image": "images/2026-11-19-06.jpg",
+          "imageFallback": "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/superradiance/projects/2026/ants/images/ants.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://memo.tv/projects/2026/ants/",
+            "sourceUrl": "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/superradiance/projects/2026/ants/images/ants.jpg",
+            "kind": "artwork",
+            "credit": "Memo Akten 공식 Ants 프로젝트 이미지, 2026 / 개별 이미지 제작 크레딧 미표기",
+            "caption": "시뮬레이션 장면을 모은 공식 작품 화면. 실제 개미를 촬영한 사진이나 완성된 설치 전경이 아니다.",
+            "checkedAt": "2026-11-19T00:30:33+09:00",
+            "usageBasis": "공식 작품 자료의 출처와 크레딧을 표시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다.",
+            "alt": "검은 배경의 여러 구획에서 파란색과 노란색 인체형 구조물을 작은 입자들이 움직이는 시뮬레이션 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-19T00:35:09+09:00",
+            "identity": "simulation-video-essay-in-progress",
+            "identityRationale": "가상 개미들은 국소적 신호와 물체를 통해 전달되는 힘에 반응한다. 사람이 설계한 단순 규칙과 물체의 형태·관절 제약이 합쳐져 수동적인 인체형 물체가 의도를 가진 듯 움직인다. 실제 개미의 내적 상태를 완전히 규명했다는 설명이 아니다.",
+            "evidence": [
+              "https://memo.tv/projects/2026/ants/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / 진행 중인 영상 에세이·퍼포먼스 렉처의 공개 발췌"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "미생물을 구경하는 사람이 아니라 함께 사는 환경이 되는 몸",
+        "keywords": [
+          "몸의 역할",
+          "공생",
+          "다감각 VR",
+          "동의와 참여"
+        ],
+        "sections": [
+          {
+            "heading": "작품의 단위를 먼저 구분하기",
+            "body": "Microbiome Restaurant는 여러 경험을 묶는 프로젝트이고 오늘 다루는 것은 여섯 명이 참여하는 Plural Tastings다. 제작사 자료는 피부·장·기억을 다루는 다른 구성도 소개한다. 이들을 합쳐 한 참가자에게 모두 제공되는 체험으로 설명하지 않는다. 몸이 손님이면서 다른 생명의 환경이라는 역할 전환이 이 구성의 핵심이다."
+          },
+          {
+            "heading": "화면을 넘어 자세와 감각을 연결하기",
+            "body": "제작사는 VR에 로보틱스·촉각 기술·현미경·음식을 결합한다고 설명한다. IDFA의 구체적 운영 안내에서는 여섯 명 중 무작위로 고른 한 사람이 동의할 때만 접시형 공간에 눕는다. 모두가 동시에 같은 자세를 취한다는 단순화는 참여자들의 서로 다른 역할을 지운다. 장치 하나의 신기함보다 누가 어떤 위치와 감각을 맡는지 읽어야 한다."
+          },
+          {
+            "heading": "연출로 옮길 때는 크기와 시점을 바꾸기",
+            "body": "응용 제안은 관객을 큰 세계의 관찰자로 두었다가 작은 생명들이 공유하는 환경의 일부로 옮기는 것이다. 몸의 표면을 풍경처럼 보고, 식사의 주체와 대상의 위치를 바꾸면 설명 문장 없이도 관계를 다르게 상상할 수 있다. 이는 작품이 특정한 감정이나 공감을 보장한다는 뜻이 아니라 경험의 역할 배치에서 도출한 수법이다."
+          },
+          {
+            "heading": "공식 설명과 효과의 입증을 나누기",
+            "body": "IDFA는 프로그램의 제작 연도·인원·동의·알레르기 안내를, Studio Biarritz는 여러 구성의 차이와 매체 결합을 제공한다. 제작과 관련된 공식 자료 두 곳이며 독립적인 임상 검증 두 건이 아니다. 기관의 과학적 검증이라는 표현을 체험의 치료 효과나 감정 제어 능력이 입증됐다는 뜻으로 확장하지 않는다. 관객이 거절하거나 중단할 조건도 감각의 설계만큼 중요하다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "IDFA — Plural Tastings의 2026 공개·인원·참여 조건",
+            "url": "https://festival.idfa.nl/en/film/47415ed0-05fd-4147-8be9-7d45f7922557/Microbiome-Restaurant:-Plural-Tastings/"
+          },
+          {
+            "label": "Studio Biarritz — 공동 제작자의 전체 프로젝트·매체 구성 설명",
+            "url": "https://studiobiarritz.nl/project/microbiome-restaurant/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-18",
       "title": "공간의 규칙은 누구의 시간에 바뀌는가",
       "summary": "오늘은 공식 아카이브에서 여섯 작품을 새로 수록한다. 사람 사이에 생기는 선, 낮밤에 뒤집히는 숫자, 소용돌이치는 수면과 깊이를 지우는 빛, 공중의 배열과 전시의 비선형 시간을 통해 공간의 변화가 무엇에 의해 결정되는지 읽는다. 제작·과거 전시 기록을 오늘의 개막 소식과 구분했다.",
@@ -26388,7 +26832,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-18T13:38:55+09:00",
+  "generatedAt": "2026-11-19T00:35:09+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

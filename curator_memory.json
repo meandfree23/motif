@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -282,6 +282,10 @@
     {
       "date": "2026-11-18",
       "note": "사용자 요청으로 11월 16~17일 누락 2호를 18일에 보충. 기존 원고 86호·477개를 그대로 보존하고 신규 12개·Focus 2편을 추가했다. 신작/2026 재소개/아카이브를 구분하고 실제 보충일을 명시했다."
+    },
+    {
+      "date": "2026-11-19",
+      "note": "미디어-작동-관객 관계를 확인한 작품 6개와 Plural Tastings Focus 4단락·2출처. 2026 공개작·WIP 5개와 현행 재전시 1개를 구분했다. 유럽·중동·중남미 3권역, 온라인 작품의 장소 미상 1개는 추측하지 않았다."
     }
   ],
   "source_notes": [
@@ -440,6 +444,10 @@
     {
       "date": "2026-11-18",
       "note": "정체성 검토: 기존 477개 구조와 최근 호의 시점·자료 유형을 검토했다. 11월 12일 이후 30개 중 첫 표기 제작 연도가 2020년 이전인 항목이 25개여서 Latest와 아카이브 재발견의 구분을 보완한다. 장르 적합성은 매체-작동-관객 관계로 판정하며 과거 행사 목록·포트폴리오 등은 별도 경계 사례로 기록했다."
+    },
+    {
+      "date": "2026-11-19",
+      "note": "UVA 작품별 공개 JSON 본문·사진 크레딧, IDFA와 공동 제작사, teamLab의 연도·현행 전시 목록, 작가의 Spiral Reflector 사진·CC BY-NC-SA, Ants의 WIP·시뮬레이션 구분을 대조했다. 기존 88호·489개 및 Signals·Toolkit과 원래 큐레이터 규칙을 보존했다."
     }
   ],
   "dedup_policy": {
