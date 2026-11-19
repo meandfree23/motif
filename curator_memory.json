@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -286,6 +286,10 @@
     {
       "date": "2026-11-19",
       "note": "미디어-작동-관객 관계를 확인한 작품 6개와 Plural Tastings Focus 4단락·2출처. 2026 공개작·WIP 5개와 현행 재전시 1개를 구분했다. 유럽·중동·중남미 3권역, 온라인 작품의 장소 미상 1개는 추측하지 않았다."
+    },
+    {
+      "date": "2026-11-20",
+      "note": "2026 공개작 5개와 2025 현행 전시 재소개 1개, 네 권역의 작품 6개와 Entr’acte Focus 4단락·2출처. 공연·웹·기억 자료의 경계와 AI·인공생명·환경 현상을 구분했다. 종료된 LAS 전시와 도쿄 공연 예정을 보이는 날짜로 명시했다."
     }
   ],
   "source_notes": [
@@ -448,6 +452,10 @@
     {
       "date": "2026-11-19",
       "note": "UVA 작품별 공개 JSON 본문·사진 크레딧, IDFA와 공동 제작사, teamLab의 연도·현행 전시 목록, 작가의 Spiral Reflector 사진·CC BY-NC-SA, Ants의 WIP·시뮬레이션 구분을 대조했다. 기존 88호·489개 및 Signals·Toolkit과 원래 큐레이터 규칙을 보존했다."
+    },
+    {
+      "date": "2026-11-20",
+      "note": "Whitney의 실제 웹 작품 화면, LAS의 작품별 설치·시뮬레이션 이미지, teamLab 공식 작품 사진, Ryoichi Kurokawa의 L.E.V. 공연 사진을 수동 대조했다. HEK는 Focus 공연·방송 관계의 기관 자료이며 공연 관람이나 AI 성능 시험으로 주장하지 않았다. 기존 89호·495개 및 Signals·Toolkit, 원래 큐레이터 규칙은 보존했다."
     }
   ],
   "dedup_policy": {

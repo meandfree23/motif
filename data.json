@@ -1,6 +1,445 @@
 {
   "issues": [
     {
+      "date": "2026-11-20",
+      "title": "기술을 거친 몸은 어떤 기록과 세계로 남는가",
+      "summary": "2026년 공개작 5개와 현행 전시의 기존 작품 1개를 읽는다. 안무의 아카이브, 전승 지식의 질문, 저항의 영상, 국소적 신경망, 떠 있는 형상과 두 화면의 공연에서 기술이 몸을 담고 다시 감각으로 돌려놓는 방식을 살핀다. 종료된 전시와 예정된 공연을 현재 관람 기록과 구분했다.",
+      "crosscurrent": {
+        "note": "Entr’acte와 Warpmode는 남겨진 기록·질문을 통해 관객을 참여시킨다. The Phantom Combatants는 측정 기술을 몸의 주권에 대한 서사로 돌리고, nom nom은 전체를 지휘하는 중심 없이 생기는 형상을 보여 준다. Morphing Continuum은 주변 조건이 유지하는 존재를, nD는 나뉜 화면과 소리가 만드는 감각의 결합을 다룬다. 전승 지식, 신경망 시뮬레이션, 물리적 현상과 공연을 모두 하나의 AI로 부르지 않는다.",
+        "itemIds": [
+          "2026-11-20-01",
+          "2026-11-20-02",
+          "2026-11-20-03",
+          "2026-11-20-04",
+          "2026-11-20-05",
+          "2026-11-20-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-20-01",
+          "originalTitle": "Entr’acte",
+          "creator": "Ania Catherine · Dejha Ti (Operator)",
+          "title": "질문을 받으면 안무의 기록이 다시 공연된다",
+          "publishedAt": "2026 / Whitney artport 공개·Human Unreadable Act III 연계",
+          "url": "https://whitney.org/exhibitions/entracte",
+          "description": "안무를 코드로, 코드를 몸으로 옮기는 과정에 남은 자료를 다루는 데이터베이스 예술이다. 연관 공연 Act III 자체와 구분하며, 정적인 제작 기록을 질문에 반응하는 구성으로 바꾼다.",
+          "insight": {
+            "mechanism": "Whitney에 따르면 모션 캡처·리허설·메모·미사용 장면을 모은 아카이브에 사용자가 질문하면 AI 기반 시스템이 자료를 매번 달라지는 불완전한 방식으로 제시한다. 모든 자료를 빠짐없이 검색하는 도구라는 설명은 아니다.",
+            "whyNow": "2026년 artport 공개작을 통해 공연이 끝난 뒤 남는 자료에도 선택과 해석의 저자성이 있음을 읽는다. 공연 관람 후기나 실시간 서비스 성능 측정으로 소개하지 않는다.",
+            "directorPoint": "완성 장면 옆에 폐기된 시도와 수정 흔적을 놓는 구성을 제안한다. 매끄러운 결과의 뒤편을 별도 시점으로 열면 관객은 작품을 만드는 결정의 비용까지 읽을 수 있다.",
+            "critique": "질문에 따른 구성은 기록의 전모를 보장하지 않는다. 무엇이 수집·제외·연결됐는지 드러내야 하며, AI 응답을 실제 안무가의 의도나 완전한 역사로 받아들일 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "언어",
+              "시간감"
+            ],
+            "tech": [
+              "아카이브 데이터",
+              "생성AI",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "AI·저자성",
+              "신체·정체성"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art artport 커미션, 뉴욕, 미국 / 온라인 공개"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-20-01.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/834214/entracte.live___28_.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/entracte",
+            "sourceUrl": "https://whitneymedia.org/assets/image/834214/entracte.live___28_.jpg",
+            "kind": "artwork",
+            "credit": "Operator, still from Entr’acte, 2026 / Whitney 공식 작품 화면, 개별 화면 제작 크레딧 미표기",
+            "caption": "공식 웹 작품 화면. 리허설 영상 창과 연결된 기록 구조를 보여 주며 Act III 현장 공연 사진이 아니다.",
+            "checkedAt": "2026-11-20T00:33:02+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검은 바탕에 반투명 기록 구조가 겹치고 왼쪽 창에 여러 사람이 연습하는 영상이 놓인 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-20T00:35:58+09:00",
+            "identity": "responsive-choreographic-database-art",
+            "identityRationale": "Whitney에 따르면 모션 캡처·리허설·메모·미사용 장면을 모은 아카이브에 사용자가 질문하면 AI 기반 시스템이 자료를 매번 달라지는 불완전한 방식으로 제시한다. 모든 자료를 빠짐없이 검색하는 도구라는 설명은 아니다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/entracte",
+              "https://hek.ch/programm/veranstaltungen/live-broadcast-der-performance-act-iii/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / Whitney artport 공개·Human Unreadable Act III 연계"
+          }
+        },
+        {
+          "id": "2026-11-20-02",
+          "originalTitle": "Warpmode, This is not a game!",
+          "creator": "Jazsalyn",
+          "title": "조상의 지식이 질문과 응답의 세계를 짓는 규칙이 된다",
+          "publishedAt": "2026 / Whitney 디지털 확장판; 원래 카드 툴킷은 2024",
+          "url": "https://whitney.org/exhibitions/warpmode",
+          "description": "2024년의 40장 카드 툴킷을 확장한 2026년 웹 작품이다. 지식과 기억을 대대로 전하는 Ancestral Intelligence를 세계 만들기의 틀로 제안한다. 승패 중심 게임보다 질문과 참여의 구조에 주목하는 경계 사례다.",
+          "insight": {
+            "mechanism": "물리적 카드의 프롬프트를 디지털 환경으로 옮겨 Black Metatheories와 세대 간 전승 지식을 탐색한다. 참여자가 남긴 응답은 작품 일부가 되며 전시·아카이브·교육 목적으로 표시·보존될 수 있다고 기관이 안내한다.",
+            "whyNow": "새 디지털 판본과 기존 카드의 연도를 구분한다. 여기서 AI라는 말은 조상의 지식을 사고의 틀로 부르는 개념이며, 대형 언어모델이 조상의 목소리를 복원한다는 증거가 아니다.",
+            "directorPoint": "관객에게 답을 주는 안내 대신 자신이 물려받은 규칙을 적게 하는 질문을 배치할 수 있다. 응답을 남기는 순간과 타인의 응답을 마주하는 순간의 간격을 연출의 재료로 삼는 제안이다.",
+            "critique": "익명 제출은 응답이 사라진다는 뜻이 아니다. 기관의 응답 보존 안내를 참여 전에 읽을 수 있어야 하며, 공유된 문화 지식을 하나의 보편적 관점으로 평탄화하지 않아야 한다."
+          },
+          "tags": {
+            "sense": [
+              "언어",
+              "시각"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "아카이브 데이터"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "탈식민·역사",
+              "놀이·게임"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art artport, 뉴욕, 미국 / 온라인 디지털 확장판"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-20-02.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/834147/warpmode_0.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/warpmode",
+            "sourceUrl": "https://whitneymedia.org/assets/image/834147/warpmode_0.png",
+            "kind": "artwork",
+            "credit": "Jazsalyn, still from Warpmode, This is not a game!, 2026 / Whitney 공식 작품 화면",
+            "caption": "공식 디지털 작품 화면의 개념 지도. 카드 실물 사진이나 행사 배너로 설명하지 않는다.",
+            "checkedAt": "2026-11-20T00:33:03+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "보라색 구체 안에 Ancestral Intelligence를 중심으로 여러 개념의 단어와 연결선이 모여 있는 웹 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-20T00:35:58+09:00",
+            "identity": "participatory-worldbuilding-web-art",
+            "identityRationale": "물리적 카드의 프롬프트를 디지털 환경으로 옮겨 Black Metatheories와 세대 간 전승 지식을 탐색한다. 참여자가 남긴 응답은 작품 일부가 되며 전시·아카이브·교육 목적으로 표시·보존될 수 있다고 기관이 안내한다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/warpmode"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / Whitney 디지털 확장판; 원래 카드 툴킷은 2024"
+          }
+        },
+        {
+          "id": "2026-11-20-03",
+          "originalTitle": "The Phantom Combatants and the Metabolism of Disobedient Organs",
+          "creator": "Natasha Tontey",
+          "title": "몸을 측정하던 영상 기술을 저항의 신화로 돌려놓는다",
+          "publishedAt": "2026 / 베네치아 커미션; 10월 25일 전시 종료",
+          "url": "https://www.las-art.foundation/programme/natasha-tontey-the-phantom-combatants-and-the-metabolism-of-disobedient-organs",
+          "description": "인도네시아의 저항 운동과 미나하사 문화를 바탕으로 만든 영상·사운드·조각 설치다. 역사적 인물 Len Karamoy를 재구성한 상상적 서사이며 실제 신체 강화 실험으로 설명하지 않는다.",
+          "insight": {
+            "mechanism": "DIY·CGI와 열화상·LiDAR·포토그래메트리 등 측정 이미지를 결합한다. 전시장에서는 경사로와 거울 바닥이 영상과 천장 회화의 반사를 이어 관객의 시점과 역사적 공간을 함께 바꾼다.",
+            "whyNow": "올해 제작된 커미션을 종료된 베네치아 전시 자료로 읽는다. 영상 장치의 새로움보다 몸과 영토를 측정하는 시선을 누가 다시 서술하는지에 초점을 둔다.",
+            "directorPoint": "화면 속 세계만 바꾸기보다 관객이 서 있는 바닥과 높이를 바꾸는 수법을 가져갈 수 있다. 반사면이 기존 건축의 이미지를 끌어들이면 서로 다른 시대가 한 구도 안에서 충돌한다.",
+            "critique": "작품의 신화적 재구성은 역사 기록의 직접 재현과 다르다. 기관이 열거한 영상 기술을 모두 관객 실시간 추적 장치로 해석하거나 생물학적 강화의 효과로 설명할 근거는 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "청각"
+            ],
+            "tech": [
+              "영상·필름",
+              "3D스캔·포토그래메트리",
+              "프로젝션"
+            ],
+            "theme": [
+              "탈식민·역사",
+              "신체·정체성",
+              "전쟁·폭력"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Ateneo Veneto, 베네치아, 이탈리아 / LAS Art Foundation·Amos Rex 커미션, 2026년 전시 종료"
+          },
+          "host": "www.las-art.foundation",
+          "image": "images/2026-11-20-03.jpg",
+          "imageFallback": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/67fd1ace7655ee3d653b8f4316bf5a10cc79caaa-8183x5458.jpg?w=3840&q=70&auto=format",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.las-art.foundation/programme/natasha-tontey-the-phantom-combatants-and-the-metabolism-of-disobedient-organs",
+            "sourceUrl": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/67fd1ace7655ee3d653b8f4316bf5a10cc79caaa-8183x5458.jpg?w=3840&q=70&auto=format",
+            "kind": "installation",
+            "credit": "© 2026 Natasha Tontey / Photo: Jacopo La Forgia / Commissioned by LAS Art Foundation and Amos Rex",
+            "caption": "Ateneo Veneto의 공식 설치 전경. 영상·경사로·거울 바닥과 기존 건축의 관계를 보여 준다.",
+            "checkedAt": "2026-11-20T00:33:03+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "붉은 빛이 비치는 역사적 실내에 영상 화면들과 경사로가 있고 관객과 영상이 거울 바닥에 반사된다"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-20T00:35:58+09:00",
+            "identity": "multimedia-speculative-history-installation",
+            "identityRationale": "DIY·CGI와 열화상·LiDAR·포토그래메트리 등 측정 이미지를 결합한다. 전시장에서는 경사로와 거울 바닥이 영상과 천장 회화의 반사를 이어 관객의 시점과 역사적 공간을 함께 바꾼다.",
+            "evidence": [
+              "https://www.las-art.foundation/programme/natasha-tontey-the-phantom-combatants-and-the-metabolism-of-disobedient-organs"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / 베네치아 커미션; 10월 25일 전시 종료"
+          }
+        },
+        {
+          "id": "2026-11-20-04",
+          "originalTitle": "nom nom",
+          "creator": "Xin Liu",
+          "title": "중심의 지휘 없이 이웃의 변화가 하나의 풍경을 만든다",
+          "publishedAt": "2026 / LAS Online 커미션; 소개 프로그램 9월 29일–10월 31일 종료",
+          "url": "https://www.las-art.foundation/programme/xin-liu",
+          "description": "상호작용하는 입자들로 이루어진 탐색 가능한 인공생명 시뮬레이션이다. LAS Online 레지던시 2025–2026에서 개발한 2026년 작품이며 완료된 소개 프로그램과 현재 열람 가능한 공식 자료를 구분한다.",
+          "insight": {
+            "mechanism": "Neural Cellular Automata의 작은 신경망들이 이웃의 상태에 반응하면서 성장·붕괴·회복의 패턴을 만든다. 개별 입자가 전체를 아는 중앙 통제자로 행동하는 구조가 아니라 국소적 교환에서 풍경 같은 형상이 나타난다.",
+            "whyNow": "생성 AI의 거대한 단일 모델과 다른 지능의 이미지를 제안하는 올해 작업이다. 작가의 생명에 대한 질문과 실제 생명체의 발생을 입증하는 실험을 같은 것으로 다루지 않는다.",
+            "directorPoint": "전체 장면을 먼저 설명하기보다 작은 변화가 주변으로 번지는 모습을 관객이 따라가게 할 수 있다. 화면 전체의 명령과 이웃 간 반응이 주는 서로 다른 리듬을 구성하는 제안이다.",
+            "critique": "생장처럼 보이는 패턴만으로 생물학적 생명·의식·생태계의 정확한 예측을 주장할 수 없다. 공식 설명으로 확인한 범위는 탐색 가능한 시뮬레이션이며 관객이 모든 규칙을 직접 편집한다고 단정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "머신러닝·비전",
+              "실시간그래픽·게임엔진",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "비인간·생태",
+              "정보·불확실성"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "런던, 영국 (LAS 공식 작가 소개)",
+            "region": "유럽",
+            "venue": "베를린 LAS Art Foundation 온라인 커미션 / Google Arts & Culture Lab 협업"
+          },
+          "host": "www.las-art.foundation",
+          "image": "images/2026-11-20-04.jpg",
+          "imageFallback": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/36ede4d64ab83b5f5580f9deb2a712e837da3b1c-3020x1704.png?w=3840&q=70&auto=format",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.las-art.foundation/programme/xin-liu",
+            "sourceUrl": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/36ede4d64ab83b5f5580f9deb2a712e837da3b1c-3020x1704.png?w=3840&q=70&auto=format",
+            "kind": "artwork",
+            "credit": "Xin Liu, nom nom, 2026 / Commissioned by LAS Art Foundation in collaboration with Google Arts & Culture",
+            "caption": "공식 시뮬레이션 작품 화면. 실제 생태계를 촬영한 사진이 아니다.",
+            "checkedAt": "2026-11-20T00:33:04+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "투명한 구체의 격자 안에 흰색·초록색·주황색 입자 지형이 놓인 푸른 배경의 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-20T00:35:58+09:00",
+            "identity": "neural-cellular-automata-art",
+            "identityRationale": "Neural Cellular Automata의 작은 신경망들이 이웃의 상태에 반응하면서 성장·붕괴·회복의 패턴을 만든다. 개별 입자가 전체를 아는 중앙 통제자로 행동하는 구조가 아니라 국소적 교환에서 풍경 같은 형상이 나타난다.",
+            "evidence": [
+              "https://www.las-art.foundation/programme/xin-liu"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / LAS Online 커미션; 소개 프로그램 9월 29일–10월 31일 종료",
+            "collaborators": {
+              "developer": "Thomas Juldo",
+              "artistAssistant": "Yingtong Lin",
+              "commission": "LAS Art Foundation with Google Arts & Culture Lab"
+            }
+          }
+        },
+        {
+          "id": "2026-11-20-05",
+          "originalTitle": "Morphing Continuum",
+          "creator": "teamLab / Hideaki Takahashi (사운드)",
+          "title": "관객이 들어가도 주변 조건이 떠 있는 형상을 다시 만든다",
+          "publishedAt": "2025– / Abu Dhabi 현행 전시 목록에서 재소개",
+          "url": "https://art.team-lab.cn/en/w/morphingcontinuum/",
+          "description": "빛나는 구체들이 공중에 모여 변화하는 형상을 만드는 설치다. 2025년부터의 작품으로, 공식 관련 전시 목록의 teamLab Phenomena Abu Dhabi 맥락에서 재소개한다.",
+          "insight": {
+            "mechanism": "작가에 따르면 특정 환경의 현상이 만드는 에너지의 질서가 조각 같은 형상을 유지한다. 사람이 형상 안으로 들어가 흐트러져도 복원되지만, 단단한 물체처럼 밀어 위치를 옮길 수는 없다고 설명한다.",
+            "whyNow": "올해 신작이 아니라 현행 전시 맥락이 확인된 기존 작품이다. 전날의 Light Vortex가 빛의 흐름으로 질서를 보여 줬다면 이 작품은 형상이 주변 조건과 분리될 수 있는가를 묻는다.",
+            "directorPoint": "접촉에 즉각 반응하는 장면만 좇기보다 관객이 지나간 뒤 다시 형성되는 시간을 남길 수 있다. 주인공의 동작이 끝난 뒤 환경이 이어가는 사건을 별도의 숏으로 만드는 제안이다.",
+            "critique": "공식 자료는 구체적인 재료와 내부 제어 장치를 모두 공개하지 않는다. 자석·홀로그램·로봇 중 하나라고 추정하거나 관객이 형상을 마음대로 조종한다고 말할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "반응형 재료"
+            ],
+            "theme": [
+              "지각·반사",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중동",
+            "venue": "teamLab Phenomena Abu Dhabi, Saadiyat Cultural District, 아랍에미리트 / 공식 ON VIEW 목록; 선택 사진의 촬영 장소는 미표기"
+          },
+          "host": "art.team-lab.cn",
+          "image": "images/2026-11-20-05.jpg",
+          "imageFallback": "https://image.team-lab.cn/unsafe/w:1200/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2F32a55044-0951-4789-0df4-9c82e30bb000@jpeg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://art.team-lab.cn/en/w/morphingcontinuum/",
+            "sourceUrl": "https://image.team-lab.cn/unsafe/w:1200/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2F32a55044-0951-4789-0df4-9c82e30bb000@jpeg",
+            "kind": "installation",
+            "credit": "© teamLab / Sound: Hideaki Takahashi / 공식 작품 사진, 개별 촬영자 미표기",
+            "caption": "공식 작품 사진의 빛나는 구체와 공간. 선택 사진이 Abu Dhabi에서 촬영됐다고 단정하지 않는다.",
+            "checkedAt": "2026-11-20T00:33:04+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "어두운 공간에 보라색과 주황색으로 빛나는 많은 구체가 층을 이루며 떠 있는 듯 보인다"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2025,
+            "researchedAt": "2026-11-20T00:35:58+09:00",
+            "identity": "environment-dependent-sculptural-installation",
+            "identityRationale": "작가에 따르면 특정 환경의 현상이 만드는 에너지의 질서가 조각 같은 형상을 유지한다. 사람이 형상 안으로 들어가 흐트러져도 복원되지만, 단단한 물체처럼 밀어 위치를 옮길 수는 없다고 설명한다.",
+            "evidence": [
+              "https://art.team-lab.cn/en/w/morphingcontinuum/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025– / Abu Dhabi 현행 전시 목록에서 재소개"
+          }
+        },
+        {
+          "id": "2026-11-20-06",
+          "originalTitle": "nD",
+          "creator": "Ryoichi Kurokawa",
+          "title": "두 화면이 나뉘고 합쳐지는 사이에 소리가 경계를 바꾼다",
+          "publishedAt": "2026 / L.E.V. 초연; 11월 21일 도쿄 공연 예정",
+          "url": "https://www.ryoichikurokawa.com/project/nd.html",
+          "description": "두 화면과 사운드로 구성한 오디오비주얼 퍼포먼스다. 2005년 시작한 cm:av_c의 세 번째 판본으로, 2026년 nD와 앞선 공연을 구분한다. 서사극보다 감각의 관계를 구성하는 공연 경계 사례다.",
+          "insight": {
+            "mechanism": "작가의 사양은 diptych와 2.1채널 사운드다. 두 화면의 이미지와 소리가 정밀하게 결합하며 분리와 결합 사이에서 지각이 움직이도록 구성한다. 관객의 생체 신호를 받는다는 설명은 없다.",
+            "whyNow": "2026년 5월 L.E.V. 초연과 11월 21일 MUTEK.JP 공연 예정이 공식 자료에서 확인된다. 도쿄 공연을 이미 관람했다거나 이틀 전의 현장 사진을 확보했다고 주장하지 않는다.",
+            "directorPoint": "두 화면에 늘 서로 다른 이미지를 주기보다 한 형태가 둘로 읽히고 다시 하나로 보이는 순간을 설계할 수 있다. 소리의 변화가 화면의 분할선을 강조하거나 지우는 시간을 비교하는 제안이다.",
+            "critique": "소리와 영상의 결합이 모든 관객에게 같은 공감각을 보장하는 것은 아니다. 공연장과 판본에 따라 사양이 달라질 수 있으며, 선택한 사진은 L.E.V.의 기록으로 도쿄 무대와 구분해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "라이브퍼포먼스"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "무대·공연"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "MUTEK.JP, MoN Takanawa, 도쿄, 일본 / 2026년 11월 21일 예정; 사진은 L.E.V. Gijón 2026"
+          },
+          "host": "www.ryoichikurokawa.com",
+          "image": "images/2026-11-20-06.jpg",
+          "imageFallback": "https://www.ryoichikurokawa.com/project/images/nd/nD_photo_1.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ryoichikurokawa.com/project/nd.html",
+            "sourceUrl": "https://www.ryoichikurokawa.com/project/images/nd/nD_photo_1.jpg",
+            "kind": "performance",
+            "credit": "© 2026 Ryoichi Kurokawa / Photo: Elena De La Puente / L.E.V., Laboral, Gijón, 2026",
+            "caption": "공식 작가 페이지의 L.E.V. 공연 사진. 도쿄 공연 예정과 촬영 장소를 구분한다.",
+            "checkedAt": "2026-11-20T00:33:02+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "관객석 너머 무대의 두 화면에 초록색과 흰색 추상 패턴이 펼쳐지고 가운데 연주자가 서 있다"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-20T00:35:58+09:00",
+            "identity": "diptych-audiovisual-performance",
+            "identityRationale": "작가의 사양은 diptych와 2.1채널 사운드다. 두 화면의 이미지와 소리가 정밀하게 결합하며 분리와 결합 사이에서 지각이 움직이도록 구성한다. 관객의 생체 신호를 받는다는 설명은 없다.",
+            "evidence": [
+              "https://www.ryoichikurokawa.com/project/nd.html",
+              "https://www.ryoichikurokawa.com/info.html",
+              "https://levfestival.com/26-gijon/lev-gijon/ryoichi-kurokawa-nd-_jp/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / L.E.V. 초연; 11월 21일 도쿄 공연 예정"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "완성본 뒤의 기록을 다시 움직이게 하는 Entr’acte",
+        "keywords": [
+          "안무와 코드",
+          "불완전한 아카이브",
+          "질문의 역할",
+          "번역의 손실"
+        ],
+        "sections": [
+          {
+            "heading": "공연과 데이터베이스는 서로 다른 작품이다",
+            "body": "Entr’acte는 Human Unreadable Act III와 연결된 데이터베이스 작품이다. Whitney는 안무와 코드가 왕복하는 연작 안에서 이 관계를 설명한다. HEK의 공연 안내도 무대와 방송, 연계 아카이브를 구분한다. 같은 프로젝트에 속한다고 해서 웹의 질문 기능을 무대의 실시간 생성 기능으로 옮겨 적을 수는 없다."
+          },
+          {
+            "heading": "완성된 장면보다 선택의 흔적을 읽는다",
+            "body": "리허설과 모션 캡처, 메모와 미사용 장면은 결과만 보면 사라지는 자료다. 이를 불완전하게 다시 구성하는 화면에서 관객은 무엇이 선택됐는지 묻게 된다. 작품을 정확한 정답을 제공하는 검색 엔진으로 읽는 순간, 기록 사이의 빈자리와 어긋남이라는 경험 구조가 사라질 수 있다."
+          },
+          {
+            "heading": "질문은 자료를 만나는 순서를 바꾼다",
+            "body": "기관이 설명하는 입력은 사용자의 질문이고, 출력은 자료를 새로 제시하는 구성이다. 연출 응용은 정해진 메이킹 영상 한 편 대신 관객이 던진 질문에 따라 다른 수정 과정과 폐기안을 만나게 하는 방식이다. 이는 아카이브가 의미를 이해한다는 증거가 아니라 관객의 관심이 장면의 순서에 영향을 주게 하는 구성 제안이다."
+          },
+          {
+            "heading": "세 매체의 시간과 근거를 나눈다",
+            "body": "HEK는 예정된 Act III 방송을 여러 시점을 실시간 편집하는 별도 매체로 안내한다. 그 설명은 Entr’acte가 같은 영상을 생중계한다는 뜻이 아니다. Whitney의 웹 작품 설명과 HEK의 공연·방송 맥락을 대조한 것이며, 실제 공연 관람이나 AI 응답의 사실성 시험을 수행한 보고도 아니다. 번역에서 사라지는 것을 다루려면 자료가 남지 않은 자리도 보이게 해야 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Whitney — Entr’acte의 자료 구성·질문 방식·2026 공개 설명",
+            "url": "https://whitney.org/exhibitions/entracte"
+          },
+          {
+            "label": "HEK — Act III 공연·방송과 새 데이터베이스 작품의 관계",
+            "url": "https://hek.ch/programm/veranstaltungen/live-broadcast-der-performance-act-iii/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-19",
       "title": "흩어진 요소들은 언제 하나의 몸처럼 보이는가",
       "summary": "2026년 공개작과 진행 중인 작업 5개, 현재 전시 맥락이 확인된 기존 작품 1개를 읽는다. 미생물의 식탁, 움직이는 거울, 수열의 빛, 소용돌이의 질서, 감시의 나선과 협동 시뮬레이션을 통해 부분의 관계가 몸과 시선의 주체를 만드는 방식을 살핀다. 초연·현행 전시·작업 중 상태를 구분했다.",
@@ -26832,7 +27271,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-19T00:35:09+09:00",
+  "generatedAt": "2026-11-20T00:35:58+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
