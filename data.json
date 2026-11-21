@@ -1,6 +1,440 @@
 {
   "issues": [
     {
+      "date": "2026-11-21",
+      "title": "다시 움직이게 된 기록과 느린 세계의 시간",
+      "summary": "올해 공개된 웹 게임·영상 2개, 올해 복원·전시 기록으로 재소개하는 작품 3개, 영화·설치 아카이브 1개를 읽는다. 원작과 복원, 제작 연도와 전시 연도, 영상의 사변과 과학적 과정을 구분하며 관객이 기록과 풍경의 시간을 바꾸어 읽는 방식을 살핀다.",
+      "crosscurrent": {
+        "note": "The Dumpster의 기록은 복원된 인터페이스를 통해 다시 읽히고, Camoflux Recall Grotto의 성장은 관객이 유지해야 하는 리듬으로 돌아온다. In Your Eyes, Before My Own은 목소리의 여정을, Barbershop Wonderland는 접근에 따른 연쇄 반응을 구성한다. Between Mountains and Seas의 긴 시간은 몇 분으로 압축되고 Liminals의 영상은 방 안의 빛과 진동으로 확장된다. 데이터의 시간·행동의 시간·지질학적 시간·사변적 시간을 한 종류의 실시간 생성으로 묶지 않는다.",
+        "itemIds": [
+          "2026-11-21-01",
+          "2026-11-21-02",
+          "2026-11-21-03",
+          "2026-11-21-04",
+          "2026-11-21-05",
+          "2026-11-21-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-21-01",
+          "originalTitle": "The Dumpster",
+          "creator": "Golan Levin · Kamal Nigam · Jonathan Feinberg",
+          "title": "실연의 문장들이 다시 접속 가능한 감정의 지도가 된다",
+          "publishedAt": "2006 / 2026 현대 브라우저용 복원판 재소개",
+          "url": "https://whitney.org/exhibitions/the-dumpster",
+          "description": "온라인 블로그의 실연 기록을 탐색하는 데이터 시각화 작품이다. 2006년 원작을 Levin이 2026년에 현대 브라우저용으로 갱신했다. 지금의 관계를 실시간 수집하는 서비스나 새 데이터로 만든 작품과 구분한다.",
+          "insight": {
+            "mechanism": "실제 게시물에서 추출한 관계의 파편들을 한 화면에 모아 유사성과 차이를 탐색하게 한다. 개별 문장과 집단적 패턴을 오가는 인터페이스이며, 감정을 정확히 판독하는 진단 도구가 아니다.",
+            "whyNow": "11월 21일 개막하는 Whitney artport 회고전과 함께 올해 복원된 판본을 읽는다. 최신성은 데이터의 새로움보다 다시 작동하고 읽힐 수 있게 한 보존 작업에 있다.",
+            "directorPoint": "먼 거리에서는 집단의 패턴을, 가까이에서는 한 사람의 문장을 보게 하는 전환을 제안한다. 같은 기록을 통계와 독백이라는 두 거리에서 읽으면 숫자에 묻힌 개별 사정을 드러낼 수 있다.",
+            "critique": "공개 게시물이라고 해서 감정이 전시되는 데 동의했다고 단정할 수 없다. 선택된 블로그 기록은 모든 청소년이나 보편적 연애를 대표하지 않으며, 기술적 복원이 당시의 수집 윤리를 자동으로 해결하지도 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "언어",
+              "시간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "아카이브 데이터",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "돌봄·책임"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art artport·Tate 공동 커미션 / 뉴욕, 미국의 2026 복원·재전시 맥락"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-21-01.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/830087/the_dumpster_2024.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/the-dumpster",
+            "sourceUrl": "https://whitneymedia.org/assets/image/830087/the_dumpster_2024.png",
+            "kind": "artwork",
+            "credit": "Golan Levin, Kamal Nigam, Jonathan Feinberg / Whitney가 제공한 The Dumpster 작품 화면, 원작 공개 2006년 2월 14일",
+            "caption": "공식 페이지가 원작 설명용으로 제공한 작품 화면. 2026년에 새로 수집한 게시물이나 오늘 직접 캡처한 화면으로 설명하지 않는다.",
+            "checkedAt": "2026-11-21T14:29:28+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "붉은 원형 노드들 가운데 노란 원이 강조되고 오른쪽에 문장 창, 아래에 시계열 그래프가 놓인 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2006,
+            "researchedAt": "2026-11-21T14:31:16+09:00",
+            "identity": "restored-interactive-data-art",
+            "identityRationale": "실제 게시물에서 추출한 관계의 파편들을 한 화면에 모아 유사성과 차이를 탐색하게 한다. 개별 문장과 집단적 패턴을 오가는 인터페이스이며, 감정을 정확히 판독하는 진단 도구가 아니다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/the-dumpster",
+              "https://art.cmu.edu/news/faculty-news/whitney-museum-internet-art-golan-levin/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2006 / 2026 현대 브라우저용 복원판 재소개"
+          }
+        },
+        {
+          "id": "2026-11-21-02",
+          "originalTitle": "Camoflux Recall Grotto",
+          "creator": "Leo Castañeda",
+          "title": "정원을 키우는 속도가 과잉 성장 앞에서 달라진다",
+          "publishedAt": "2026 / Whitney Biennial·artport 웹 커미션",
+          "url": "https://whitney.org/exhibitions/camoflux-recall-grotto",
+          "description": "유기체형 드론의 시점으로 초현실적 정원을 돌보는 웹 게임이다. 개발 중인 PC용 Camoflux: Levels & Bosses와 360도 영상 설치가 아니라 Recall Grotto라는 특정 온라인 판본을 다룬다.",
+          "insight": {
+            "mechanism": "물과 햇빛에 해당하는 자원을 모아 cyberflora를 기른다. 씨앗이 적을 때는 느린 순환이 이어지지만 개체가 지속 가능 범위를 넘어 늘면 진행이 빨라지며, 일부 식물은 다른 시간의 기억을 드러낸다.",
+            "whyNow": "2026년 웹 커미션은 성장을 더 빨리 달성하는 일반적인 게임의 보상을 뒤집는다. 끝없이 늘리는 행위가 돌봄과 같은지 질문하게 하는 예술적 게임의 경계 사례다.",
+            "directorPoint": "관객의 성공이 다음 장면의 부담이 되게 만드는 구성을 제안한다. 같은 행동을 반복하면 효율만 높아지는 대신 유지 비용과 화면의 리듬이 바뀌게 설계할 수 있다.",
+            "critique": "가상 정원의 규칙이 현실 생태계의 정확한 모형은 아니다. 브라질·플로리다의 생태적 영감과 뉴욕 커미션 장소를 구분하고, 다른 Camoflux 판본의 적·전투·출시 계획을 이 웹 작품의 기능으로 섞지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "비인간·생태",
+              "놀이·게임"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art artport / Whitney Biennial 2026 커미션, 뉴욕, 미국"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-21-02.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/833375/Camoflux_Recall_Grotto_Screenshot_2_17_26_Leo_Castaneda_Whitney_Artport.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/camoflux-recall-grotto",
+            "sourceUrl": "https://whitneymedia.org/assets/image/833375/Camoflux_Recall_Grotto_Screenshot_2_17_26_Leo_Castaneda_Whitney_Artport.jpg",
+            "kind": "gameplay",
+            "credit": "Leo Castañeda, still from Camoflux Recall Grotto, 2026 / Whitney 공식 작품 화면",
+            "caption": "Recall Grotto의 공식 게임 화면. 다른 Camoflux 게임의 콘셉트 이미지나 전시 가구 사진이 아니다.",
+            "checkedAt": "2026-11-21T14:29:29+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "짙은 초록색 가상 수중 공간에 식물 형태와 푸른 유기체, 둥근 물체가 떠 있는 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-21T14:31:16+09:00",
+            "identity": "ecological-web-art-game",
+            "identityRationale": "물과 햇빛에 해당하는 자원을 모아 cyberflora를 기른다. 씨앗이 적을 때는 느린 순환이 이어지지만 개체가 지속 가능 범위를 넘어 늘면 진행이 빨라지며, 일부 식물은 다른 시간의 기억을 드러낸다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/camoflux-recall-grotto"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / Whitney Biennial·artport 웹 커미션"
+          }
+        },
+        {
+          "id": "2026-11-21-03",
+          "originalTitle": "In Your Eyes, Before My Own",
+          "creator": "Eunjo Lee",
+          "title": "서로 다른 세계를 지나는 목소리가 의식의 경계를 묻는다",
+          "publishedAt": "2026 / LAS Online 커미션; 10월 31일 소개 프로그램 종료",
+          "url": "https://www.las-art.foundation/programme/eunjo-lee",
+          "description": "세 세계를 거치는 목소리의 여정을 구성한 영상 작품이다. 작가가 디지털 도구로 정교하게 모델링한 형상들을 통해 인간·비인간·물질의 관계를 상상한다. 관객이 모든 사물을 조종하는 게임으로 설명하지 않는다.",
+          "insight": {
+            "mechanism": "세계마다 서로 다른 의식의 층위를 부여하고 목소리가 이를 통과하게 한다. 사물마다 인지와 행위성이 있다는 설정은 작가의 세계관이며, 실제 소프트웨어 속 각 물체에 의식이 생겼다는 검증 결과가 아니다.",
+            "whyNow": "2025–2026 레지던시에서 제작된 올해 커미션이다. 전날의 nom nom과 같은 지원 프로그램에 속하지만, 이 작품은 국소적 신경망 시뮬레이션보다 정교하게 구성된 영상과 목소리의 여정에 중심이 있다.",
+            "directorPoint": "화자가 세계를 설명하는 위치에만 머물지 않게 할 수 있다. 세계가 달라질 때 화자의 언어와 자기 이해도 바뀌도록 구성하면 배경의 변화가 인물의 변화와 연결된다.",
+            "critique": "AI 도구에 접근한 레지던시라는 사실만으로 영상 전체가 프롬프트로 자동 생성됐다고 추론할 수 없다. 의식·영성에 대한 예술적 탐색을 심리·신경과학적 효과의 입증으로 소개해서도 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "언어",
+              "청각"
+            ],
+            "tech": [
+              "영상·필름",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "신체·정체성",
+              "의식·영성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "런던·서울 (LAS 공식 작가 소개)",
+            "region": "유럽",
+            "venue": "베를린 LAS Art Foundation 온라인 커미션 / Google Arts & Culture Lab 협업"
+          },
+          "host": "www.las-art.foundation",
+          "image": "images/2026-11-21-03.jpg",
+          "imageFallback": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/d11196539c6b296599d4e85d1f62805968469c2e-3840x2160.png?w=3840&q=70&auto=format",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.las-art.foundation/programme/eunjo-lee",
+            "sourceUrl": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/d11196539c6b296599d4e85d1f62805968469c2e-3840x2160.png?w=3840&q=70&auto=format",
+            "kind": "film-still",
+            "credit": "Eunjo Lee, In Your Eyes, Before My Own, 2026 / Commissioned by LAS Art Foundation in collaboration with Google Arts & Culture",
+            "caption": "공식 영상 작품 스틸. 실제 생물의 사진이나 관객 참여형 시뮬레이션 화면으로 설명하지 않는다.",
+            "checkedAt": "2026-11-21T14:29:31+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "서로 마주 뻗은 창백한 팔 사이의 작은 불꽃과 골격 같은 구조, 유기적인 디지털 풍경이 보이는 장면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-21T14:31:16+09:00",
+            "identity": "digitally-modelled-video-art",
+            "identityRationale": "세계마다 서로 다른 의식의 층위를 부여하고 목소리가 이를 통과하게 한다. 사물마다 인지와 행위성이 있다는 설정은 작가의 세계관이며, 실제 소프트웨어 속 각 물체에 의식이 생겼다는 검증 결과가 아니다.",
+            "evidence": [
+              "https://www.las-art.foundation/programme/eunjo-lee"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 / LAS Online 커미션; 10월 31일 소개 프로그램 종료"
+          }
+        },
+        {
+          "id": "2026-11-21-04",
+          "originalTitle": "Barbershop Wonderland",
+          "creator": "Jeon Byeong Sam (전병삼)",
+          "title": "지나가는 몸이 익숙한 이발소 간판의 연쇄를 깨운다",
+          "publishedAt": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/barbershop-wonderland/",
+          "description": "200개의 이발소 기둥을 긴 커튼 같은 배열로 만든 반응형 빛 설치다. 올해 싱가포르 공식 전시 기록에서 다시 읽되 행사 연도를 최초 제작 연도로 단정하지 않는다.",
+          "insight": {
+            "mechanism": "센서가 가까이 온 관객을 감지하면 기둥이 켜지고 회전한다. 순차적 작동이 빛이 위로 빠르게 올라가는 듯한 착시를 만들며, 익숙한 상업 기호가 몸의 접근에 응답하는 공간으로 바뀐다.",
+            "whyNow": "올해 전시된 개별 작품의 작동 방식을 살핀다. 이발소의 일상적 돌봄을 빛으로 옮긴다는 개념과 관객이 실제로 치유된다는 효과 주장을 구분한다.",
+            "directorPoint": "새로운 장치의 모양보다 이미 아는 사물의 반복과 반응 시점을 바꾸는 수법을 제안한다. 한 사람의 접근에서 시작한 변화가 배열을 따라 번지면 개인의 행동이 공간 전체의 사건으로 읽힌다.",
+            "critique": "자료는 존재 감지를 명시하지만 신원이나 표정을 읽는다고 설명하지 않는다. 센서의 정확한 종류와 감지 범위는 추측할 수 없고, 정지 사진은 연쇄 작동의 속도를 보여 주지 못한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동남·남아시아",
+            "venue": "Clifford Square, 싱가포르 / i Light Singapore 2026 공식 전시 기록, 행사 종료"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-21-04.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/7c6732d9-47d0-4e70-b7bb-417e47959bbc/Barbershop%20Wonderland.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/barbershop-wonderland/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/7c6732d9-47d0-4e70-b7bb-417e47959bbc/Barbershop%20Wonderland.jpg",
+            "kind": "installation",
+            "credit": "Jeon Byeong Sam 작품 / i Light Singapore·Urban Redevelopment Authority 공식 사진, 개별 촬영자 미표기",
+            "caption": "Clifford Square의 공식 설치 사진. 옆에 있는 작가 초상이나 후원사 로고를 대체 이미지로 사용하지 않았다.",
+            "checkedAt": "2026-11-21T14:29:28+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "호텔 앞 밤거리에서 여러 색의 회전 이발소 기둥이 긴 굽은 벽처럼 배열돼 있는 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-21T14:31:16+09:00",
+            "identity": "presence-triggered-kinetic-light-installation",
+            "identityRationale": "센서가 가까이 온 관객을 감지하면 기둥이 켜지고 회전한다. 순차적 작동이 빛이 위로 빠르게 올라가는 듯한 착시를 만들며, 익숙한 상업 기호가 몸의 접근에 응답하는 공간으로 바뀐다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/barbershop-wonderland/",
+              "https://www.ura.gov.sg/news/media/pr26-42/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-21-05",
+          "originalTitle": "Between Mountains and Seas",
+          "creator": "Peppercorns / Hu Chin-Hsiang (스튜디오 대표 아티스트·디렉터)",
+          "title": "지질학적 시간을 빛과 소리의 몇 분으로 압축한다",
+          "publishedAt": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/between-mountains-and-seas/",
+          "description": "산과 바다, 지형과 문명의 변화를 빛과 소리의 시간으로 옮긴 오디오비주얼 설치다. 관객의 입력을 받아 실제 지각 변동을 계산하는 시뮬레이터라는 설명은 없다.",
+          "insight": {
+            "mechanism": "강이 바위를 깎고 지형이 솟고 침식되는 긴 과정을 감각적 리듬으로 압축한다. 주최기관은 다섯 장의 오디오비주얼 여정으로 소개하며, 관객은 일상의 시간보다 큰 규모의 변화를 바라보게 된다.",
+            "whyNow": "2026년 싱가포르 전시 기록을 읽는 재소개다. 느린 변화가 눈에 보이지 않는다는 문제를 화면의 크기뿐 아니라 편집과 압축된 시간의 구조로 다룬다.",
+            "directorPoint": "여러 시대를 단순한 연대표로 나열하는 대신 같은 형태가 바뀌는 속도를 다르게 보여 줄 수 있다. 매우 느린 과정과 빠른 일상의 소리를 맞부딪치게 하는 구성 제안이다.",
+            "critique": "압축된 풍경은 지질학적 시간 전체를 그대로 보여 주는 것이 아니다. 공식 자료만으로 과학 데이터의 출처나 실시간 계산 여부를 특정할 수 없으며, 스튜디오의 다른 AI 작업 경력을 이 작품의 기술로 옮길 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "라이트·LED",
+              "영상·필름"
+            ],
+            "theme": [
+              "기후·환경",
+              "정보·불확실성"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "대만 (i Light Singapore 공식 스튜디오 소개)",
+            "region": "동남·남아시아",
+            "venue": "Event Square, Marina Bay, 싱가포르 / i Light Singapore 2026 공식 전시 기록, 행사 종료"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-21-05.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/85f10269-a870-466e-9a3e-51b0cfbc68b1/Between%20Mountains%20and%20Seas.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/between-mountains-and-seas/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/85f10269-a870-466e-9a3e-51b0cfbc68b1/Between%20Mountains%20and%20Seas.jpg",
+            "kind": "installation",
+            "credit": "Peppercorns 작품 / i Light Singapore·Urban Redevelopment Authority 공식 사진, 개별 촬영자 미표기",
+            "caption": "공식 설치 전경의 한 시점. 정지 사진의 색을 작품 전체의 고정된 색으로 설명하지 않는다.",
+            "checkedAt": "2026-11-21T14:29:28+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "도시의 고층 건물 앞 원형 설치에 분홍색과 주황색 빛이 펼쳐져 바닥을 붉게 물들이는 저녁 풍경"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-21T14:31:16+09:00",
+            "identity": "time-compressed-audiovisual-landscape",
+            "identityRationale": "강이 바위를 깎고 지형이 솟고 침식되는 긴 과정을 감각적 리듬으로 압축한다. 주최기관은 다섯 장의 오디오비주얼 여정으로 소개하며, 관객은 일상의 시간보다 큰 규모의 변화를 바라보게 된다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/between-mountains-and-seas/",
+              "https://www.ura.gov.sg/news/media/pr26-42/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-21-06",
+          "originalTitle": "Liminals",
+          "creator": "Pierre Huyghe",
+          "title": "화면의 불확실성이 빛과 진동으로 전시장까지 번진다",
+          "publishedAt": "2025 영화 / 2026년 1월–3월 베를린 설치 기록의 아카이브",
+          "url": "https://www.las-art.foundation/explore/digital-booklet-liminals",
+          "description": "영화와 공간의 빛·사운드·진동을 연결하는 설치를 아카이브로 읽는다. 공식 스틸의 영화 연도는 2025년이고 LAS의 베를린 전시는 2026년으로 표기돼 있어 두 시점을 구분한다.",
+          "insight": {
+            "mechanism": "인간 같은 형상이 불안정한 세계를 지나는 영화가 어두운 공간의 빛과 진동으로 확장된다. 기관에 따르면 연구용 양자컴퓨터에서 만든 물질 진동의 확률적 시뮬레이션 결과 일부도 사운드 디자인으로 번역됐다.",
+            "whyNow": "완료된 2026년 설치의 자료에서 과학적 과정이 어떤 예술적 번역을 거치는지 살핀다. 관객이 양자 상태에 놓인다거나 작품의 모든 장면이 실시간 양자 연산으로 만들어진다고 주장하지 않는다.",
+            "directorPoint": "영상의 사건을 그대로 복제하는 조명보다 화면에서 모호했던 경계가 방 안에서도 이어지도록 설계할 수 있다. 관객이 화면 밖에서 느끼는 진동을 별도의 서사 층으로 두는 제안이다.",
+            "critique": "작가의 불확실성에 대한 사변은 물리학의 설명이나 의식의 증명이 아니다. 자료에 근거한 제작 과정과 작가의 은유를 구분해야 하며, 영화 스틸만으로 실제 설치의 음량·진동 경험을 판단할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "공간음향",
+              "과학장비·실험"
+            ],
+            "theme": [
+              "신체·정체성",
+              "정보·불확실성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Halle am Berghain, 베를린, 독일 / LAS Art Foundation·Hartwig Art Foundation 커미션, 2026년 3월 전시 종료"
+          },
+          "host": "www.las-art.foundation",
+          "image": "images/2026-11-21-06.jpg",
+          "imageFallback": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/f54f954a53ef8a99cffe21abf52bfd6b5879e1d4-2160x2160.png?w=3840&q=70&auto=format",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.las-art.foundation/explore/digital-booklet-liminals",
+            "sourceUrl": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/f54f954a53ef8a99cffe21abf52bfd6b5879e1d4-2160x2160.png?w=3840&q=70&auto=format",
+            "kind": "film-still",
+            "credit": "Pierre Huyghe, Liminals, 2025, film still detail / © Pierre Huyghe · VG Bild-Kunst, Bonn, 2026 / Courtesy the artist; LAS·Hartwig 커미션",
+            "caption": "공식 영화 스틸의 부분. 베를린 설치 전경이나 실제 관객의 신체를 촬영한 사진이 아니다.",
+            "checkedAt": "2026-11-21T14:29:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "어두운 회색의 인체 같은 형상에 빈 원형 공간이 보이고 손이 그 경계에 닿은 영화 장면"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2025,
+            "researchedAt": "2026-11-21T14:31:16+09:00",
+            "identity": "film-light-sound-vibration-installation",
+            "identityRationale": "인간 같은 형상이 불안정한 세계를 지나는 영화가 어두운 공간의 빛과 진동으로 확장된다. 기관에 따르면 연구용 양자컴퓨터에서 만든 물질 진동의 확률적 시뮬레이션 결과 일부도 사운드 디자인으로 번역됐다.",
+            "evidence": [
+              "https://www.las-art.foundation/explore/digital-booklet-liminals"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 영화 / 2026년 1월–3월 베를린 설치 기록의 아카이브"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "The Dumpster의 2026 복원은 무엇을 다시 읽게 하는가",
+        "keywords": [
+          "웹 작품 보존",
+          "감정의 데이터",
+          "두 거리의 읽기",
+          "복원과 동의"
+        ],
+        "sections": [
+          {
+            "heading": "새 작품과 다시 작동하는 작품을 나눈다",
+            "body": "Whitney는 2006년 원작과 2026년 복원판의 링크를 각각 제공한다. CMU의 작가 소속기관 기록도 현대 브라우저에서 에뮬레이션 없이 작동하도록 갱신했다고 설명한다. 지금 다시 읽을 계기는 오래된 데이터를 새로 포장한 데 있지 않고, 한때 접속하기 어려웠던 상호작용의 형식이 돌아왔다는 데 있다. 복원을 데이터 갱신으로 혼동하면 작품의 역사적 맥락이 지워진다."
+          },
+          {
+            "heading": "집단의 패턴과 한 문장의 거리를 오간다",
+            "body": "이 작품은 실연의 문장들을 모아 관계의 유사성과 차이를 탐색하게 한다. 멀리서 보는 군집과 가까이서 읽는 개인의 문장은 같은 자료이면서 서로 다른 경험이다. 통계가 보여 주는 반복을 본 뒤 한 문장으로 돌아가면 비슷한 말의 뒤에도 서로 다른 사정이 있음을 읽을 수 있다. 이 거리를 오가는 행위가 작품의 핵심이지, 모든 감정에 하나의 이름을 붙이는 분류가 핵심은 아니다."
+          },
+          {
+            "heading": "연출 응용은 규모의 전환에서 찾는다",
+            "body": "응용 제안은 집단의 화면에서 한 사람의 목소리로 들어갔다가 다시 집단으로 돌아오는 구성이다. 큰 수를 먼저 말해 압도하기보다 관객이 특정 기록을 고르는 순간을 남길 수 있다. 데이터 화면의 움직임과 실제 사람의 발화를 같은 속도로 처리하지 않으면, 효율적인 요약에서 빠지는 시간과 망설임도 드러난다. 이는 작품의 효과 측정이 아니라 인터페이스의 거리에서 도출한 수법이다."
+          },
+          {
+            "heading": "기술적 보존 뒤에 남는 질문을 보존한다",
+            "body": "브라우저에서 작동한다는 확인은 수집과 전시에 대한 윤리적 동의를 대신하지 않는다. 공개된 글도 특정한 시기에 특정한 맥락에서 쓴 감정의 기록이다. Whitney는 원작·복원·공동 커미션 맥락을, CMU는 올해의 갱신과 전시 계기를 설명한다. 두 곳 모두 작품과 관련된 공식 기관 자료이며 독립적인 윤리 검증 두 건은 아니다. 무엇을 다시 살릴 것인가와 무엇을 새로 노출할 것인가를 함께 물어야 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Whitney — 2006 원작·2026 복원판·작동 개요와 공식 링크",
+            "url": "https://whitney.org/exhibitions/the-dumpster"
+          },
+          {
+            "label": "Carnegie Mellon School of Art — 작가의 2026 갱신과 artport 전시 계기",
+            "url": "https://art.cmu.edu/news/faculty-news/whitney-museum-internet-art-golan-levin/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-20",
       "title": "기술을 거친 몸은 어떤 기록과 세계로 남는가",
       "summary": "2026년 공개작 5개와 현행 전시의 기존 작품 1개를 읽는다. 안무의 아카이브, 전승 지식의 질문, 저항의 영상, 국소적 신경망, 떠 있는 형상과 두 화면의 공연에서 기술이 몸을 담고 다시 감각으로 돌려놓는 방식을 살핀다. 종료된 전시와 예정된 공연을 현재 관람 기록과 구분했다.",
@@ -27271,7 +27705,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-20T00:35:58+09:00",
+  "generatedAt": "2026-11-21T14:31:16+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

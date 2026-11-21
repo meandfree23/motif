@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -290,6 +290,10 @@
     {
       "date": "2026-11-20",
       "note": "2026 공개작 5개와 2025 현행 전시 재소개 1개, 네 권역의 작품 6개와 Entr’acte Focus 4단락·2출처. 공연·웹·기억 자료의 경계와 AI·인공생명·환경 현상을 구분했다. 종료된 LAS 전시와 도쿄 공연 예정을 보이는 날짜로 명시했다."
+    },
+    {
+      "date": "2026-11-21",
+      "note": "기존 501개와 대조한 작품 6개와 The Dumpster Focus 4단락·2출처. 2026 신작 2개·복원/올해 전시 재소개 3개·아카이브 1개를 구분했다. 미확인 제작 연도 2개는 null과 보이는 미확인 표기로 남겼다. 북미·유럽·동남남아시아 3권역과 기관별 최대 2개를 지켰다."
     }
   ],
   "source_notes": [
@@ -456,6 +460,10 @@
     {
       "date": "2026-11-20",
       "note": "Whitney의 실제 웹 작품 화면, LAS의 작품별 설치·시뮬레이션 이미지, teamLab 공식 작품 사진, Ryoichi Kurokawa의 L.E.V. 공연 사진을 수동 대조했다. HEK는 Focus 공연·방송 관계의 기관 자료이며 공연 관람이나 AI 성능 시험으로 주장하지 않았다. 기존 89호·495개 및 Signals·Toolkit, 원래 큐레이터 규칙은 보존했다."
+    },
+    {
+      "date": "2026-11-21",
+      "note": "The Dumpster의 2006·2026 링크와 갱신 근거를 Whitney·CMU에서 대조했다. 공식 웹 작품 화면·설치 사진·영화 스틸을 눈으로 확인했으며, Electric South의 Whoreduh는 홍보물만 확인되어 제외했다. NEUROSCAN의 2024 IRCAM 사진은 2026 특정 공연의 사진으로 추정하지 않고 제외했다. 기존 90호·501개, Signals·Toolkit 및 큐레이터 규칙 보존."
     }
   ],
   "dedup_policy": {
