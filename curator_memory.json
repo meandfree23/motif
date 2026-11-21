@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -294,6 +294,10 @@
     {
       "date": "2026-11-21",
       "note": "기존 501개와 대조한 작품 6개와 The Dumpster Focus 4단락·2출처. 2026 신작 2개·복원/올해 전시 재소개 3개·아카이브 1개를 구분했다. 미확인 제작 연도 2개는 null과 보이는 미확인 표기로 남겼다. 북미·유럽·동남남아시아 3권역과 기관별 최대 2개를 지켰다."
+    },
+    {
+      "date": "2026-11-22",
+      "note": "기존 507개와 대조한 작품 6개·Primordial Dance Focus 4단락/2출처. 올해 전시 기록 재소개 4개와 2025 웹 아카이브 2개를 구분했다. 제작 연도 미확인 3개는 null과 보이는 미확인 표기로 보존. 3권역·출처별 최대 2개. 일요일 Signals/Toolkit 기존 축적 기준에 따라 갱신."
     }
   ],
   "source_notes": [
@@ -464,6 +468,10 @@
     {
       "date": "2026-11-21",
       "note": "The Dumpster의 2006·2026 링크와 갱신 근거를 Whitney·CMU에서 대조했다. 공식 웹 작품 화면·설치 사진·영화 스틸을 눈으로 확인했으며, Electric South의 Whoreduh는 홍보물만 확인되어 제외했다. NEUROSCAN의 2024 IRCAM 사진은 2026 특정 공연의 사진으로 추정하지 않고 제외했다. 기존 90호·501개, Signals·Toolkit 및 큐레이터 규칙 보존."
+    },
+    {
+      "date": "2026-11-22",
+      "note": "공식 작품 화면 6개를 실제 이미지와 대조했다. FILE의 CAPA 파일 두 개는 행사 배너가 아니라 작품 추상 화면임을 눈으로 확인했고 휴대전화가 크게 보이는 전시 기록보다 이 프리뷰를 선택했다. Primordial Dance의 선택·변이·보간은 작가 직접 설명으로 검증; 제작 중 상호작용과 관객 참여를 분리했다. ICC The Exhibited Factory of Cinema는 기존 수록이라 후보에서 제외했다. 기존 이슈·정책·컬렉션 보존."
     }
   ],
   "dedup_policy": {

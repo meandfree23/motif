@@ -1,6 +1,434 @@
 {
   "issues": [
     {
+      "date": "2026-11-22",
+      "title": "고르는 손, 멈춘 몸, 다시 이어지는 이미지",
+      "summary": "2026년 전시 기록으로 재소개하는 네 작품과 2025년 웹 커미션 아카이브 두 편을 읽는다. 읽기·모양 선택·손잡이 조작·관객의 이동·절차적 성장·작가의 미적 선택이 서로 다른 방식으로 시간과 의미를 바꾼다. 최초 제작 연도가 확인되지 않은 세 작품은 미확인으로 남겼다.",
+      "crosscurrent": {
+        "note": "Azeroth의 독자는 문서와 가상 세계를 오가고 BANNED SKILLS의 관객은 모양으로 경로를 고른다. Let’s Fish the Sun!에서는 손잡이가 풍경의 변화를 만들지만 Silent Moments의 빛 윤곽은 관객을 센서로 읽지 않는다. Arrels #64의 성장과 겹침, Primordial Dance의 선택과 보간도 서로 다른 절차다. 참여라는 말 안에서 관객이 하는 일과 작가가 제작 중 했던 일을 나누어 읽는다.",
+        "itemIds": [
+          "2026-11-22-01",
+          "2026-11-22-02",
+          "2026-11-22-03",
+          "2026-11-22-04",
+          "2026-11-22-05",
+          "2026-11-22-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-22-01",
+          "originalTitle": "12 Years in Azeroth–The Journey Begins",
+          "creator": "Robert Nideffer",
+          "title": "읽는 창과 걷는 세계 사이에서 아바타의 기억을 조립한다",
+          "publishedAt": "2025 / Whitney artport 웹 커미션 아카이브",
+          "url": "https://whitney.org/exhibitions/12-years-in-azeroth",
+          "description": "작가가 World of Warcraft에 몰입한 12년을 자전적 기록·허구·게임으로 엮은 웹 작품이다. 전체 기획 중 첫 부분을 다루며, 상업 게임의 공략이나 전체 다섯 부분의 완성 소식으로 소개하지 않는다.",
+          "insight": {
+            "mechanism": "레트로 데스크톱의 파일과 전자 원고를 읽는 행동이 3D 게임 세계 탐색과 나란히 놓인다. 지구·Azeroth·Middle-earth의 지도와 아바타를 오가며 원고 조각을 발견하고, 기관 설명에 따르면 AI 기반 인물의 기억과 성격도 읽는 과정에서 달라진다.",
+            "whyNow": "2025년 공개된 특정 웹 커미션을 예술적 게임의 아카이브로 읽는다. 기록을 문서로만 전달하지 않고 읽기와 이동의 서로 다른 속도로 정체성을 구성하는 사례다.",
+            "directorPoint": "인물의 과거를 모두 내레이션으로 말하기 전에 문서를 읽는 창과 지금 움직이는 인물을 함께 둘 수 있다. 설명을 읽는 시간과 행동의 시간이 어긋날 때 한 사람이 자신을 기록하는 방식도 드러난다.",
+            "critique": "기관의 AI 인물 설명만으로 모델·학습 자료·기억의 저장 기간은 알 수 없다. 작가의 경험과 허구, Warcraft의 원래 세계와 이 작품이 만든 세계를 각각 구분해야 하며 키보드 조작 조건도 고려해야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "언어",
+              "시간감"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "신체·정체성",
+              "놀이·게임"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art artport 커미션 / 뉴욕, 미국"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-22-01.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/833002/large_12_years_screenshot_1.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/12-years-in-azeroth",
+            "sourceUrl": "https://whitneymedia.org/assets/image/833002/large_12_years_screenshot_1.png",
+            "kind": "gameplay",
+            "credit": "Robert Nideffer / Whitney 공식 작품 화면, 2025",
+            "caption": "전자 원고·지도·캐릭터 창이 겹친 공식 화면. World of Warcraft 자체의 플레이 사진과 구분한다.",
+            "checkedAt": "2026-11-22T07:46:11+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "회색 데스크톱에 지도와 푸른 텍스트 터미널, 배낭을 멘 인물과 개의 창이 겹쳐진 화면"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2025,
+            "researchedAt": "2026-11-22T07:50:31+09:00",
+            "identity": "autobiographical-web-art-game",
+            "identityRationale": "레트로 데스크톱의 파일과 전자 원고를 읽는 행동이 3D 게임 세계 탐색과 나란히 놓인다. 지구·Azeroth·Middle-earth의 지도와 아바타를 오가며 원고 조각을 발견하고, 기관 설명에 따르면 AI 기반 인물의 기억과 성격도 읽는 과정에서 달라진다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/12-years-in-azeroth",
+              "https://artport.whitney.org/commissions/12-years/desktop.html"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 / Whitney artport 웹 커미션 아카이브"
+          }
+        },
+        {
+          "id": "2026-11-22-02",
+          "originalTitle": "BANNED SKILLS",
+          "creator": "INFANT (sidony o’neal · Bogosi Sekhukhuni)",
+          "title": "뾰족한 입구와 둥근 입구가 의미를 읽는 경로를 나눈다",
+          "publishedAt": "2025 / Whitney artport 비선형 웹 서사 아카이브",
+          "url": "https://whitney.org/exhibitions/banned-skills",
+          "description": "소리와 모양을 연결하는 bouba-kiki 효과를 비선형 탐색의 입구로 삼은 웹 작품이다. 두 작가의 XENOFORMALISM이라는 미학적 틀 안에서 과학소설·디지털 문화·사물의 역사를 연결한다.",
+          "insight": {
+            "mechanism": "뾰족하거나 둥근 형태를 고르면 서로 다른 환경과 사물로 들어간다. 왼쪽 위의 가상 음악 장치는 두 종류의 음향 풍경을 바꾼다. 선택한 모양이 경로와 청취의 조건이 되는 인터페이스다.",
+            "whyNow": "지난해 웹 커미션을 다시 읽으며 메뉴의 이름보다 모양·소리의 감각적 연상이 어떻게 탐색을 조직하는지 살핀다. 문화적 기억을 정해진 연표 대신 분기와 우연한 연결로 만나는 경계 사례다.",
+            "directorPoint": "선택지를 설명하는 문장보다 서로 다른 촉감이 떠오르는 형태와 음향을 먼저 제시할 수 있다. 이후 같은 사물이 다른 경로에서 다시 나타나게 하면 관객이 붙인 의미가 흔들리는 장면을 만들 수 있다.",
+            "critique": "감각적 연상을 활용한다고 모든 문화·언어·관객이 같은 모양을 고르는 것은 아니다. 이 작품은 성격이나 인지 능력을 판정하는 검사가 아니며 모양에 부여된 의미를 보편적 정답으로 굳히면 탐색의 여지가 줄어든다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "언어"
+            ],
+            "tech": [
+              "네트워크·웹"
+            ],
+            "theme": [
+              "언어·번역",
+              "기억·아카이브",
+              "놀이·게임"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art artport 커미션 / 뉴욕, 미국"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-22-02.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/832687/large_banned_skills_screenshot.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/banned-skills",
+            "sourceUrl": "https://whitneymedia.org/assets/image/832687/large_banned_skills_screenshot.png",
+            "kind": "artwork",
+            "credit": "INFANT (sidony o’neal · Bogosi Sekhukhuni) / Whitney 공식 BANNED SKILLS 화면, 2025",
+            "caption": "붉고 흰 바탕에 두 입구 형태가 놓인 작품 프리뷰. 작가 초상이나 행사 로고가 아니다.",
+            "checkedAt": "2026-11-22T07:46:12+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "붉은 바탕 위 왼쪽에는 뾰족한 검은 별 모양, 오른쪽에는 둥근 돌출부를 가진 검은 형태가 놓인 화면"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2025,
+            "researchedAt": "2026-11-22T07:50:31+09:00",
+            "identity": "nonlinear-sound-shape-web-narrative",
+            "identityRationale": "뾰족하거나 둥근 형태를 고르면 서로 다른 환경과 사물로 들어간다. 왼쪽 위의 가상 음악 장치는 두 종류의 음향 풍경을 바꾼다. 선택한 모양이 경로와 청취의 조건이 되는 인터페이스다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/banned-skills",
+              "https://artport.whitney.org/commissions/banned-skills/index.html"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 / Whitney artport 비선형 웹 서사 아카이브"
+          }
+        },
+        {
+          "id": "2026-11-22-03",
+          "originalTitle": "Let's Fish the Sun!",
+          "creator": "Wentao Wang",
+          "title": "손잡이를 돌리는 작은 노동이 해가 지는 방향을 뒤집는다",
+          "publishedAt": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/let-s-fish-the-sun-/",
+          "description": "물가로 뻗은 낚싯대와 빛나는 구체를 연결한 참여형 빛 설치다. 수면 가까이 걸린 구체가 지는 해를 닮고, 관객의 손동작이 그 위치와 색의 변화를 일으킨다.",
+          "insight": {
+            "mechanism": "윈치의 손잡이를 돌리면 구체가 위로 올라가며 짙은 붉은색에서 호박색을 거쳐 따뜻한 흰빛으로 변한다. 멀리 있는 태양의 자연 주기를 손으로 되돌리는 듯한 비유를 물리적 조작과 조명의 연결로 구성한다.",
+            "whyNow": "올해 싱가포르의 개별 작품 기록으로 참여의 크기를 읽는다. 큰 화면에 신체를 비추는 대신 작은 반복 동작이 먼 풍경의 사건으로 이어지는 점에 초점을 둔다.",
+            "directorPoint": "관객의 손과 먼 곳의 변화를 한 장면 안에 함께 둔다. 동작과 결과 사이에 거리와 느린 상승을 남기면 단순한 버튼 성공 표시보다 행위의 지속 시간이 읽힌다.",
+            "critique": "해를 되돌린다는 비유가 실제 환경 회복의 효과를 입증하지는 않는다. 자료는 윈치와 색 변화는 설명하지만 구동부·센서 사양과 조작 가능한 범위는 밝히지 않는다. 사진 한 장으로 전체 상승 과정을 판단하기 어렵다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "놀이·게임"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "상하이 1602 Architecture Studio 설립·활동 맥락 (공식 작가 소개)",
+            "region": "동남·남아시아",
+            "venue": "Lower Boardwalk, 싱가포르 / i Light Singapore 2026 전시 기록"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-22-03.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/5b019c9f-1506-4548-979f-162eb0b2fc31/Let's%20Fish%20the%20Sun!.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/let-s-fish-the-sun-/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/5b019c9f-1506-4548-979f-162eb0b2fc31/Let's%20Fish%20the%20Sun!.jpg",
+            "kind": "installation",
+            "credit": "Wentao Wang 작품 / i Light Singapore·Urban Redevelopment Authority 공식 작품 이미지, 촬영자 미표기",
+            "caption": "물가의 빛나는 구체와 낚싯대가 보이는 공식 설치 이미지. 위로 이동하는 전체 과정을 보여 주는 연속 기록은 아니다.",
+            "checkedAt": "2026-11-22T07:46:10+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "밤의 수변 보행로 아래 붉은 구체가 떠 있고 낚싯대와 선이 물 위로 뻗어 있는 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-22T07:50:31+09:00",
+            "identity": "winch-controlled-kinetic-light-installation",
+            "identityRationale": "윈치의 손잡이를 돌리면 구체가 위로 올라가며 짙은 붉은색에서 호박색을 거쳐 따뜻한 흰빛으로 변한다. 멀리 있는 태양의 자연 주기를 손으로 되돌리는 듯한 비유를 물리적 조작과 조명의 연결로 구성한다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/let-s-fish-the-sun-/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-22-04",
+          "originalTitle": "Silent Moments",
+          "creator": "BN label",
+          "title": "멈춰 있는 빛의 몸들 사이에서 관객의 속도가 보인다",
+          "publishedAt": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/silent-moments/",
+          "description": "일상의 자세를 빛의 윤곽으로 고정해 수변 보행로에 놓은 공공 설치다. 자전거 타기·낮잠·산책 같은 몸의 흔적과 실제로 이동하는 관객의 몸을 겹치게 하는 빛 조각의 경계 사례다.",
+          "insight": {
+            "mechanism": "실물보다 큰 발광 실루엣이 동작 중간을 멈춘 듯 서 있다. 사람은 그 사이를 걷고 같은 자세를 취하거나 사진에 함께 들어간다. 작품의 변화는 확인된 센서 반응보다 관객의 위치·속도·행위에서 생긴다.",
+            "whyNow": "2026년 공식 전시 기록에서 반응형이라는 말의 범위를 점검한다. 기술이 스스로 움직이지 않아도 고정된 빛과 이동하는 몸의 관계로 시간과 공공장소의 리듬을 구성할 수 있다.",
+            "directorPoint": "분주한 실제 동선 안에 멈춘 자세의 기준점을 놓을 수 있다. 배우를 더 빨리 움직이기보다 동일한 구도 안에서 정지한 윤곽과 지나가는 사람을 함께 보여 주면 속도의 차이가 드러난다.",
+            "critique": "주최기관의 느림과 성찰에 대한 제안이 관객의 실제 행동 변화나 건강 효과를 증명하지는 않는다. 사진 촬영을 위한 배경으로만 소비될 가능성도 있으며, 센서·AI가 관객을 읽는 작품으로 분류할 근거는 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "신체·정체성"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동남·남아시아",
+            "venue": "The Promontory 옆 Waterfront Promenade, 싱가포르 / i Light Singapore 2026 전시 기록"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-22-04.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/0e12cee1-927d-442c-826d-3360ed7d36cc/Silent%20Moments.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/silent-moments/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/0e12cee1-927d-442c-826d-3360ed7d36cc/Silent%20Moments.jpg",
+            "kind": "installation",
+            "credit": "BN label 작품 / i Light Singapore·Urban Redevelopment Authority 공식 작품 이미지, 촬영자 미표기",
+            "caption": "빛 윤곽의 인물·동물 형상과 관객이 함께 보이는 설치 이미지. 작가 부부의 별도 초상과 구분했다.",
+            "checkedAt": "2026-11-22T07:46:11+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "밤의 보행로에 흰빛 윤곽으로 만든 사람과 동물 형상이 놓이고 두 관객이 그 옆에서 몸을 낮춘 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-22T07:50:31+09:00",
+            "identity": "static-light-and-participatory-public-space",
+            "identityRationale": "실물보다 큰 발광 실루엣이 동작 중간을 멈춘 듯 서 있다. 사람은 그 사이를 걷고 같은 자세를 취하거나 사진에 함께 들어간다. 작품의 변화는 확인된 센서 반응보다 관객의 위치·속도·행위에서 생긴다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/silent-moments/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / i Light Singapore 2026 전시 기록 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-22-05",
+          "originalTitle": "Arrels #64",
+          "creator": "Anna Carreras",
+          "title": "새로 자란 선이 오래된 선을 덮으며 풍경의 시간을 만든다",
+          "publishedAt": "제작연도 미확인 / FILE São Paulo 2026 수록 작품 재소개·행사 종료",
+          "url": "https://file.org.br/generative_2026/anna-carreras-arrels-64-espanha/",
+          "description": "스페인의 풍경에서 출발해 드로잉·코드·반복 루프를 성장과 쇠퇴의 순환으로 엮은 생성 애니메이션이다. 여기서는 Arrels 전체를 여러 작품으로 나누지 않고 공식 수록 판본 #64 하나를 다룬다.",
+          "insight": {
+            "mechanism": "땅과 하늘의 색을 닮은 뿌리 형태가 자라고 부딪치며, 새로운 성장이 이전 흔적 위에 겹친다. 기본 규칙에서 복잡한 형상이 나타나는 절차적 영상이며 실제 뿌리를 센서로 계측한 데이터라는 설명은 없다.",
+            "whyNow": "올해 브라질 전시에 수록된 특정 판본에서 자연의 이미지를 닮게 만드는 방법보다 시간이 쌓이고 지워지는 규칙을 읽는다. 작가의 국적과 이 호의 전시 권역을 구분한다.",
+            "directorPoint": "장면을 새 화면으로 교체하기 전에 다음 선이 이전 흔적을 조금씩 가리게 할 수 있다. 성장과 삭제를 같은 동작으로 묶으면 발전의 이미지 안에 잃는 것도 남길 수 있다.",
+            "critique": "자연에서 얻은 색과 성장의 은유를 실제 식물의 생장 모델로 볼 수는 없다. 공식 자료만으로 난수·변수·루프 길이를 특정할 수 없으며 정지 프리뷰에서는 되풀이의 리듬이 빠진다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "비인간·생태",
+              "기억·아카이브"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026, Dimensão Randômica / 상파울루, 브라질"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-22-05.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Anna-Carreras-Arrels-64-Espanha-_-Spain-GENERATRIX-FILE-SP-2026-scaled.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/generative_2026/anna-carreras-arrels-64-espanha/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Anna-Carreras-Arrels-64-Espanha-_-Spain-GENERATRIX-FILE-SP-2026-scaled.jpg",
+            "kind": "artwork",
+            "credit": "Anna Carreras, Arrels #64 / FILE 2026 공식 작품 프리뷰, 원저작권은 작가에게 있음",
+            "caption": "FILE가 특정 작품 소개에 제공한 이미지. 표지용 파일명을 사용하지만 로고·행사 배너가 아닌 작품의 추상 화면임을 눈으로 대조했다.",
+            "checkedAt": "2026-11-22T07:46:12+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "붉은색·청록색·모래색의 촘촘한 선들이 뿌리와 접힌 면처럼 겹쳐진 추상 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-22T07:50:31+09:00",
+            "identity": "procedural-growth-decay-animation",
+            "identityRationale": "땅과 하늘의 색을 닮은 뿌리 형태가 자라고 부딪치며, 새로운 성장이 이전 흔적 위에 겹친다. 기본 규칙에서 복잡한 형상이 나타나는 절차적 영상이며 실제 뿌리를 센서로 계측한 데이터라는 설명은 없다.",
+            "evidence": [
+              "https://file.org.br/generative_2026/anna-carreras-arrels-64-espanha/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE São Paulo 2026 수록 작품 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-22-06",
+          "originalTitle": "Primordial Dance",
+          "creator": "Karl Sims (소프트웨어·애니메이션) / David Grimes (음악) · Jim Salem · Abbi Spinner · Ken Schachat · Seth Goldstein (드럼)",
+          "title": "고른 이미지의 유전자를 변형해 다음 움직임을 만든다",
+          "publishedAt": "1991 / FILE São Paulo 2026 수록·재전시 기록; 2026년 신작 아님",
+          "url": "https://file.org.br/generative_2026/karl-sims-primordial-dance-estados-unidos/",
+          "description": "인공 진화로 만든 추상 이미지들 사이를 보간해 움직임을 구성한 실험 애니메이션이다. 작가의 1991년 작품 기록과 올해 FILE 수록 자료를 함께 읽으며 최초 제작과 재소개 시점을 구분한다.",
+          "insight": {
+            "mechanism": "컴퓨터가 제시한 이미지 중 작가가 흥미로운 것을 고르면 그 이미지의 수식이 복제·변이·결합돼 다음 후보를 만든다. 이 선택을 반복한 뒤 진화된 이미지들의 수식 사이를 보간해 연속 움직임을 얻는다.",
+            "whyNow": "최근 생성형 AI의 신작처럼 포장하지 않고, 올해 전시가 다시 꺼낸 1991년의 인간·컴퓨터 협업을 살핀다. 누가 후보를 만들고 누가 살아남을 것을 고르는지 드러나는 제작 구조다.",
+            "directorPoint": "완성된 두 화면만 잇기 전에 각 화면을 고른 이유와 다음 후보에서 바뀐 조건을 남길 수 있다. 선택의 계보를 보여 주면 우연히 나온 형상을 단순한 마술 효과보다 판단의 과정으로 읽게 한다.",
+            "critique": "당시의 인공 유전자·진화를 오늘의 대규모 학습 모델과 같은 기술로 부르면 차이가 사라진다. 작품은 완성된 애니메이션이며 전시 관객이 현장에서 직접 진화를 조작한다는 설명은 없다. 그 참여형 장치는 별개 작품 Genetic Images와 구분된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "청각"
+            ],
+            "tech": [
+              "영상·필름"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FILE São Paulo 2026, Dimensão Randômica / 상파울루, 브라질의 재전시 맥락"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-22-06.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Karl-Sims-Primordial-Dance-Estados-Unidos-_-United-States-Generatrix-FILE-SP-2026-resized.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/generative_2026/karl-sims-primordial-dance-estados-unidos/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Karl-Sims-Primordial-Dance-Estados-Unidos-_-United-States-Generatrix-FILE-SP-2026-resized.jpg",
+            "kind": "film-still",
+            "credit": "Karl Sims, Primordial Dance, 1991 / FILE 공식 작품 프리뷰. 음악 David Grimes·Target Productions, 드럼 Jim Salem·Abbi Spinner·Ken Schachat·Seth Goldstein",
+            "caption": "공식 수록 페이지의 추상 영상 프리뷰. 2026년에 새로 생성한 결과나 관객이 직접 조작한 화면으로 설명하지 않는다.",
+            "checkedAt": "2026-11-22T07:46:12+09:00",
+            "usageBasis": "공식 작품 자료의 출처·크레딧을 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "청록색과 보라색 바탕에 검고 흰 곡선과 광택 있는 추상 질감이 겹쳐진 영상 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 1991,
+            "researchedAt": "2026-11-22T07:50:31+09:00",
+            "identity": "human-selected-evolutionary-computer-animation",
+            "identityRationale": "컴퓨터가 제시한 이미지 중 작가가 흥미로운 것을 고르면 그 이미지의 수식이 복제·변이·결합돼 다음 후보를 만든다. 이 선택을 반복한 뒤 진화된 이미지들의 수식 사이를 보간해 연속 움직임을 얻는다.",
+            "evidence": [
+              "https://file.org.br/generative_2026/karl-sims-primordial-dance-estados-unidos/",
+              "https://www.karlsims.com/primordial-dance.html"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "1991 / FILE São Paulo 2026 수록·재전시 기록; 2026년 신작 아님"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 5,
+        "headline": "Primordial Dance: 생성보다 선택의 계보를 읽기",
+        "keywords": [
+          "인공 진화",
+          "작가의 선택",
+          "수식의 보간",
+          "제작과 관람의 구분"
+        ],
+        "sections": [
+          {
+            "heading": "1991년 제작과 2026년 수록은 다른 사건이다",
+            "body": "작가의 작품 페이지는 제작 연도를 1991년, 길이를 1분 35초로 적고 소프트웨어·애니메이션과 음악·드럼의 크레딧을 나눈다. FILE는 이 작품을 2026년 Dimensão Randômica의 개별 항목으로 수록했다. 두 자료를 함께 읽을 이유는 오래된 영상을 신작처럼 보이게 하기 위해서가 아니라, 생성이라는 말 아래 서로 다른 제작 방식이 가려지는 것을 막기 위해서다. 전시는 현재의 만남이고 제작의 연도는 그대로 남는다."
+          },
+          {
+            "heading": "컴퓨터의 변이와 작가의 선택이 번갈아 작동한다",
+            "body": "작가가 설명한 순서는 후보 이미지 제시, 미적 선택, 살아남은 수식의 복제·변이·결합, 다음 후보의 제시다. 이 반복은 인간이 모든 선을 직접 그리는 방식과도, 컴퓨터가 미적 판단 전체를 대신한다는 주장과도 다르다. 어떤 결과가 남는지 결정하는 선택이 이미지 생성 과정 안에 놓인다. 인공 유전자라는 표현은 이 수식의 변형을 설명하는 당시의 방법이며 생물의 실제 유전자를 사용했다는 뜻이 아니다."
+          },
+          {
+            "heading": "움직임은 살아남은 이미지 사이의 경로다",
+            "body": "완성된 화면의 흐름은 서로 다른 이미지의 수식 사이에서 수행한 유전적 보간으로 만들어진다. 정지 이미지를 단순히 나열하는 대신 중간값의 경로를 통해 질감과 형태가 서로 바뀐다. 연출 응용은 최종 장면만 고르는 데서 멈추지 않고 두 결과 사이에서 무엇이 유지되고 무엇이 달라지는지를 설계하는 것이다. 이 응용은 작품의 구체 알고리즘을 복제하는 제작 지침이나 결과의 품질 보증이 아니다."
+          },
+          {
+            "heading": "제작 중 상호작용을 관객 참여로 바꾸어 말하지 않는다",
+            "body": "이 작품은 선택 과정에 상호작용이 있는 제작에서 나온 완성 애니메이션이다. 관객은 그 결과의 시간을 보며 제작에 개입했던 작가와 같은 자리에 자동으로 서지는 않는다. 작가 페이지가 별도 링크한 Genetic Images는 방문자가 추상 정지 이미지를 진화시키는 다른 전시다. FILE의 수록·작품 프리뷰와 작가의 제작 설명은 각각 전시 맥락과 제작 원리를 뒷받침하며, 두 출처가 독립적인 효과 실험을 수행한 것은 아니다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Karl Sims — 1991년 원작·크레딧·선택과 유전적 보간의 직접 설명",
+            "url": "https://www.karlsims.com/primordial-dance.html"
+          },
+          {
+            "label": "FILE 2026 — 특정 작품의 수록 맥락·공식 프리뷰와 제작 개요",
+            "url": "https://file.org.br/generative_2026/karl-sims-primordial-dance-estados-unidos/"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-21",
       "title": "다시 움직이게 된 기록과 느린 세계의 시간",
       "summary": "올해 공개된 웹 게임·영상 2개, 올해 복원·전시 기록으로 재소개하는 작품 3개, 영화·설치 아카이브 1개를 읽는다. 원작과 복원, 제작 연도와 전시 연도, 영상의 사변과 과학적 과정을 구분하며 관객이 기록과 풍경의 시간을 바꾸어 읽는 방식을 살핀다.",
@@ -27705,7 +28133,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-21T14:31:16+09:00",
+  "generatedAt": "2026-11-22T07:50:31+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
