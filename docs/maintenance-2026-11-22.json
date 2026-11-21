@@ -1,0 +1,66 @@
+{
+  "schema": "motif-maintenance/v1",
+  "reviewedAt": "2026-11-22T08:03:15+09:00",
+  "date": "2026-11-22",
+  "scope": {
+    "firstDate": "2026-08-23",
+    "lastDate": "2026-11-22",
+    "issues": 92,
+    "items": 513,
+    "missingDates": [],
+    "duplicateDates": [],
+    "focusMissing": []
+  },
+  "today": {
+    "latest": 6,
+    "focusSections": 4,
+    "focusSources": 2,
+    "regions": 3,
+    "archive": 2,
+    "reexhibition": 4,
+    "newWork": 0,
+    "unknownWorkYears": 3,
+    "note": "2026년 전시 자료 재소개 4개와 2025년 웹 커미션 아카이브 2개. 1991 원작을 2026 신작으로 표기하지 않음. 제작 중 상호작용과 관객 참여, 감각적 비유와 계측을 구분."
+  },
+  "weekly": {
+    "signalsReviewed": 7,
+    "evidenceAdded": 7,
+    "newSignals": 0,
+    "toolkitAdded": 4,
+    "toolkitTotal": 94
+  },
+  "imageRepairs": [
+    {
+      "itemId": "2026-10-08-01",
+      "before": "official-artwork-image-pending",
+      "after": "official-institution-exhibition-photo",
+      "source": "https://www.instagram.com/p/Dc11cYHDmkt/",
+      "credit": "William Hamilton-Coates / ACMI·Melbourne International Games Week 공식 게시물",
+      "manualMatch": "공식 게시물의 첫 사진 지정과 캐비닛 Quiver 표기·실제 게임 화면을 대조"
+    },
+    {
+      "itemId": "2026-10-28-03",
+      "before": "artist-portrait",
+      "after": "documented-performance-photo",
+      "source": "https://www.instagram.com/p/Ded_cWvCNiV/",
+      "credit": "Maru Serrano / TBA21",
+      "manualMatch": "공연명이 명시된 기관 게시물의 정원·흰 드레스·파란 무늬 분사 장면을 대조"
+    }
+  ],
+  "rightsNote": "공식 기관이 공개한 작품 기록의 출처·촬영자를 명시한 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 기록하지 않는다. 사진·작품의 원 권리는 해당 권리자에게 있다.",
+  "preserved": {
+    "issueDatesAndIds": true,
+    "allOtherItemsUnchanged": true,
+    "previousPortraitFileRetained": true,
+    "curatorGoverningPoliciesUnchanged": true,
+    "signalsAndToolkitUnchangedByRepair": true
+  },
+  "verification": {
+    "candidateFail": 0,
+    "newIssueFail": 0,
+    "archiveFail": 0,
+    "archiveWarnBefore": 82,
+    "archiveWarnExpectedAfter": 81,
+    "tests": "발행 전 저장소 검사 및 발행 후 라이브 바이트·이미지·화면 확인; 실제 결과는 운영 상태 파일에 기록"
+  }
+}
