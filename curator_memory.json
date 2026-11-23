@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23T10:59:15+09:00",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -298,6 +298,10 @@
     {
       "date": "2026-11-22",
       "note": "기존 507개와 대조한 작품 6개·Primordial Dance Focus 4단락/2출처. 올해 전시 기록 재소개 4개와 2025 웹 아카이브 2개를 구분했다. 제작 연도 미확인 3개는 null과 보이는 미확인 표기로 보존. 3권역·출처별 최대 2개. 일요일 Signals/Toolkit 기존 축적 기준에 따라 갱신."
+    },
+    {
+      "date": "2026-11-23",
+      "note": "기존 92호·513개를 보존하고 특정 작품 6개와 MicroImage Focus 4단락·3출처 준비. V&A 현재 재전시 1개·FILE 2026 재소개 2개·2026 첫 공개 기록 1개·아카이브 2개를 구분. 3권역, Reborn 제작 연도 null. 원래 mission/editorial_rules/dedup_policy/taste_profile 및 research_identity_policy 보존."
     }
   ],
   "source_notes": [
@@ -476,6 +480,10 @@
     {
       "date": "2026-11-22",
       "note": "사용자의 누락 자료 정식 점검 요청으로 Quiver와 CAUTÍN LEWFÜ의 보류 이미지를 해결했다. ACMI·gamesweekmelb 공동 게시물 Dc11cYHDmkt의 공식 댓글이 1번 사진=QUIVER 및 William Hamilton-Coates 촬영임을 명시한다. TBA21 게시물 Ded_cWvCNiV가 CAUTÍN LEWFÜ의 미술관 정원 공연과 Maru Serrano 크레딧을 명시한다. 작품·장치·행동이 사진과 일치함을 직접 대조. 이전 CAUTÍN 초상 파일은 삭제하지 않고 별도 공연 파일을 추가했다. 날짜·ID·기존 컬렉션을 보존했다."
+    },
+    {
+      "date": "2026-11-23",
+      "note": "V&A 소장품 E.274-2011의 2002년 프린트·735px 온라인 프리뷰 조건, Tanimoto 직접 설명의 2024년 제작과 2026 FILE 전시, Reborn 점군의 미끄럼틀, Market Cycles의 빌린 상자·빛·첫 공개 기록을 개별 대조. Hand-held는 Le Fresnoy의 2012 제작 기록과 LABoral의 손/피부 상호작용 설명으로 검증; 작가 사이트 TLS 연결 실패를 우회하지 않음. Hand-held 이미지는 작품의 손/사물 화면 자료로 명시. Listening Post는 SMG의 2005 소장 판본·2008 설치 및 CC BY-NC-SA 사진을 사용하며 2002 첫 전시와 구분. Shredder는 공식 이미지 원문 접근이 불완전하여 제외. ACMI Lifelike 행사명만으로 작품을 세지 않음."
     }
   ],
   "dedup_policy": {

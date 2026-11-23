@@ -1,6 +1,445 @@
 {
   "issues": [
     {
+      "date": "2026-11-23",
+      "title": "흔적이 화면이 되고, 몸이 읽는 자리가 된다",
+      "summary": "현재 V&A 전시의 2002년 프린트 한 점, 올해 FILE 재전시 기록 두 편, 2026년 처음 공개된 빛 설치 한 편, 두 아카이브를 함께 읽는다. 선의 축적·색과 선율·점군·유통 상자·손의 표면·온라인 발화가 서로 다른 방식으로 관객의 읽는 자리를 만든다. Reborn의 최초 제작 연도는 미확인으로 남겼다.",
+      "crosscurrent": {
+        "note": "MicroImage는 생성 중 한 상태를 종이에 고정하고 Sea of Code는 흐르는 화면과 선율 사이에 틈을 남긴다. Reborn은 사물의 기록을 다시 흩뜨리고 Market Cycles는 물질의 반복을 머무는 공간으로 만든다. Hand-held의 손은 이미지가 드러나는 자리이며 Listening Post의 방은 온라인 발화를 듣는 자리가 된다. 같은 참여·생성이라는 말로 묶기 전에 관객이 바꿀 수 있는 것과 이미 결정된 것을 나누어 본다.",
+        "itemIds": [
+          "2026-11-23-01",
+          "2026-11-23-02",
+          "2026-11-23-03",
+          "2026-11-23-04",
+          "2026-11-23-05",
+          "2026-11-23-06"
+        ]
+      },
+      "items": [
+        {
+          "id": "2026-11-23-01",
+          "originalTitle": "MicroImage",
+          "creator": "Casey Reas",
+          "title": "움직이는 규칙이 종이 위에 남긴 밀도를 읽는다",
+          "publishedAt": "2002 잉크젯 프린트 / V&A 현재 전시 재소개·2027년 5월 30일까지",
+          "url": "https://collections.vam.ac.uk/item/O1193783/microimage-print-casey-reas/",
+          "description": "V&A 소장품 E.274-2011을 특정해 읽는다. 실시간 소프트웨어·애니메이션으로도 전개된 작업 중 종이에 고정된 프린트이며, 이 사진을 현재 전시장 설치 전경으로 소개하지 않는다.",
+          "insight": {
+            "mechanism": "작가는 간단한 이동·회전·회피·추적 규칙을 가진 가상 기계의 궤적이 선으로 쌓이는 과정을 설명한다. 이 프린트에서는 생성 과정의 한 상태가 잉크젯 이미지로 남고 관객은 이미 고정된 선들의 밀도와 흐름을 읽는다.",
+            "whyNow": "런던 V&A의 Degrees of Disruption 전시가 이 2002년 프린트를 주요 작품으로 제시한다. 현재의 전시를 계기로 초기 생성형 드로잉을 다시 보되 제작 연도를 2026년으로 바꾸지 않는다.",
+            "directorPoint": "움직임을 모두 재생하기보다 축적된 흔적 하나를 오래 보여 주는 장면을 생각할 수 있다. 넓은 흐름에서 세부의 선으로 시선을 옮기면 정지 화면 안에서도 사건의 시간이 추정된다.",
+            "critique": "생물처럼 보이는 형상은 실제 생물 데이터의 재현이나 생성 AI 사용을 뜻하지 않는다. 프린트 사진만으로 소프트웨어의 속도·상호작용을 검증할 수 없으며, 전체 연작의 제작 범위와 이 소장품의 연도를 나누어 읽어야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "V&A South Kensington, Room 90 / 런던, 영국"
+          },
+          "host": "collections.vam.ac.uk",
+          "image": "images/2026-11-23-01.jpg",
+          "imageFallback": "https://framemark.vam.ac.uk/collections/2011EY6960/full/735,/0/default.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://collections.vam.ac.uk/item/O1193783/microimage-print-casey-reas/",
+            "sourceUrl": "https://framemark.vam.ac.uk/collections/2011EY6960/full/735,/0/default.jpg",
+            "kind": "artwork",
+            "credit": "© Victoria and Albert Museum, London / C.E.B. Reas · 소장번호 E.274-2011",
+            "caption": "MicroImage, 2002, 잉크젯 프린트의 공식 소장품 사진. 실시간 소프트웨어 화면이나 현재 전시 전경과 구분한다.",
+            "checkedAt": "2026-11-23T10:59:15+09:00",
+            "usageBasis": "V&A 소장품 페이지의 비상업적 온라인 이용 조건(최대 768픽셀·최대 5년)에 맞춘 735픽셀 프리뷰. © V&A / C.E.B. Reas 표시. 2026-11-23 확인; 2031-11-23 이전 이용 재검토. 별도 상업 이용허락을 주장하지 않는다.",
+            "alt": "흰 종이 위에 붉고 푸른 가는 선이 소용돌이치며 왼쪽에 짙은 덩어리를 이루는 MicroImage 프린트"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2002,
+            "researchedAt": "2026-11-23T10:59:15+09:00",
+            "identity": "generative-drawing-inkjet-print",
+            "identityRationale": "작가는 간단한 이동·회전·회피·추적 규칙을 가진 가상 기계의 궤적이 선으로 쌓이는 과정을 설명한다. 이 프린트에서는 생성 과정의 한 상태가 잉크젯 이미지로 남고 관객은 이미 고정된 선들의 밀도와 흐름을 읽는다. V&A 소장품 E.274-2011을 특정해 읽는다. 실시간 소프트웨어·애니메이션으로도 전개된 작업 중 종이에 고정된 프린트이며, 이 사진을 현재 전시장 설치 전경으로 소개하지 않는다.",
+            "evidence": [
+              "https://collections.vam.ac.uk/item/O1193783/microimage-print-casey-reas/",
+              "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art",
+              "https://reas.com/microimage"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2002 잉크젯 프린트 / V&A 현재 전시 재소개·2027년 5월 30일까지"
+          }
+        },
+        {
+          "id": "2026-11-23-02",
+          "originalTitle": "Sea of Code",
+          "creator": "Kazuhiro Tanimoto",
+          "title": "색과 선율이 이어지는 흐름 안에 틈을 남긴다",
+          "publishedAt": "2024 / FILE 2026 재전시 기록 재소개·행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/sea-of-code/",
+          "description": "애니메이션과 소리를 JavaScript 코드로 함께 만드는 생성형 작품이다. 작가가 밝힌 2024년 제작과 상파울루 FILE의 2026년 수록을 구분한다.",
+          "insight": {
+            "mechanism": "단순한 형태와 여덟 색에서 시작한 화면이 점차 많은 색과 유기적인 구조로 변한다. 색은 고정 팔레트에 의존하지 않는 절차로 생성되고, 선율은 클래식 음악에서 추출한 자료를 마르코프 체인으로 재구성한다.",
+            "whyNow": "올해 FILE의 개별 작품 기록을 작가의 제작 설명과 대조했다. 끊긴 부분과 이어지는 전체가 공존하는 구조를 통해 컴퓨터 아트의 보존·전달을 감각적으로 생각하게 한다.",
+            "directorPoint": "이미지와 음악이 같은 사건을 중복 설명하게 하기보다 각기 다른 변화의 흐름을 갖게 할 수 있다. 부분적으로 끊긴 화면도 더 긴 시간 안에서는 연결되도록 장면의 길이를 설계하는 방법이다.",
+            "critique": "자율적으로 보이는 생성은 의식이나 감정의 증거가 아니다. FILE는 비상호작용 작품으로 기록하며, 색과 소리의 변화가 관객 동작을 추적한다는 근거는 없다. 프리뷰 한 장은 전체 변화를 대표하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "정보·불확실성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026·8월 20일–10월 11일"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-23-02.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06152141/file-sao-paulo-2026-kazuhiro-tanimoto-sea-of-code-dimensao-randomica.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/sea-of-code/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06152141/file-sao-paulo-2026-kazuhiro-tanimoto-sea-of-code-dimensao-randomica.jpg",
+            "kind": "artwork",
+            "credit": "Kazuhiro Tanimoto / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "색의 흐름과 사각형의 틈이 겹치는 Sea of Code 공식 작품 프리뷰. 작가 초상·행사 포스터와 구분한다.",
+            "checkedAt": "2026-11-23T10:59:15+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "분홍과 보라의 흐름 위에 어두운 사각형이 나타나고 아래쪽에 선명한 청록·파랑·자홍의 면이 겹친 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2024,
+            "researchedAt": "2026-11-23T10:59:15+09:00",
+            "identity": "javascript-generative-audiovisual-art",
+            "identityRationale": "단순한 형태와 여덟 색에서 시작한 화면이 점차 많은 색과 유기적인 구조로 변한다. 색은 고정 팔레트에 의존하지 않는 절차로 생성되고, 선율은 클래식 음악에서 추출한 자료를 마르코프 체인으로 재구성한다. 애니메이션과 소리를 JavaScript 코드로 함께 만드는 생성형 작품이다. 작가가 밝힌 2024년 제작과 상파울루 FILE의 2026년 수록을 구분한다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/sea-of-code/",
+              "https://kazuhirotanimoto.com/works/sea_of_code/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2024 / FILE 2026 재전시 기록 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-23-03",
+          "originalTitle": "Reborn",
+          "creator": "Kaoru Tanaka",
+          "title": "미끄럼틀의 점들이 흩어졌다 다시 기억의 형태를 이룬다",
+          "publishedAt": "제작연도 미확인 / FILE 2026 전시 기록 재소개·행사 종료",
+          "url": "https://file.org.br/generative_2026/kaoru-tanaka-reborn-japao/",
+          "description": "실제 점군 데이터를 바탕으로 놀이터 미끄럼틀을 지속적으로 분해·재구성하는 생성형 작품이다. 특정 사물의 기록과 기억의 변형을 연결하며, 행사의 2026년 표기를 최초 제작 연도로 추정하지 않는다.",
+          "insight": {
+            "mechanism": "미끄럼틀을 이루는 조각들이 퍼지고 무너지고 다시 연결되면서 알아볼 수 있는 형태와 흩어진 상태를 오간다. 축적된 공간 자료를 고정된 복원 모델로 끝내지 않고 시간 속에서 변하는 구조로 제시한다.",
+            "whyNow": "올해 FILE의 작품별 기록에서 기억을 다루는 매체의 차이를 읽는다. 기억을 정확하게 재생한다는 주장 대신 저장된 데이터가 계속 다른 관계를 맺는 과정을 보여 준다는 점이 중요하다.",
+            "directorPoint": "회상 장면에서 사물 전체를 곧바로 복원하기 전에 특징적인 굴곡과 색의 조각을 남길 수 있다. 관객이 사물을 알아보는 순간과 다시 흩어지는 순간의 간격을 조절하는 응용이다.",
+            "critique": "기억의 불안정성은 작품의 비유이며 인간 기억을 실험으로 재현했다는 뜻이 아니다. 스캔 장비·촬영 위치·점군 처리의 세부 구현과 최초 제작 연도는 공식 기록만으로 확인되지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "3D스캔·포토그래메트리",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "지각·반사"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026·8월 20일–10월 11일"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-23-03.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Kaoru-Tanaka-Reborn-Japao-_-Japan-Generatrix-FILE-SP-2026.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/generative_2026/kaoru-tanaka-reborn-japao/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Kaoru-Tanaka-Reborn-Japao-_-Japan-Generatrix-FILE-SP-2026.jpg",
+            "kind": "artwork",
+            "credit": "Kaoru Tanaka / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "Reborn의 미끄럼틀과 흩어지는 점군 구조를 보여 주는 공식 작품 화면. 야외 놀이터의 자료 사진이 아니다.",
+            "checkedAt": "2026-11-23T10:59:15+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검은 바탕에서 분홍색 미끄럼틀의 곡선과 노란 구조물이 작은 색 조각으로 흩어지고 겹쳐진 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-23T10:59:15+09:00",
+            "identity": "point-cloud-generative-reconstruction",
+            "identityRationale": "미끄럼틀을 이루는 조각들이 퍼지고 무너지고 다시 연결되면서 알아볼 수 있는 형태와 흩어진 상태를 오간다. 축적된 공간 자료를 고정된 복원 모델로 끝내지 않고 시간 속에서 변하는 구조로 제시한다. 실제 점군 데이터를 바탕으로 놀이터 미끄럼틀을 지속적으로 분해·재구성하는 생성형 작품이다. 특정 사물의 기록과 기억의 변형을 연결하며, 행사의 2026년 표기를 최초 제작 연도로 추정하지 않는다.",
+            "evidence": [
+              "https://file.org.br/generative_2026/kaoru-tanaka-reborn-japao/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE 2026 전시 기록 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-23-04",
+          "originalTitle": "Market Cycles",
+          "creator": "Tan Mei Yee · Ng Choon Wee",
+          "title": "시장의 운반 상자가 빛을 통과시키는 방이 된다",
+          "publishedAt": "2026 첫 공개 / i Light Singapore 2026 기록·6월 5–28일 행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/market-cycles/",
+          "description": "습식 시장의 유통 상자를 모아 사람들이 머물 수 있는 빛의 공간을 만든다. 빛·공공 건축·재사용의 경계 사례로 수록하며 센서 반응이나 대화형 미디어 작품으로 분류하지 않는다.",
+          "insight": {
+            "mechanism": "통풍을 위한 상자의 구멍을 빛이 통과하는 표면으로 바꿔 색·무늬·질감의 층을 만든다. 유통에서 잠시 빌린 상자는 전시 뒤 다시 유통망으로 돌아가는 구조이며, 관객은 내부를 걷고 머물며 사물의 다른 쓰임을 경험한다.",
+            "whyNow": "주최기관은 올해 처음 도입한 i Light Future에서 이 작품의 첫 공개를 명시한다. 행사 종료를 밝히고 다시 읽는 이유는 기술적 반응보다 재료의 배치가 지각과 체류를 어떻게 바꾸는지 보기 위해서다.",
+            "directorPoint": "배경 소품의 구멍·이음새·반복을 빛의 통로로 사용할 수 있다. 같은 사물이 운반 도구에서 사람이 앉는 풍경으로 바뀌는 전환을 보여 주면 내레이션 없이도 사용과 가치의 이동이 읽힌다.",
+            "critique": "재사용 계획만으로 탄소 절감량이나 행사 전체의 지속 가능성이 입증되지는 않는다. 공식 자료는 관객을 감지하는 센서·조명 제어 알고리즘을 설명하지 않으므로 움직임에 반응한다고 덧붙이지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "노동·산업",
+              "기후·환경"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": "싱가포르 기반 (공식 작가 소개)",
+            "region": "동남·남아시아",
+            "venue": "Mist Walk, 싱가포르 / i Light Singapore 2026"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-23-04.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/dc3c36ad-b3ec-4bee-a485-0f8712d1a8f3/Market%20Cycles.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/market-cycles/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/dc3c36ad-b3ec-4bee-a485-0f8712d1a8f3/Market%20Cycles.jpg",
+            "kind": "installation",
+            "credit": "Tan Mei Yee · Ng Choon Wee / i Light Singapore·URA 공식 작품 사진·촬영자 미표기",
+            "caption": "빛나는 상자로 둘러싸인 Market Cycles 안에 관객이 서고 앉아 있는 공식 설치 사진.",
+            "checkedAt": "2026-11-23T10:59:15+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "밤의 수변에 흰빛이 통과하는 운반 상자가 벽과 좌석을 이루고 어른과 아이가 그 안에 머무는 모습"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-23T10:59:15+09:00",
+            "identity": "architectural-light-installation-boundary-case",
+            "identityRationale": "통풍을 위한 상자의 구멍을 빛이 통과하는 표면으로 바꿔 색·무늬·질감의 층을 만든다. 유통에서 잠시 빌린 상자는 전시 뒤 다시 유통망으로 돌아가는 구조이며, 관객은 내부를 걷고 머물며 사물의 다른 쓰임을 경험한다. 습식 시장의 유통 상자를 모아 사람들이 머물 수 있는 빛의 공간을 만든다. 빛·공공 건축·재사용의 경계 사례로 수록하며 센서 반응이나 대화형 미디어 작품으로 분류하지 않는다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/market-cycles/",
+              "https://www.ura.gov.sg/news/media/pr26-34/",
+              "https://designsingapore.org/events/i-light-singapore-2026/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 첫 공개 / i Light Singapore 2026 기록·6월 5–28일 행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-23-05",
+          "originalTitle": "Hand-held",
+          "creator": "David Rokeby",
+          "title": "빈 공간의 이미지를 손으로 찾아낸다",
+          "publishedAt": "2012 / Le Fresnoy 제작·2013 LABoral 전시 기록 아카이브",
+          "url": "https://www.lefresnoy.net/en/exposition/56/oeuvre/466/",
+          "description": "겉보기에는 비어 있는 공간에 손을 넣고 움직일 때 손과 손가락 위에 이미지가 나타나는 상호작용 설치다. 몸을 포인터로만 쓰지 않고 이미지가 드러나는 표면이자 탐색의 주체로 놓는다.",
+          "insight": {
+            "mechanism": "관객이 보이지 않는 조각의 영역으로 손을 옮기면 손의 피부에 이미지가 드러난다. 손의 이동으로 사물의 크기와 관계를 탐색한다. LABoral의 전시 설명과 Le Fresnoy의 2012년 제작 기록을 함께 확인했다.",
+            "whyNow": "과거 설치를 아카이브로 다시 읽으며 화면을 만지는 인터페이스와 몸 위에서 화면이 생기는 구조를 비교한다. 신체가 작품의 형상을 발견하는 방식이 구체적이어서 수록했다.",
+            "directorPoint": "숨겨 둔 이미지 전체를 큰 화면에 먼저 드러내기보다 인물이 손을 뻗는 범위에서만 조금씩 보이게 할 수 있다. 탐색하는 동작 자체가 발견의 속도와 정보량을 결정하도록 장면을 구성하는 방식이다.",
+            "critique": "빛의 이미지를 만난다는 경험이 물리적인 사물의 촉감을 제공한다는 뜻은 아니다. 여기의 공식 작품 이미지는 손과 사물을 담은 화면 자료이며 관객 피부에 투사된 현장 사진으로 오해하지 않아야 한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "프로젝션",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "신체·정체성",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Le Fresnoy, Tourcoing, 프랑스 / 2012 Panorama 14 제작·수록 기록"
+          },
+          "host": "www.lefresnoy.net",
+          "image": "images/2026-11-23-05.jpg",
+          "imageFallback": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/production/installation/kPvWq77Eec.jpg&w=1360&h=600&fmt=jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.lefresnoy.net/en/exposition/56/oeuvre/466/",
+            "sourceUrl": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/production/installation/kPvWq77Eec.jpg&w=1360&h=600&fmt=jpg",
+            "kind": "artwork",
+            "credit": "David Rokeby / Le Fresnoy 공식 Hand-Held 작품 이미지·촬영자 미표기",
+            "caption": "손과 사물을 겹쳐 보여 주는 Le Fresnoy의 Hand-Held 공식 작품 이미지. 관객의 피부에 투사된 설치 전경 사진과 구분한다.",
+            "checkedAt": "2026-11-23T10:59:15+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검은 바탕에 펼친 손과 동전·달걀을 주고받는 손이 서로 겹쳐 나타난 작품 이미지"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2012,
+            "researchedAt": "2026-11-23T10:59:15+09:00",
+            "identity": "body-surface-interactive-projection",
+            "identityRationale": "관객이 보이지 않는 조각의 영역으로 손을 옮기면 손의 피부에 이미지가 드러난다. 손의 이동으로 사물의 크기와 관계를 탐색한다. LABoral의 전시 설명과 Le Fresnoy의 2012년 제작 기록을 함께 확인했다. 겉보기에는 비어 있는 공간에 손을 넣고 움직일 때 손과 손가락 위에 이미지가 나타나는 상호작용 설치다. 몸을 포인터로만 쓰지 않고 이미지가 드러나는 표면이자 탐색의 주체로 놓는다.",
+            "evidence": [
+              "https://www.lefresnoy.net/en/exposition/56/oeuvre/466/",
+              "https://laboralcentrodearte.org/es/obras-y-proyectos/hand-held/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2012 / Le Fresnoy 제작·2013 LABoral 전시 기록 아카이브"
+          }
+        },
+        {
+          "id": "2026-11-23-06",
+          "originalTitle": "Listening Post",
+          "creator": "Mark Hansen · Ben Rubin",
+          "title": "흩어진 온라인 발화가 작은 화면들의 합창이 된다",
+          "publishedAt": "2005 Science Museum 소장 판본 / 2008 런던 설치 기록 아카이브",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8091687/listening-post",
+          "description": "인터넷에서 가져온 글과 합성 음성을 다수의 작은 화면과 소리로 다시 배치하는 설치다. 2002–2003 Whitney 전시 이력이 있는 작품 중, 여기서는 박물관이 제작 연도를 2005년으로 기록한 소장 판본을 다룬다.",
+          "insight": {
+            "mechanism": "소장 기록은 열한 개 화면 모듈을 스물한 묶음으로 배열하고 스피커 여덟 개와 서브우퍼, 컴퓨터·소프트웨어를 연결했다고 명시한다. 인터넷에서 추출한 문장이 화면의 글과 컴퓨터 합성 음성으로 공간에 놓인다.",
+            "whyNow": "온라인의 짧은 발화를 공간의 리듬으로 바꾸는 과거 사례를 읽는다. 게시물을 한 사람씩 따라 읽는 인터페이스와 다수의 문장이 동시에 놓인 장소에서 듣는 경험의 차이가 뚜렷하다.",
+            "directorPoint": "동일한 문장을 읽히는 글·들리는 목소리·화면의 위치로 나눠 배치할 수 있다. 모든 정보를 동시에 이해시키기보다 한 구절이 먼저 들리고 다른 구절이 눈에 들어오는 간격을 설계하는 응용이다.",
+            "critique": "공개된 온라인 발화가 다시 전시되는 과정에는 문맥과 동의의 문제가 남는다. 과거 자료의 인터넷 샘플링 설명을 오늘도 같은 데이터 수집이 작동한다는 근거로 사용하지 않는다. 박물관 소장과 현재 상설 전시는 같은 뜻이 아니다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "언어"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "음성·언어",
+              "데이터·시각화"
+            ],
+            "theme": [
+              "언어·번역",
+              "기억·아카이브",
+              "권력·감시"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Science Museum, 런던, 영국 / 소장번호 2014-47·2008 설치 기록"
+          },
+          "host": "collection.sciencemuseumgroup.org.uk",
+          "image": "images/2026-11-23-06.jpg",
+          "imageFallback": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/61%2F243%2F_Listening_Post__is_a_collaboration_by_sound_artist_Ben_Rubin.ptif/full/max/0/default.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://collection.sciencemuseumgroup.org.uk/objects/co8091687/listening-post",
+            "sourceUrl": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/61%2F243%2F_Listening_Post__is_a_collaboration_by_sound_artist_Ben_Rubin.ptif/full/max/0/default.jpg",
+            "kind": "installation",
+            "credit": "Science Museum Group Collection / © The Board of Trustees of the Science Museum · 작품 © Mark Hansen and Ben Rubin, 2005",
+            "caption": "Listening Post의 작은 녹색 문자 화면과 연결선을 보여 주는 공식 설치 기록. 2005년 소장 판본의 2008년 런던 설치 맥락으로 제공된 이미지.",
+            "checkedAt": "2026-11-23T10:59:15+09:00",
+            "usageBasis": "공식 소장 페이지가 이미지에 명시한 CC BY-NC-SA 4.0 조건에 따른 비상업적 축소 프리뷰. https://creativecommons.org/licenses/by-nc-sa/4.0/ · Science Museum Group 및 원작자 크레딧 표기. 원본을 1600픽셀로 축소·JPEG 재저장했으며 같은 라이선스로 제공한다. 상업 이용허락은 별도다.",
+            "alt": "방 안에 여러 줄로 매달린 작은 화면들이 녹색 단어를 표시하고 위쪽 연결선과 스피커가 함께 보이는 설치"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2005,
+            "researchedAt": "2026-11-23T10:59:15+09:00",
+            "identity": "network-text-audiovisual-installation",
+            "identityRationale": "소장 기록은 열한 개 화면 모듈을 스물한 묶음으로 배열하고 스피커 여덟 개와 서브우퍼, 컴퓨터·소프트웨어를 연결했다고 명시한다. 인터넷에서 추출한 문장이 화면의 글과 컴퓨터 합성 음성으로 공간에 놓인다. 인터넷에서 가져온 글과 합성 음성을 다수의 작은 화면과 소리로 다시 배치하는 설치다. 2002–2003 Whitney 전시 이력이 있는 작품 중, 여기서는 박물관이 제작 연도를 2005년으로 기록한 소장 판본을 다룬다.",
+            "evidence": [
+              "https://collection.sciencemuseumgroup.org.uk/objects/co8091687/listening-post",
+              "https://whitney.org/exhibitions/listening-post"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2005 Science Museum 소장 판본 / 2008 런던 설치 기록 아카이브"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "MicroImage: 정지된 프린트에서 생성의 시간을 읽기",
+        "keywords": [
+          "생성형 드로잉",
+          "규칙과 흔적",
+          "프린트 판본",
+          "현재 재전시"
+        ],
+        "sections": [
+          {
+            "heading": "연작의 이름보다 특정 소장품을 먼저 확인한다",
+            "body": "V&A 소장번호 E.274-2011은 MicroImage를 2002년 잉크젯 프린트로 기록한다. 현재 전시 Degrees of Disruption도 이 작품을 주요 항목으로 제시한다. 여기서 2026년은 원작의 제작 연도가 아니라 다시 만나는 전시의 시점이다. 같은 이름 아래 소프트웨어·영상·여러 프린트가 존재하므로 전시장의 실시간 화면을 본 것처럼 설명하지 않는다."
+          },
+          {
+            "heading": "선을 그리는 행동이 규칙의 누적으로 바뀐다",
+            "body": "작가의 설명에서 가상의 작은 기계들은 이동·회전·회피·추적 같은 단순한 관계에 따라 움직이고 궤적을 남긴다. 개별 규칙의 단순함과 축적된 화면의 복잡함 사이에 간격이 생긴다. 이 구조를 읽으면 유기적으로 보이는 무늬를 실제 생물의 모사나 생성 AI 결과라고 부르기 전에 무엇이 선을 만들었는지 물을 수 있다."
+          },
+          {
+            "heading": "멈춘 이미지는 시간의 흔적을 다른 크기로 보여 준다",
+            "body": "작가는 프린트와 소프트웨어를 서로 다른 지각 조건으로 설명한다. 프린트는 생성 과정의 상태를 높은 세부 밀도로 남기고, 소프트웨어는 변화의 시간을 펼친다. 이번 프리뷰에서는 왼쪽의 짙은 덩어리와 바깥으로 휘는 가는 선을 오래 읽을 수 있다. 이 차이는 멈춘 장면을 단순한 영상 대체물로 보지 않고, 어떤 시간과 세부를 관객에게 남길지 선택하는 연출의 문제로 이어진다."
+          },
+          {
+            "heading": "현재 전시는 연결의 근거이고 효과의 증명은 아니다",
+            "body": "V&A의 전시 맥락은 Vera Molnar의 컴퓨터·알고리즘 실험과 동시대 생성형 작업을 함께 읽게 한다. 이것이 모든 작가가 같은 코드를 썼거나 관객에게 같은 감각 효과를 준다는 뜻은 아니다. 소장품 기록은 연도·재료·사진을, 작가 글은 생성의 계보를, 전시 페이지는 현재의 만남을 뒷받침한다. 한 장의 프린트 사진으로 전체 연작의 동작과 상호작용을 입증할 수 없다는 한계도 남는다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "V&A — E.274-2011의 2002년 프린트 판본·재료·사진·권리",
+            "url": "https://collections.vam.ac.uk/item/O1193783/microimage-print-casey-reas/"
+          },
+          {
+            "label": "Casey Reas — 가상 기계의 규칙·궤적과 프린트/소프트웨어의 직접 설명",
+            "url": "https://reas.com/microimage"
+          },
+          {
+            "label": "V&A Degrees of Disruption — 현재 재전시 맥락·종료일·출품 목록",
+            "url": "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art"
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-11-22",
       "title": "고르는 손, 멈춘 몸, 다시 이어지는 이미지",
       "summary": "2026년 전시 기록으로 재소개하는 네 작품과 2025년 웹 커미션 아카이브 두 편을 읽는다. 읽기·모양 선택·손잡이 조작·관객의 이동·절차적 성장·작가의 미적 선택이 서로 다른 방식으로 시간과 의미를 바꾼다. 최초 제작 연도가 확인되지 않은 세 작품은 미확인으로 남겼다.",
@@ -28138,7 +28577,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-22T08:03:15+09:00",
+  "generatedAt": "2026-11-23T10:59:15+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-23",
+  "researchedAt": "2026-11-23T10:59:15+09:00",
+  "baseCommit": "de36c7ab4a7fd0ecdc2748daf04892a909216140",
+  "previousIssuesPreserved": 92,
+  "previousItemsPreserved": 513,
+  "governingPoliciesPreserved": true,
+  "manualIdentityAndImageReview": true,
+  "regions": {
+    "유럽": 3,
+    "중남미": 2,
+    "동남·남아시아": 1
+  },
+  "researchKinds": {
+    "new-work": 1,
+    "reexhibition": 3,
+    "archive": 2
+  },
+  "unknownWorkYears": 1,
+  "focusSections": 4,
+  "focusSources": 3,
+  "notes": [
+    "No historical issue dates or contents changed.",
+    "Hand-held official image is artwork content, not a documented projection on a visitor.",
+    "MicroImage is V&A print E.274-2011, not the FILE software variant.",
+    "Listening Post is the SMG 2005 object; no current live harvesting or current exhibition claimed.",
+    "Source availability errors were not bypassed."
+  ],
+  "imageReviews": [
+    {
+      "itemId": "2026-11-23-01",
+      "sourceUrl": "https://framemark.vam.ac.uk/collections/2011EY6960/full/735,/0/default.jpg",
+      "kind": "artwork",
+      "matchesWork": true,
+      "caption": "MicroImage, 2002, 잉크젯 프린트의 공식 소장품 사진. 실시간 소프트웨어 화면이나 현재 전시 전경과 구분한다."
+    },
+    {
+      "itemId": "2026-11-23-02",
+      "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06152141/file-sao-paulo-2026-kazuhiro-tanimoto-sea-of-code-dimensao-randomica.jpg",
+      "kind": "artwork",
+      "matchesWork": true,
+      "caption": "색의 흐름과 사각형의 틈이 겹치는 Sea of Code 공식 작품 프리뷰. 작가 초상·행사 포스터와 구분한다."
+    },
+    {
+      "itemId": "2026-11-23-03",
+      "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Kaoru-Tanaka-Reborn-Japao-_-Japan-Generatrix-FILE-SP-2026.jpg",
+      "kind": "artwork",
+      "matchesWork": true,
+      "caption": "Reborn의 미끄럼틀과 흩어지는 점군 구조를 보여 주는 공식 작품 화면. 야외 놀이터의 자료 사진이 아니다."
+    },
+    {
+      "itemId": "2026-11-23-04",
+      "sourceUrl": "https://isomer-user-content.by.gov.sg/365/dc3c36ad-b3ec-4bee-a485-0f8712d1a8f3/Market%20Cycles.jpg",
+      "kind": "installation",
+      "matchesWork": true,
+      "caption": "빛나는 상자로 둘러싸인 Market Cycles 안에 관객이 서고 앉아 있는 공식 설치 사진."
+    },
+    {
+      "itemId": "2026-11-23-05",
+      "sourceUrl": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/production/installation/kPvWq77Eec.jpg&w=1360&h=600&fmt=jpg",
+      "kind": "artwork",
+      "matchesWork": true,
+      "caption": "손과 사물을 겹쳐 보여 주는 Le Fresnoy의 Hand-Held 공식 작품 이미지. 관객의 피부에 투사된 설치 전경 사진과 구분한다."
+    },
+    {
+      "itemId": "2026-11-23-06",
+      "sourceUrl": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/61%2F243%2F_Listening_Post__is_a_collaboration_by_sound_artist_Ben_Rubin.ptif/full/max/0/default.jpg",
+      "kind": "installation",
+      "matchesWork": true,
+      "caption": "Listening Post의 작은 녹색 문자 화면과 연결선을 보여 주는 공식 설치 기록. 2005년 소장 판본의 2008년 런던 설치 맥락으로 제공된 이미지."
+    }
+  ],
+  "gates": {
+    "candidate": {
+      "exit": 0,
+      "fails": 0,
+      "warns": 0
+    },
+    "date": {
+      "exit": 0,
+      "fails": 0,
+      "warns": 1
+    },
+    "archive": {
+      "exit": 0,
+      "fails": 0,
+      "warns": 81
+    },
+    "quality": {
+      "exit": 0,
+      "result": "Search and publication regression checks passed."
+    },
+    "linked": {
+      "exit": 0,
+      "fails": 0,
+      "warns": 0
+    },
+    "identity": {
+      "exit": 0,
+      "fails": 0,
+      "warns": 0
+    },
+    "images": {
+      "exit": 0,
+      "fails": 0,
+      "warns": 0
+    }
+  },
+  "creatorRecentWarning": {
+    "itemId": "2026-11-23-05",
+    "previousId": "2026-11-15-02",
+    "reason": "동일 작가의 서로 다른 작품. Very Nervous System의 신체-소리 구조와 Hand-held의 손/피부 이미지 탐색을 구분하고 경고를 보존."
+  }
+}
