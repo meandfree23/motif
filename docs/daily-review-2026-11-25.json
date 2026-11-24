@@ -1,0 +1,196 @@
+{
+  "researchedAt": "2026-11-25T08:39:34+09:00",
+  "dates": [
+    "2026-11-24",
+    "2026-11-25"
+  ],
+  "backfillDate": "2026-11-24",
+  "actualPublicationDate": "2026-11-25",
+  "baseCommit": "25a090df45c019a6b4a37313309d4363ee4b9a07",
+  "previousIssuesPreserved": 93,
+  "previousItemsPreserved": 519,
+  "governingPoliciesPreserved": true,
+  "manualIdentityAndImageReview": true,
+  "unknownWorkYears": [
+    "2026-11-24-02",
+    "2026-11-24-04",
+    "2026-11-25-04",
+    "2026-11-25-05"
+  ],
+  "excludedCandidates": [
+    {
+      "work": "Filaments Outside",
+      "reason": "공식 소개 사진이 야외 연주 기록이며 새 설치의 실제 사진으로 확정하지 않음"
+    },
+    {
+      "work": "Duo",
+      "reason": "공식 소개의 피아노 연주 사진을 새 자동 연주 설치 사진으로 쓰지 않음"
+    }
+  ],
+  "imageReviews": [
+    {
+      "itemId": "2026-11-24-01",
+      "sourcePage": "https://archive.file.org.br/obras-artisticas/240507-reality-lens/",
+      "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/05225131/file-sao-paulo-2026-che-yu-wu-240507-reality-lens-dimensao-randomica.jpg",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "금속성 색 띠와 렌즈 같은 고리가 겹치는 공식 작품 화면. 전시장 사진이나 관객 반응의 기록으로 사용하지 않는다."
+    },
+    {
+      "itemId": "2026-11-24-02",
+      "sourcePage": "https://file.org.br/generative_2026/driessens-verstappen-e-volved-formula-23-holanda/",
+      "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Driessens-Verstappen-E-volved-Formula-23-Holanda-Generatrix-FILE-SP-2026.jpg",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "E-volved Formula #23의 흑백 선과 입자 질감이 교차하는 공식 프리뷰. 행사 배너·로고와 구분한다."
+    },
+    {
+      "itemId": "2026-11-24-03",
+      "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/steps/",
+      "sourceUrl": "https://isomer-user-content.by.gov.sg/365/a1d275d1-ea8d-4e25-814d-273dae11912f/Steps.jpg",
+      "kind": "installation",
+      "manuallyCompared": true,
+      "caption": "겹친 빛 프레임 사이에 관객이 서 있는 Steps 공식 설치 사진."
+    },
+    {
+      "itemId": "2026-11-24-04",
+      "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/arch-flower/",
+      "sourceUrl": "https://isomer-user-content.by.gov.sg/365/3f5036c7-50c0-490d-a840-aaa96fb4e40f/Arch%20Flower.jpg",
+      "kind": "installation",
+      "manuallyCompared": true,
+      "caption": "Arch Flower의 다채로운 관 형태와 주변 관객을 보여 주는 공식 설치 사진."
+    },
+    {
+      "itemId": "2026-11-24-05",
+      "sourcePage": "https://collections.vam.ac.uk/item/O1813686",
+      "sourceUrl": "https://framemark.vam.ac.uk/collections/2026PN4293/full/735,/0/default.jpg",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "붓 플로터로 제작한 수성 회화의 공식 소장품 사진. 화면 캡처나 잉크젯 인쇄와 구분한다."
+    },
+    {
+      "itemId": "2026-11-24-06",
+      "sourcePage": "https://collections.vam.ac.uk/item/O1813863",
+      "sourceUrl": "https://framemark.vam.ac.uk/collections/2026PP6530/full/735,/0/default.jpg",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "Sketchbook A #64의 공식 프린트 사진. 소프트웨어 실행 화면이나 현재 전시 전경이 아니다."
+    },
+    {
+      "itemId": "2026-11-25-01",
+      "sourcePage": "https://atsukomochida.jp/works/dance/",
+      "sourceUrl": "https://atsukomochida.jp/wp-content/uploads/2026/10/IMG_8270-1024x801.jpg",
+      "kind": "installation",
+      "manuallyCompared": true,
+      "caption": "작가의 Dance 페이지에 게시된 2026년 설치 사진. 움직이는 목재 구조와 상부의 물체·조명이 함께 보인다."
+    },
+    {
+      "itemId": "2026-11-25-02",
+      "sourcePage": "https://www.teamlababudhabi.com/en/artworks/levitation-void",
+      "sourceUrl": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/levitation-169f.jpg?h=1080&w=1920",
+      "kind": "installation",
+      "manuallyCompared": true,
+      "caption": "붉은 공간의 검은 부유 형태를 보여 주는 Levitation Void 공식 이미지. 크기·높이의 수치를 사진에서 추정하지 않는다."
+    },
+    {
+      "itemId": "2026-11-25-03",
+      "sourcePage": "https://www.ntticc.or.jp/en/archive/works/juggler/",
+      "sourceUrl": "https://www.ntticc.or.jp/uploads/assets/000/f1a1c.303.large.jpg",
+      "kind": "installation",
+      "manuallyCompared": true,
+      "caption": "원통형 회전 구조와 저글러의 연속 동작 조각을 담은 공식 설치 사진. 2026년 촬영이라는 주장은 하지 않는다."
+    },
+    {
+      "itemId": "2026-11-25-04",
+      "sourcePage": "https://archive.file.org.br/obras-artisticas/confetti/",
+      "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/05225352/file-sao-paulo-2026-chris-barber-confetti-dimensao-randomica.png",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "Confetti의 사각형 궤적이 겹치는 공식 작품 화면. 행사 포스터나 작가 초상과 구분한다."
+    },
+    {
+      "itemId": "2026-11-25-05",
+      "sourcePage": "https://archive.file.org.br/obras-artisticas/acw-sunaosystem/",
+      "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/29224001/file-sao-paulo-2026-ayumu-nagamatsu-acw-sunaosystem-dimensao-randomica.jpg",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "ACW SunaoSystem의 흑백 생성 화면. 실제 건축물의 촬영 장면이라고 추정하지 않는다."
+    },
+    {
+      "itemId": "2026-11-25-06",
+      "sourcePage": "https://collections.vam.ac.uk/item/O1193781",
+      "sourceUrl": "https://framemark.vam.ac.uk/collections/2011EY3129/full/735,/0/default.jpg",
+      "kind": "artwork",
+      "manuallyCompared": true,
+      "caption": "(Des)Ordres, 1974의 공식 소장품 사진. 실제로 움직이는 화면이 아니라 색 잉크 플로터 드로잉이다."
+    }
+  ],
+  "gates": {
+    "candidate": {
+      "exit": 0,
+      "fails": [],
+      "warns": []
+    },
+    "date24": {
+      "exit": 0,
+      "fails": [],
+      "warns": [
+        {
+          "code": "creator-recent",
+          "msg": "2026-11-24-04 (Cyril Lancelin / Arch Flower) — same creator as 2026-11-10-04 within 14 days",
+          "ids": [
+            "2026-11-24-04",
+            "2026-11-10-04"
+          ]
+        }
+      ]
+    },
+    "date25": {
+      "exit": 0,
+      "fails": [],
+      "warns": [
+        {
+          "code": "creator-recent",
+          "msg": "2026-11-25-02 (teamLab / Levitation Void) — same creator as 2026-11-11-05 within 14 days",
+          "ids": [
+            "2026-11-25-02",
+            "2026-11-11-05"
+          ]
+        }
+      ]
+    },
+    "archive": {
+      "exit": 0,
+      "fails": [],
+      "warns": [
+        "Legacy archive quantity/diversity warnings retained; see archive-gate.json"
+      ]
+    },
+    "quality": {
+      "exit": 0,
+      "text": "Search and publication regression checks passed.\n"
+    },
+    "linked": {
+      "exit": 0,
+      "fails": [],
+      "warns": []
+    },
+    "identity": {
+      "exit": 0,
+      "fails": [],
+      "warns": []
+    },
+    "images24": {
+      "exit": 0,
+      "fails": [],
+      "warns": []
+    },
+    "images25": {
+      "exit": 0,
+      "fails": [],
+      "warns": []
+    }
+  },
+  "missingDatesAfter": [],
+  "archiveWarningCount": 81
+}

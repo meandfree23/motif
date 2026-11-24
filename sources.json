@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
   "rule": "하루 한 출처(도메인) 최대 2개, 한 이슈에 최소 3개 권역, 30일 기준 한 권역 50% 이하",
   "sources": [
     {
@@ -511,6 +511,34 @@
       "url": "https://collection.sciencemuseumgroup.org.uk/",
       "region": "유럽",
       "place": "런던, 영국",
+      "type": "기관"
+    },
+    {
+      "name": "Atsuko Mochida Works",
+      "url": "https://atsukomochida.jp/works/",
+      "region": "동아시아",
+      "place": "일본 / 작가 기록",
+      "type": "작가 아카이브"
+    },
+    {
+      "name": "Che-Yu Wu Works",
+      "url": "https://cheyuwu.com/work/",
+      "region": "동아시아",
+      "place": "대만 / 작가 기록",
+      "type": "작가 아카이브"
+    },
+    {
+      "name": "FILE Archive",
+      "url": "https://archive.file.org.br/",
+      "region": "중남미",
+      "place": "상파울루, 브라질",
+      "type": "기관"
+    },
+    {
+      "name": "teamLab Phenomena Abu Dhabi",
+      "url": "https://www.teamlababudhabi.com/en/explore/artworks",
+      "region": "중동",
+      "place": "아부다비, UAE",
       "type": "기관"
     }
   ]

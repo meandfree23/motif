@@ -1,6 +1,869 @@
 {
   "issues": [
     {
+      "date": "2026-11-25",
+      "title": "움직이는 집과 떠 있는 형태, 질서를 감각하는 방법",
+      "summary": "YCAM의 2026년 신작 Dance와 아부다비의 현재 설치, 올해 다시 전시된 입체 애니메이션, 생성형 화면 두 편, V&A의 플로터 드로잉을 읽는다. 신작·현재 재소개·행사 종료 기록을 구분하고, 제작 연도 미확인 두 편과 사운드 크레딧의 출처 차이도 남겼다.",
+      "items": [
+        {
+          "id": "2026-11-25-01",
+          "originalTitle": "Dance",
+          "creator": "Otomo Yoshihide · Mochida Atsuko · Ito Takayuki · YCAM",
+          "title": "해체한 집의 기둥과 소음이 함께 춤추는 공간",
+          "publishedAt": "2026 신작 / YCAM 즉흥! 현재 전시·2027년 3월 1일까지",
+          "url": "https://atsukomochida.jp/works/dance/",
+          "description": "철거한 목조 주택의 기둥과 보를 움직이는 구조로 다시 조립하고, 가전·스피커의 소음과 결합한 설치다. 일반적인 무용 공연이 아니라 구조의 움직임과 소리가 공간을 바꾸는 작품으로 읽는다.",
+          "insight": {
+            "mechanism": "Mochida의 목재 구조가 움직이며 내는 소리에 Otomo가 구성한 가전과 스피커의 소음이 섞인다. 공식 크레딧은 Ito의 시스템 설계·프로그래밍과 YCAM의 윈치 제어 개발을 나누어 명시한다.",
+            "whyNow": "2026년 YCAM 위촉·세계 첫 공개로 등록된 신작이다. 현재 전시의 특정 작품을 작가의 설치 사진·제작 크레딧과 대조해 수록했다.",
+            "directorPoint": "소리를 완성 화면에 덧붙이는 대신, 세트가 실제 움직이면서 내는 소리와 별도로 배치한 소음이 함께 장면의 긴장을 만들도록 생각할 수 있다.",
+            "critique": "기계의 움직임이 즉흥처럼 보인다는 말은 모든 동작이 무작위라는 뜻이 아니다. 관객 전체가 제어하는 센서 작품으로 설명하지 않으며 시민이 참여하는 별도 공연과 상시 설치를 구분한다."
+          },
+          "tags": {
+            "sense": [
+              "청각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "공간음향"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "YCAM Studio A, 야마구치, 일본 / 즉흥! 전시"
+          },
+          "host": "atsukomochida.jp",
+          "image": "images/2026-11-25-01.jpg",
+          "imageFallback": "https://atsukomochida.jp/wp-content/uploads/2026/10/IMG_8270-1024x801.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://atsukomochida.jp/works/dance/",
+            "sourceUrl": "https://atsukomochida.jp/wp-content/uploads/2026/10/IMG_8270-1024x801.jpg",
+            "kind": "installation",
+            "credit": "Otomo Yoshihide · Mochida Atsuko · Ito Takayuki · YCAM / Atsuko Mochida 공식 작품 사진·촬영자 미표기",
+            "caption": "작가의 Dance 페이지에 게시된 2026년 설치 사진. 움직이는 목재 구조와 상부의 물체·조명이 함께 보인다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검은 극장 안에서 집의 골격 같은 목재 구조가 매달리고 위쪽에 가전과 물체가 흩어져 있으며 왼쪽에 사람이 선 모습"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "kinetic-reclaimed-timber-sound-installation",
+            "identityRationale": "Mochida의 목재 구조가 움직이며 내는 소리에 Otomo가 구성한 가전과 스피커의 소음이 섞인다. 공식 크레딧은 Ito의 시스템 설계·프로그래밍과 YCAM의 윈치 제어 개발을 나누어 명시한다. 철거한 목조 주택의 기둥과 보를 움직이는 구조로 다시 조립하고, 가전·스피커의 소음과 결합한 설치다. 일반적인 무용 공연이 아니라 구조의 움직임과 소리가 공간을 바꾸는 작품으로 읽는다.",
+            "evidence": [
+              "https://atsukomochida.jp/works/dance/",
+              "https://www.ycam.jp/archive/works/dance/",
+              "https://otomo-sokkyo.ycam.jp/installations/",
+              "https://www.ycam.jp/events/2026/improvisation/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 신작 / YCAM 즉흥! 현재 전시·2027년 3월 1일까지"
+          }
+        },
+        {
+          "id": "2026-11-25-02",
+          "originalTitle": "Levitation Void",
+          "creator": "teamLab",
+          "title": "떠 있는 검은 형태가 환경과 함께 상태를 되찾는다",
+          "publishedAt": "2025 판본·연작 2021– / teamLab Phenomena Abu Dhabi 현재 설치 재소개",
+          "url": "https://www.teamlababudhabi.com/en/artworks/levitation-void",
+          "description": "공간 안에서 오르고 내려오며 부유 상태를 되찾는 형태를 작가가 환경과 분리할 수 없는 조각으로 설명한다. 반중력이나 질량 소멸을 입증한 과학 장치로 다루지 않는다.",
+          "insight": {
+            "mechanism": "공식 설명에서 형태는 매달리지 않은 채 공중에 머물고, 움직이거나 바닥에 내려온 뒤 다시 올라온다. 이를 특정 환경이 유지하는 에너지의 질서로 설명하지만 상세 구동 원리는 공개 본문에 없다.",
+            "whyNow": "중동의 현재 설치를 통해 작품의 경계를 물체 하나보다 주변 조건까지 확장하는 방식을 읽는다. 2025년 판본과 2021년 시작 연작의 날짜를 구분했다.",
+            "directorPoint": "상태가 무너지는 순간을 실패로 바로 편집해 지우지 않고 회복까지 기다리게 할 수 있다. 인물이 잠시 서 있는 시간이 형태의 안정과 불안을 드러내는 장면이 된다.",
+            "critique": "환경 의존성을 관객의 모든 동작을 추적한다는 뜻으로 확장하지 않는다. 사운드는 작가 페이지가 teamLab, 운영기관 페이지가 Hideaki Takahashi로 적어 차이를 미확인으로 남기고 단정하지 않았다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중동",
+            "venue": "teamLab Phenomena Abu Dhabi, Saadiyat Cultural District / 아부다비, UAE"
+          },
+          "host": "www.teamlababudhabi.com",
+          "image": "images/2026-11-25-02.jpg",
+          "imageFallback": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/levitation-169f.jpg?h=1080&w=1920",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.teamlababudhabi.com/en/artworks/levitation-void",
+            "sourceUrl": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/levitation-169f.jpg?h=1080&w=1920",
+            "kind": "installation",
+            "credit": "teamLab / teamLab Phenomena Abu Dhabi 공식 작품 이미지·촬영자 미표기",
+            "caption": "붉은 공간의 검은 부유 형태를 보여 주는 Levitation Void 공식 이미지. 크기·높이의 수치를 사진에서 추정하지 않는다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "붉은 방에서 커다란 검은 구형의 형태가 떠 있고 그 아래쪽에 한 관객의 실루엣이 보이는 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2025,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "environment-dependent-levitating-sculpture",
+            "identityRationale": "공식 설명에서 형태는 매달리지 않은 채 공중에 머물고, 움직이거나 바닥에 내려온 뒤 다시 올라온다. 이를 특정 환경이 유지하는 에너지의 질서로 설명하지만 상세 구동 원리는 공개 본문에 없다. 공간 안에서 오르고 내려오며 부유 상태를 되찾는 형태를 작가가 환경과 분리할 수 없는 조각으로 설명한다. 반중력이나 질량 소멸을 입증한 과학 장치로 다루지 않는다.",
+            "evidence": [
+              "https://www.teamlababudhabi.com/en/artworks/levitation-void",
+              "https://api.team-lab.cn/ew/levitationvoid-phenomena/phenomena/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 판본·연작 2021– / teamLab Phenomena Abu Dhabi 현재 설치 재소개"
+          }
+        },
+        {
+          "id": "2026-11-25-03",
+          "originalTitle": "Juggler",
+          "creator": "Gregory Barsamian",
+          "title": "실제 조각의 연속 동작이 방 안에서 움직이는 이미지가 된다",
+          "publishedAt": "1997 / ICC Annual 2026 재전시 기록·11월 8일 종료",
+          "url": "https://www.ntticc.or.jp/en/archive/works/juggler/",
+          "description": "회전하는 입체 조각과 스트로브 조명을 결합한 애니메이션 설치다. 전화를 던진 저글러의 사물이 다른 형태로 바뀌는 순환을 같은 물리적 공간에서 본다.",
+          "insight": {
+            "mechanism": "동작의 순간을 개별 입체 조각으로 나누어 원통형 구조에 같은 간격으로 배치한다. 모터로 회전시키고 점멸하는 빛을 더해 멈춘 조각들이 이어 움직이는 것처럼 보이게 한다.",
+            "whyNow": "ICC는 1997년 작품을 올해 연례전에 다시 수록했다. 화면 속 애니메이션과 물리적 조각을 같은 공간에서 보는 매체의 차이를 살핀다.",
+            "directorPoint": "프레임을 모두 평면 이미지로 만들기 전에 동작의 단계들을 공간에 배치해 볼 수 있다. 빛이 보여 주는 시간과 구조가 회전하는 시간을 조율하는 방식이다.",
+            "critique": "공식 사진은 동작의 전체 순서를 재생하지 않는다. 스트로브 경험을 정지 사진의 화려함으로만 평가하면 관람 조건이 지워지며, 관객이 직접 회전을 조작하는 작품이라는 근거도 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "라이트·LED"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동아시아",
+            "venue": "NTT ICC Gallery B, 도쿄, 일본 / ICC Annual 2026"
+          },
+          "host": "www.ntticc.or.jp",
+          "image": "images/2026-11-25-03.jpg",
+          "imageFallback": "https://www.ntticc.or.jp/uploads/assets/000/f1a1c.303.large.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ntticc.or.jp/en/archive/works/juggler/",
+            "sourceUrl": "https://www.ntticc.or.jp/uploads/assets/000/f1a1c.303.large.jpg",
+            "kind": "installation",
+            "credit": "Gregory Barsamian / 사진 OHTAKA Takashi · NTT ICC 공식 작품 기록",
+            "caption": "원통형 회전 구조와 저글러의 연속 동작 조각을 담은 공식 설치 사진. 2026년 촬영이라는 주장은 하지 않는다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "높은 원통 틀 주위로 붉은 윤곽의 저글러와 공중에 이어지는 여러 사물의 조각이 배치된 설치"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 1997,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "three-dimensional-zoetrope-installation",
+            "identityRationale": "동작의 순간을 개별 입체 조각으로 나누어 원통형 구조에 같은 간격으로 배치한다. 모터로 회전시키고 점멸하는 빛을 더해 멈춘 조각들이 이어 움직이는 것처럼 보이게 한다. 회전하는 입체 조각과 스트로브 조명을 결합한 애니메이션 설치다. 전화를 던진 저글러의 사물이 다른 형태로 바뀌는 순환을 같은 물리적 공간에서 본다.",
+            "evidence": [
+              "https://www.ntticc.or.jp/en/archive/works/juggler/",
+              "https://www.ntticc.or.jp/en/exhibitions/2026/icc-annual-2026/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "1997 / ICC Annual 2026 재전시 기록·11월 8일 종료"
+          }
+        },
+        {
+          "id": "2026-11-25-04",
+          "originalTitle": "Confetti",
+          "creator": "Chris Barber",
+          "title": "사각형의 궤적이 부드러운 우연의 방향을 드러낸다",
+          "publishedAt": "제작연도 미확인 / FILE 2026 재소개·행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/confetti/",
+          "description": "움직이는 입자들이 채도가 높은 사각형의 흔적을 남기는 생성형 작품이다. 같은 이름의 하드웨어 서비스나 동명이인의 활동과 구분해 FILE의 개별 작품을 특정했다.",
+          "insight": {
+            "mechanism": "입자들이 한 단계씩 이동하며 사각형의 띠를 남기고, 퍼린 노이즈가 방향 변화에 부드러운 연속성을 준다. 새로고침하면 구성이 다시 조직되는 과정을 공식 설명이 명시한다.",
+            "whyNow": "올해 FILE 기록을 통해 우연을 단순한 흩뿌림이 아니라 이동과 누적의 규칙으로 읽는다. 2026년은 수록 연도이며 최초 제작 연도는 확인되지 않았다.",
+            "directorPoint": "입자의 현재 위치만 보여 주지 않고 지나온 경로를 면으로 남길 수 있다. 매끈한 움직임과 각진 흔적이 함께 보이도록 속도와 잔상의 길이를 달리하는 응용이다.",
+            "critique": "새로고침마다 달라진다는 설명만으로 결과가 수학적으로 절대 반복되지 않는다고 보장할 수는 없다. 관객 몸을 감지한다는 근거는 없으며 FILE는 비상호작용으로 기록한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "정보·불확실성",
+              "지각·반사"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-25-04.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/05225352/file-sao-paulo-2026-chris-barber-confetti-dimensao-randomica.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/confetti/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/05225352/file-sao-paulo-2026-chris-barber-confetti-dimensao-randomica.png",
+            "kind": "artwork",
+            "credit": "Chris Barber / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "Confetti의 사각형 궤적이 겹치는 공식 작품 화면. 행사 포스터나 작가 초상과 구분한다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검은 바탕에서 분홍·노랑·청록·빨강의 사각형 띠가 중앙에 모였다 여러 방향으로 퍼지는 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "perlin-guided-random-walker-generative-composition",
+            "identityRationale": "입자들이 한 단계씩 이동하며 사각형의 띠를 남기고, 퍼린 노이즈가 방향 변화에 부드러운 연속성을 준다. 새로고침하면 구성이 다시 조직되는 과정을 공식 설명이 명시한다. 움직이는 입자들이 채도가 높은 사각형의 흔적을 남기는 생성형 작품이다. 같은 이름의 하드웨어 서비스나 동명이인의 활동과 구분해 FILE의 개별 작품을 특정했다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/confetti/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE 2026 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-25-05",
+          "originalTitle": "ACW SunaoSystem",
+          "creator": "Ayumu Nagamatsu",
+          "title": "소리의 공격점이 코드로 만든 장면을 전환한다",
+          "publishedAt": "제작연도 미확인 / FILE 2026 재소개·행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/acw-sunaosystem/",
+          "description": "오디오 파일을 입력으로 삼아 맞춤 시청각 시스템이 이미지를 생성하고 기록한 작품이다. 전시에서 관객이 마이크를 조작하는 공연이나 상호작용 설치로 추정하지 않는다.",
+          "insight": {
+            "mechanism": "C/C++와 openFrameworks로 형태를 생성하고 소리의 트랜지언트를 검출해 장면·효과·매개변수를 바꾼다. 좌표 변환·연속 매핑·프랙털 등의 규칙이 영상의 변화를 만든다는 공식 설명을 따른다.",
+            "whyNow": "올해 FILE의 개별 기록에서 소리와 이미지의 연결 단위를 읽는다. 단순히 음악에 반응한다는 말 대신 무엇을 검출해 어떤 요소를 바꾸는지 구분한다.",
+            "directorPoint": "음량 전체를 화면 크기에 바로 대응시키기보다 공격음 같은 특정 사건이 장면의 규칙을 전환하게 할 수 있다. 소리가 장면의 편집점이 되는 응용이다.",
+            "critique": "공식 소개는 소스가 공개됐다고 설명하지만 이번 조사에서 그 저장소·코드 판본을 직접 검증하지 않았으므로 구현 확인으로 주장하지 않는다. 사용 오디오의 저작자와 최초 제작 연도도 이 기록만으로는 확인되지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "영상·필름"
+            ],
+            "theme": [
+              "정보·불확실성",
+              "인간-기계 관계"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-25-05.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/29224001/file-sao-paulo-2026-ayumu-nagamatsu-acw-sunaosystem-dimensao-randomica.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/acw-sunaosystem/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/29224001/file-sao-paulo-2026-ayumu-nagamatsu-acw-sunaosystem-dimensao-randomica.jpg",
+            "kind": "artwork",
+            "credit": "Ayumu Nagamatsu / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "ACW SunaoSystem의 흑백 생성 화면. 실제 건축물의 촬영 장면이라고 추정하지 않는다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검정 바탕에 밝은 흰 면과 선형 무늬가 원근감 있게 겹치고 빛이 번지는 추상 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "audio-transient-driven-code-generated-video",
+            "identityRationale": "C/C++와 openFrameworks로 형태를 생성하고 소리의 트랜지언트를 검출해 장면·효과·매개변수를 바꾼다. 좌표 변환·연속 매핑·프랙털 등의 규칙이 영상의 변화를 만든다는 공식 설명을 따른다. 오디오 파일을 입력으로 삼아 맞춤 시청각 시스템이 이미지를 생성하고 기록한 작품이다. 전시에서 관객이 마이크를 조작하는 공연이나 상호작용 설치로 추정하지 않는다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/acw-sunaosystem/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE 2026 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-25-06",
+          "originalTitle": "(Des)Ordres",
+          "creator": "Vera Molnár",
+          "title": "같은 격자 안의 작은 어긋남이 진동처럼 보인다",
+          "publishedAt": "1974 / V&A 현재 전시 재소개",
+          "url": "https://collections.vam.ac.uk/item/O1193781",
+          "description": "V&A 소장품 E.271-2011은 색 잉크로 그린 플로터 드로잉이다. 디지털 화면이 아니라 종이에 남은 규칙과 어긋남을 읽는 컴퓨터 아트 사례로 수록한다.",
+          "insight": {
+            "mechanism": "20×20 격자의 각 칸에 크기가 다른 사각형이 겹친다. 알고리즘의 매개변수를 바꿔 동심 사각형의 규칙성을 흐트러뜨리며 질서와 불규칙의 차이가 움직임 같은 인상을 만든다.",
+            "whyNow": "V&A 현재 전시는 Molnár의 실험과 동시대 생성형 예술을 함께 다룬다. 오래된 원작을 오늘 만든 것으로 바꾸지 않고 현재 재전시 맥락을 밝힌다.",
+            "directorPoint": "반복 세트나 그래픽의 모든 요소를 크게 변화시키기 전에 일정한 규칙과 작은 편차를 함께 설계할 수 있다. 어긋남을 인지하는 관객의 시간이 장면의 리듬이 된다.",
+            "critique": "진동처럼 보인다는 인상과 종이가 실제 움직인다는 사실은 다르다. 사진으로 플로터의 경로·그리는 순서까지 재구성할 수 없고 생성 규칙이 관객에게 동일한 감각을 보장하지도 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "V&A South Kensington, Room 88a / 런던, 영국"
+          },
+          "host": "collections.vam.ac.uk",
+          "image": "images/2026-11-25-06.jpg",
+          "imageFallback": "https://framemark.vam.ac.uk/collections/2011EY3129/full/735,/0/default.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://collections.vam.ac.uk/item/O1193781",
+            "sourceUrl": "https://framemark.vam.ac.uk/collections/2011EY3129/full/735,/0/default.jpg",
+            "kind": "artwork",
+            "credit": "© Victoria and Albert Museum, London / Vera Molnar · E.271-2011",
+            "caption": "(Des)Ordres, 1974의 공식 소장품 사진. 실제로 움직이는 화면이 아니라 색 잉크 플로터 드로잉이다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "V&A 소장품 페이지가 명시한 비상업적 온라인 이용 조건(최대 768픽셀·최대 5년)에 맞춰 긴 변을 768픽셀 이내로 축소한 프리뷰. 출처·권리자 표시. 2026-11-25 확인, 2031-11-25 이전 이용 재검토. 별도 상업 이용허락은 주장하지 않는다.",
+            "alt": "종이 위 20×20 격자에 크기와 색이 조금씩 다른 작은 사각형들이 겹쳐 배열된 드로잉"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 1974,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "algorithmic-colour-plotter-drawing",
+            "identityRationale": "20×20 격자의 각 칸에 크기가 다른 사각형이 겹친다. 알고리즘의 매개변수를 바꿔 동심 사각형의 규칙성을 흐트러뜨리며 질서와 불규칙의 차이가 움직임 같은 인상을 만든다. V&A 소장품 E.271-2011은 색 잉크로 그린 플로터 드로잉이다. 디지털 화면이 아니라 종이에 남은 규칙과 어긋남을 읽는 컴퓨터 아트 사례로 수록한다.",
+            "evidence": [
+              "https://collections.vam.ac.uk/item/O1193781",
+              "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "1974 / V&A 현재 전시 재소개"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "Dance: 집의 기억을 움직이는 구조와 소리로 다시 짜기",
+        "keywords": [
+          "재사용 목재",
+          "기계의 동작",
+          "공간의 소리",
+          "협업 크레딧"
+        ],
+        "sections": [
+          {
+            "heading": "장소의 기억은 실제 재료에서 출발한다",
+            "body": "작가의 작품 기록에서 기둥과 보는 철거한 목조 주택에서 가져온 재료다. 여기서 집은 영상의 배경이나 과거를 설명하는 내레이션에 머물지 않고 현재 움직이는 구조의 물질이 된다. YCAM은 이 작품을 2026년 위촉·세계 첫 공개로 기록한다. 이 연도는 과거 공연 사진의 재발견을 신작으로 이름 붙인 것이 아니다."
+          },
+          {
+            "heading": "보이는 동작과 들리는 소리를 분리해 읽는다",
+            "body": "구조의 움직임이 내는 소리와 가전·스피커에서 방출되는 소음은 함께 공간에 놓이지만 같은 발생원은 아니다. 관객은 어느 방향에서 무엇이 움직이고 들리는지 비교한다. 연출 응용은 화면 위에 효과음을 덧씌우는 데서 끝나지 않고 세트의 운동·재료·소리의 위치가 서로 어떤 관계를 만들지 정하는 데 있다."
+          },
+          {
+            "heading": "자동화의 뒤에는 구체적인 제작 역할이 있다",
+            "body": "공식 크레딧은 Otomo의 사운드 디렉션, Mochida의 시각 디렉션과 공동 구성, Ito의 시스템 설계·프로그래밍을 구분하고 윈치 제어 등의 개발 역할도 밝힌다. 즉흥이라는 제목만으로 모든 동작이 우연이거나 시스템이 저자 없이 만들어졌다고 설명할 수 없다. 참여자의 이름과 역할은 작품의 경험 구조를 이해하는 근거가 된다."
+          },
+          {
+            "heading": "현재 설치와 참여 공연을 같은 장면으로 만들지 않는다",
+            "body": "작가 설명은 시민이 더해지는 공연을 언급하고, YCAM은 설치와 별도 공연 일정을 나누어 안내한다. 모든 방문자가 상시 장치를 조작한다고 추정하지 않는다. 작가가 게시한 실제 설치 사진을 사용하고, 새 작품의 사진으로 보였던 과거 연주 기록은 후보에서 제외했다. 사진은 구조·배치를 보여 주지만 움직임의 전체 범위나 음향 효과를 증명하지는 않는다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Atsuko Mochida — 2026 실제 설치 사진·작품 설명·제작 역할 전체",
+            "url": "https://atsukomochida.jp/works/dance/"
+          },
+          {
+            "label": "YCAM 작품 원장 — 제목·저자·2026 위촉·세계 첫 공개",
+            "url": "https://www.ycam.jp/archive/works/dance/"
+          },
+          {
+            "label": "YCAM 현재 전시 — 기간·설치/공연 운영 조건",
+            "url": "https://www.ycam.jp/events/2026/improvisation/"
+          }
+        ]
+      },
+      "crosscurrent": {
+        "note": "Dance는 재료의 실제 움직임과 소리를 함께 놓고 Levitation Void는 형태가 유지되는 주변 조건을 생각하게 한다. Juggler는 회전과 점멸로 움직임을 보이게 하며, Confetti와 ACW SunaoSystem은 각각 이동의 누적과 소리의 공격점을 영상의 규칙으로 쓴다. Molnár의 정지 드로잉에서도 작은 어긋남은 진동처럼 읽힌다. 실제 운동과 지각된 운동을 하나의 기술로 설명하지 않는다.",
+        "itemIds": [
+          "2026-11-25-01",
+          "2026-11-25-02",
+          "2026-11-25-03",
+          "2026-11-25-04",
+          "2026-11-25-05",
+          "2026-11-25-06"
+        ]
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "title": "같은 규칙도 보는 자리에 따라 달라진다",
+      "summary": "2026년 11월 25일 보충한 24일호다. 원본 코드와 상영 영상의 차이, 수식의 선택, 보행이 만드는 원근, 빛의 통로, 붓 플로터와 프린트의 물질성을 읽는다. 기존 원고를 복제하지 않고 여섯 작품을 새로 조사했으며 두 작품의 최초 제작 연도는 미확인으로 남겼다.",
+      "backfill": {
+        "publishedOn": "2026-11-25",
+        "researchedAt": "2026-11-25T08:39:34+09:00",
+        "originalPublicationClaimed": false
+      },
+      "items": [
+        {
+          "id": "2026-11-24-01",
+          "originalTitle": "240507: Reality Lens",
+          "creator": "Che-Yu Wu (吳哲宇)",
+          "title": "열다섯 보이지 않는 점이 보는 화면을 굴절시킨다",
+          "publishedAt": "2024 원본 / FILE 2026 기록 영상 재소개·행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/240507-reality-lens/",
+          "description": "2024년 5월 7일의 일일 코딩 스케치에서 시작한 생성형 작품이다. 브라우저 원본과 2026년 FILE에 전달된 4K 기록 영상의 관람 조건을 구분한다.",
+          "insight": {
+            "mechanism": "열다섯 소용돌이 지점과 노이즈·각도·시간의 계산으로 픽셀 좌표가 바뀐다. 원본에서는 마우스가 굴절과 색에 영향을 주지만 FILE에서는 2분 34초의 기록 영상을 태블릿으로 보았다.",
+            "whyNow": "올해의 전시 수록을 원작의 2024년 제작일과 대조했다. 같은 제목도 실행 중인 코드와 상영 파일에서 관객의 역할이 달라지는 사례다.",
+            "directorPoint": "최종 화면보다 시점을 바꾸는 규칙을 먼저 설계할 수 있다. 다만 결과를 영상으로 고정하면 관객의 조작이 빠진다는 차이를 작업 설명과 장면 구성에 남겨야 한다.",
+            "critique": "계산으로 이미지를 만든다는 사실이 인간의 지각 전체를 설명하는 증거는 아니다. FILE의 비상호작용 표기를 오류로 지우지 않고 원본 웹 작품의 마우스 반응과 분리해 읽는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "FIESP Cultural Centre, 상파울루, 브라질 / FILE 2026·8월 20일–10월 11일"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-24-01.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/05225131/file-sao-paulo-2026-che-yu-wu-240507-reality-lens-dimensao-randomica.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/240507-reality-lens/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/05225131/file-sao-paulo-2026-che-yu-wu-240507-reality-lens-dimensao-randomica.jpg",
+            "kind": "artwork",
+            "credit": "Che-Yu Wu / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "금속성 색 띠와 렌즈 같은 고리가 겹치는 공식 작품 화면. 전시장 사진이나 관객 반응의 기록으로 사용하지 않는다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "청록·분홍·주황·검정의 띠가 굽고 여러 원형 고리가 떠 있는 추상 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2024,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "interactive-shader-and-recorded-exhibition-version",
+            "identityRationale": "열다섯 소용돌이 지점과 노이즈·각도·시간의 계산으로 픽셀 좌표가 바뀐다. 원본에서는 마우스가 굴절과 색에 영향을 주지만 FILE에서는 2분 34초의 기록 영상을 태블릿으로 보았다. 2024년 5월 7일의 일일 코딩 스케치에서 시작한 생성형 작품이다. 브라우저 원본과 2026년 FILE에 전달된 4K 기록 영상의 관람 조건을 구분한다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/240507-reality-lens/",
+              "https://cheyuwu.com/work/reality-lens/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2024 원본 / FILE 2026 기록 영상 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-24-02",
+          "originalTitle": "E-volved Formula #23",
+          "creator": "Driessens & Verstappen",
+          "title": "수식의 변이와 인간의 선택이 남긴 흑백의 흐름",
+          "publishedAt": "제작연도 미확인 / FILE 2026 재소개·행사 종료",
+          "url": "https://file.org.br/generative_2026/driessens-verstappen-e-volved-formula-23-holanda/",
+          "description": "진화형 소프트웨어의 변이와 선택을 거쳐 나온 특정 작품 #23을 읽는다. Formulae E-volver라는 제작 시스템 전체를 별개의 신작으로 세거나 모든 관람자가 전시 중 진화 과정에 개입한다고 주장하지 않는다.",
+          "insight": {
+            "mechanism": "수학 요소를 결합한 수식을 이미지로 보여 주고 평가·변이·선택을 반복해 결과를 기른다. 이 작품의 흑백 무늬는 그 과정의 산물이며 기계가 미적 취향을 스스로 가진다는 설명과 구분된다.",
+            "whyNow": "올해 FILE의 개별 수록 기록을 통해 자동 생성 안에 남는 인간의 판단을 읽는다. 원작의 최초 제작 연도가 특정 항목에서 확인되지 않아 미확인으로 남겼다.",
+            "directorPoint": "자동 생성의 결과만 보여 주기보다 무엇을 남기고 버렸는지가 다음 결과를 바꾸는 구조를 생각할 수 있다. 선택의 순간을 드러내면 작가의 역할도 이미지 안으로 들어온다.",
+            "critique": "작품이 관객의 취향에 적응한다는 제작 설명을 현재 태블릿 관람자의 실시간 입력으로 바꾸어 말하면 안 된다. 특정 프레임만으로 수식이나 전체 시간 변화를 역으로 알아낼 수는 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "AI·저자성",
+              "정보·불확실성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026 전시 기록"
+          },
+          "host": "file.org.br",
+          "image": "images/2026-11-24-02.jpg",
+          "imageFallback": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Driessens-Verstappen-E-volved-Formula-23-Holanda-Generatrix-FILE-SP-2026.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://file.org.br/generative_2026/driessens-verstappen-e-volved-formula-23-holanda/",
+            "sourceUrl": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/CAPA-Driessens-Verstappen-E-volved-Formula-23-Holanda-Generatrix-FILE-SP-2026.jpg",
+            "kind": "artwork",
+            "credit": "Driessens & Verstappen / FILE 공식 작품 프리뷰",
+            "caption": "E-volved Formula #23의 흑백 선과 입자 질감이 교차하는 공식 프리뷰. 행사 배너·로고와 구분한다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "흑백의 촘촘한 사선과 굽은 띠가 반복되며 겹치는 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "evolutionary-formula-generative-art",
+            "identityRationale": "수학 요소를 결합한 수식을 이미지로 보여 주고 평가·변이·선택을 반복해 결과를 기른다. 이 작품의 흑백 무늬는 그 과정의 산물이며 기계가 미적 취향을 스스로 가진다는 설명과 구분된다. 진화형 소프트웨어의 변이와 선택을 거쳐 나온 특정 작품 #23을 읽는다. Formulae E-volver라는 제작 시스템 전체를 별개의 신작으로 세거나 모든 관람자가 전시 중 진화 과정에 개입한다고 주장하지 않는다.",
+            "evidence": [
+              "https://file.org.br/generative_2026/driessens-verstappen-e-volved-formula-23-holanda/",
+              "https://feralfile.com/exhibitions/shows/e-volved-formulae-8an"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE 2026 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-24-03",
+          "originalTitle": "Steps",
+          "creator": "Nawal Bte Azhar",
+          "title": "걸음을 옮기면 계단의 간격이 달라 보인다",
+          "publishedAt": "2026 첫 공개 기록 / i Light Singapore·6월 행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/steps/",
+          "description": "빛나는 계단형 프레임의 간격이 보는 위치에 따라 압축되거나 벌어져 보이는 공공 설치다. 조명·공간 지각의 경계 사례로 읽으며 실제 계단이 관객을 감지해 움직인다고 설명하지 않는다.",
+          "insight": {
+            "mechanism": "서로 다른 방향으로 만나는 프레임은 이동하는 관객의 원근에 따라 경계와 간격이 달라 보인다. 고정된 형태와 관객의 보행이 함께 지각의 변화를 만든다.",
+            "whyNow": "올해 처음 진행된 i Light Future에서 공개된 특정 설치를 돌아본다. 국가의 발전이라는 기관의 비유와 실제로 관찰할 수 있는 공간 경험을 나누어 살핀다.",
+            "directorPoint": "고정 세트도 카메라나 인물의 위치를 바꾸면 밀도와 개방감이 달라진다. 장치를 계속 움직이기 전에 관점이 달라지는 구간을 동선으로 설계하는 응용이다.",
+            "critique": "진보를 나타내는 계단이라는 비유는 역사 전체를 단선적으로 만들 수 있다. 프레임의 시각 변화가 센서·모터 반응의 증거는 아니며 사진 한 장은 모든 관점을 담지 못한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동남·남아시아",
+            "venue": "Waterfront Promenade along Marina Boulevard, 싱가포르 / i Light Singapore 2026"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-24-03.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/a1d275d1-ea8d-4e25-814d-273dae11912f/Steps.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/steps/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/a1d275d1-ea8d-4e25-814d-273dae11912f/Steps.jpg",
+            "kind": "installation",
+            "credit": "Nawal Bte Azhar / i Light Singapore·URA 공식 작품 사진·촬영자 미표기",
+            "caption": "겹친 빛 프레임 사이에 관객이 서 있는 Steps 공식 설치 사진.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "푸른 흰빛의 계단형 프레임들이 여러 방향으로 겹치고 그 안에서 관객이 휴대전화를 들고 있는 모습"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "perspective-dependent-light-architecture",
+            "identityRationale": "서로 다른 방향으로 만나는 프레임은 이동하는 관객의 원근에 따라 경계와 간격이 달라 보인다. 고정된 형태와 관객의 보행이 함께 지각의 변화를 만든다. 빛나는 계단형 프레임의 간격이 보는 위치에 따라 압축되거나 벌어져 보이는 공공 설치다. 조명·공간 지각의 경계 사례로 읽으며 실제 계단이 관객을 감지해 움직인다고 설명하지 않는다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/i-light-future-2026-presented-by-designsingapore-council/steps/",
+              "https://designsingapore.org/events/i-light-singapore-2026/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026 첫 공개 기록 / i Light Singapore·6월 행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-24-04",
+          "originalTitle": "Arch Flower",
+          "creator": "Cyril Lancelin",
+          "title": "꽃 같은 아치 안에서 함께 머무는 색을 만든다",
+          "publishedAt": "제작연도 미확인 / i Light Singapore 2026 재소개·행사 종료",
+          "url": "https://www.ilightsingapore.gov.sg/2026-installations/arch-flower/",
+          "description": "관 형태가 위와 바깥으로 뒤틀려 통로와 중심의 빈자리를 만드는 조명 설치다. 가상 경험 전반을 다룬 작가 소개 대신 Raffles Place의 이 특정 작품을 공간·빛의 경계 사례로 수록한다.",
+          "insight": {
+            "mechanism": "분홍에서 초록으로 이어지는 표면의 색과 반복되는 관 형태가 건축적 규모의 통로를 만든다. 관객은 아래로 지나고 안에 멈추며 자신과 구조물의 크기 관계를 경험한다.",
+            "whyNow": "2026년 공식 작품 기록에서 거대한 형태가 통과 가능한 빈자리를 어떻게 남기는지 읽는다. 전시 수록 연도와 최초 제작 연도는 구분해 표기했다.",
+            "directorPoint": "중심을 물체로 가득 채우는 대신 사람이 함께 들어갈 공간으로 비워 둘 수 있다. 색을 배경 장식이 아니라 인물의 몸과 주변을 함께 묶는 재료로 다루는 방법이다.",
+            "critique": "기념사진과 집객을 넘어 어떤 공공 경험을 만드는지는 질문으로 남는다. 센서 반응·생물학적 개화·시간별 제어 방식을 공식 설명 없이 추측하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "라이트·LED"
+            ],
+            "theme": [
+              "도시·공동체",
+              "지각·반사"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "동남·남아시아",
+            "venue": "Raffles Place Park, 싱가포르 / i Light Singapore 2026"
+          },
+          "host": "www.ilightsingapore.gov.sg",
+          "image": "images/2026-11-24-04.jpg",
+          "imageFallback": "https://isomer-user-content.by.gov.sg/365/3f5036c7-50c0-490d-a840-aaa96fb4e40f/Arch%20Flower.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.ilightsingapore.gov.sg/2026-installations/arch-flower/",
+            "sourceUrl": "https://isomer-user-content.by.gov.sg/365/3f5036c7-50c0-490d-a840-aaa96fb4e40f/Arch%20Flower.jpg",
+            "kind": "installation",
+            "credit": "Cyril Lancelin / i Light Singapore·URA 공식 작품 사진·촬영자 미표기",
+            "caption": "Arch Flower의 다채로운 관 형태와 주변 관객을 보여 주는 공식 설치 사진.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "도심 건물 앞에서 분홍·초록·파랑의 굽은 관이 거대한 꽃 모양으로 얽히고 두 관객이 그 아래에 선 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "public-light-sculpture-boundary-case",
+            "identityRationale": "분홍에서 초록으로 이어지는 표면의 색과 반복되는 관 형태가 건축적 규모의 통로를 만든다. 관객은 아래로 지나고 안에 멈추며 자신과 구조물의 크기 관계를 경험한다. 관 형태가 위와 바깥으로 뒤틀려 통로와 중심의 빈자리를 만드는 조명 설치다. 가상 경험 전반을 다룬 작가 소개 대신 Raffles Place의 이 특정 작품을 공간·빛의 경계 사례로 수록한다.",
+            "evidence": [
+              "https://www.ilightsingapore.gov.sg/2026-installations/arch-flower/",
+              "https://rafflesplace.sg/raffles-place-shines-for-i-light-singapore-2026/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / i Light Singapore 2026 재소개·행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-24-05",
+          "originalTitle": "I'm Saying I'll Have to Check In",
+          "creator": "Licia He",
+          "title": "코드가 쥔 붓이 종이에 남긴 회전과 번짐",
+          "publishedAt": "2023 / V&A 현재 전시 재소개",
+          "url": "https://collections.vam.ac.uk/item/O1813686",
+          "description": "Spring in the Winter 연작 중 V&A 소장품 E.314-2026을 특정한다. 디지털 인쇄가 아니라 작가가 붓을 잡도록 개조한 플로터와 수성 재료로 만든 회화다.",
+          "insight": {
+            "mechanism": "Python 기반 확장 알고리즘이 핵심 도형을 회전·변형하며 공간을 채우고, 개조한 Axidraw A1 플로터가 붓을 움직인다. 종이 위 물감의 물질성과 코드가 정한 경로가 함께 결과를 만든다.",
+            "whyNow": "현재 V&A 전시는 컴퓨터 기반 예술을 스크린 밖의 회화와 연결한다. 이 항목은 2023년 작품을 다시 보는 것으로 2026년 신작이나 실시간 전시 장치로 세지 않는다.",
+            "directorPoint": "자동화한 움직임에도 재료의 저항과 겹침을 남길 수 있다. 모든 흔적을 매끈하게 지우기보다 도구가 표면과 만나는 시간이 보이게 하는 연출 응용이다.",
+            "critique": "알고리즘이 그렸다는 사실이 작가의 선택을 없애지는 않는다. 도형·색·붓·재료의 선택과 제작 과정이 남으며, 완성 사진만으로 경로와 물감의 우연성을 각각 계량할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "AI·저자성",
+              "지각·반사"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "V&A South Kensington, Room 90 / 런던, 영국"
+          },
+          "host": "collections.vam.ac.uk",
+          "image": "images/2026-11-24-05.jpg",
+          "imageFallback": "https://framemark.vam.ac.uk/collections/2026PN4293/full/735,/0/default.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://collections.vam.ac.uk/item/O1813686",
+            "sourceUrl": "https://framemark.vam.ac.uk/collections/2026PN4293/full/735,/0/default.jpg",
+            "kind": "artwork",
+            "credit": "작품 Licia He / 사진 © Victoria and Albert Museum, London · E.314-2026",
+            "caption": "붓 플로터로 제작한 수성 회화의 공식 소장품 사진. 화면 캡처나 잉크젯 인쇄와 구분한다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "V&A 소장품 페이지가 명시한 비상업적 온라인 이용 조건(최대 768픽셀·최대 5년)에 맞춰 긴 변을 768픽셀 이내로 축소한 프리뷰. 출처·권리자 표시. 2026-11-25 확인, 2031-11-25 이전 이용 재검토. 별도 상업 이용허락은 주장하지 않는다.",
+            "alt": "분홍·노랑·주황의 겹친 붓 흔적이 소용돌이를 이루고 아래에 직선 격자와 서명이 남은 종이"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2023,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "algorithm-driven-brush-plotter-painting",
+            "identityRationale": "Python 기반 확장 알고리즘이 핵심 도형을 회전·변형하며 공간을 채우고, 개조한 Axidraw A1 플로터가 붓을 움직인다. 종이 위 물감의 물질성과 코드가 정한 경로가 함께 결과를 만든다. Spring in the Winter 연작 중 V&A 소장품 E.314-2026을 특정한다. 디지털 인쇄가 아니라 작가가 붓을 잡도록 개조한 플로터와 수성 재료로 만든 회화다.",
+            "evidence": [
+              "https://collections.vam.ac.uk/item/O1813686",
+              "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2023 / V&A 현재 전시 재소개"
+          }
+        },
+        {
+          "id": "2026-11-24-06",
+          "originalTitle": "Sketchbook A #64",
+          "creator": "William Mapan",
+          "title": "손으로 칠한 듯한 면이 코드의 판본으로 남는다",
+          "publishedAt": "2023 / V&A 현재 전시 재소개",
+          "url": "https://collections.vam.ac.uk/item/O1813863",
+          "description": "V&A 소장품 E.708-2026은 맞춤 소프트웨어로 만든 연작에서 나온 특정 디지털 피그먼트 프린트다. NFT로 실현된 연작의 이력과 눈앞의 종이 프린트를 같은 매체라고 단순화하지 않는다.",
+          "insight": {
+            "mechanism": "맞춤 소프트웨어로 구성한 다각형과 선이 프린트의 겹침과 질감으로 남는다. 관객은 새 이미지를 생성하기보다 고정된 종이 위 색면과 교차 관계를 읽는다.",
+            "whyNow": "현재 V&A의 생성형 예술 전시가 이 2023년 프린트를 출품한다. 온라인 판본의 유통과 미술관이 보존하는 물리적 결과가 만나는 사례다.",
+            "directorPoint": "생성의 과정을 전부 보여 주는 대신 선택된 한 결과를 종이의 크기·여백·질감으로 다시 구성할 수 있다. 매체가 달라질 때 무엇을 보존하는지 먼저 정하는 방식이다.",
+            "critique": "연작의 NFT 이력은 소유·등록 형식에 관한 정보이지 이미지의 미적 성취나 희소성을 자동으로 증명하지 않는다. 세부 생성 알고리즘은 소장품 설명만으로 추정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "AI·저자성",
+              "기억·아카이브"
+            ],
+            "scale": "오브젝트"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "V&A South Kensington, Room 90 / 런던, 영국"
+          },
+          "host": "collections.vam.ac.uk",
+          "image": "images/2026-11-24-06.jpg",
+          "imageFallback": "https://framemark.vam.ac.uk/collections/2026PP6530/full/735,/0/default.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://collections.vam.ac.uk/item/O1813863",
+            "sourceUrl": "https://framemark.vam.ac.uk/collections/2026PP6530/full/735,/0/default.jpg",
+            "kind": "artwork",
+            "credit": "작품 William Mapan / 사진 © Victoria and Albert Museum, London · E.708-2026",
+            "caption": "Sketchbook A #64의 공식 프린트 사진. 소프트웨어 실행 화면이나 현재 전시 전경이 아니다.",
+            "checkedAt": "2026-11-25T08:39:34+09:00",
+            "usageBasis": "V&A 소장품 페이지가 명시한 비상업적 온라인 이용 조건(최대 768픽셀·최대 5년)에 맞춰 긴 변을 768픽셀 이내로 축소한 프리뷰. 출처·권리자 표시. 2026-11-25 확인, 2031-11-25 이전 이용 재검토. 별도 상업 이용허락은 주장하지 않는다.",
+            "alt": "흰 종이 위 보라·검정·빨강의 다각형과 가는 색 선이 교차하는 세로 프린트"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2023,
+            "researchedAt": "2026-11-25T08:39:34+09:00",
+            "identity": "generative-series-digital-pigment-print",
+            "identityRationale": "맞춤 소프트웨어로 구성한 다각형과 선이 프린트의 겹침과 질감으로 남는다. 관객은 새 이미지를 생성하기보다 고정된 종이 위 색면과 교차 관계를 읽는다. V&A 소장품 E.708-2026은 맞춤 소프트웨어로 만든 연작에서 나온 특정 디지털 피그먼트 프린트다. NFT로 실현된 연작의 이력과 눈앞의 종이 프린트를 같은 매체라고 단순화하지 않는다.",
+            "evidence": [
+              "https://collections.vam.ac.uk/item/O1813863",
+              "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2023 / V&A 현재 전시 재소개"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "Reality Lens: 실행하는 화면과 전시된 영상 사이",
+        "keywords": [
+          "판본 구분",
+          "열다섯 지점",
+          "마우스 입력",
+          "기록 영상"
+        ],
+        "sections": [
+          {
+            "heading": "제작일·이름·전시 파일의 날짜를 나눈다",
+            "body": "작가의 직접 기록은 일일 스케치의 시작을 2024년 5월 7일, Reality Lens라는 이름을 붙인 시점을 2026년 5월로 구분한다. FILE 수록은 올해의 사건이지만 원작 제작 연도를 바꾸지는 않는다. 누락된 24일호 역시 25일에 조사·보충했음을 이 호에 표시했다."
+          },
+          {
+            "heading": "관객 입력은 원본 코드에서 작동한다",
+            "body": "원본은 열다섯 지점을 거쳐 픽셀의 좌표와 색을 바꾸는 브라우저 작품이다. 작가 설명에서 마우스는 굴절과 색을 바꾸고 입력이 없을 때는 프로그램이 보이지 않는 경로를 따라간다. 이는 관객이 움직이는 모든 전시 사진에 자동으로 적용할 설명이 아니다."
+          },
+          {
+            "heading": "FILE의 태블릿은 제작된 시간을 재생했다",
+            "body": "작가는 FILE에 4K·초당 60프레임·2분 34초의 기록 영상을 전달했다고 적는다. FILE 아카이브의 비상호작용 분류와 원본의 마우스 반응은 이 판본 구분 안에서 함께 이해할 수 있다. 화면을 보는 기기의 형태와 관객이 작품을 바꿀 권한을 혼동하지 않는 것이 핵심이다."
+          },
+          {
+            "heading": "연출 응용도 선택권의 차이를 설명해야 한다",
+            "body": "같은 생성 규칙을 공연 중 실행할지, 영상으로 고정할지에 따라 입력의 주체와 시간이 달라진다. 기록은 특정 순간을 보존하지만 실행 중 다른 결과를 만들 가능성은 줄어든다. 이 차이를 설명하면 실시간이라는 말이 모든 판본에 붙는 홍보 문구가 되는 것을 막을 수 있다. 두 출처는 제작자의 판본 설명과 기관의 전시 기록이라는 서로 다른 역할을 한다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Che-Yu Wu — 2024 원본·마우스 입력·2026 전달 영상의 직접 기록",
+            "url": "https://cheyuwu.com/work/reality-lens/"
+          },
+          {
+            "label": "FILE Archive — 특정 작품의 전시 수록·비상호작용 분류·공식 프리뷰",
+            "url": "https://archive.file.org.br/obras-artisticas/240507-reality-lens/"
+          }
+        ]
+      },
+      "crosscurrent": {
+        "note": "Reality Lens의 원본에서는 마우스가 화면을 바꾸지만 전시 영상은 이미 기록된 시간을 재생한다. E-volved Formula #23의 선택은 제작 과정에 있고 Steps와 Arch Flower에서는 관객의 보행과 체류가 읽는 자리를 바꾼다. Licia He의 붓과 William Mapan의 프린트는 규칙이 물질에 남는 서로 다른 방법이다. 변화가 일어나는 주체·시점·매체를 따로 확인한다.",
+        "itemIds": [
+          "2026-11-24-01",
+          "2026-11-24-02",
+          "2026-11-24-03",
+          "2026-11-24-04",
+          "2026-11-24-05",
+          "2026-11-24-06"
+        ]
+      }
+    },
+    {
       "date": "2026-11-23",
       "title": "흔적이 화면이 되고, 몸이 읽는 자리가 된다",
       "summary": "현재 V&A 전시의 2002년 프린트 한 점, 올해 FILE 재전시 기록 두 편, 2026년 처음 공개된 빛 설치 한 편, 두 아카이브를 함께 읽는다. 선의 축적·색과 선율·점군·유통 상자·손의 표면·온라인 발화가 서로 다른 방식으로 관객의 읽는 자리를 만든다. Reborn의 최초 제작 연도는 미확인으로 남겼다.",
@@ -28577,7 +29440,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-23T10:59:15+09:00",
+  "generatedAt": "2026-11-25T08:39:34+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
