@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-25T08:39:34+09:00",
+  "updatedAt": "2026-11-26T00:45:05+09:00",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -310,6 +310,10 @@
     {
       "date": "2026-11-25",
       "note": "기존93호·519개를 보존하며 새 작품6개·Focus4단락과 3권역 이상 확보. 제작/재전시/매체 판본을 구분하고 공식 작품 이미지를 수동 대조."
+    },
+    {
+      "date": "2026-11-26",
+      "note": "기존95호·531개 보존. 작품6개·Focus4단락3출처, 4권역·도메인최대2. 현재/올해 재소개4개·아카이브2개, 확인된2026신작0·제작연도미확인2를 공개 표시. 실제 공식 작품 이미지6개 수동 대조."
     }
   ],
   "source_notes": [
@@ -496,6 +500,10 @@
     {
       "date": "2026-11-25",
       "note": "24·25일호를 별도 조사. Reality Lens의 2024 원본 마우스 반응과 FILE의 2분34초 기록 영상 상영을 Che-Yu Wu 직접 기록·FILE에서 분리 확인. V&A E.314-2026(붓 플로터 회화), E.708-2026(디지털 프린트), E.271-2011(색잉크 플로터 드로잉)을 구분, 사진은 최대768px·5년의 비상업 온라인 조건 기록. Filaments Outside와 Duo 공식 소개의 연주/과거 사진을 새 설치로 쓰지 않고 제외. Dance는 Mochida 작가가 2026년 게시한 실제 구조 사진과 상세 제작 크레딧으로 대조. Levitation Void 사운드는 작가 공식 페이지(teamLab)·운영기관(Hideaki Takahashi)의 차이를 미확인으로 남김. Juggler는 OHTAKA Takashi 사진을 2026 촬영이라 주장하지 않음."
+    },
+    {
+      "date": "2026-11-26",
+      "note": "Voice Tunnel은 James Ewing의 뉴욕2013 실제 설치 사진 및 사진 페이지 CC BY-NC-SA4.0을 확인. 작가 기록75명/NYC DOT 사전안내 약100명 차이를 본문·Focus에 공개하고 의미/감정분석을 주장하지 않음. FILE Atomic-Color Automatism과 Strange Projectors는 비상호작용이며2026은 행사수록연도; 최초제작연도null. Biocosmos2017연작/2025판본, Floating Microcosms2009연작/2025판본 분리. 전자는 관객입력상세미공개, 후자는 접촉/물결→복원→인접색/음연쇄만 명시. Shylight는 공식 출판기록2006·Rijksmuseum 소장발표2014·Erik Smits의 해당설치사진 분리, 현재당일운영을 주장하지않음. ACMI Lifelike는 개별작품/크레딧없는 행사소개로 제외; Superblue Es Devlin주소 목록이동 및 Lemercier 빈작품본문은 근거 불충분으로 제외."
     }
   ],
   "dedup_policy": {

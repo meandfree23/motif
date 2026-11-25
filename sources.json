@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "rule": "하루 한 출처(도메인) 최대 2개, 한 이슈에 최소 3개 권역, 30일 기준 한 권역 50% 이하",
   "sources": [
     {
@@ -539,6 +539,27 @@
       "url": "https://www.teamlababudhabi.com/en/explore/artworks",
       "region": "중동",
       "place": "아부다비, UAE",
+      "type": "기관"
+    },
+    {
+      "name": "DRIFT Works",
+      "url": "https://studiodrift.com/works/",
+      "region": "유럽",
+      "place": "암스테르담, 네덜란드 / 작가 기록",
+      "type": "작가 아카이브"
+    },
+    {
+      "name": "Atelier Lozano-Hemmer",
+      "url": "https://lozano-hemmer.com/",
+      "region": "북미",
+      "place": "작가 원장 / 작품별 전시지역 별도 기록",
+      "type": "작가 아카이브"
+    },
+    {
+      "name": "NYC DOT Press Archive",
+      "url": "https://www.nyc.gov/html/dot/html/pr2013/pr13-050.shtml",
+      "region": "북미",
+      "place": "뉴욕, 미국 / 공공미술 위촉 기록",
       "type": "기관"
     }
   ]
