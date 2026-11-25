@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-26",
+  "researchedAt": "2026-11-26T00:45:05+09:00",
+  "baseCommit": "028d5c71ae176889b2cd1281c294474848f055a4",
+  "previousIssuesPreserved": 95,
+  "previousItemsPreserved": 531,
+  "missionAndPoliciesPreserved": true,
+  "reviewResult": "작품별 입력·과정·관객역할과 공식사진 판본을 대조. 작품6개·4권역, 재소개4/아카이브2; 확인2026신작0을 명시. 자동 스키마 통과를 사실검증으로 대신하지 않음.",
+  "items": [
+    {
+      "id": "2026-11-26-01",
+      "originalTitle": "Voice Tunnel",
+      "kind": "archive",
+      "workYear": 2013,
+      "identity": "voice-recording-light-and-spatial-memory-installation",
+      "primaryEvidence": [
+        "https://lozano-hemmer.com/artworks/voice_tunnel.php",
+        "https://www.nyc.gov/html/dot/html/pr2013/pr13-050.shtml",
+        "https://lozano-hemmer.com/showimage_emb.php?proj=voice_tunnel&img=newyork_2013&idproj=284&type=artwork&id=1"
+      ],
+      "imageSource": {
+        "sourcePage": "https://lozano-hemmer.com/showimage_emb.php?proj=voice_tunnel&img=newyork_2013&idproj=284&type=artwork&id=1",
+        "sourceUrl": "https://lozano-hemmer.com/image_sets/voice_tunnel/newyork_2013/voicetunnel_ny_2013_je_001.jpg",
+        "kind": "installation",
+        "credit": "Rafael Lozano-Hemmer, Voice Tunnel, 2013 / 사진 James Ewing / NYC DOT 위촉",
+        "caption": "작가의 뉴욕 2013 사진 원장에 수록된 실제 터널 설치. 사진 페이지가 촬영자 James Ewing을 명시한다.",
+        "checkedAt": "2026-11-26T00:45:05+09:00",
+        "usageBasis": "작가의 해당 사진 페이지에 표시된 CC BY-NC-SA 4.0 조건에 따른 비상업적 축소 프리뷰. 작품·작가·사진가 James Ewing·출처를 표시하고 같은 조건을 유지한다. 크기 축소·JPEG 변환 외 내용 변경 없음. 라이선스: https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "alt": "아치형 터널의 벽과 천장을 따라 흰 빛이 이어지고 중앙 보행로로 사람들이 걸어가는 모습",
+        "highResolutionSourceUrl": "https://lozano-hemmer.com/tifdownload.php?id=image_sets/voice_tunnel/newyork_2013/voicetunnel_ny_2013_je_001.tif&filename=voicetunnel_ny_2013_je_001.tif"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-26-02",
+      "originalTitle": "Atomic-Color Automatism",
+      "kind": "reexhibition",
+      "workYear": null,
+      "identity": "noninteractive-generative-layered-colour-composition",
+      "primaryEvidence": [
+        "https://archive.file.org.br/obras-artisticas/atomic-color-automatism/"
+      ],
+      "imageSource": {
+        "sourcePage": "https://archive.file.org.br/obras-artisticas/atomic-color-automatism/",
+        "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06152317/file-sao-paulo-2026-mole%5E3-atomic-color-automatism-dimensao-randomica.jpg",
+        "kind": "artwork",
+        "credit": "mole^3 / FILE 공식 작품 프리뷰·촬영자 미표기",
+        "caption": "Atomic-Color Automatism의 색층이 겹치는 공식 작품 화면. 로고·행사 배너·작가 초상과 구분해 대조했다.",
+        "checkedAt": "2026-11-26T00:45:05+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "빨강·노랑·초록·파랑의 반투명한 사각 면들이 세로 화면 안에 겹쳐 보이는 추상 이미지"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-26-03",
+      "originalTitle": "Strange Projectors #448 Dreaming",
+      "kind": "reexhibition",
+      "workYear": null,
+      "identity": "noninteractive-volumetric-video-remapping",
+      "primaryEvidence": [
+        "https://archive.file.org.br/obras-artisticas/strange-projectors-448-dreaming/"
+      ],
+      "imageSource": {
+        "sourcePage": "https://archive.file.org.br/obras-artisticas/strange-projectors-448-dreaming/",
+        "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/29234038/file-sao-paulo-2026-brandon-eversole-strange-projectors-448-dreaming-dimensao-randomica.jpg",
+        "kind": "artwork",
+        "credit": "Brandon Eversole / FILE 공식 작품 프리뷰·촬영자 미표기",
+        "caption": "Strange Projectors #448 Dreaming의 공식 작품 화면. 실제 조각의 설치 사진이나 작가 초상으로 분류하지 않는다.",
+        "checkedAt": "2026-11-26T00:45:05+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "회색 줄무늬 배경 앞에서 나무껍질 같은 질감의 직사각형 형태와 가느다란 색 선들이 겹쳐 보이는 화면"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-26-04",
+      "originalTitle": "Biocosmos",
+      "kind": "reexhibition",
+      "workYear": 2025,
+      "identity": "spatiotemporal-swarm-order-digital-installation",
+      "primaryEvidence": [
+        "https://www.teamlababudhabi.com/en/artworks/biocosmos"
+      ],
+      "imageSource": {
+        "sourcePage": "https://www.teamlababudhabi.com/en/artworks/biocosmos",
+        "sourceUrl": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/biocosmos_001__169f.jpg?h=1080&w=1920",
+        "kind": "installation",
+        "credit": "teamLab / 사운드 Hideaki Takahashi / teamLab Phenomena Abu Dhabi 공식 작품 이미지·촬영자 미표기",
+        "caption": "Biocosmos의 공식 설치 이미지. 관객 실루엣과 공간에 퍼진 다채로운 움직임의 흔적이 함께 보인다.",
+        "checkedAt": "2026-11-26T00:45:05+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "어두운 공간에서 관객의 실루엣 주위로 주황·노랑·청록의 빛 자취가 무리처럼 뻗는 모습"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-26-05",
+      "originalTitle": "Floating Microcosms",
+      "kind": "reexhibition",
+      "workYear": 2025,
+      "identity": "touch-and-wave-responsive-ovoid-light-sound-sculptures",
+      "primaryEvidence": [
+        "https://www.teamlababudhabi.com/en/artworks/floating-microcosms"
+      ],
+      "imageSource": {
+        "sourcePage": "https://www.teamlababudhabi.com/en/artworks/floating-microcosms",
+        "sourceUrl": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/wateregg-169f.jpg?h=1080&w=1920",
+        "kind": "installation",
+        "credit": "teamLab / teamLab Phenomena Abu Dhabi 공식 작품 이미지·촬영자 미표기",
+        "caption": "Floating Microcosms의 공식 아부다비 설치 이미지. 발광하는 달걀형 조각과 반사가 겹친 공간을 보여 준다.",
+        "checkedAt": "2026-11-26T00:45:05+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "어두운 반사 공간에 달걀형 조각들이 놓이고 표면에 청록·보라·노랑 빛이 비치는 모습"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-26-06",
+      "originalTitle": "Shylight",
+      "kind": "archive",
+      "workYear": 2006,
+      "identity": "robotic-silk-light-sculpture-kinetic-design-boundary",
+      "primaryEvidence": [
+        "https://studiodrift.com/work/shylight/",
+        "https://studiodrift.com/event/rijksmuseum-shylight-acquisition/",
+        "https://studiodrift.com/drift-choreographing-the-future/"
+      ],
+      "imageSource": {
+        "sourcePage": "https://studiodrift.com/work/shylight/",
+        "sourceUrl": "https://i0.wp.com/studiodrift.com/wp-content/uploads/2021/02/Shylight-by-Studio-Drift-at-Rijksmuseum-1-scaled.jpg?resize=1700%2C1220&ssl=1",
+        "kind": "installation",
+        "credit": "DRIFT, Shylight / Rijksmuseum 설치 사진 Erik Smits",
+        "caption": "DRIFT 공식 작품 갤러리가 Rijksmuseum 설치와 촬영자 Erik Smits를 명시한 사진. 촬영 연도는 미표기다.",
+        "checkedAt": "2026-11-26T00:45:05+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "장식 무늬가 있는 밝은 천장 아래 다섯 개의 흰 실크 조명이 서로 다른 높이와 열린 모양으로 매달린 모습"
+      },
+      "imageManuallyCompared": true
+    }
+  ],
+  "sourceDiscrepancies": [
+    {
+      "itemId": "2026-11-26-01",
+      "field": "concurrent voice recording capacity",
+      "artistRecord": 75,
+      "nycAdvanceRelease": "nearly 100",
+      "resolution": "attributed and disclosed, not silently reconciled"
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "name": "ACMI Lifelike",
+      "reason": "행사 개요를 특정 작품으로 세지 않음"
+    },
+    {
+      "name": "Superblue Es Devlin / Studio Lemercier",
+      "reason": "개별 주소의 목록 이동·본문 미제공으로 특정작품/판본 근거 미확보"
+    }
+  ],
+  "gates": {
+    "candidate": {
+      "passed": true,
+      "failCount": 0,
+      "warnCount": 0
+    },
+    "date": {
+      "passed": true,
+      "failCount": 0,
+      "warnCount": 3
+    },
+    "archive": {
+      "passed": true,
+      "failCount": 0,
+      "warnCount": 81
+    },
+    "linked": {
+      "passed": true,
+      "failCount": 0,
+      "warnCount": 0
+    },
+    "identity": {
+      "passed": true,
+      "failCount": 0,
+      "warnCount": 0
+    },
+    "images": {
+      "passed": true,
+      "failCount": 0,
+      "warnCount": 0
+    },
+    "quality": {
+      "passed": true
+    }
+  },
+  "dateWarnings": [
+    {
+      "code": "creator-recent",
+      "msg": "2026-11-26-01 (Rafael Lozano-Hemmer / Voice Tunnel) — same creator as 2026-11-19-05 within 14 days",
+      "ids": [
+        "2026-11-26-01",
+        "2026-11-19-05"
+      ]
+    },
+    {
+      "code": "creator-recent",
+      "msg": "2026-11-26-04 (teamLab / Hideaki Takahashi (사운드) / Biocosmos) — same creator as 2026-11-20-05 within 14 days",
+      "ids": [
+        "2026-11-26-04",
+        "2026-11-20-05"
+      ]
+    },
+    {
+      "code": "creator-recent",
+      "msg": "2026-11-26-05 (teamLab / Floating Microcosms) — same creator as 2026-11-25-02 within 14 days",
+      "ids": [
+        "2026-11-26-05",
+        "2026-11-25-02"
+      ]
+    }
+  ],
+  "imagesWarnings": [],
+  "prePublicationCheckedAt": "2026-11-26T00:45:38+09:00"
+}

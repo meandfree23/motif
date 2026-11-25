@@ -1,6 +1,452 @@
 {
   "issues": [
     {
+      "date": "2026-11-26",
+      "title": "형태가 바뀌는 규칙, 기록이 머무는 자리",
+      "summary": "FILE 2026의 생성형 영상 두 편과 아부다비의 현재 설치 두 편, Voice Tunnel·Shylight 아카이브 두 편을 구분해 읽는다. 색층·영상 프레임·군집·접촉·목소리·실크의 서로 다른 변화 규칙을 다룬다. 이번 호에 2026년 신작으로 확인한 항목은 없으며 제작 연도 미확인 두 편은 그대로 표시했다.",
+      "items": [
+        {
+          "id": "2026-11-26-01",
+          "originalTitle": "Voice Tunnel",
+          "creator": "Rafael Lozano-Hemmer",
+          "title": "목소리가 머무는 순서가 터널의 빛을 바꾼다",
+          "publishedAt": "2013 / 뉴욕 Summer Streets 종료 작품 아카이브",
+          "url": "https://lozano-hemmer.com/artworks/voice_tunnel.php",
+          "description": "인터컴에 남긴 목소리를 빛의 밝기와 가까운 스피커의 소리로 재생한 공공 설치다. 새 녹음이 들어오면 이전 목소리가 터널 바깥쪽으로 밀려나는 기억의 구조를 읽는다.",
+          "insight": {
+            "mechanism": "말소리의 크기를 조명의 밝기에 대응시키고 침묵은 빛이 꺼진 상태로 번역한다. 녹음은 반복 재생되며 새 참여가 기존 기록의 공간적 위치를 한 칸씩 바꾸고 오래된 기록을 밀어낸다.",
+            "whyNow": "공간을 밝히는 효과보다 참여 기록이 어디에, 얼마나 남는지 설계한 사례로 다시 읽는다. 2013년 종료된 뉴욕 설치이며 현재 운영 중인 전시나 2026년 신작으로 소개하지 않는다.",
+            "directorPoint": "입력에 즉시 반응하는 장면 뒤에 기록의 이동과 퇴장 규칙을 붙일 수 있다. 새 관객의 말이 이전 관객의 자리를 바꾸도록 하면 참여가 공동 공간의 시간 구조가 된다.",
+            "critique": "작가 기록의 보존 인원은 75명, NYC DOT의 당시 안내는 약 100명으로 다르다. 이 차이를 확정 수치 하나로 합치지 않는다. 밝기 대응을 발언의 의미·감정 분석으로 확대해서도 안 된다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "언어",
+              "공간감"
+            ],
+            "tech": [
+              "음성·언어",
+              "라이트·LED",
+              "센서·인터랙션"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "도시·공동체"
+            ],
+            "scale": "도시·공공공간"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Park Avenue Tunnel, 뉴욕, 미국 / DOT Summer Streets 2013 종료 기록"
+          },
+          "host": "lozano-hemmer.com",
+          "image": "images/2026-11-26-01.jpg",
+          "imageFallback": "https://lozano-hemmer.com/image_sets/voice_tunnel/newyork_2013/voicetunnel_ny_2013_je_001.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://lozano-hemmer.com/showimage_emb.php?proj=voice_tunnel&img=newyork_2013&idproj=284&type=artwork&id=1",
+            "sourceUrl": "https://lozano-hemmer.com/image_sets/voice_tunnel/newyork_2013/voicetunnel_ny_2013_je_001.jpg",
+            "kind": "installation",
+            "credit": "Rafael Lozano-Hemmer, Voice Tunnel, 2013 / 사진 James Ewing / NYC DOT 위촉",
+            "caption": "작가의 뉴욕 2013 사진 원장에 수록된 실제 터널 설치. 사진 페이지가 촬영자 James Ewing을 명시한다.",
+            "checkedAt": "2026-11-26T00:45:05+09:00",
+            "usageBasis": "작가의 해당 사진 페이지에 표시된 CC BY-NC-SA 4.0 조건에 따른 비상업적 축소 프리뷰. 작품·작가·사진가 James Ewing·출처를 표시하고 같은 조건을 유지한다. 크기 축소·JPEG 변환 외 내용 변경 없음. 라이선스: https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "alt": "아치형 터널의 벽과 천장을 따라 흰 빛이 이어지고 중앙 보행로로 사람들이 걸어가는 모습",
+            "highResolutionSourceUrl": "https://lozano-hemmer.com/tifdownload.php?id=image_sets/voice_tunnel/newyork_2013/voicetunnel_ny_2013_je_001.tif&filename=voicetunnel_ny_2013_je_001.tif"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2013,
+            "researchedAt": "2026-11-26T00:45:05+09:00",
+            "identity": "voice-recording-light-and-spatial-memory-installation",
+            "identityRationale": "말소리의 크기를 조명의 밝기에 대응시키고 침묵은 빛이 꺼진 상태로 번역한다. 녹음은 반복 재생되며 새 참여가 기존 기록의 공간적 위치를 한 칸씩 바꾸고 오래된 기록을 밀어낸다. 인터컴에 남긴 목소리를 빛의 밝기와 가까운 스피커의 소리로 재생한 공공 설치다. 새 녹음이 들어오면 이전 목소리가 터널 바깥쪽으로 밀려나는 기억의 구조를 읽는다.",
+            "evidence": [
+              "https://lozano-hemmer.com/artworks/voice_tunnel.php",
+              "https://www.nyc.gov/html/dot/html/pr2013/pr13-050.shtml",
+              "https://lozano-hemmer.com/showimage_emb.php?proj=voice_tunnel&img=newyork_2013&idproj=284&type=artwork&id=1"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2013 / 뉴욕 Summer Streets 종료 작품 아카이브"
+          }
+        },
+        {
+          "id": "2026-11-26-02",
+          "originalTitle": "Atomic-Color Automatism",
+          "creator": "mole^3",
+          "title": "얇은 색층이 나뉜 화면을 통과하며 다시 겹친다",
+          "publishedAt": "제작연도 미확인 / FILE 2026 재소개·10월 11일 행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/atomic-color-automatism/",
+          "description": "불규칙하게 나눈 화면 위로 얇은 색의 층을 겹쳐 움직이는 생성형 작품이다. 화면 분할·이동·우연의 규칙이 이미지를 만드는 과정에 주목한다.",
+          "insight": {
+            "mechanism": "임의로 고른 색을 얇은 층으로 쌓고 각 층을 독립적인 단위처럼 움직인다. 단순한 분할과 이동, 우연에 맡긴 변수들이 합쳐져 색의 관계를 계속 바꾸는 구조라는 공식 설명을 따른다.",
+            "whyNow": "FILE 2026의 특정 작품 기록으로 생성형 이미지의 재료와 규칙을 읽는다. 2026년은 수록 연도이고 첫 제작 연도는 확인되지 않았다.",
+            "directorPoint": "새 색을 계속 추가하기보다 같은 색층이 겹치는 위치와 통과 시간을 바꿀 수 있다. 장면 전환을 컷의 교체 대신 면들의 관계 변화로 설계하는 응용이다.",
+            "critique": "통제를 포기한다는 작가의 설명에도 화면을 나누고 움직이게 하는 규칙은 남는다. FILE는 비상호작용으로 분류하며 관객 동작이나 AI가 화면을 만든다고 설명하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "정보·불확실성",
+              "지각·반사"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026 종료 기록"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-26-02.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06152317/file-sao-paulo-2026-mole%5E3-atomic-color-automatism-dimensao-randomica.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/atomic-color-automatism/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06152317/file-sao-paulo-2026-mole%5E3-atomic-color-automatism-dimensao-randomica.jpg",
+            "kind": "artwork",
+            "credit": "mole^3 / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "Atomic-Color Automatism의 색층이 겹치는 공식 작품 화면. 로고·행사 배너·작가 초상과 구분해 대조했다.",
+            "checkedAt": "2026-11-26T00:45:05+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "빨강·노랑·초록·파랑의 반투명한 사각 면들이 세로 화면 안에 겹쳐 보이는 추상 이미지"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-26T00:45:05+09:00",
+            "identity": "noninteractive-generative-layered-colour-composition",
+            "identityRationale": "임의로 고른 색을 얇은 층으로 쌓고 각 층을 독립적인 단위처럼 움직인다. 단순한 분할과 이동, 우연에 맡긴 변수들이 합쳐져 색의 관계를 계속 바꾸는 구조라는 공식 설명을 따른다. 불규칙하게 나눈 화면 위로 얇은 색의 층을 겹쳐 움직이는 생성형 작품이다. 화면 분할·이동·우연의 규칙이 이미지를 만드는 과정에 주목한다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/atomic-color-automatism/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE 2026 재소개·10월 11일 행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-26-03",
+          "originalTitle": "Strange Projectors #448 Dreaming",
+          "creator": "Brandon Eversole",
+          "title": "영상의 프레임을 쌓아 시간에 두께를 준다",
+          "publishedAt": "제작연도 미확인 / FILE 2026 재소개·10월 11일 행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/strange-projectors-448-dreaming/",
+          "description": "촬영된 영상의 프레임을 부피 있는 공간에 재배치해 시간의 단면을 만드는 작품이다. 제목의 Dreaming을 생성AI 사용의 증거로 해석하지 않는다.",
+          "insight": {
+            "mechanism": "프레임을 쌓고 체적 공간에 다시 매핑해 영상의 시간을 자르고 형태를 바꾼다. Dreaming에서는 흐르는 듯한 움직임 속에서 형상들이 이미지의 흐름을 통과한다는 공식 설명이 있다.",
+            "whyNow": "올해 FILE의 개별 기록에서 영상 편집과 공간 변환의 접점을 읽는다. 행사 수록 연도와 미확인 제작 연도를 구분하고 실시간 관객 조작으로 설명하지 않는다.",
+            "directorPoint": "프레임을 앞뒤로만 잇는 대신 여러 순간을 쌓은 재료로 보고 다른 방향의 단면을 상상할 수 있다. 시간을 압축하는 연출의 응용이며 특정 제작 소프트웨어를 추정하지 않는다.",
+            "critique": "부피 있는 공간에 매핑했다는 제작 설명과 실제 입체 조각이 전시장에 놓였다는 주장은 다르다. FILE는 비상호작용으로 기록하며 원본 촬영 대상·세부 코드·제작 연도는 이 자료에서 확정할 수 없다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "기억·아카이브",
+              "지각·반사"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026 종료 기록"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-26-03.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/29234038/file-sao-paulo-2026-brandon-eversole-strange-projectors-448-dreaming-dimensao-randomica.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/strange-projectors-448-dreaming/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/07/29234038/file-sao-paulo-2026-brandon-eversole-strange-projectors-448-dreaming-dimensao-randomica.jpg",
+            "kind": "artwork",
+            "credit": "Brandon Eversole / FILE 공식 작품 프리뷰·촬영자 미표기",
+            "caption": "Strange Projectors #448 Dreaming의 공식 작품 화면. 실제 조각의 설치 사진이나 작가 초상으로 분류하지 않는다.",
+            "checkedAt": "2026-11-26T00:45:05+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "회색 줄무늬 배경 앞에서 나무껍질 같은 질감의 직사각형 형태와 가느다란 색 선들이 겹쳐 보이는 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": null,
+            "researchedAt": "2026-11-26T00:45:05+09:00",
+            "identity": "noninteractive-volumetric-video-remapping",
+            "identityRationale": "프레임을 쌓고 체적 공간에 다시 매핑해 영상의 시간을 자르고 형태를 바꾼다. Dreaming에서는 흐르는 듯한 움직임 속에서 형상들이 이미지의 흐름을 통과한다는 공식 설명이 있다. 촬영된 영상의 프레임을 부피 있는 공간에 재배치해 시간의 단면을 만드는 작품이다. 제목의 Dreaming을 생성AI 사용의 증거로 해석하지 않는다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/strange-projectors-448-dreaming/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "제작연도 미확인 / FILE 2026 재소개·10월 11일 행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-26-04",
+          "originalTitle": "Biocosmos",
+          "creator": "teamLab / Hideaki Takahashi (사운드)",
+          "title": "서로 떨어진 움직임이 하나의 존재로 읽힌다",
+          "publishedAt": "2025 아부다비 판본·연작 2017– / 현재 설치 재소개",
+          "url": "https://www.teamlababudhabi.com/en/artworks/biocosmos",
+          "description": "다수의 움직임 사이에서 생겨나는 질서를 하나의 존재처럼 지각하게 하는 설치다. 관람 기관은 The Way of Birds 연작의 2017년과 아부다비 판본의 2025년을 함께 표기한다.",
+          "insight": {
+            "mechanism": "새 무리의 움직임을 출발점으로, 개별 요소의 위치·모양이 달라져도 그 사이 질서가 이어질 때 하나의 존재로 읽히는 시공간적 구조를 표현한다. 기관은 상호작용 설치로 분류한다.",
+            "whyNow": "현재 아부다비의 특정 설치를 통해 물체의 고정된 윤곽 대신 움직임 사이의 관계가 형태를 만드는 방식을 살핀다. 2025년 판본을 2026년 신작으로 바꾸지 않는다.",
+            "directorPoint": "한 대상의 외형을 매번 유지하기보다 여러 요소가 공유하는 움직임의 규칙을 지속시킬 수 있다. 화면 속 덩어리가 흩어져도 같은 존재처럼 느껴지는 장면을 설계하는 질문이다.",
+            "critique": "공식 본문은 관객 입력을 어떤 센서로 검출해 무엇을 바꾸는지 상세히 밝히지 않는다. 상호작용이라는 분류만으로 몸 추적·AI·실제 새의 생체 데이터 사용을 단정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감",
+              "공간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "지각·반사",
+              "비인간·생태"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중동",
+            "venue": "teamLab Phenomena Abu Dhabi, 아부다비, UAE / 현재 설치"
+          },
+          "host": "www.teamlababudhabi.com",
+          "image": "images/2026-11-26-04.jpg",
+          "imageFallback": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/biocosmos_001__169f.jpg?h=1080&w=1920",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.teamlababudhabi.com/en/artworks/biocosmos",
+            "sourceUrl": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/biocosmos_001__169f.jpg?h=1080&w=1920",
+            "kind": "installation",
+            "credit": "teamLab / 사운드 Hideaki Takahashi / teamLab Phenomena Abu Dhabi 공식 작품 이미지·촬영자 미표기",
+            "caption": "Biocosmos의 공식 설치 이미지. 관객 실루엣과 공간에 퍼진 다채로운 움직임의 흔적이 함께 보인다.",
+            "checkedAt": "2026-11-26T00:45:05+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "어두운 공간에서 관객의 실루엣 주위로 주황·노랑·청록의 빛 자취가 무리처럼 뻗는 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2025,
+            "researchedAt": "2026-11-26T00:45:05+09:00",
+            "identity": "spatiotemporal-swarm-order-digital-installation",
+            "identityRationale": "새 무리의 움직임을 출발점으로, 개별 요소의 위치·모양이 달라져도 그 사이 질서가 이어질 때 하나의 존재로 읽히는 시공간적 구조를 표현한다. 기관은 상호작용 설치로 분류한다. 다수의 움직임 사이에서 생겨나는 질서를 하나의 존재처럼 지각하게 하는 설치다. 관람 기관은 The Way of Birds 연작의 2017년과 아부다비 판본의 2025년을 함께 표기한다.",
+            "evidence": [
+              "https://www.teamlababudhabi.com/en/artworks/biocosmos"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 아부다비 판본·연작 2017– / 현재 설치 재소개"
+          }
+        },
+        {
+          "id": "2026-11-26-05",
+          "originalTitle": "Floating Microcosms",
+          "creator": "teamLab",
+          "title": "밀었다 돌아오는 형태의 반응이 이웃으로 이어진다",
+          "publishedAt": "2025 아부다비 판본·teamLabBall 연작 2009– / 현재 설치 재소개",
+          "url": "https://www.teamlababudhabi.com/en/artworks/floating-microcosms",
+          "description": "사람의 접촉이나 물결에 흔들리는 부드러운 달걀형 조각들이 빛과 소리의 연쇄를 만드는 설치다. 주변 환경과 다른 관객의 행동이 함께 경험의 조건이 된다.",
+          "insight": {
+            "mechanism": "달걀형 조각을 밀거나 물결이 흔들면 기울었다가 돌아오며 음을 낸다. 가까운 조각들도 차례로 색과 소리로 반응하고 공간의 상태가 바뀐다는 공식 설명을 따른다.",
+            "whyNow": "현재 아부다비 판본에서 한 사람의 행동이 가까운 다른 형태로 전달되는 방식을 읽는다. 기관은 2009년 시작 연작과 2025년 판본을 구분해 적는다.",
+            "directorPoint": "모든 물체가 동시에 켜지는 효과보다 반응이 이웃으로 전달되는 순서를 설계할 수 있다. 자신의 접촉이 어디까지 번졌는지 관객이 기다리며 살피는 시간을 만드는 응용이다.",
+            "critique": "연결된 빛과 소리는 예술적 관계의 설계이지 관객들 사이의 실제 공감이 향상됐다는 실험 결과는 아니다. 상세 센서·통신 방식은 원문에 없어 추정하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "촉각",
+              "공간감"
+            ],
+            "tech": [
+              "센서·인터랙션",
+              "라이트·LED",
+              "공간음향"
+            ],
+            "theme": [
+              "인간-기계 관계",
+              "도시·공동체"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중동",
+            "venue": "teamLab Phenomena Abu Dhabi, 아부다비, UAE / 물을 사용하는 현재 설치"
+          },
+          "host": "www.teamlababudhabi.com",
+          "image": "images/2026-11-26-05.jpg",
+          "imageFallback": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/wateregg-169f.jpg?h=1080&w=1920",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.teamlababudhabi.com/en/artworks/floating-microcosms",
+            "sourceUrl": "https://media.myconnect.ae/-/media/yasconnect/project/tlp/explore/artworks/wateregg-169f.jpg?h=1080&w=1920",
+            "kind": "installation",
+            "credit": "teamLab / teamLab Phenomena Abu Dhabi 공식 작품 이미지·촬영자 미표기",
+            "caption": "Floating Microcosms의 공식 아부다비 설치 이미지. 발광하는 달걀형 조각과 반사가 겹친 공간을 보여 준다.",
+            "checkedAt": "2026-11-26T00:45:05+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "어두운 반사 공간에 달걀형 조각들이 놓이고 표면에 청록·보라·노랑 빛이 비치는 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2025,
+            "researchedAt": "2026-11-26T00:45:05+09:00",
+            "identity": "touch-and-wave-responsive-ovoid-light-sound-sculptures",
+            "identityRationale": "달걀형 조각을 밀거나 물결이 흔들면 기울었다가 돌아오며 음을 낸다. 가까운 조각들도 차례로 색과 소리로 반응하고 공간의 상태가 바뀐다는 공식 설명을 따른다. 사람의 접촉이나 물결에 흔들리는 부드러운 달걀형 조각들이 빛과 소리의 연쇄를 만드는 설치다. 주변 환경과 다른 관객의 행동이 함께 경험의 조건이 된다.",
+            "evidence": [
+              "https://www.teamlababudhabi.com/en/artworks/floating-microcosms"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 아부다비 판본·teamLabBall 연작 2009– / 현재 설치 재소개",
+            "productionCredits": {
+              "sound": "teamLab",
+              "productionSupport": [
+                "Hirohito Saito (OryZa Design)",
+                "Shinya Yoshida (SYD INC.)"
+              ]
+            }
+          }
+        },
+        {
+          "id": "2026-11-26-06",
+          "originalTitle": "Shylight",
+          "creator": "Lonneke Gordijn · Ralph Nauta (DRIFT)",
+          "title": "접히고 펼쳐지는 조명이 높이와 리듬으로 성격을 얻는다",
+          "publishedAt": "2006 / Rijksmuseum 소장 설치를 살피는 아카이브·신규 개막 소식 아님",
+          "url": "https://studiodrift.com/work/shylight/",
+          "description": "여러 겹의 실크와 로봇 제어를 결합해 내려오며 펼쳐지고 올라가며 접히는 빛의 조각이다. 꽃의 야간 개폐 현상에서 얻은 운동의 아이디어를 기계의 안무로 옮긴 경계 사례다.",
+          "insight": {
+            "mechanism": "실크 층과 LED·로보틱스가 결합된 구조가 수직으로 내려오며 열렸다가 닫혀 올라간다. 작가는 자연스럽게 보이는 운동도 정밀하게 제어할 수 있는 안무로 설명한다.",
+            "whyNow": "관객 입력 없이도 재료와 속도·높이의 변화가 살아 있는 듯한 인상을 만드는 사례로 비교한다. 작가의 출판 기록이 2006년을, 소장 발표는 Rijksmuseum의 2014년 상설 공개를 별도로 명시한다.",
+            "directorPoint": "기계를 숨기는 데만 집중하기보다 같은 형태가 열리고 물러나는 타이밍을 장면의 태도로 삼을 수 있다. 아래를 채우기보다 관객이 올려다보는 높이와 여백이 운동을 읽게 한다.",
+            "critique": "꽃의 생물학적 메커니즘에서 영감을 얻었다는 설명을 실제 식물이나 감정 인식 기능으로 바꾸지 않는다. 이 사진은 Rijksmuseum 판본이며 다른 장소·2023년 공연장 사진과 혼용하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감",
+              "신체·움직임"
+            ],
+            "tech": [
+              "키네틱·기계장치",
+              "로보틱스",
+              "라이트·LED"
+            ],
+            "theme": [
+              "비인간·생태",
+              "지각·반사"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "Rijksmuseum, 암스테르담, 네덜란드 / 소장·설치 기록; 오늘 운영 여부 별도 미확인"
+          },
+          "host": "studiodrift.com",
+          "image": "images/2026-11-26-06.jpg",
+          "imageFallback": "https://i0.wp.com/studiodrift.com/wp-content/uploads/2021/02/Shylight-by-Studio-Drift-at-Rijksmuseum-1-scaled.jpg?resize=1700%2C1220&ssl=1",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://studiodrift.com/work/shylight/",
+            "sourceUrl": "https://i0.wp.com/studiodrift.com/wp-content/uploads/2021/02/Shylight-by-Studio-Drift-at-Rijksmuseum-1-scaled.jpg?resize=1700%2C1220&ssl=1",
+            "kind": "installation",
+            "credit": "DRIFT, Shylight / Rijksmuseum 설치 사진 Erik Smits",
+            "caption": "DRIFT 공식 작품 갤러리가 Rijksmuseum 설치와 촬영자 Erik Smits를 명시한 사진. 촬영 연도는 미표기다.",
+            "checkedAt": "2026-11-26T00:45:05+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "장식 무늬가 있는 밝은 천장 아래 다섯 개의 흰 실크 조명이 서로 다른 높이와 열린 모양으로 매달린 모습"
+          },
+          "researchMeta": {
+            "kind": "archive",
+            "workYear": 2006,
+            "researchedAt": "2026-11-26T00:45:05+09:00",
+            "identity": "robotic-silk-light-sculpture-kinetic-design-boundary",
+            "identityRationale": "실크 층과 LED·로보틱스가 결합된 구조가 수직으로 내려오며 열렸다가 닫혀 올라간다. 작가는 자연스럽게 보이는 운동도 정밀하게 제어할 수 있는 안무로 설명한다. 여러 겹의 실크와 로봇 제어를 결합해 내려오며 펼쳐지고 올라가며 접히는 빛의 조각이다. 꽃의 야간 개폐 현상에서 얻은 운동의 아이디어를 기계의 안무로 옮긴 경계 사례다.",
+            "evidence": [
+              "https://studiodrift.com/work/shylight/",
+              "https://studiodrift.com/event/rijksmuseum-shylight-acquisition/",
+              "https://studiodrift.com/drift-choreographing-the-future/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2006 / Rijksmuseum 소장 설치를 살피는 아카이브·신규 개막 소식 아님"
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "Voice Tunnel: 참여자의 말은 어디에 머물고 언제 사라지는가",
+        "keywords": [
+          "목소리와 밝기",
+          "순환하는 기록",
+          "보행의 속도",
+          "공공 공간"
+        ],
+        "sections": [
+          {
+            "heading": "입구보다 중요한 것은 말이 놓이는 위치다",
+            "body": "2013년 뉴욕의 차량 터널을 보행자가 사용하는 기간에 설치된 작품이다. 중앙 인터컴에 남긴 소리가 가까운 조명과 스피커에서 반복되므로, 관객은 한 번의 발언 뒤에도 자신이 남긴 상태를 공간에서 만난다. 공공 장소의 통행 방식이 바뀌었다는 NYC DOT의 기록과 입력·재생을 설명한 작가 원장을 함께 읽었다."
+          },
+          {
+            "heading": "말의 내용과 신호의 크기는 다른 층위다",
+            "body": "조명은 발언의 의미를 해석하기보다 말소리의 크기에 따라 밝아지고 어두워진다. 소리는 근처 스피커에서 들려 빛과 자리를 공유한다. 연출에 적용한다면 감정 분석이라는 설명부터 붙이기보다 어떤 신호를 어떤 감각 변화에 대응시킬지 먼저 정할 수 있다."
+          },
+          {
+            "heading": "공동의 기억에는 밀려나는 규칙이 있다",
+            "body": "새 기록이 추가되면 이전 기록의 위치가 옆으로 이동하고 가장 오래된 것은 끝에서 사라진다. 참여를 누적량으로만 평가하지 않고 들어옴·머묾·퇴장의 구조로 보는 이유다. 다만 작가 원장의 75명과 NYC DOT 안내의 약 100명은 다르므로 기록 용량을 공통 확정값처럼 쓰지 않는다."
+          },
+          {
+            "heading": "2013년의 현장과 오늘의 분석을 분리한다",
+            "body": "오늘 다시 읽는 것은 과거에 종료된 설치의 설계다. 실제 사진은 작가 사진 원장에 수록된 뉴욕 판본이며 James Ewing의 크레딧을 따른다. 한 장의 사진은 빛의 배치와 보행 공간을 보여 주지만 목소리의 중첩이나 전체 시간 경험을 재현하지는 않는다. 현재 전시 중이라는 주장을 덧붙이지 않는다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "작가 작품 원장 — 입력·재생·기록 이동 규칙과 2013 제작 크레딧",
+            "url": "https://lozano-hemmer.com/artworks/voice_tunnel.php"
+          },
+          {
+            "label": "NYC DOT 2013년 7월 29일 안내 — 실제 행사 기간·보행 개방·당시 운영 설명",
+            "url": "https://www.nyc.gov/html/dot/html/pr2013/pr13-050.shtml"
+          },
+          {
+            "label": "작가 사진 원장 — 뉴욕 판본·James Ewing 크레딧·이용 조건",
+            "url": "https://lozano-hemmer.com/showimage_emb.php?proj=voice_tunnel&img=newyork_2013&idproj=284&type=artwork&id=1"
+          }
+        ]
+      },
+      "crosscurrent": {
+        "note": "Atomic-Color Automatism은 색층의 이동을, Strange Projectors는 영상 시간의 공간적 재배치를 다룬다. Biocosmos는 요소 사이 질서를 하나의 존재로 읽게 하고 Floating Microcosms는 물리적 흔들림이 이웃의 색과 소리로 이어진다. Voice Tunnel의 기록 교체와 Shylight의 제어된 안무를 함께 비교하되 관객 입력·계산 과정·실제 물체의 운동을 같은 기술로 합치지 않는다.",
+        "itemIds": [
+          "2026-11-26-01",
+          "2026-11-26-02",
+          "2026-11-26-03",
+          "2026-11-26-04",
+          "2026-11-26-05",
+          "2026-11-26-06"
+        ]
+      }
+    },
+    {
       "date": "2026-11-25",
       "title": "움직이는 집과 떠 있는 형태, 질서를 감각하는 방법",
       "summary": "YCAM의 2026년 신작 Dance와 아부다비의 현재 설치, 올해 다시 전시된 입체 애니메이션, 생성형 화면 두 편, V&A의 플로터 드로잉을 읽는다. 신작·현재 재소개·행사 종료 기록을 구분하고, 제작 연도 미확인 두 편과 사운드 크레딧의 출처 차이도 남겼다.",
@@ -29440,7 +29886,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-25T08:39:34+09:00",
+  "generatedAt": "2026-11-26T00:45:05+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",
