@@ -1,6 +1,6 @@
 {
   "schema": "motif-curator-memory/v1",
-  "updatedAt": "2026-11-26T00:45:05+09:00",
+  "updatedAt": "2026-11-27T00:46:32+09:00",
   "mission": "한 페스티벌의 목록이 아니라 세계의 미디어아트를 읽고, 작업 사이의 흐름(Signals)과 연출자가 가져갈 도구(Toolkit)를 축적하는 저널.",
   "editorial_rules": [
     "모든 item은 insight(mechanism/whyNow/directorPoint/critique), tags(sense/tech/theme/scale), origin(artistBase/region/venue)을 가진다. 어휘는 SPEC 고정 목록만.",
@@ -314,6 +314,10 @@
     {
       "date": "2026-11-26",
       "note": "기존95호·531개 보존. 작품6개·Focus4단락3출처, 4권역·도메인최대2. 현재/올해 재소개4개·아카이브2개, 확인된2026신작0·제작연도미확인2를 공개 표시. 실제 공식 작품 이미지6개 수동 대조."
+    },
+    {
+      "date": "2026-11-27",
+      "note": "기존96호·537개 보존. 특정 작품6개·Focus4단락2출처. 2026신작1·현재/올해 재소개5·아카이브0, 확인3권역과 전시지역미상1을 구분. 제작연도·판본·사진/스크린샷/영화스틸·협업 크레딧 수동 대조."
     }
   ],
   "source_notes": [
@@ -504,6 +508,10 @@
     {
       "date": "2026-11-26",
       "note": "Voice Tunnel은 James Ewing의 뉴욕2013 실제 설치 사진 및 사진 페이지 CC BY-NC-SA4.0을 확인. 작가 기록75명/NYC DOT 사전안내 약100명 차이를 본문·Focus에 공개하고 의미/감정분석을 주장하지 않음. FILE Atomic-Color Automatism과 Strange Projectors는 비상호작용이며2026은 행사수록연도; 최초제작연도null. Biocosmos2017연작/2025판본, Floating Microcosms2009연작/2025판본 분리. 전자는 관객입력상세미공개, 후자는 접촉/물결→복원→인접색/음연쇄만 명시. Shylight는 공식 출판기록2006·Rijksmuseum 소장발표2014·Erik Smits의 해당설치사진 분리, 현재당일운영을 주장하지않음. ACMI Lifelike는 개별작품/크레딧없는 행사소개로 제외; Superblue Es Devlin주소 목록이동 및 Lemercier 빈작품본문은 근거 불충분으로 제외."
+    },
+    {
+      "date": "2026-11-27",
+      "note": "Ex Nihilo (Cosmos)는 Art Blocks·Feral File의 2026-03-10 공동 공개·256출력·키조작 명세와 인터뷰를 대조, 공식 #0 소프트웨어 프리뷰 사용. 같은 전시의 플로터 드로잉/표지·작가 초상/다른 작가 도해를 이미지로 쓰지 않음; 지역미상은 작가LA거주지와 분리. Double2024 작가원장·SDU의ZKM2026수록과CodyLukas공식사진 대조, 압력/센서/AI/감정인식 추정없음. Whitney2026가이드의Frank2025/Apartment2020을 현재 재소개로 구분, 데이터주간갱신의 실제현황을 독립검증했다고 주장안함. Zero One은 작가의2018-06제작·Processing/Premiere·MikeGao협업을복원하고 FILE2026 비상호작용 상영과분리. Richter/Belz는2019–2024판본·공식영화스틸·Saunders음악/Blaauw트럼펫/Schottke음향/Heinen편집역할확인, 현재전시의라이브연주추정없음. DIATOMA/PSXHE는 여전히 공식세부원리 근거부족으로보류. Aside세션종료후공식검색/원문다운로드로조사; Substack403·REAS NFT429는우회하지않고ArtBlocks/FeralFile본문근거사용."
     }
   ],
   "dedup_policy": {

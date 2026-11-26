@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-27",
+  "researchedAt": "2026-11-27T00:46:32+09:00",
+  "baseCommit": "34ed9232dcbfd1fc9e526b8d00a5d36669e7ca30",
+  "previousIssuesPreserved": 96,
+  "previousItemsPreserved": 537,
+  "missionAndPoliciesPreserved": true,
+  "reviewResult": "작품별 매체·관객역할·시점·공식이미지 판본을 대조. 신작1/재소개5, 미상제작연도0, 확인권역3+미상지역1. 스키마 통과를 사실/사진 검증으로 대신하지 않음.",
+  "items": [
+    {
+      "id": "2026-11-27-01",
+      "title": "Ex Nihilo (Cosmos)",
+      "kind": "new-work",
+      "workYear": 2026,
+      "identity": "interactive-generative-dodecahedron-image-deconstruction-software",
+      "evidence": [
+        "https://www.artblocks.io/collection/ex-nihilo-cosmos-by-casey-reas",
+        "https://feralfile.com/exhibitions/ex-nihilo-a3c"
+      ],
+      "imageSource": {
+        "sourcePage": "https://www.artblocks.io/collection/ex-nihilo-cosmos-by-casey-reas",
+        "sourceUrl": "https://res.cloudinary.com/art-blocks/image/fetch/f_auto,c_limit,w_3840,q_auto/https%3A%2F%2Fmedia-proxy.artblocks.io%2F1%2F0x0000000c687daed0fba60d1dba4e5f6149e8b894%2F0.png%3Ft%3D1772483790",
+        "kind": "artwork",
+        "credit": "Casey REAS / Art Blocks × Feral File / Ex Nihilo (Cosmos) #0 공식 프리뷰",
+        "caption": "공식 컬렉션에 제시된 Ex Nihilo (Cosmos) #0의 출력 프리뷰. 전시 표지나 별도 SIMULACRUM 종이 드로잉과 혼용하지 않는다.",
+        "checkedAt": "2026-11-27T00:46:32+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "검정 바탕에서 흰색과 작은 색 선들이 흔들리는 윤곽으로 정십이면체의 골격을 이루는 화면"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-27-02",
+      "title": "Double",
+      "kind": "reexhibition",
+      "workYear": 2024,
+      "identity": "paired-soft-robotic-twisted-ring-sculpture",
+      "evidence": [
+        "https://jonasjoergensen.org/critical-making/works/",
+        "https://www.softrobotics.dk/2026/06/23/exhibition-silver-egg/",
+        "https://zkm.de/en/2026/07/silver-egg-the-eros-of-media-art"
+      ],
+      "imageSource": {
+        "sourcePage": "https://jonasjoergensen.org/critical-making/works/",
+        "sourceUrl": "https://jonasjoergensen.org/wp-content/uploads/2025/01/eden-book-jan14_jj2.jpg",
+        "kind": "installation",
+        "credit": "Jonas Jørgensen · Cody Lukas, Double / 사진 Cody Lukas",
+        "caption": "작가의 Double 항목에 수록된 고리형 구성요소의 공식 사진. 촬영자 Cody Lukas를 명시하며 2026년 전시장 사진으로 쓰지 않는다.",
+        "checkedAt": "2026-11-27T00:46:32+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "회색 바닥 위 뒤틀린 고리형 물체에 여러 개의 흰 연결관이 이어진 모습"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-27-03",
+      "title": "The Levitating Perils #2",
+      "kind": "reexhibition",
+      "workYear": 2025,
+      "identity": "timed-museum-website-animation-intervention",
+      "evidence": [
+        "https://whitney.org/exhibitions/frank-wang-yefeng",
+        "https://whitney.org/collection/works/70348",
+        "https://whitney.org/guides/147"
+      ],
+      "imageSource": {
+        "sourcePage": "https://whitney.org/exhibitions/frank-wang-yefeng",
+        "sourceUrl": "https://whitneymedia.org/assets/image/832959/large_Screenshot_2025-10-20_at_12.44.42_PM.png",
+        "kind": "artwork",
+        "credit": "© Frank WANG Yefeng / Whitney Museum of American Art / 2025 공식 작품 스크린샷",
+        "caption": "Whitney가 2025년 오전 9시 장면으로 명시한 작품 스크린샷. 미술관 로고가 보이지만 행사 배너가 아니라 웹사이트에 개입하는 작품 자체의 화면이다.",
+        "checkedAt": "2026-11-27T00:46:32+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "노란 Whitney 웹페이지 위로 여러 촉수와 말풍선을 가진 붉은 괴물의 애니메이션 화면이 겹친 모습"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-27-04",
+      "title": "New York Apartment",
+      "kind": "reexhibition",
+      "workYear": 2020,
+      "identity": "aggregated-property-listings-web-art-and-virtual-tour",
+      "evidence": [
+        "https://whitney.org/exhibitions/new-york-apartment",
+        "https://whitney.org/collection/works/63817",
+        "https://whitney.org/guides/147",
+        "https://whitney.org/press/artport-25"
+      ],
+      "imageSource": {
+        "sourcePage": "https://whitney.org/exhibitions/new-york-apartment",
+        "sourceUrl": "https://whitneymedia.org/assets/image/824519/large_nyapt.jpg",
+        "kind": "artwork",
+        "credit": "© Sam Lavigne · Tega Brain / Whitney Museum of American Art / New York Apartment, 2020",
+        "caption": "기관이 2020년 작품 스크린샷으로 제시한 피라미드형 가상 투어. 실제 건물 사진이나 오늘 집계한 도시 데이터라고 설명하지 않는다.",
+        "checkedAt": "2026-11-27T00:46:32+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "옅은 청록 배경에서 수많은 아파트 평면의 선형 구조가 거대한 피라미드처럼 쌓인 화면"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-27-05",
+      "title": "Zero One",
+      "kind": "reexhibition",
+      "workYear": 2018,
+      "identity": "cellular-automaton-based-generative-music-video-boundary",
+      "evidence": [
+        "https://archive.file.org.br/obras-artisticas/zero-one-2/",
+        "https://ravenkwok.com/zero-one/"
+      ],
+      "imageSource": {
+        "sourcePage": "https://archive.file.org.br/obras-artisticas/zero-one-2/",
+        "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06153047/file-sao-paulo-2026-raven-kwok-zero-one-dimensao-randomica.jpg",
+        "kind": "artwork",
+        "credit": "Raven Kwok (영상) · Mike Gao (음악) / FILE 공식 작품 프리뷰",
+        "caption": "FILE 2026의 Zero One 작품 화면. 제작 연도는 작가 직접 기록의 2018년을 따르고 수록 연도와 구분한다.",
+        "checkedAt": "2026-11-27T00:46:32+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "검정 공간의 점 격자와 흰 선 사이로 청록·분홍색 입체 형태들이 반복되고 휘어지는 추상 화면"
+      },
+      "imageManuallyCompared": true
+    },
+    {
+      "id": "2026-11-27-06",
+      "title": "Moving Picture (946-3) Kyoto Version",
+      "kind": "reexhibition",
+      "workYear": 2024,
+      "identity": "algorithmically-divided-mirrored-painting-to-digital-film",
+      "evidence": [
+        "https://zkm.de/de/presse/silver-egg-die-sinnlichkeit-der-medienkunst",
+        "https://www.fondationbeyeler.ch/de/sammlung/digitale-sammlung/moving-picture-946-3-kyoto-version",
+        "https://www.rebeccasaunders.net/moving-picture-946-3",
+        "https://www.berlinerfestspiele.de/musikfest-berlin/programm/2020/kalender/film--live-musik",
+        "https://hcmf.co.uk/wp-content/uploads/hcmf-programme-2022.pdf"
+      ],
+      "imageSource": {
+        "sourcePage": "https://zkm.de/de/presse/silver-egg-die-sinnlichkeit-der-medienkunst",
+        "sourceUrl": "https://zkm.de/system/files/field_media_image/2026/06/08/100632/01_Richter-Belz_moving_picture_still-C-Richter-Belz.jpg",
+        "kind": "film-still",
+        "credit": "© Gerhard Richter · Corinna Belz / Moving Picture (946-3) Kyoto Version, 2019–24, Still © Gerhard Richter, 2025 (26092025)",
+        "caption": "ZKM 공식 전시 자료가 작품명·판본·권리자를 명시한 영화 스틸. 실제 회화를 촬영한 전시장 사진으로 바꾸어 설명하지 않는다.",
+        "checkedAt": "2026-11-27T00:46:32+09:00",
+        "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+        "alt": "붉은색을 중심으로 검정·초록·노랑의 세밀한 대칭 패턴이 반복되고 겹치는 가로 영화 화면"
+      },
+      "imageManuallyCompared": true
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "name": "DIATOMA / PSXHE",
+      "reason": "2026제작·사진은확인되나공식작품별세부원리근거부족;학교관람기는공식1차근거로대체하지않음"
+    },
+    {
+      "name": "Still Life / SIMULACRUM / exhibition cover",
+      "reason": "이번선정ExNihilo(Cosmos)소프트웨어출력과구분;별도종이드로잉·표지로사진대체하지않음"
+    }
+  ],
+  "regionDisclosure": "Ex Nihilo(Cosmos)지역null: 온라인작품의특정현장전시지역은미확인;작가거주지로지역추정안함",
+  "sourceRoles": {
+    "focus": "공동 발표기관2곳의명세와전시맥락을구분;독립취재2건으로주장안함"
+  },
+  "gates": {
+    "candidate": {
+      "passed": true,
+      "fail": 0,
+      "warn": 0
+    },
+    "date": {
+      "passed": true,
+      "fail": 0,
+      "warn": 1
+    },
+    "archive": {
+      "passed": true,
+      "fail": 0,
+      "warn": 81
+    },
+    "linked": {
+      "passed": true,
+      "fail": 0,
+      "warn": 0
+    },
+    "identity": {
+      "passed": true,
+      "fail": 0,
+      "warn": 0
+    },
+    "images": {
+      "passed": true,
+      "fail": 0,
+      "warn": 0
+    },
+    "quality": {
+      "passed": true
+    }
+  },
+  "creatorWarning": {
+    "count": 1,
+    "reason": "Casey REAS는 11월23일 MicroImage와 다른 작품. 공개일·원제·소프트웨어 구조·공식 출력 이미지를 대조했다. 경고를 피하려 크레딧을 바꾸지 않았다."
+  },
+  "verifiedAt": "2026-11-27T00:50:01+09:00"
+}

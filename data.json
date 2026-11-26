@@ -1,6 +1,451 @@
 {
   "issues": [
     {
+      "date": "2026-11-27",
+      "title": "보이는 형태 뒤의 정보와 움직임",
+      "summary": "2026년 소프트웨어 신작 Ex Nihilo (Cosmos), 현재 다시 전시되는 소프트 로봇·웹 작품·영화, FILE의 코드 기반 영상을 읽는다. 신작 1개와 재소개 5개를 구분하고 제작·판본 연도를 표시했다. 온라인 공동 공개 한 편의 전시 지역은 작가 거주지로 추정하지 않고 미상으로 남겼다.",
+      "items": [
+        {
+          "id": "2026-11-27-01",
+          "originalTitle": "Ex Nihilo (Cosmos)",
+          "creator": "Casey REAS",
+          "title": "정십이면체의 선을 색 정보로 다시 풀어낸다",
+          "publishedAt": "2026년 3월 10일 공개 / Art Blocks × Feral File 온라인 소프트웨어 신작",
+          "url": "https://www.artblocks.io/collection/ex-nihilo-cosmos-by-casey-reas",
+          "description": "수학적으로 구성한 정십이면체의 이미지를 픽셀 정보로 분해하고 다시 선으로 조직하는 생성형 소프트웨어 작품이다. 2015년 시작 Still Life 연작 중 2026년 공개된 특정 작품으로, 함께 출품된 플로터 드로잉과 구분한다.",
+          "insight": {
+            "mechanism": "정십이면체를 생성한 뒤 픽셀의 색 값을 위치·색이 달라지는 선으로 번역해 형태를 다시 구성한다. 공식 페이지에는 RGB 채널 표시, 색 전환, 속도·일시정지와 새 구성을 만드는 키 조작이 명시돼 있다.",
+            "whyNow": "공동 발표 기관이 2026년 3월 10일 공개와 256개 출력의 연작을 기록한다. 오늘 개막했다는 소식이 아니라 올해 소프트웨어 신작의 이미지 생성·분해 구조를 읽는 리서치다.",
+            "directorPoint": "대상을 먼저 그린 뒤 효과를 얹는 순서에서 벗어나 같은 정보가 형상을 만들고 흩트리게 설계할 수 있다. 색 채널이나 속도를 바꾸는 작은 조작이 관찰의 도구가 되는 방식이다.",
+            "critique": "지속해서 변한다는 소개를 수학적으로 절대 반복하지 않는다는 독립 검증으로 쓰지 않는다. 화면 작품과 종이 드로잉의 결과는 구분하며, 작품을 조작하는 행위와 새로운 소유권을 만드는 행위도 같지 않다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": "로스앤젤레스, 미국",
+            "region": null,
+            "venue": "Art Blocks × Feral File 온라인 공동 공개 / 특정 현장 전시 지역 미기재"
+          },
+          "host": "www.artblocks.io",
+          "image": "images/2026-11-27-01.jpg",
+          "imageFallback": "https://res.cloudinary.com/art-blocks/image/fetch/f_auto,c_limit,w_3840,q_auto/https%3A%2F%2Fmedia-proxy.artblocks.io%2F1%2F0x0000000c687daed0fba60d1dba4e5f6149e8b894%2F0.png%3Ft%3D1772483790",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://www.artblocks.io/collection/ex-nihilo-cosmos-by-casey-reas",
+            "sourceUrl": "https://res.cloudinary.com/art-blocks/image/fetch/f_auto,c_limit,w_3840,q_auto/https%3A%2F%2Fmedia-proxy.artblocks.io%2F1%2F0x0000000c687daed0fba60d1dba4e5f6149e8b894%2F0.png%3Ft%3D1772483790",
+            "kind": "artwork",
+            "credit": "Casey REAS / Art Blocks × Feral File / Ex Nihilo (Cosmos) #0 공식 프리뷰",
+            "caption": "공식 컬렉션에 제시된 Ex Nihilo (Cosmos) #0의 출력 프리뷰. 전시 표지나 별도 SIMULACRUM 종이 드로잉과 혼용하지 않는다.",
+            "checkedAt": "2026-11-27T00:46:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검정 바탕에서 흰색과 작은 색 선들이 흔들리는 윤곽으로 정십이면체의 골격을 이루는 화면"
+          },
+          "researchMeta": {
+            "kind": "new-work",
+            "workYear": 2026,
+            "researchedAt": "2026-11-27T00:46:32+09:00",
+            "identity": "interactive-generative-dodecahedron-image-deconstruction-software",
+            "identityRationale": "정십이면체를 생성한 뒤 픽셀의 색 값을 위치·색이 달라지는 선으로 번역해 형태를 다시 구성한다. 공식 페이지에는 RGB 채널 표시, 색 전환, 속도·일시정지와 새 구성을 만드는 키 조작이 명시돼 있다. 수학적으로 구성한 정십이면체의 이미지를 픽셀 정보로 분해하고 다시 선으로 조직하는 생성형 소프트웨어 작품이다. 2015년 시작 Still Life 연작 중 2026년 공개된 특정 작품으로, 함께 출품된 플로터 드로잉과 구분한다.",
+            "evidence": [
+              "https://www.artblocks.io/collection/ex-nihilo-cosmos-by-casey-reas",
+              "https://feralfile.com/exhibitions/ex-nihilo-a3c"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2026년 3월 10일 공개 / Art Blocks × Feral File 온라인 소프트웨어 신작",
+            "editionShown": 0,
+            "regionDisclosure": "온라인 공동 공개의 특정 현장 전시 지역을 확인하지 않아 region=null. 작가 거주지는 별도 artistBase에만 기록."
+          }
+        },
+        {
+          "id": "2026-11-27-02",
+          "originalTitle": "Double",
+          "creator": "Jonas Jørgensen · Cody Lukas",
+          "title": "뒤틀린 두 고리가 살아 있는 듯한 움직임을 만든다",
+          "publishedAt": "2024 / ZKM Silver Egg 현재 재전시·2027년 2월 21일까지",
+          "url": "https://jonasjoergensen.org/critical-making/works/",
+          "description": "거의 같은 모양의 뒤틀린 고리 두 부분으로 구성된 소프트 로보틱 설치다. 느린 이동·변형·멈춤이 생명이나 비언어적 대화처럼 읽히는 순간을 다룬다.",
+          "insight": {
+            "mechanism": "뫼비우스 띠를 연상시키는 고리형 부분들이 구불거리거나 몸의 형태를 바꾸고 느리게 이동하다 멈춘다. 작가는 재료가 자기 형태의 발생에 관여하는 물리적 과정으로 설명한다.",
+            "whyNow": "작가 원장과 참여 연구기관은 2024년 제작작 Double의 ZKM 2026 전시를 각각 확인한다. 새 로봇 기술의 출시가 아니라 지금 다시 전시되는 구체적인 작품을 살핀다.",
+            "directorPoint": "목적지에 도달하는 효율적인 동작만 고르지 않고 움직임이 생겼다 멈추는 간격도 장면의 사건으로 쓸 수 있다. 비슷한 두 형태 사이의 차이를 관객이 오래 보게 하는 응용이다.",
+            "critique": "대화처럼 보인다는 해석을 두 개체가 관객의 감정이나 서로의 의도를 읽는다는 사실로 바꾸지 않는다. 상세 제어·센서 방식은 본문에 없으며, 사용 사진도 2026년 ZKM 현장을 찍었다고 주장하지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "신체·움직임",
+              "공간감"
+            ],
+            "tech": [
+              "로보틱스",
+              "키네틱·기계장치"
+            ],
+            "theme": [
+              "비인간·생태",
+              "인간-기계 관계"
+            ],
+            "scale": "방·설치"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "ZKM, 카를스루에, 독일 / Silver Egg 현재 전시"
+          },
+          "host": "jonasjoergensen.org",
+          "image": "images/2026-11-27-02.jpg",
+          "imageFallback": "https://jonasjoergensen.org/wp-content/uploads/2025/01/eden-book-jan14_jj2.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://jonasjoergensen.org/critical-making/works/",
+            "sourceUrl": "https://jonasjoergensen.org/wp-content/uploads/2025/01/eden-book-jan14_jj2.jpg",
+            "kind": "installation",
+            "credit": "Jonas Jørgensen · Cody Lukas, Double / 사진 Cody Lukas",
+            "caption": "작가의 Double 항목에 수록된 고리형 구성요소의 공식 사진. 촬영자 Cody Lukas를 명시하며 2026년 전시장 사진으로 쓰지 않는다.",
+            "checkedAt": "2026-11-27T00:46:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "회색 바닥 위 뒤틀린 고리형 물체에 여러 개의 흰 연결관이 이어진 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2024,
+            "researchedAt": "2026-11-27T00:46:32+09:00",
+            "identity": "paired-soft-robotic-twisted-ring-sculpture",
+            "identityRationale": "뫼비우스 띠를 연상시키는 고리형 부분들이 구불거리거나 몸의 형태를 바꾸고 느리게 이동하다 멈춘다. 작가는 재료가 자기 형태의 발생에 관여하는 물리적 과정으로 설명한다. 거의 같은 모양의 뒤틀린 고리 두 부분으로 구성된 소프트 로보틱 설치다. 느린 이동·변형·멈춤이 생명이나 비언어적 대화처럼 읽히는 순간을 다룬다.",
+            "evidence": [
+              "https://jonasjoergensen.org/critical-making/works/",
+              "https://www.softrobotics.dk/2026/06/23/exhibition-silver-egg/",
+              "https://zkm.de/en/2026/07/silver-egg-the-eros-of-media-art"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2024 / ZKM Silver Egg 현재 재전시·2027년 2월 21일까지"
+          }
+        },
+        {
+          "id": "2026-11-27-03",
+          "originalTitle": "The Levitating Perils #2",
+          "creator": "Frank WANG Yefeng",
+          "title": "정시의 웹사이트를 낯선 괴물이 잠시 점유한다",
+          "publishedAt": "2025 / Whitney On the Hour 현재 공개·2026 artport 전시 재소개",
+          "url": "https://whitney.org/exhibitions/frank-wang-yefeng",
+          "description": "미술관 웹사이트를 매 정시 30초 동안 애니메이션의 무대로 사용하는 웹 작품이다. 반아시아 인종주의의 역사적 이미지를 작은 붉은 용과 말풍선으로 다시 구성한다.",
+          "insight": {
+            "mechanism": "네 개의 애니메이션이 하루 동안 여섯 시간 간격으로 교체되고 별도 한 편이 무작위로 끼어든다. 정시에 방문한 관객은 원래 읽으려던 기관 정보 위에 겹치는 이미지와 텍스트를 만난다.",
+            "whyNow": "2025년 시작된 온라인 프로젝트가 현재 공개 중이며 올해 artport 전시 가이드에도 포함됐다. 역사적 이미지의 전유·해체를 웹사이트의 시간표와 결합하는 방식을 읽는다.",
+            "directorPoint": "별도 영상 화면으로 관객을 옮기기보다 이미 사용 중인 정보 공간을 잠시 변형할 수 있다. 매번 같은 때에 나타나되 시간대에 따라 다른 장면을 보여 주는 노출의 안무다.",
+            "critique": "기관은 접근성 설정을 존중해 자동 재생을 끌 수 있다고 안내한다. 모든 방문자가 강제로 같은 영상을 본다고 단정하지 않는다. 고정 스크린샷은 다섯 애니메이션의 전체 순환을 보여 주지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "언어",
+              "시간감"
+            ],
+            "tech": [
+              "네트워크·웹",
+              "영상·필름"
+            ],
+            "theme": [
+              "신체·정체성",
+              "탈식민·역사"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": "뉴욕·상하이",
+            "region": "북미",
+            "venue": "Whitney Museum of American Art, 뉴욕, 미국 / 온라인 커미션·artport 현재 전시"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-27-03.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/832959/large_Screenshot_2025-10-20_at_12.44.42_PM.png",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/frank-wang-yefeng",
+            "sourceUrl": "https://whitneymedia.org/assets/image/832959/large_Screenshot_2025-10-20_at_12.44.42_PM.png",
+            "kind": "artwork",
+            "credit": "© Frank WANG Yefeng / Whitney Museum of American Art / 2025 공식 작품 스크린샷",
+            "caption": "Whitney가 2025년 오전 9시 장면으로 명시한 작품 스크린샷. 미술관 로고가 보이지만 행사 배너가 아니라 웹사이트에 개입하는 작품 자체의 화면이다.",
+            "checkedAt": "2026-11-27T00:46:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "노란 Whitney 웹페이지 위로 여러 촉수와 말풍선을 가진 붉은 괴물의 애니메이션 화면이 겹친 모습"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2025,
+            "researchedAt": "2026-11-27T00:46:32+09:00",
+            "identity": "timed-museum-website-animation-intervention",
+            "identityRationale": "네 개의 애니메이션이 하루 동안 여섯 시간 간격으로 교체되고 별도 한 편이 무작위로 끼어든다. 정시에 방문한 관객은 원래 읽으려던 기관 정보 위에 겹치는 이미지와 텍스트를 만난다. 미술관 웹사이트를 매 정시 30초 동안 애니메이션의 무대로 사용하는 웹 작품이다. 반아시아 인종주의의 역사적 이미지를 작은 붉은 용과 말풍선으로 다시 구성한다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/frank-wang-yefeng",
+              "https://whitney.org/collection/works/70348",
+              "https://whitney.org/guides/147"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2025 / Whitney On the Hour 현재 공개·2026 artport 전시 재소개"
+          }
+        },
+        {
+          "id": "2026-11-27-04",
+          "originalTitle": "New York Apartment",
+          "creator": "Sam Lavigne · Tega Brain",
+          "title": "실제 매물의 합계가 하나의 불가능한 집을 만든다",
+          "publishedAt": "2020 / Whitney artport 2026 현재 재전시·온라인 공개",
+          "url": "https://whitney.org/exhibitions/new-york-apartment",
+          "description": "실제 온라인 부동산 매물을 모아 뉴욕의 다섯 자치구를 아우르는 하나의 가상 아파트 광고로 만든 웹 작품이다. 개별 집의 평면과 상품 언어가 거대한 집 한 채의 초상이 된다.",
+          "insight": {
+            "mechanism": "가격·방 수·면적과 방의 이미지·영상을 하나의 매물 형식에 집계한다. 두 종류의 수직 타워, 평평한 풍경, 피라미드라는 네 가지 3D 가상 투어가 여러 집의 평면을 다르게 조직한다.",
+            "whyNow": "현재 artport 전시의 개별 가이드와 소장 기록을 대조해 수록했다. 2020년 작품을 신작으로 바꾸지 않고, 집계된 데이터가 도시를 어떤 형태로 보이게 하는지 다시 읽는다.",
+            "directorPoint": "도시 전체를 설명하는 지도 대신 익숙한 작은 광고 한 칸의 문법을 과도하게 확장할 수 있다. 같은 데이터라도 쌓는 방식을 바꾸면 관객이 읽는 계층·밀도·생활의 인상이 달라진다.",
+            "critique": "기관은 주간 갱신을 설계로 설명하지만 이번 조사에서 실제 매물 데이터의 갱신 시각이나 총계를 독립 대조하지 않았다. 가상 합계를 현재 시장의 정확한 총량이나 실제 구매 가능한 집으로 읽지 않는다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "공간감"
+            ],
+            "tech": [
+              "데이터·시각화",
+              "네트워크·웹"
+            ],
+            "theme": [
+              "도시·공동체",
+              "정보·불확실성"
+            ],
+            "scale": "온라인·네트워크"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "북미",
+            "venue": "Whitney Museum of American Art, 뉴욕, 미국 / artport 2026 전시·온라인 커미션"
+          },
+          "host": "whitney.org",
+          "image": "images/2026-11-27-04.jpg",
+          "imageFallback": "https://whitneymedia.org/assets/image/824519/large_nyapt.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://whitney.org/exhibitions/new-york-apartment",
+            "sourceUrl": "https://whitneymedia.org/assets/image/824519/large_nyapt.jpg",
+            "kind": "artwork",
+            "credit": "© Sam Lavigne · Tega Brain / Whitney Museum of American Art / New York Apartment, 2020",
+            "caption": "기관이 2020년 작품 스크린샷으로 제시한 피라미드형 가상 투어. 실제 건물 사진이나 오늘 집계한 도시 데이터라고 설명하지 않는다.",
+            "checkedAt": "2026-11-27T00:46:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "옅은 청록 배경에서 수많은 아파트 평면의 선형 구조가 거대한 피라미드처럼 쌓인 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2020,
+            "researchedAt": "2026-11-27T00:46:32+09:00",
+            "identity": "aggregated-property-listings-web-art-and-virtual-tour",
+            "identityRationale": "가격·방 수·면적과 방의 이미지·영상을 하나의 매물 형식에 집계한다. 두 종류의 수직 타워, 평평한 풍경, 피라미드라는 네 가지 3D 가상 투어가 여러 집의 평면을 다르게 조직한다. 실제 온라인 부동산 매물을 모아 뉴욕의 다섯 자치구를 아우르는 하나의 가상 아파트 광고로 만든 웹 작품이다. 개별 집의 평면과 상품 언어가 거대한 집 한 채의 초상이 된다.",
+            "evidence": [
+              "https://whitney.org/exhibitions/new-york-apartment",
+              "https://whitney.org/collection/works/63817",
+              "https://whitney.org/guides/147",
+              "https://whitney.org/press/artport-25"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2020 / Whitney artport 2026 현재 재전시·온라인 공개"
+          }
+        },
+        {
+          "id": "2026-11-27-05",
+          "originalTitle": "Zero One",
+          "creator": "Raven Kwok (영상) · Mike Gao (음악)",
+          "title": "서로 다른 생성 규칙이 하나의 영상 흐름을 공유한다",
+          "publishedAt": "2018년 6월 제작 / FILE 2026 재소개·10월 11일 행사 종료",
+          "url": "https://archive.file.org.br/obras-artisticas/zero-one-2/",
+          "description": "진화하는 초등 세포자동자의 개념으로 여러 생성 시스템을 연결한 코드 기반 영상이다. 2018년 기술 축제 커미션이지만 시각 규칙과 음악의 협업이 구체적인 매체 경험을 만든다는 점에서 영상예술의 경계 사례로 수록한다.",
+          "insight": {
+            "mechanism": "각기 다른 특성을 지닌 생성 시스템들이 세포자동자의 공통 개념을 공유한다. 작가는 모든 시각 요소를 Processing으로 만들고 구성 단계에서 Premiere로 소규모 편집했다고 직접 기록한다.",
+            "whyNow": "FILE의 올해 재소개 기록을 작가의 2018년 6월 제작 기록과 대조했다. 현재 아카이브가 시각 저자만 앞세우는 데 비해 원래 프로젝트는 Mike Gao와의 협업이어서 음악 크레딧도 복원한다.",
+            "directorPoint": "여러 장면을 같은 외형으로 맞추는 대신 공통된 변화 규칙으로 연결할 수 있다. 코드가 만든 시각 재료를 최종 편집의 시간 구조와 함께 다루는 응용이다.",
+            "critique": "생성형 시스템으로 만들었다고 해서 전시장 관객의 몸이나 음악 입력에 실시간 반응하는 것은 아니다. FILE는 비상호작용으로 분류하며 완성 영상과 제작 중 계산 과정을 구분한다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "실시간그래픽·게임엔진",
+              "영상·필름"
+            ],
+            "theme": [
+              "정보·불확실성",
+              "지각·반사"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "중남미",
+            "venue": "Centro Cultural FIESP, 상파울루, 브라질 / FILE 2026 종료 기록"
+          },
+          "host": "archive.file.org.br",
+          "image": "images/2026-11-27-05.jpg",
+          "imageFallback": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06153047/file-sao-paulo-2026-raven-kwok-zero-one-dimensao-randomica.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://archive.file.org.br/obras-artisticas/zero-one-2/",
+            "sourceUrl": "https://file-cdn-wp.s3.amazonaws.com/wp-content/uploads/2026/08/06153047/file-sao-paulo-2026-raven-kwok-zero-one-dimensao-randomica.jpg",
+            "kind": "artwork",
+            "credit": "Raven Kwok (영상) · Mike Gao (음악) / FILE 공식 작품 프리뷰",
+            "caption": "FILE 2026의 Zero One 작품 화면. 제작 연도는 작가 직접 기록의 2018년을 따르고 수록 연도와 구분한다.",
+            "checkedAt": "2026-11-27T00:46:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "검정 공간의 점 격자와 흰 선 사이로 청록·분홍색 입체 형태들이 반복되고 휘어지는 추상 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2018,
+            "researchedAt": "2026-11-27T00:46:32+09:00",
+            "identity": "cellular-automaton-based-generative-music-video-boundary",
+            "identityRationale": "각기 다른 특성을 지닌 생성 시스템들이 세포자동자의 공통 개념을 공유한다. 작가는 모든 시각 요소를 Processing으로 만들고 구성 단계에서 Premiere로 소규모 편집했다고 직접 기록한다. 진화하는 초등 세포자동자의 개념으로 여러 생성 시스템을 연결한 코드 기반 영상이다. 2018년 기술 축제 커미션이지만 시각 규칙과 음악의 협업이 구체적인 매체 경험을 만든다는 점에서 영상예술의 경계 사례로 수록한다.",
+            "evidence": [
+              "https://archive.file.org.br/obras-artisticas/zero-one-2/",
+              "https://ravenkwok.com/zero-one/"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2018년 6월 제작 / FILE 2026 재소개·10월 11일 행사 종료"
+          }
+        },
+        {
+          "id": "2026-11-27-06",
+          "originalTitle": "Moving Picture (946-3) Kyoto Version",
+          "creator": "Gerhard Richter · Corinna Belz (영화) / Rebecca Saunders (음악)",
+          "title": "한 회화의 분할과 반사가 영화의 시간을 만든다",
+          "publishedAt": "2019–2024 판본 / ZKM Silver Egg 현재 재전시",
+          "url": "https://zkm.de/de/presse/silver-egg-die-sinnlichkeit-der-medienkunst",
+          "description": "한 회화를 디지털로 분할·반사·반복해 움직이는 색과 형태의 영화로 바꾼 작업이다. 공동 영화 제작과 음악을 결합한 매체 경계 사례로 읽으며 고정 회화와 동일한 오브제로 세지 않는다.",
+          "insight": {
+            "mechanism": "회화의 디지털 이미지를 나누고 반사·반복하는 규칙이 점점 세밀한 대칭 패턴과 색 띠를 만든다. 영화의 음악은 Rebecca Saunders가 작곡했으며 트럼펫·음향 작업의 역할도 공식 자료에 구분돼 있다.",
+            "whyNow": "ZKM은 현재 전시에 2019–2024 판본을 수록하고 Beyeler의 소장 원장도 같은 연도 범위와 36분의 디지털 투사를 기록한다. 제작·판본·현재 재전시를 나누어 적었다.",
+            "directorPoint": "정지 이미지를 단지 확대하거나 카메라로 훑는 대신 그 내부의 분할 규칙을 시간의 구조로 삼을 수 있다. 단위가 잘게 나뉠수록 색과 대칭을 읽는 관객의 속도도 달라지는 응용이다.",
+            "critique": "과거 별도 공연에는 라이브 트럼펫이 있었지만 그것만으로 현재 전시의 모든 상영도 실시간 연주라고 말할 수 없다. 사용 이미지는 영화 스틸이며 원작 회화나 2026년 현장 설치 사진이 아니다."
+          },
+          "tags": {
+            "sense": [
+              "시각",
+              "청각",
+              "시간감"
+            ],
+            "tech": [
+              "영상·필름",
+              "프로젝션"
+            ],
+            "theme": [
+              "지각·반사",
+              "정보·불확실성"
+            ],
+            "scale": "스크린·영상"
+          },
+          "origin": {
+            "artistBase": null,
+            "region": "유럽",
+            "venue": "ZKM, 카를스루에, 독일 / Silver Egg 현재 전시"
+          },
+          "host": "zkm.de",
+          "image": "images/2026-11-27-06.jpg",
+          "imageFallback": "https://zkm.de/system/files/field_media_image/2026/06/08/100632/01_Richter-Belz_moving_picture_still-C-Richter-Belz.jpg",
+          "grounded": true,
+          "imageMeta": {
+            "sourcePage": "https://zkm.de/de/presse/silver-egg-die-sinnlichkeit-der-medienkunst",
+            "sourceUrl": "https://zkm.de/system/files/field_media_image/2026/06/08/100632/01_Richter-Belz_moving_picture_still-C-Richter-Belz.jpg",
+            "kind": "film-still",
+            "credit": "© Gerhard Richter · Corinna Belz / Moving Picture (946-3) Kyoto Version, 2019–24, Still © Gerhard Richter, 2025 (26092025)",
+            "caption": "ZKM 공식 전시 자료가 작품명·판본·권리자를 명시한 영화 스틸. 실제 회화를 촬영한 전시장 사진으로 바꾸어 설명하지 않는다.",
+            "checkedAt": "2026-11-27T00:46:32+09:00",
+            "usageBasis": "공식 작품 자료의 출처·권리자를 밝힌 비상업적 비평용 축소 프리뷰. 공식 공개를 별도 이용허락이나 공개 라이선스로 간주하지 않는다. 원본 권리는 표기된 권리자에게 있다.",
+            "alt": "붉은색을 중심으로 검정·초록·노랑의 세밀한 대칭 패턴이 반복되고 겹치는 가로 영화 화면"
+          },
+          "researchMeta": {
+            "kind": "reexhibition",
+            "workYear": 2024,
+            "researchedAt": "2026-11-27T00:46:32+09:00",
+            "identity": "algorithmically-divided-mirrored-painting-to-digital-film",
+            "identityRationale": "회화의 디지털 이미지를 나누고 반사·반복하는 규칙이 점점 세밀한 대칭 패턴과 색 띠를 만든다. 영화의 음악은 Rebecca Saunders가 작곡했으며 트럼펫·음향 작업의 역할도 공식 자료에 구분돼 있다. 한 회화를 디지털로 분할·반사·반복해 움직이는 색과 형태의 영화로 바꾼 작업이다. 공동 영화 제작과 음악을 결합한 매체 경계 사례로 읽으며 고정 회화와 동일한 오브제로 세지 않는다.",
+            "evidence": [
+              "https://zkm.de/de/presse/silver-egg-die-sinnlichkeit-der-medienkunst",
+              "https://www.fondationbeyeler.ch/de/sammlung/digitale-sammlung/moving-picture-946-3-kyoto-version",
+              "https://www.rebeccasaunders.net/moving-picture-946-3",
+              "https://www.berlinerfestspiele.de/musikfest-berlin/programm/2020/kalender/film--live-musik",
+              "https://hcmf.co.uk/wp-content/uploads/hcmf-programme-2022.pdf"
+            ],
+            "regionBasis": "documented-presentation-or-commission",
+            "temporalDisclosure": "2019–2024 판본 / ZKM Silver Egg 현재 재전시",
+            "productionCredits": {
+              "trumpet": "Marco Blaauw",
+              "soundDesign": "Sebastian Schottke",
+              "editing": "Rudi Heinen"
+            }
+          }
+        }
+      ],
+      "focus": {
+        "itemIndex": 0,
+        "headline": "Ex Nihilo (Cosmos): 이미지를 만드는 정보가 이미지를 흩트릴 때",
+        "keywords": [
+          "정십이면체",
+          "색 정보",
+          "생성형 소프트웨어",
+          "화면과 종이"
+        ],
+        "sections": [
+          {
+            "heading": "새 작품의 날짜와 연작의 시작을 분리한다",
+            "body": "Art Blocks와 Feral File은 이 작품을 2026년 3월 10일 공개한 공동 프로젝트로 기록한다. 2015년부터 이어진 Still Life의 최신 작업이라는 설명은 연작 전체가 올해 처음 만들어졌다는 뜻이 아니다. 여기서는 정십이면체를 다루는 Ex Nihilo (Cosmos)를 한 작품으로 읽고 256개 출력 수를 일간 작품 수로 늘리지 않는다."
+          },
+          {
+            "heading": "그리기와 분해가 같은 과정 안에 있다",
+            "body": "형태는 실제 사물을 촬영해 가져오는 대신 수학적 규칙으로 구성된다. 생성된 이미지의 픽셀 값은 다시 다른 위치·색의 선으로 번역된다. 따라서 형상이 흐트러지는 부분도 완성 이후 붙인 장식 효과라기보다 작품을 만드는 정보 처리의 일부로 볼 수 있다."
+          },
+          {
+            "heading": "관객의 조작은 관찰 조건을 바꾼다",
+            "body": "공식 조작 목록은 RGB 채널 표시, 색의 전환, 속도 조절과 일시정지를 안내한다. 관객은 이미지를 바꾸는 동시에 무엇이 형상을 이루는지 비교할 수 있다. 다만 이번 조사는 공개된 조작 명세와 프리뷰를 대조한 것이며 모든 브라우저의 실제 실행이나 각 출력의 무한 비반복성을 독립 검증한 것은 아니다."
+          },
+          {
+            "heading": "화면과 플로터 드로잉은 같은 물건이 아니다",
+            "body": "Feral File의 전시는 소프트웨어 연작과 종이 위 플로터 드로잉을 구분한다. 이번 이미지는 Art Blocks가 제공한 소프트웨어 출력 #0의 프리뷰이며 별도 SIMULACRUM 드로잉으로 대체하지 않았다. 두 출처는 공동 발표 기관으로, 공개일·조작 명세와 전시 맥락·작가 인터뷰라는 역할을 나누어 읽었다. 특정 현장 전시 지역은 확인되지 않아 미상으로 남겼다."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Art Blocks — 작품 공개일·특정 출력 프리뷰·키 조작 명세",
+            "url": "https://www.artblocks.io/collection/ex-nihilo-cosmos-by-casey-reas"
+          },
+          {
+            "label": "Feral File — 전시 구성·연작 맥락·작가 인터뷰와 에세이",
+            "url": "https://feralfile.com/exhibitions/ex-nihilo-a3c"
+          }
+        ]
+      },
+      "crosscurrent": {
+        "note": "Ex Nihilo (Cosmos)는 형상과 색 정보를, Double은 재료의 변형과 멈춤을 관찰하게 한다. The Levitating Perils #2와 New York Apartment는 각각 웹사이트의 시간표와 매물 형식을 작품의 구조로 삼는다. Zero One의 코드 기반 영상과 Moving Picture의 회화 변환을 함께 보되 생성 과정·완성 영상·관객 조작·물리적 운동의 차이를 보존한다.",
+        "itemIds": [
+          "2026-11-27-01",
+          "2026-11-27-02",
+          "2026-11-27-03",
+          "2026-11-27-04",
+          "2026-11-27-05",
+          "2026-11-27-06"
+        ]
+      }
+    },
+    {
       "date": "2026-11-26",
       "title": "형태가 바뀌는 규칙, 기록이 머무는 자리",
       "summary": "FILE 2026의 생성형 영상 두 편과 아부다비의 현재 설치 두 편, Voice Tunnel·Shylight 아카이브 두 편을 구분해 읽는다. 색층·영상 프레임·군집·접촉·목소리·실크의 서로 다른 변화 규칙을 다룬다. 이번 호에 2026년 신작으로 확인한 항목은 없으며 제작 연도 미확인 두 편은 그대로 표시했다.",
@@ -29886,7 +30331,7 @@
       }
     }
   ],
-  "generatedAt": "2026-11-26T00:45:05+09:00",
+  "generatedAt": "2026-11-27T00:46:32+09:00",
   "schemaVersion": 2,
   "editorialPolicy": {
     "strictFrom": "2026-10-20",

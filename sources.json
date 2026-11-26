@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "rule": "하루 한 출처(도메인) 최대 2개, 한 이슈에 최소 3개 권역, 30일 기준 한 권역 50% 이하",
   "sources": [
     {
@@ -561,6 +561,41 @@
       "region": "북미",
       "place": "뉴욕, 미국 / 공공미술 위촉 기록",
       "type": "기관"
+    },
+    {
+      "name": "Art Blocks",
+      "url": "https://www.artblocks.io/",
+      "region": "글로벌",
+      "place": "온라인 / 작품별 전시지역 별도 확인",
+      "type": "플랫폼"
+    },
+    {
+      "name": "Feral File",
+      "url": "https://feralfile.com/",
+      "region": "글로벌",
+      "place": "온라인 / 작품별 전시지역 별도 확인",
+      "type": "플랫폼"
+    },
+    {
+      "name": "Jonas Jørgensen Artworks",
+      "url": "https://jonasjoergensen.org/critical-making/works/",
+      "region": "유럽",
+      "place": "작가 기록 / 전시지역은 항목별 확인",
+      "type": "작가 아카이브"
+    },
+    {
+      "name": "SDU Soft Robotics",
+      "url": "https://www.softrobotics.dk/",
+      "region": "유럽",
+      "place": "오덴세, 덴마크",
+      "type": "연구기관"
+    },
+    {
+      "name": "Raven Kwok Works",
+      "url": "https://ravenkwok.com/",
+      "region": "글로벌",
+      "place": "작가 기록 / 전시지역은 항목별 확인",
+      "type": "작가 아카이브"
     }
   ]
 }
